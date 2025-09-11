@@ -3,17 +3,14 @@
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
 
-**📊 Current Stats:** 50 jobs | 8% remote | 39 companies | Avg salary: 165k
-
-**🔥 Trending Skills:** python, nodejs, java, api, database
-
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
 ## Current Openings
 
-| Company | Position | Location | Work Model | Date Posted |
-| ------- | -------- | -------- | ---------- | ----------- |
+| Company | Position | Location | Type | Posted |
+| ------- | -------- | -------- | ---- | ------ |
+
 | **[Avvoka](https://avvoka.com/)** | **[Senior Backend Developer - Ruby on Rails (RoR)](https://avvoka.factorialhr.com/job_posting/senior-backend-developer-ruby-on-rails-ror-263576)** | Hybrid (1206, Manila, NCR, Philippines) | On Site | Sep 11 |
 | **[Mindera](https://mindera.com/)** | **[Senior Backend Developer - Node.js](https://apply.workable.com/j/86CD7F552B/apply)** | Cluj-Napoca, Cluj County, Romania | On Site | Sep 11 |
 | **[Julius Baer](https://www.juliusbaer.com/)** | **[12 months Contract - Java Backend Developer (Through an External Agency Payroll Provider)](https://juliusbaer.wd3.myworkdayjobs.com/en-US/Technology/job/Singapore/XMLNAME-12-months-Contract---Java-Backend-Developer--Through-an-External-Agency-Payroll-Provider-_r-16505-1)** | Singapore | On Site | Sep 11 |
@@ -64,6 +61,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mob Inspire (Pvt) Ltd](https://mobinspire.com)** | **[Backend Developer/Node.js Developer](https://jobs.smartrecruiters.com/MobInspirePvtLtd/743999983076553-backend-developer-node-js-developer)** | Rawalpindi, Punjab, Pakistan | On Site | Sep 07 |
 | **[Octopus Energy](https://octopus.energy/)** | **[Backend Developer](https://jobs.lever.co/octoenergy/1e87cfe2-68a1-4d80-888b-cccba1d15555)** | Milan (IT) | On Site | Sep 07 |
 | **[Octopus Energy](https://octopus.energy/)** | **[Senior Backend Developer](https://jobs.lever.co/octoenergy/7a0e1343-ab41-4d98-9e8f-34302a9ec01f)** | Paris (FR) | On Site | Sep 07 |
+
+---
+
+**Current Stats:** 50 jobs | 8% remote | 39 companies | Avg salary: 165k  
+_Note: Stats are approximate and based on available job data_
+
+**Trending Skills:** python, nodejs, java, api, database  
+_Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
 
