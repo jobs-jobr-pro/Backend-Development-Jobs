@@ -1,8 +1,7 @@
 # Backend developer Jobs 2025
 
 This repository collects curated **Backend developer opportunities in 2025**.  
-Updated daily by [Jobr.pro](https://jobr.pro).  
-
+Updated daily by [Jobr.pro](https://jobr.pro).
 
 Visit [Jobr.pro](https://jobr.pro) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
@@ -11,6 +10,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
+
 | **[InTTrust](https://inttrust.gr)** | **[Senior PHP Backend Developer](https://apply.workable.com/j/A98EF9F71C/apply)** | Athens, Attica, Greece | On Site | Sep 11 |
 | **[Mindera](https://mindera.com/)** | **[Senior Backend Developer - Node.js](https://apply.workable.com/j/86CD7F552B/apply)** | Cluj-Napoca, Cluj County, Romania | On Site | Sep 11 |
 | **[Capgemini](https://www.capgemini.com)** | **[Backend Developer](https://careers.capgemini.com/job/Gurgaon-Backend-Developer/1246384601/)** | Gurgaon, IN | On Site | Sep 11 |
@@ -62,15 +62,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Octopus Energy](https://octopus.energy/)** | **[Senior Backend Developer](https://jobs.lever.co/octoenergy/7a0e1343-ab41-4d98-9e8f-34302a9ec01f)** | Paris (FR) | On Site | Sep 07 |
 | **[ShyftLabs](https://shyftlabs.io)** | **[Senior Backend Developer](https://jobs.lever.co/shyftlabs/9bf685ff-be0e-49fc-87d6-b2a6c93d4eef)** | Toronto, Ontario | On Site | Sep 07 |
 
-*Updated daily with fresh opportunities*
-
----
-
 ## About This Repository
 
-This repository tracks current Backend developer positions from companies across different industries. Each listing is verified and updated automatically every 24 hours.
+This repository tracks current Backend developer positions from companies across different industries, updated daily.
 
 **What makes this useful:**
+
 - Fresh Backend developer positions aggregated from multiple job boards
 - Daily updates mean you see opportunities as soon as they're posted
 - Mix of remote, hybrid, and on-site positions from various company sizes
@@ -81,6 +78,7 @@ This repository tracks current Backend developer positions from companies across
 **Maximize your applications:** Instead of manually applying to each job, consider using [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs) to automate your applications with personalized cover letters and tracking.
 
 **Stay updated:**
+
 - Star this repository to get updates in your GitHub feed
 - Check back daily for new positions
 - Set up GitHub notifications for this repo
@@ -89,8 +87,8 @@ This repository tracks current Backend developer positions from companies across
 
 This repository gets consistent traffic from Backend developer professionals actively job searching. The audience is pre-qualified and specifically interested in Backend developer opportunities.
 
----
-
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
+
+---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)**
