@@ -10,7 +10,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
-
 | **[InTTrust](https://inttrust.gr)** | **[Senior PHP Backend Developer](https://apply.workable.com/j/A98EF9F71C/apply)** | Athens, Attica, Greece | On Site | Sep 11 |
 | **[Mindera](https://mindera.com/)** | **[Senior Backend Developer - Node.js](https://apply.workable.com/j/86CD7F552B/apply)** | Cluj-Napoca, Cluj County, Romania | On Site | Sep 11 |
 | **[Capgemini](https://www.capgemini.com)** | **[Backend Developer](https://careers.capgemini.com/job/Gurgaon-Backend-Developer/1246384601/)** | Gurgaon, IN | On Site | Sep 11 |
