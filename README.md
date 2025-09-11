@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
 This repository collects curated **Backend developer opportunities in 2025**.  
@@ -8,9 +9,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ## Current Openings
 
-| Company | Position | Location | Type | Posted |
+| Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-
 | **[Avvoka](https://avvoka.com/)** | **[Senior Backend Developer - Ruby on Rails (RoR)](https://avvoka.factorialhr.com/job_posting/senior-backend-developer-ruby-on-rails-ror-263576)** | Hybrid (1206, Manila, NCR, Philippines) | On Site | Sep 11 |
 | **[Mindera](https://mindera.com/)** | **[Senior Backend Developer - Node.js](https://apply.workable.com/j/86CD7F552B/apply)** | Cluj-Napoca, Cluj County, Romania | On Site | Sep 11 |
 | **[Julius Baer](https://www.juliusbaer.com/)** | **[12 months Contract - Java Backend Developer (Through an External Agency Payroll Provider)](https://juliusbaer.wd3.myworkdayjobs.com/en-US/Technology/job/Singapore/XMLNAME-12-months-Contract---Java-Backend-Developer--Through-an-External-Agency-Payroll-Provider-_r-16505-1)** | Singapore | On Site | Sep 11 |
@@ -100,3 +100,4 @@ This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_s
 ---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)**
+<!-- prettier-ignore-end -->
