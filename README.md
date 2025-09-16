@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 16, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 16, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[mStart plus d.o.o.](https://mstart.hr/)** | **[Backend Developer / Integration Engineer (m/ž)](https://mstart8.talentlyft.com/o/cerwagN)** | Zagreb, Hrvatska (Hybrid) | On Site | Sep 16 |
 | **[Deloitte](https://www2.deloitte.com/)** | **[Senior Backend Developer- R&D and Innovation Center](https://careers.deloitte.co.il/position/90-d55-en/?source=Indeed&-updates)** | Tel Aviv, Tel Aviv District, IL | On Site | Sep 16 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Java Backend Developer](https://virtusa.taleo.net/careersection/ex/jobdetail.ftl?job=CREQ225544)** | IN-KA-Bangalore | On Site | Sep 16 |
 | **[Zensar](https://www.zensar.com/)** | **[C# Backend Developer](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/135356)** | South Africa | On Site | Sep 16 |
@@ -21,8 +22,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://job-boards.greenhouse.io/winhomeinspection/jobs/4601901006)** | Greater Delhi Area | Remote | Sep 16 |
 | **[Yuno](https://www.y.uno/)** | **[Backend Developer - Core Checkout](https://jobs.lever.co/yuno/e56f076f-5034-4414-9996-a4b60ac49cb6)** | Bogota | Remote | Sep 16 |
 | **[Thinking IT](https://thinkingit.org/)** | **[Backend Developer (Python/Django)](https://apply.workable.com/j/F8ECCCD057/apply)** | Baku, Baku, Azerbaijan - Remote | Remote | Sep 16 |
-| **[Today](https://today.design)** | **[Backend Developer](https://apply.workable.com/j/5C8C8F793D/apply)** | Collingwood, Victoria, Australia | On Site | Sep 16 |
 | **[GFT Technologies](https://www.gft.com)** | **[Lead Backend Developer (Sign-on Bonus)](https://jobs.gft.com/Singapore/job/Singapore-Lead-Backend-Developer-%28Sign-on-Bonus%29-068895/1247966801/)** | Singapore, SG, 068895 | On Site | Sep 16 |
+| **[Today](https://today.design)** | **[Backend Developer](https://apply.workable.com/j/5C8C8F793D/apply)** | Collingwood, Victoria, Australia | On Site | Sep 16 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[Technical Software Lead - Backend Developer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5642048004)** | Remote, USA | Remote | Sep 15 |
 | **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobs.smartrecruiters.com/Inetum2/744000082043749-backend-developer)** | Lima, Callao Region, Peru | On Site | Sep 15 |
 | **[T-Systems International](https://www.t-systems.com)** | **[Java Backend Developer](https://jobs.smartrecruiters.com/T-SystemsIberia/744000082037515-java-backend-developer)** | Reus, CT, Spain | On Site | Sep 15 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pure Storage](https://www.purestorage.com/)** | **[Backend Developer - Cloud Applications Engineer](https://boards.greenhouse.io/purestorage/jobs/7204626?gh_jid=7204626)** | Bangalore, India | On Site | Sep 11 |
 | **[Avvoka](https://avvoka.com/)** | **[Senior Backend Developer - Ruby on Rails (RoR)](https://avvoka.factorialhr.com/job_posting/senior-backend-developer-ruby-on-rails-ror-263576)** | Hybrid (1206, Manila, NCR, Philippines) | On Site | Sep 11 |
 | **[Octopus Energy](https://octopus.energy/)** | **[Senior Backend Developer](https://jobs.lever.co/octoenergy/93344c39-51bf-489e-a9d6-fc21c710c6ec)** | London (GB) | On Site | Sep 11 |
-| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Lead Backend Developer \| Java](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7245213)** | Quito | On Site | Sep 11 |
 
 ---
 
