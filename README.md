@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 16, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 17, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -21,9 +21,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[OnHires](https://www.onhires.com)** | **[Python Backend Developer](https://vacancies.onhires.com/jobs/6455991-python-backend-developer)** | Kyiv, Ukraine | On Site | Sep 16 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://job-boards.greenhouse.io/winhomeinspection/jobs/4601901006)** | Greater Delhi Area | Remote | Sep 16 |
 | **[Yuno](https://www.y.uno/)** | **[Backend Developer - Core Checkout](https://jobs.lever.co/yuno/e56f076f-5034-4414-9996-a4b60ac49cb6)** | Bogota | Remote | Sep 16 |
-| **[Thinking IT](https://thinkingit.org/)** | **[Backend Developer (Python/Django)](https://apply.workable.com/j/F8ECCCD057/apply)** | Baku, Baku, Azerbaijan - Remote | Remote | Sep 16 |
-| **[GFT Technologies](https://www.gft.com)** | **[Lead Backend Developer (Sign-on Bonus)](https://jobs.gft.com/Singapore/job/Singapore-Lead-Backend-Developer-%28Sign-on-Bonus%29-068895/1247966801/)** | Singapore, SG, 068895 | On Site | Sep 16 |
 | **[Today](https://today.design)** | **[Backend Developer](https://apply.workable.com/j/5C8C8F793D/apply)** | Collingwood, Victoria, Australia | On Site | Sep 16 |
+| **[GFT Technologies](https://www.gft.com)** | **[Lead Backend Developer (Sign-on Bonus)](https://jobs.gft.com/Singapore/job/Singapore-Lead-Backend-Developer-%28Sign-on-Bonus%29-068895/1247966801/)** | Singapore, SG, 068895 | On Site | Sep 16 |
+| **[Thinking IT](https://thinkingit.org/)** | **[Backend Developer (Python/Django)](https://apply.workable.com/j/F8ECCCD057/apply)** | Baku, Baku, Azerbaijan - Remote | Remote | Sep 16 |
+| **[Alfa Laval](https://www.alfalaval.com/)** | **[Backend Developer](https://alfalaval.wd3.myworkdayjobs.com/en-US/Alfa_Laval_jobs/job/Pune/Backend-Developer_JR0039896)** | Pune - ICC, India | On Site | Sep 16 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[Technical Software Lead - Backend Developer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5642048004)** | Remote, USA | Remote | Sep 15 |
 | **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobs.smartrecruiters.com/Inetum2/744000082043749-backend-developer)** | Lima, Callao Region, Peru | On Site | Sep 15 |
 | **[T-Systems International](https://www.t-systems.com)** | **[Java Backend Developer](https://jobs.smartrecruiters.com/T-SystemsIberia/744000082037515-java-backend-developer)** | Reus, CT, Spain | On Site | Sep 15 |
@@ -39,7 +40,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pixel Plus AG](https://pixel-plus.ch)** | **[Senior Backend Developer](https://join.com/companies/pixelplus/14796163-senior-backend-developer)** | Zürich, Switzerland | On Site | Sep 14 |
 | **[Yelp, Inc](https://www.yelp.com)** | **[Backend Developer (Remote - Mexico)](https://globalcareers-yelp.icims.com/jobs/13339/backend-developer-%28remote---mexico%29/job?in_iframe=1)** | Mexico City-Mexico City, Mexico | Remote | Sep 14 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobs.vicompany.nl/o/senior-backend-developer)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Sep 14 |
-| **[Veepee](https://veepee.com)** | **[Senior Backend Developer (.NetCore) - Brandsplace](https://jobs.lever.co/veepee/e20e6180-23cb-4083-89c7-e30692db95a4)** | Paris | On Site | Sep 14 |
+| **[Veepee](https://veepee.com)** | **[Senior Backend Developer (.NetCore) - Brandsplace](https://jobs.lever.co/veepee/12a65c3d-28d2-4aa9-a087-b3fb573a56a9)** | Warsaw | On Site | Sep 14 |
 | **[Newrich Network](https://newrich.network/)** | **[Senior Backend Developer - PHP Laravel](https://apply.workable.com/j/092433FA81/apply)** | Santiago, Santiago Metropolitan Region, Chile - Remote | Remote | Sep 14 |
 | **[Stutzen](https://www.stutzen.co/)** | **[Backend Developer](https://stutzen.zohorecruit.com/jobs/Careers/628701000007956114)** | Sivakasi, India | On Site | Sep 13 |
 | **[Ingrid](https://www.ingrid.com/)** | **[Backend Developer](https://jobs.ingrid.com/jobs/6446995-backend-developer)** | Wrocław, Poland | On Site | Sep 12 |
@@ -52,8 +53,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[beyonnex](https://beyonnex.io/)** | **[(Senior) Backend Developer (m/f/d)](https://beyonnex.jobs.personio.de/job/971208)** | Remote | Remote | Sep 12 |
 | **[uNaice GmbH](https://unaice.com/)** | **[Junior Backend Developer (Python) (m/w/d) 20h Stellenbeschreibung genau lesen](https://join.com/companies/unaice/14845371-junior-backend-developer-python-m-w-d-20h-stellenbeschreibung-genau-lesen)** | Deutschland - Remote | Remote | Sep 12 |
 | **[KTO Group](https://kto-group.com/)** | **[Senior Java Backend Developer](https://jobs.eu.lever.co/kto/aab6c295-5b43-4582-aedd-8ec71364b154)** | Porto Alegre | On Site | Sep 12 |
-| **[Weekday](https://www.weekday.works)** | **[Backend Developer- Caprus IT](https://apply.workable.com/j/123A2FB41E/apply)** | Bengaluru, Karnataka, India | On Site | Sep 12 |
-| **[Julius Baer](https://www.juliusbaer.com/)** | **[Java Backend Developer](https://juliusbaer.wd3.myworkdayjobs.com/en-US/External/job/Singapore/Java-Backend-Developer_r-16074-2)** | Singapore | On Site | Sep 12 |
+| **[Julius Baer](https://www.juliusbaer.com/)** | **[Java Backend Developer](https://juliusbaer.wd3.myworkdayjobs.com/en-US/Technology/job/Singapore/Java-Backend-Developer_r-16074)** | Singapore | On Site | Sep 12 |
 | **[Julius Baer](https://www.juliusbaer.com/)** | **[12 months Contract - Backend Developer (Through an External Agency Payroll Provider)](https://juliusbaer.wd3.myworkdayjobs.com/en-US/External/job/Singapore/XMLNAME-12-months-Contract---Backend-Developer--Through-an-External-Agency-Payroll-Provider-_r-16509-2)** | Singapore | On Site | Sep 12 |
 | **[Intact](https://www.intactfc.com/)** | **[AI Backend Developer – 4 Month Co-op/Internship (Winter 2026)](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Dveloppeur-d-applications-dorsale-en-IA--AI-Backend-Dev----4-mois-Coop-Stage--Hiver-2026-_R148856)** | Montréal, 2020 Robert-Bourassa, Canada | On Site | Sep 12 |
 | **[Sphere](https://www.sphereinc.com)** | **[Senior Backend Developer (Node.JS)](https://sphereinc.catsone.com/careers/90438-General/jobs/16726283-Senior-Backend-Developer-NodeJS)** | Remotely, Anywhere | Remote | Sep 11 |
