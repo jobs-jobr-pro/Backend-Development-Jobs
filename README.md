@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -14,8 +14,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[IRONSCALES](https://ironscales.com/)** | **[Backend Developer](https://www.comeet.com/jobs/ironscales/1A.007/backend-developer/1D.C55)** | Ramat Gan, Tel Aviv District, IL | On Site | Sep 17 |
-| **[Thales](https://www.thalesgroup.com/)** | **[Senior Java Backend Developer](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/TEL-AVIV/Senior-Java-Backend-Developer_R0295870)** | TEL AVIV, Israel | On Site | Sep 17 |
 | **[Telia](https://www.teliacompany.com/)** | **[Senior Backend Developer (Java)](https://teliacompany.wd3.myworkdayjobs.com/en-US/Telia_careers/job/Vilnius/Senior-Backend-Developer--Java-_57221-3)** | Vilnius, Lithuania | On Site | Sep 17 |
+| **[Thales](https://www.thalesgroup.com/)** | **[Senior Java Backend Developer](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/TEL-AVIV/Senior-Java-Backend-Developer_R0295870)** | TEL AVIV, Israel | On Site | Sep 17 |
 | **[Varicent](https://www.varicent.com/)** | **[.NET Backend Developer (Remote - Argentina Only)](https://job-boards.greenhouse.io/varicent/jobs/4924146008)** | Bahia Blanca, Argentina | Remote | Sep 16 |
 | **[mStart plus d.o.o.](https://mstart.hr/)** | **[Backend Developer / Integration Engineer (m/ž)](https://mstart8.talentlyft.com/o/cerwagN)** | Zagreb, Hrvatska (Hybrid) | On Site | Sep 16 |
 | **[Getnet](https://www.getnet.com.br/)** | **[Backend Developer for Digital Payments](https://job-boards.eu.greenhouse.io/getnet/jobs/4674226101)** | Brazil - São Paulo or Porto Alegre | On Site | Sep 16 |
@@ -26,10 +26,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[OnHires](https://www.onhires.com)** | **[Python Backend Developer](https://vacancies.onhires.com/jobs/6455991-python-backend-developer)** | Kyiv, Ukraine | On Site | Sep 16 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://job-boards.greenhouse.io/winhomeinspection/jobs/4601901006)** | Greater Delhi Area | Remote | Sep 16 |
 | **[Yuno](https://www.y.uno/)** | **[Backend Developer - Core Checkout](https://jobs.lever.co/yuno/e56f076f-5034-4414-9996-a4b60ac49cb6)** | Bogota | Remote | Sep 16 |
-| **[Today](https://today.design)** | **[Backend Developer](https://apply.workable.com/j/5C8C8F793D/apply)** | Collingwood, Victoria, Australia | On Site | Sep 16 |
-| **[GFT Technologies](https://www.gft.com)** | **[Lead Backend Developer (Sign-on Bonus)](https://jobs.gft.com/Singapore/job/Singapore-Lead-Backend-Developer-%28Sign-on-Bonus%29-068895/1247966801/)** | Singapore, SG, 068895 | On Site | Sep 16 |
 | **[Alfa Laval](https://www.alfalaval.com/)** | **[Backend Developer](https://alfalaval.wd3.myworkdayjobs.com/en-US/Alfa_Laval_jobs/job/Pune/Backend-Developer_JR0039896)** | Pune - ICC, India | On Site | Sep 16 |
+| **[GFT Technologies](https://www.gft.com)** | **[Lead Backend Developer (Sign-on Bonus)](https://jobs.gft.com/Singapore/job/Singapore-Lead-Backend-Developer-%28Sign-on-Bonus%29-068895/1247966801/)** | Singapore, SG, 068895 | On Site | Sep 16 |
 | **[Thinking IT](https://thinkingit.org/)** | **[Backend Developer (Python/Django)](https://apply.workable.com/j/F8ECCCD057/apply)** | Baku, Baku, Azerbaijan - Remote | Remote | Sep 16 |
+| **[Today](https://today.design)** | **[Backend Developer](https://apply.workable.com/j/5C8C8F793D/apply)** | Collingwood, Victoria, Australia | On Site | Sep 16 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[Technical Software Lead - Backend Developer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5642048004)** | Remote, USA | Remote | Sep 15 |
 | **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobs.smartrecruiters.com/Inetum2/744000082043749-backend-developer)** | Lima, Callao Region, Peru | On Site | Sep 15 |
 | **[T-Systems International](https://www.t-systems.com)** | **[Java Backend Developer](https://jobs.smartrecruiters.com/T-SystemsIberia/744000082037515-java-backend-developer)** | Reus, CT, Spain | On Site | Sep 15 |
@@ -45,7 +45,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pixel Plus AG](https://pixel-plus.ch)** | **[Senior Backend Developer](https://join.com/companies/pixelplus/14796163-senior-backend-developer)** | Zürich, Switzerland | On Site | Sep 14 |
 | **[Yelp, Inc](https://www.yelp.com)** | **[Backend Developer (Remote - Mexico)](https://globalcareers-yelp.icims.com/jobs/13339/backend-developer-%28remote---mexico%29/job?in_iframe=1)** | Mexico City-Mexico City, Mexico | Remote | Sep 14 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobs.vicompany.nl/o/senior-backend-developer)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Sep 14 |
-| **[Veepee](https://veepee.com)** | **[Senior Backend Developer (.NetCore) - Brandsplace](https://jobs.lever.co/veepee/e20e6180-23cb-4083-89c7-e30692db95a4)** | Paris | On Site | Sep 14 |
+| **[Veepee](https://veepee.com)** | **[Senior Backend Developer (.NetCore) - Brandsplace](https://jobs.lever.co/veepee/12a65c3d-28d2-4aa9-a087-b3fb573a56a9)** | Warsaw | On Site | Sep 14 |
 | **[Newrich Network](https://newrich.network/)** | **[Senior Backend Developer - PHP Laravel](https://apply.workable.com/j/30AD32DDEB/apply)** | Toronto, Ontario, Canada | Remote | Sep 14 |
 | **[Stutzen](https://www.stutzen.co/)** | **[Backend Developer](https://stutzen.zohorecruit.com/jobs/Careers/628701000007956114)** | Sivakasi, India | On Site | Sep 13 |
 | **[Ingrid](https://www.ingrid.com/)** | **[Backend Developer](https://jobs.ingrid.com/jobs/6446995-backend-developer)** | Wrocław, Poland | On Site | Sep 12 |
