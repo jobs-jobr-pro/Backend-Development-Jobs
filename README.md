@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 19, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 19, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Capgemini](https://www.capgemini.com)** | **[Senior Backend Developer](https://careers.capgemini.com/job/Adelaide-Senior-Backend-Developer/1249334301/)** | Adelaide, AU | On Site | Sep 19 |
+| **[Capgemini](https://www.capgemini.com)** | **[Senior Backend Developer](https://careers.capgemini.com/job/Melbourne-Senior-Backend-Developer/1249334801/)** | Melbourne, AU | On Site | Sep 19 |
 | **[Galileo Financial Technologies](https://www.galileo-ft.com/)** | **[New Grad, Software Engineer, Backend Developer, SoFi Money](https://job-boards.greenhouse.io/galileofinancialtechnologies/jobs/7174922003)** | New York - NY | On Site | Sep 18 |
 | **[Benchling](https://www.benchling.com/)** | **[Software Engineer, Backend (Developer Tooling)](https://boards.greenhouse.io/benchling/jobs/7255921?gh_jid=7255921)** | San Francisco, CA | On Site | Sep 18 |
 | **[Brainstack](https://www.brainstack.team/)** | **[Backend Developer (Mobile)](https://brainstack.recruitee.com/o/backend-developer-mobile)** | Remote job | Remote | Sep 18 |
@@ -25,9 +25,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zensar](https://www.zensar.com/)** | **[SENIOR BACKEND DEVELOPER](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/135358)** | India | On Site | Sep 18 |
 | **[Impact Brands](https://www.theimpactbrands.com/)** | **[Backend Developer (REMOTE)](https://impactbrands.recruitee.com/o/backend-developer-remote-1)** | Remote job | Remote | Sep 18 |
 | **[Visa](https://visa.com)** | **[Senior Software Engineer - Python Backend Developer](https://jobs.smartrecruiters.com/Visa/744000082586868-senior-software-engineer-python-backend-developer)** | Bangalore, INDIA, India | On Site | Sep 18 |
+| **[Mondia Group](https://mondia.com/)** | **[Senior Backend Developer](https://apply.workable.com/j/526DBE5CEF/apply)** | Cairo, Cairo Governorate, Egypt | On Site | Sep 18 |
 | **[Citi](https://www.citigroup.com/)** | **[Senior Java Backend Developer - Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Backend-Developer---Vice-President_25903704)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 18 |
 | **[Citi](https://www.citigroup.com/)** | **[Senior Java Backend Developer - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Backend-Developer---Assistant-Vice-President_25907616)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 18 |
-| **[Mondia Group](https://mondia.com/)** | **[Senior Backend Developer](https://apply.workable.com/j/526DBE5CEF/apply)** | Cairo, Cairo Governorate, Egypt | On Site | Sep 18 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java Backend Developer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210640670)** | Jersey City, NJ, United States | On Site | Sep 17 |
 | **[Varicent](https://www.varicent.com/)** | **[Sr Backend Developer(Remote - Mexico Only)](https://job-boards.greenhouse.io/varicent/jobs/4925155008)** | Mexico city, México | Remote | Sep 17 |
 | **[VML](https://www.vml.com/)** | **[Backend Developer](https://www.vml.com/careers/job/8160662002?gh_jid=8160662002)** | Bogotá, Bogotá D.C., Colombia | On Site | Sep 17 |
@@ -39,8 +39,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Qualysoft](https://qualysoft.com)** | **[Backend Developer-Virtualization Infrastructure Tool](https://jobs.lever.co/qualysoft/e7eb8a96-9d73-4e43-b062-77edbe99ecbf)** | Budapest | On Site | Sep 17 |
 | **[IRONSCALES](https://ironscales.com/)** | **[Backend Developer](https://www.comeet.com/jobs/ironscales/1A.007/backend-developer/1D.C55)** | Ramat Gan, Tel Aviv District, IL | On Site | Sep 17 |
 | **[Cheerz](https://www.cheerz.com/)** | **[Senior Backend Developer F/M](https://jobs.lever.co/cheerz/2497e8e5-7ac5-40fe-8dc6-c2571db74a18)** | Paris, France | On Site | Sep 17 |
-| **[Telia](https://www.teliacompany.com/)** | **[Senior Backend Developer (Java)](https://teliacompany.wd3.myworkdayjobs.com/en-US/Telia_careers/job/Vilnius/Senior-Backend-Developer--Java-_57221-3)** | Vilnius, Lithuania | On Site | Sep 17 |
 | **[Thales](https://www.thalesgroup.com/)** | **[Senior Java Backend Developer](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/TEL-AVIV/Senior-Java-Backend-Developer_R0295870)** | TEL AVIV, Israel | On Site | Sep 17 |
+| **[Telia](https://www.teliacompany.com/)** | **[Senior Backend Developer (Java)](https://teliacompany.wd3.myworkdayjobs.com/en-US/Telia_careers/job/Vilnius/Senior-Backend-Engineer_56631)** | Vilnius, Lithuania | On Site | Sep 17 |
 | **[Varicent](https://www.varicent.com/)** | **[.NET Backend Developer (Remote - Argentina Only)](https://job-boards.greenhouse.io/varicent/jobs/4924146008)** | Bahia Blanca, Argentina | Remote | Sep 16 |
 | **[mStart plus d.o.o.](https://mstart.hr/)** | **[Backend Developer / Integration Engineer (m/ž)](https://mstart8.talentlyft.com/o/cerwagN)** | Zagreb, Hrvatska (Hybrid) | On Site | Sep 16 |
 | **[Getnet](https://www.getnet.com.br/)** | **[Backend Developer for Digital Payments](https://job-boards.eu.greenhouse.io/getnet/jobs/4674226101)** | Brazil - São Paulo or Porto Alegre | On Site | Sep 16 |
