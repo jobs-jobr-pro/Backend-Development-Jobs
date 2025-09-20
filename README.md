@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 20, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,16 +13,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Spatial Front, Inc](https://www.spatialfront.com)** | **[API Backend Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3111688)** | Washington, DC, US | On Site | Sep 20 |
 | **[Varicent](https://www.varicent.com/)** | **[Software engineer (Backend Developer) (Remote - Argentina Only)](https://job-boards.greenhouse.io/varicent/jobs/4927451008)** | Cordoba, Argentina | Remote | Sep 19 |
 | **[AllCloud](https://allcloud.io/)** | **[Backend Developer](https://allcloud.io/careers/co/professional-services/47.C50/backend-developer/)** | București, Municipiul București, RO | On Site | Sep 19 |
 | **[Vend](https://vend.com)** | **[Curious and ambitious backend developer](https://emp.jobylon.com/jobs/312274-mittanbud-curious-and-ambitious-backend-developer/)** | Oslo | On Site | Sep 19 |
+| **[Integrity Next GmbH](https://www.integritynext.com/de/ueber-uns#career)** | **[Senior Backend Developer (m/w/d)](https://integrity-next-gmbh.jobs.personio.de/job/1115646)** | Office Munich, Office Munich + Mobile Work | On Site | Sep 19 |
 | **[EX Squared LATAM](https://latam.exsquared.com/)** | **[Senior Backend Developer - Temporal](https://exsquaredlatam.breezy.hr/p/e46a9e9bd339-senior-backend-developer-temporal)** | San Jose, CR-%LABEL POSITION TYPE REMOTE WITHIN ONE% | Remote | Sep 19 |
 | **[EX Squared LATAM](https://latam.exsquared.com/)** | **[Backend Developer (Java + AWS) - Temporal](https://exsquaredlatam.breezy.hr/p/9fa96f28b7ce-backend-developer-java-aws-temporal)** | San Jose, CR-%LABEL POSITION TYPE REMOTE WITHIN ONE% | Remote | Sep 19 |
+| **[Sky](https://jobs.sky.com/)** | **[Senior Backend Developer](https://sky.wd3.myworkdayjobs.com/en-US/sky_careers/job/Lisbon/Software-Engineer_R0031416-1)** | LISBON, Portugal | On Site | Sep 19 |
+| **[Capgemini](https://www.capgemini.com)** | **[Senior Backend Developer](https://careers.capgemini.com/job/Adelaide-Senior-Backend-Developer/1249334301/)** | Adelaide, AU | On Site | Sep 19 |
+| **[Thales](https://www.thalesgroup.com/)** | **[Java Backend Developer (TL / STL)](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Noida/Java-Backend-Developer--TL---STL-_R0299619)** | Noida Berger Tower, India | On Site | Sep 19 |
 | **[Nextracker](https://www.nextracker.com/)** | **[Backend Developer Specialist](https://nextracker.wd5.myworkdayjobs.com/en-US/nextracker_careers/job/Sorocaba-Sao-Paulo---BRA/Senior-Software-Quality-Analyst_NX-2368)** | Sorocaba, Sao Paulo - BRA, Brazil | On Site | Sep 19 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / FSD, AVP](https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/Backend-Developer---FSD--AVP_R0381868)** | Bangalore, Velankani Tech Park, India | On Site | Sep 19 |
-| **[Sky](https://jobs.sky.com/)** | **[Senior Backend Developer](https://sky.wd3.myworkdayjobs.com/en-US/sky_careers/job/Lisbon/Software-Engineer_R0031416-1)** | LISBON, Portugal | On Site | Sep 19 |
-| **[Thales](https://www.thalesgroup.com/)** | **[Java Backend Developer (TL / STL)](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Noida/Java-Backend-Developer--TL---STL-_R0299619)** | Noida Berger Tower, India | On Site | Sep 19 |
-| **[Capgemini](https://www.capgemini.com)** | **[Senior Backend Developer](https://careers.capgemini.com/job/Adelaide-Senior-Backend-Developer/1249334301/)** | Adelaide, AU | On Site | Sep 19 |
 | **[Galileo Financial Technologies](https://www.galileo-ft.com/)** | **[New Grad, Software Engineer, Backend Developer, SoFi Money](https://job-boards.greenhouse.io/galileofinancialtechnologies/jobs/7174922003)** | New York - NY | On Site | Sep 18 |
 | **[Benchling](https://www.benchling.com/)** | **[Software Engineer, Backend (Developer Tooling)](https://boards.greenhouse.io/benchling/jobs/7255921?gh_jid=7255921)** | San Francisco, CA | On Site | Sep 18 |
 | **[Brainstack](https://www.brainstack.team/)** | **[Backend Developer (Mobile)](https://brainstack.recruitee.com/o/backend-developer-mobile)** | Remote job | Remote | Sep 18 |
@@ -34,8 +36,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zensar](https://www.zensar.com/)** | **[SENIOR BACKEND DEVELOPER](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/135358)** | India | On Site | Sep 18 |
 | **[Impact Brands](https://www.theimpactbrands.com/)** | **[Backend Developer (REMOTE)](https://impactbrands.recruitee.com/o/backend-developer-remote-1)** | Remote job | Remote | Sep 18 |
 | **[Visa](https://visa.com)** | **[Senior Software Engineer - Python Backend Developer](https://jobs.smartrecruiters.com/Visa/744000082586868-senior-software-engineer-python-backend-developer)** | Bangalore, INDIA, India | On Site | Sep 18 |
-| **[Citi](https://www.citigroup.com/)** | **[Senior Java Backend Developer - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Backend-Developer---Assistant-Vice-President_25907616)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 18 |
 | **[Citi](https://www.citigroup.com/)** | **[Senior Java Backend Developer - Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Backend-Developer---Vice-President_25903704)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 18 |
+| **[Citi](https://www.citigroup.com/)** | **[Senior Java Backend Developer - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Backend-Developer---Assistant-Vice-President_25907616)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 18 |
 | **[Mondia Group](https://mondia.com/)** | **[Senior Backend Developer](https://apply.workable.com/j/526DBE5CEF/apply)** | Cairo, Cairo Governorate, Egypt | On Site | Sep 18 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java Backend Developer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210640670)** | Jersey City, NJ, United States | On Site | Sep 17 |
 | **[Varicent](https://www.varicent.com/)** | **[Sr Backend Developer(Remote - Mexico Only)](https://job-boards.greenhouse.io/varicent/jobs/4925155008)** | Mexico city, México | Remote | Sep 17 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://job-boards.greenhouse.io/winhomeinspection/jobs/4601901006)** | Greater Delhi Area | Remote | Sep 16 |
 | **[Yuno](https://www.y.uno/)** | **[Backend Developer - Core Checkout](https://jobs.lever.co/yuno/e56f076f-5034-4414-9996-a4b60ac49cb6)** | Bogota | Remote | Sep 16 |
 | **[Today](https://today.design)** | **[Backend Developer](https://apply.workable.com/j/5C8C8F793D/apply)** | Collingwood, Victoria, Australia | On Site | Sep 16 |
-| **[Alfa Laval](https://www.alfalaval.com/)** | **[Backend Developer](https://alfalaval.wd3.myworkdayjobs.com/en-US/Alfa_Laval_jobs/job/Pune/Backend-Developer_JR0039896)** | Pune - ICC, India | On Site | Sep 16 |
-| **[Thinking IT](https://thinkingit.org/)** | **[Backend Developer (Python/Django)](https://apply.workable.com/j/F8ECCCD057/apply)** | Baku, Baku, Azerbaijan - Remote | Remote | Sep 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 43 companies | Avg salary: 144k  
+**Current Stats:** 50 jobs | 24% remote | 43 companies | Avg salary: 140k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
