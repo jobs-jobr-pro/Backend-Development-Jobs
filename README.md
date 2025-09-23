@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 23, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 23, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sopra Steria](https://www.soprasteria.com)** | **[AI Backend Developer (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000083254571-ai-backend-developer-m-w-d-)** | bundesweit, Germany | Remote | Sep 22 |
 | **[HARMAN International](https://www.harman.com/)** | **[Java Backend Developer](https://jobsearch.harman.com/en_US/careers/JobDetail/Java-Backend-Developer/27986)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Sep 22 |
 | **[GlobalConnect](https://globalconnect.de/)** | **[Backend Developer – Video Streaming & Content Delivery Network](https://emp.jobylon.com/jobs/310973-globalconnect-backend-developer-video-streaming-content-delivery-network/)** | Stockholm | On Site | Sep 22 |
 | **[Passportcard](https://www.passportcard.co.il/)** | **[Backend Developer](https://www.comeet.com/jobs/passportcard/92.00A/backend-developer/B9.D3F)** | Netanya, Center District, IL | On Site | Sep 22 |
@@ -27,10 +28,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Integrity Next GmbH](https://www.integritynext.com/de/ueber-uns#career)** | **[Senior Backend Developer (m/w/d)](https://integrity-next-gmbh.jobs.personio.de/job/1115646)** | Office Munich, Office Munich + Mobile Work | On Site | Sep 19 |
 | **[EX Squared LATAM](https://latam.exsquared.com/)** | **[Senior Backend Developer - Temporal](https://exsquaredlatam.breezy.hr/p/e46a9e9bd339-senior-backend-developer-temporal)** | San Jose, CR-%LABEL POSITION TYPE REMOTE WITHIN ONE% | Remote | Sep 19 |
 | **[EX Squared LATAM](https://latam.exsquared.com/)** | **[Backend Developer (Java + AWS) - Temporal](https://exsquaredlatam.breezy.hr/p/9fa96f28b7ce-backend-developer-java-aws-temporal)** | San Jose, CR-%LABEL POSITION TYPE REMOTE WITHIN ONE% | Remote | Sep 19 |
-| **[Nextracker](https://www.nextracker.com/)** | **[Backend Developer Specialist](https://nextracker.wd5.myworkdayjobs.com/en-US/nextracker_careers/job/Sorocaba-Sao-Paulo---BRA/Senior-Software-Quality-Analyst_NX-2368)** | Sorocaba, Sao Paulo - BRA, Brazil | On Site | Sep 19 |
 | **[Capgemini](https://www.capgemini.com)** | **[Senior Backend Developer](https://careers.capgemini.com/job/Adelaide-Senior-Backend-Developer/1249334301/)** | Adelaide, AU | On Site | Sep 19 |
-| **[Thales](https://www.thalesgroup.com/)** | **[Java Backend Developer (TL / STL)](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Noida/Java-Backend-Developer--TL---STL-_R0299619)** | Noida Berger Tower, India | On Site | Sep 19 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / FSD, AVP](https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/Backend-Developer---FSD--AVP_R0381868)** | Bangalore, Velankani Tech Park, India | On Site | Sep 19 |
+| **[Thales](https://www.thalesgroup.com/)** | **[Java Backend Developer (TL / STL)](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Noida/Java-Backend-Developer--TL---STL-_R0299619)** | Noida Berger Tower, India | On Site | Sep 19 |
+| **[Nextracker](https://www.nextracker.com/)** | **[Backend Developer Specialist](https://nextracker.wd5.myworkdayjobs.com/en-US/nextracker_careers/job/Sorocaba-Sao-Paulo---BRA/Manager--Software-Development_NX-2361-1)** | Sorocaba, Sao Paulo - BRA, Brazil | On Site | Sep 19 |
 | **[Sky](https://jobs.sky.com/)** | **[Senior Backend Developer](https://sky.wd3.myworkdayjobs.com/en-US/sky_careers/job/Lisbon/Software-Engineer_R0031416-1)** | LISBON, Portugal | On Site | Sep 19 |
 | **[Galileo Financial Technologies](https://www.galileo-ft.com/)** | **[New Grad, Software Engineer, Backend Developer, SoFi Money](https://job-boards.greenhouse.io/galileofinancialtechnologies/jobs/7174922003)** | New York - NY | On Site | Sep 18 |
 | **[Benchling](https://www.benchling.com/)** | **[Software Engineer, Backend (Developer Tooling)](https://boards.greenhouse.io/benchling/jobs/7255921?gh_jid=7255921)** | San Francisco, CA | On Site | Sep 18 |
@@ -43,9 +44,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zensar](https://www.zensar.com/)** | **[SENIOR BACKEND DEVELOPER](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/135358)** | India | On Site | Sep 18 |
 | **[Impact Brands](https://www.theimpactbrands.com/)** | **[Backend Developer (REMOTE)](https://impactbrands.recruitee.com/o/backend-developer-remote-1)** | Remote job | Remote | Sep 18 |
 | **[Visa](https://visa.com)** | **[Senior Software Engineer - Python Backend Developer](https://jobs.smartrecruiters.com/Visa/744000082586868-senior-software-engineer-python-backend-developer)** | Bangalore, INDIA, India | On Site | Sep 18 |
+| **[Citi](https://www.citigroup.com/)** | **[Senior Java Backend Developer - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Backend-Developer---Assistant-Vice-President_25907616)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 18 |
 | **[Citi](https://www.citigroup.com/)** | **[Senior Java Backend Developer - Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Backend-Developer---Vice-President_25903704)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 18 |
 | **[Mondia Group](https://mondia.com/)** | **[Senior Backend Developer](https://apply.workable.com/j/526DBE5CEF/apply)** | Cairo, Cairo Governorate, Egypt | On Site | Sep 18 |
-| **[Citi](https://www.citigroup.com/)** | **[Senior Java Backend Developer - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Backend-Developer---Assistant-Vice-President_25907616)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 18 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java Backend Developer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210640670)** | Jersey City, NJ, United States | On Site | Sep 17 |
 | **[Varicent](https://www.varicent.com/)** | **[Sr Backend Developer(Remote - Mexico Only)](https://job-boards.greenhouse.io/varicent/jobs/4925155008)** | Mexico city, México | Remote | Sep 17 |
 | **[VML](https://www.vml.com/)** | **[Backend Developer](https://www.vml.com/careers/job/8160662002?gh_jid=8160662002)** | Bogotá, Bogotá D.C., Colombia | On Site | Sep 17 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Varicent](https://www.varicent.com/)** | **[.NET Backend Developer (Remote - Argentina Only)](https://job-boards.greenhouse.io/varicent/jobs/4924146008)** | Bahia Blanca, Argentina | Remote | Sep 16 |
 | **[mStart plus d.o.o.](https://mstart.hr/)** | **[Backend Developer / Integration Engineer (m/ž)](https://mstart8.talentlyft.com/o/cerwagN)** | Zagreb, Hrvatska (Hybrid) | On Site | Sep 16 |
 | **[Getnet](https://www.getnet.com.br/)** | **[Backend Developer for Digital Payments](https://job-boards.eu.greenhouse.io/getnet/jobs/4674226101)** | Brazil - São Paulo or Porto Alegre | On Site | Sep 16 |
-| **[Deloitte](https://www2.deloitte.com/)** | **[Senior Backend Developer- R&D and Innovation Center](https://careers.deloitte.co.il/position/90-d55-en/?source=Indeed&-updates)** | Tel Aviv, Tel Aviv District, IL | On Site | Sep 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 44 companies | Avg salary: 127k  
+**Current Stats:** 50 jobs | 24% remote | 43 companies | Avg salary: 127k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
