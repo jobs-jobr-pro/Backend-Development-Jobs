@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 24, 2025 at 16:31 UTC</small></sub>
+<sub><small>Last updated: Sep 24, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Renmoney](https://renmoney.com/)** | **[Senior Backend Developer](https://renmoney.zohorecruit.com/jobs/Careers/700862000003836115)** | Ikoyi, Nigeria | On Site | Sep 24 |
 | **[Webnotics Pvt Ltd](https://webnotics.solutions/)** | **[Backend Developer (PHP and Angular)](https://webnotics.zohorecruit.com/jobs/Careers/694053000003242096)** | Agra, India | On Site | Sep 24 |
 | **[Extratik](https://extratik.com/)** | **[Senior Backend Developer](https://extratik.zohorecruit.com/jobs/Careers/507774000003684489)** | İstanbul, Turkey | On Site | Sep 24 |
+| **[MyParcel](https://www.myparcel.nl/)** | **[Backend developer NodeJS/Typescript](https://emp.jobylon.com/jobs/313005-myparcel-backend-developer-nodejstypescript/)** | Hoofddorp | On Site | Sep 24 |
 | **[Fusion Consulting](https://www.fusion-cons.com)** | **[Senior Backend Developer (Python/AWS)](https://jobs.smartrecruiters.com/FusionConsulting/744000083650995-senior-backend-developer-python-aws-)** | Frankfurt am Main, HE, Germany | On Site | Sep 24 |
 | **[CBTS](https://www.cbts.com/)** | **[Lead Backend Developer](https://ats.rippling.com/cbtsindia/jobs/5a96ce02-5a73-449a-82bd-986e1d1ac69f)** | Chennai, India | On Site | Sep 24 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Senior Backend Developer - Typescript & Javascript](https://teamsystem.wd103.myworkdayjobs.com/en-US/TeamSystem/job/Italy-Bergamo/Senior-Backend-Developer---Typescript---Javascript_JR0000001272)** | BERGAMO VIA ZANCHI, Italy | On Site | Sep 24 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Schréder](https://www.schreder.com)** | **[Backend developer](https://jobs.smartrecruiters.com/Schrder/744000082643135-backend-developer)** | Carcavelos, Lisbon, Portugal | On Site | Sep 18 |
 | **[Zensar](https://www.zensar.com/)** | **[SENIOR BACKEND DEVELOPER](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/135358)** | India | On Site | Sep 18 |
 | **[Impact Brands](https://www.theimpactbrands.com/)** | **[Backend Developer (REMOTE)](https://impactbrands.recruitee.com/o/backend-developer-remote-1)** | Remote job | Remote | Sep 18 |
-| **[Visa](https://visa.com)** | **[Senior Software Engineer - Python Backend Developer](https://jobs.smartrecruiters.com/Visa/744000082586868-senior-software-engineer-python-backend-developer)** | Bangalore, INDIA, India | On Site | Sep 18 |
 
 ---
 
