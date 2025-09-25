@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -22,8 +22,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MyParcel](https://www.myparcel.nl/)** | **[Backend developer NodeJS/Typescript](https://emp.jobylon.com/jobs/313005-myparcel-backend-developer-nodejstypescript/)** | Hoofddorp | On Site | Sep 24 |
 | **[Fusion Consulting](https://www.fusion-cons.com)** | **[Senior Backend Developer (Python/AWS)](https://jobs.smartrecruiters.com/FusionConsulting/744000083650995-senior-backend-developer-python-aws-)** | Frankfurt am Main, HE, Germany | On Site | Sep 24 |
 | **[CBTS](https://www.cbts.com/)** | **[Lead Backend Developer](https://ats.rippling.com/cbtsindia/jobs/5a96ce02-5a73-449a-82bd-986e1d1ac69f)** | Chennai, India | On Site | Sep 24 |
-| **[TeamSystem](https://www.teamsystem.com/)** | **[Senior Backend Developer - Typescript & Javascript](https://teamsystem.wd103.myworkdayjobs.com/en-US/TeamSystem/job/Italy-Bergamo/Senior-Backend-Developer---Typescript---Javascript_JR0000001272)** | BERGAMO VIA ZANCHI, Italy | On Site | Sep 24 |
 | **[CBC/Radio-Canada](https://cbc.radio-canada.ca/)** | **[Senior Backend Developer (French Services) (Telework/Hybrid)](https://cbcrc.wd3.myworkdayjobs.com/en-US/CBC_Radio-Canada_Jobs/job/Montreal-QC/Premier-dveloppeur-ou-premire-dveloppeuse--Back-End--applications-dorsales---Services-franais---tltravail-hybride-_JR00005698)** | Montreal - MRC (Papineau) (36.25), Canada | On Site | Sep 24 |
+| **[TeamSystem](https://www.teamsystem.com/)** | **[Senior Backend Developer - Typescript & Javascript](https://teamsystem.wd103.myworkdayjobs.com/en-US/TeamSystem/job/Italy-Bergamo/Senior-Backend-Developer---Typescript---Javascript_JR0000001272)** | BERGAMO VIA ZANCHI, Italy | On Site | Sep 24 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Backend Developer - Python/Terraform](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7267637)** | Brasil | On Site | Sep 23 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[Technical Software Lead - Backend Developer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5642048004)** | Remote, USA | Remote | Sep 23 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Senior Backend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000083479085-senior-backend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 23 |
@@ -49,11 +49,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Integrity Next GmbH](https://www.integritynext.com/de/ueber-uns#career)** | **[Senior Backend Developer (m/w/d)](https://integrity-next-gmbh.jobs.personio.de/job/1115646)** | Office Munich, Office Munich + Mobile Work | On Site | Sep 19 |
 | **[EX Squared LATAM](https://latam.exsquared.com/)** | **[Senior Backend Developer - Temporal](https://exsquaredlatam.breezy.hr/p/e46a9e9bd339-senior-backend-developer-temporal)** | San Jose, CR-%LABEL POSITION TYPE REMOTE WITHIN ONE% | Remote | Sep 19 |
 | **[EX Squared LATAM](https://latam.exsquared.com/)** | **[Backend Developer (Java + AWS) - Temporal](https://exsquaredlatam.breezy.hr/p/9fa96f28b7ce-backend-developer-java-aws-temporal)** | San Jose, CR-%LABEL POSITION TYPE REMOTE WITHIN ONE% | Remote | Sep 19 |
-| **[Capgemini](https://www.capgemini.com)** | **[Senior Backend Developer](https://careers.capgemini.com/job/Melbourne-Senior-Backend-Developer/1249334801/)** | Melbourne, AU | On Site | Sep 19 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / FSD, AVP](https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/Backend-Developer---FSD--AVP_R0381868)** | Bangalore, Velankani Tech Park, India | On Site | Sep 19 |
 | **[Thales](https://www.thalesgroup.com/)** | **[Java Backend Developer (TL / STL)](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Noida/Java-Backend-Developer--TL---STL-_R0299619)** | Noida Berger Tower, India | On Site | Sep 19 |
-| **[Nextracker](https://www.nextracker.com/)** | **[Backend Developer Specialist](https://nextracker.wd5.myworkdayjobs.com/en-US/nextracker_careers/job/Sorocaba-Sao-Paulo---BRA/Manager--Software-Development_NX-2361-1)** | Sorocaba, Sao Paulo - BRA, Brazil | On Site | Sep 19 |
 | **[Sky](https://jobs.sky.com/)** | **[Senior Backend Developer](https://sky.wd3.myworkdayjobs.com/en-US/sky_careers/job/Lisbon/Software-Engineer_R0031416-1)** | LISBON, Portugal | On Site | Sep 19 |
+| **[Nextracker](https://www.nextracker.com/)** | **[Backend Developer Specialist](https://nextracker.wd5.myworkdayjobs.com/en-US/nextracker_careers/job/Sorocaba-Sao-Paulo---BRA/Manager--Software-Development_NX-2361-1)** | Sorocaba, Sao Paulo - BRA, Brazil | On Site | Sep 19 |
+| **[Capgemini](https://www.capgemini.com)** | **[Senior Backend Developer](https://careers.capgemini.com/job/Adelaide-Senior-Backend-Developer/1249334301/)** | Adelaide, AU | On Site | Sep 19 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / FSD, AVP](https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/Backend-Developer---FSD--AVP_R0381868)** | Bangalore, Velankani Tech Park, India | On Site | Sep 19 |
 | **[Galileo Financial Technologies](https://www.galileo-ft.com/)** | **[New Grad, Software Engineer, Backend Developer, SoFi Money](https://job-boards.greenhouse.io/galileofinancialtechnologies/jobs/7174922003)** | New York - NY | On Site | Sep 18 |
 | **[Benchling](https://www.benchling.com/)** | **[Software Engineer, Backend (Developer Tooling)](https://boards.greenhouse.io/benchling/jobs/7255921?gh_jid=7255921)** | San Francisco, CA | On Site | Sep 18 |
 | **[Brainstack](https://www.brainstack.team/)** | **[Backend Developer (Mobile)](https://brainstack.recruitee.com/o/backend-developer-mobile)** | Remote job | Remote | Sep 18 |
