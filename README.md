@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 26, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 26, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Tangany](https://tangany.com/)** | **[(Senior) Backend Developer (f/m/d)](https://join.com/companies/tangany/14924530-senior-backend-developer-f-m-d)** | Munich, Germany | On Site | Sep 26 |
+| **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://teamsystem.wd103.myworkdayjobs.com/en-US/TeamSystem/job/MILANO_VIALE-A-DORIA/Junior-Backend-Developer---Java---Spring-Boot_JR0000001091)** | MILANO VIALE A. DORIA, Italy | On Site | Sep 26 |
 | **[Yuno](https://www.y.uno/)** | **[Backend Developer - Integrations](https://jobs.lever.co/yuno/4c1ebdec-f32e-4bcf-82d4-63cc773a66db)** | Colombia | Remote | Sep 25 |
 | **[Capital Rx](https://capitalrx.com/)** | **[Senior Backend Developer - Integrations](https://job-boards.greenhouse.io/capitalrx/jobs/4924185008)** | Remote | Remote | Sep 25 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Java Backend Developer](https://virtusa.taleo.net/careersection/ex/jobdetail.ftl?job=CREQ231430)** | IN-AP-Hyderabad | On Site | Sep 25 |
@@ -40,7 +42,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fusion Consulting](https://www.fusion-cons.com)** | **[Senior Backend Developer (Python/AWS)](https://jobs.smartrecruiters.com/FusionConsulting/744000083650995-senior-backend-developer-python-aws-)** | Frankfurt am Main, HE, Germany | On Site | Sep 24 |
 | **[CBTS](https://www.cbts.com/)** | **[Lead Backend Developer](https://ats.rippling.com/cbtsindia/jobs/5a96ce02-5a73-449a-82bd-986e1d1ac69f)** | Chennai, India | On Site | Sep 24 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobs.vicompany.nl/o/senior-backend-developer)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Sep 24 |
-| **[CBC/Radio-Canada](https://cbc.radio-canada.ca/)** | **[Senior Backend Developer (French Services) (Telework/Hybrid)](https://cbcrc.wd3.myworkdayjobs.com/en-US/CBC_Radio-Canada_Jobs/job/Montreal-QC/Premier-dveloppeur-ou-premire-dveloppeuse--Back-End--applications-dorsales---Services-franais---tltravail-hybride-_JR00005699)** | Montreal - MRC (Papineau) (36.25), Canada | On Site | Sep 24 |
+| **[CBC/Radio-Canada](https://cbc.radio-canada.ca/)** | **[Senior Backend Developer (French Services) (Telework/Hybrid)](https://cbcrc.wd3.myworkdayjobs.com/en-US/CBC_Radio-Canada_Jobs/job/Montreal-QC/Premier-dveloppeur-ou-premire-dveloppeuse--Back-End--applications-dorsales---Services-franais---tltravail-hybride-_JR00005698)** | Montreal - MRC (Papineau) (36.25), Canada | On Site | Sep 24 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Senior Backend Developer - Typescript & Javascript](https://teamsystem.wd103.myworkdayjobs.com/en-US/TeamSystem/job/Italy-Bergamo/Senior-Backend-Developer---Typescript---Javascript_JR0000001272)** | BERGAMO VIA ZANCHI, Italy | On Site | Sep 24 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Backend Developer - Python/Terraform](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7267637)** | Brasil | On Site | Sep 23 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[Technical Software Lead - Backend Developer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5642048004)** | Remote, USA | Remote | Sep 23 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Spatial Front, Inc](https://www.spatialfront.com)** | **[API Backend Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3111688)** | Washington, DC, US | On Site | Sep 20 |
 | **[Varicent](https://www.varicent.com/)** | **[Software engineer (Backend Developer) (Remote - Argentina Only)](https://job-boards.greenhouse.io/varicent/jobs/4927451008)** | Cordoba, Argentina | Remote | Sep 19 |
 | **[AllCloud](https://allcloud.io/)** | **[Backend Developer](https://allcloud.io/careers/co/professional-services/47.C50/backend-developer/)** | București, Municipiul București, RO | On Site | Sep 19 |
-| **[Vend](https://vend.com)** | **[Curious and ambitious backend developer](https://emp.jobylon.com/jobs/312274-mittanbud-curious-and-ambitious-backend-developer/)** | Oslo | On Site | Sep 19 |
-| **[Integrity Next GmbH](https://www.integritynext.com/de/ueber-uns#career)** | **[Senior Backend Developer (m/w/d)](https://integrity-next-gmbh.jobs.personio.de/job/1115646)** | Office Munich, Office Munich + Mobile Work | On Site | Sep 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 42 companies | Avg salary: 159k  
+**Current Stats:** 50 jobs | 28% remote | 41 companies | Avg salary: 159k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
