@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 26, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 26, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,10 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ingenious Lion](https://www.ingeniouslion.com/)** | **[BI Backend Developer](https://careers.ingeniouslion.com/jobs/6518250-bi-backend-developer)** | Lisboa, Portugal | On Site | Sep 26 |
 | **[Tangany](https://tangany.com/)** | **[(Senior) Backend Developer (f/m/d)](https://join.com/companies/tangany/14924530-senior-backend-developer-f-m-d)** | Munich, Germany | On Site | Sep 26 |
+| **[Salt Technologies](https://www.salttechno.com)** | **[Consultant Backend Developer (Python)](https://apply.workable.com/j/4D1AF61767/apply)** | Pune, Maharashtra, India | On Site | Sep 26 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://teamsystem.wd103.myworkdayjobs.com/en-US/TeamSystem/job/MILANO_VIALE-A-DORIA/Junior-Backend-Developer---Java---Spring-Boot_JR0000001091)** | MILANO VIALE A. DORIA, Italy | On Site | Sep 26 |
+| **[IRIUM Portugal](https://www.irium.pt/)** | **[Java Backend Developer](https://iriumportugal.applytojob.com/apply/4gxra4AveT/Java-Backend-Developer)** | Lisboa, Braga, Coimbra, Lisboa, Braga, Coimbra | On Site | Sep 26 |
 | **[Yuno](https://www.y.uno/)** | **[Backend Developer - Integrations](https://jobs.lever.co/yuno/4c1ebdec-f32e-4bcf-82d4-63cc773a66db)** | Colombia | Remote | Sep 25 |
 | **[Capital Rx](https://capitalrx.com/)** | **[Senior Backend Developer - Integrations](https://job-boards.greenhouse.io/capitalrx/jobs/4924185008)** | Remote | Remote | Sep 25 |
+| **[Global66](https://global66.com/)** | **[Backend Developer Java Remoto](https://global66.teamtailor.com/jobs/6514866-backend-developer-java-remoto)** | Chile, Chile | Remote | Sep 25 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Java Backend Developer](https://virtusa.taleo.net/careersection/ex/jobdetail.ftl?job=CREQ231430)** | IN-AP-Hyderabad | On Site | Sep 25 |
 | **[Axi](https://www.axi.com/)** | **[Backend Developer](https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/4894209007)** | London, United Kingdom | On Site | Sep 25 |
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Senior Backend Developer (REF4632Q)](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000083846850-senior-backend-developer-ref4632q-)** | Budapest,Debrecen,Pécs,Szeged, Hungary | On Site | Sep 25 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Passportcard](https://www.passportcard.co.il/)** | **[Backend Developer](https://www.comeet.com/jobs/passportcard/92.00A/backend-developer/B9.D3F)** | Netanya, Center District, IL | On Site | Sep 22 |
 | **[Worldline](https://www.worldline.com)** | **[Java Backend Developer](https://jobs.worldline.com/job/Bengaluru-Java-Backend-Developer-KA/824628502/)** | Bengaluru, KA, IN | On Site | Sep 22 |
 | **[Livello GmbH](https://www.livello.io/)** | **[Backend Developer (m/w/d) - Cloud Applications (NodeJS) for growing tech company](https://join.com/companies/livello/14900594-backend-developer-m-w-d-cloud-applications-nodejs-for-growing-tech-company)** | Düsseldorf, Germany | On Site | Sep 22 |
-| **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://job-boards.greenhouse.io/winhomeinspection/jobs/4603305006)** | Greater Delhi Area | Remote | Sep 22 |
-| **[Spatial Front, Inc](https://www.spatialfront.com)** | **[API Backend Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3111688)** | Washington, DC, US | On Site | Sep 20 |
-| **[Varicent](https://www.varicent.com/)** | **[Software engineer (Backend Developer) (Remote - Argentina Only)](https://job-boards.greenhouse.io/varicent/jobs/4927451008)** | Cordoba, Argentina | Remote | Sep 19 |
-| **[AllCloud](https://allcloud.io/)** | **[Backend Developer](https://allcloud.io/careers/co/professional-services/47.C50/backend-developer/)** | București, Municipiul București, RO | On Site | Sep 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 41 companies | Avg salary: 159k  
+**Current Stats:** 50 jobs | 26% remote | 42 companies | Avg salary: 169k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
