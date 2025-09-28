@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 28, 2025 at 00:31 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -19,10 +19,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ingenious Lion](https://www.ingeniouslion.com/)** | **[BI Backend Developer](https://careers.ingeniouslion.com/jobs/6518250-bi-backend-developer)** | Lisboa, Portugal | On Site | Sep 26 |
 | **[CarOnSale](https://www.caronsale.com/)** | **[Mid Level Backend Developer - Logistics Team](https://job-boards.eu.greenhouse.io/caronsale/jobs/4654673101)** | Berlin | On Site | Sep 26 |
 | **[Tangany](https://tangany.com/)** | **[(Senior) Backend Developer (f/m/d)](https://join.com/companies/tangany/14924530-senior-backend-developer-f-m-d)** | Munich, Germany | On Site | Sep 26 |
-| **[Stedin](https://www.stedin.net/)** | **[Backend Developer](https://stedin.wd3.myworkdayjobs.com/en-US/WerkenbijStedin/job/Rotterdam/Backend-Developer_JR13717)** | Rotterdam, Blaak 8 (Kantoor functie), Netherlands | On Site | Sep 26 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://teamsystem.wd103.myworkdayjobs.com/en-US/TeamSystem/job/MILANO_VIALE-A-DORIA/Junior-Backend-Developer---Java---Spring-Boot_JR0000001091)** | MILANO VIALE A. DORIA, Italy | On Site | Sep 26 |
-| **[IRIUM Portugal](https://www.irium.pt/)** | **[Java Backend Developer](https://iriumportugal.applytojob.com/apply/4gxra4AveT/Java-Backend-Developer)** | Lisboa, Braga, Coimbra, Lisboa, Braga, Coimbra | On Site | Sep 26 |
 | **[Salt Technologies](https://www.salttechno.com)** | **[Consultant Backend Developer (Python)](https://apply.workable.com/j/4D1AF61767/apply)** | Pune, Maharashtra, India | On Site | Sep 26 |
+| **[Stedin](https://www.stedin.net/)** | **[Backend Developer](https://stedin.wd3.myworkdayjobs.com/en-US/WerkenbijStedin/job/Rotterdam/Backend-Developer_JR13717)** | Rotterdam, Blaak 8 (Kantoor functie), Netherlands | On Site | Sep 26 |
+| **[IRIUM Portugal](https://www.irium.pt/)** | **[Java Backend Developer](https://iriumportugal.applytojob.com/apply/4gxra4AveT/Java-Backend-Developer)** | Lisboa, Braga, Coimbra, Lisboa, Braga, Coimbra | On Site | Sep 26 |
 | **[Yuno](https://www.y.uno/)** | **[Backend Developer - Integrations](https://jobs.lever.co/yuno/4c1ebdec-f32e-4bcf-82d4-63cc773a66db)** | Colombia | Remote | Sep 25 |
 | **[Capital Rx](https://capitalrx.com/)** | **[Senior Backend Developer - Integrations](https://job-boards.greenhouse.io/capitalrx/jobs/4924185008)** | Remote | Remote | Sep 25 |
 | **[Global66](https://global66.com/)** | **[Backend Developer Java Remoto](https://global66.teamtailor.com/jobs/6514866-backend-developer-java-remoto)** | Chile, Chile | Remote | Sep 25 |
