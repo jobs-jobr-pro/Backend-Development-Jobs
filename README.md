@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 30, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 30, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Virtusa](https://www.virtusa.com/)** | **[Java Backend Developer](https://jobr.pro/job/28951670/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN-AP-Hyderabad | On Site | Sep 29 |
 | **[IDIQ](https://www.idiq.com)** | **[Backend Developer (.NET Core)](https://jobr.pro/job/28947094/backend-developer-net-core?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, India | On Site | Sep 29 |
 | **[ResMed](https://www.resmed.com/)** | **[Senior C# / .NET Backend Developer](https://jobr.pro/job/28984662/senior-c-net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DE Hildesheim, Germany | On Site | Sep 29 |
+| **[CAE](https://www.cae.com/)** | **[C-GE-925 - C++ Backend Developer](https://jobr.pro/job/28987280/c-ge-925-c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal - 8585 Cote-De-Liesse, QC, Canada | On Site | Sep 29 |
 | **[Value1](https://www.value1.in/)** | **[Lead Backend Developer](https://jobr.pro/job/28957162/lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Sep 28 |
 | **[Welvaart](https://www.welvaart.io/)** | **[Backend Developer](https://jobr.pro/job/28952204/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Portugal | On Site | Sep 28 |
 | **[DFK Malta](https://dfkmalta.com/)** | **[Backend Developer](https://jobr.pro/job/28950865/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Ġwann, Malta | On Site | Sep 28 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Renmoney](https://renmoney.com/)** | **[Senior Backend Developer](https://jobr.pro/job/28632152/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ikoyi, Nigeria | On Site | Sep 24 |
 | **[Webnotics Pvt Ltd](https://webnotics.solutions/)** | **[Backend Developer (PHP and Angular)](https://jobr.pro/job/28631779/backend-developer-php-and-angular?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Agra, India | On Site | Sep 24 |
 | **[Extratik](https://extratik.com/)** | **[Senior Backend Developer](https://jobr.pro/job/28631636/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | İstanbul, Turkey | On Site | Sep 24 |
-| **[MyParcel](https://www.myparcel.nl/)** | **[Backend developer NodeJS/Typescript](https://jobr.pro/job/28653070/backend-developer-nodejstypescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hoofddorp | On Site | Sep 24 |
 
 ---
 
