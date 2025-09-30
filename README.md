@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Sep 30, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 30, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Virtusa](https://www.virtusa.com/)** | **[Senior Java backend developer](https://jobr.pro/job/29045165/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN-AP-Hyderabad | On Site | Sep 30 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Software Engineer (Java Backend Developer)](https://jobr.pro/job/29012699/senior-software-engineer-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Sep 30 |
 | **[HedgeServ](https://www.hedgeserv.com/)** | **[Senior Backend Developer (MO team)](https://jobr.pro/job/29043613/senior-backend-developer-mo-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sofia, Bulgaria | On Site | Sep 30 |
+| **[Thales](https://www.thalesgroup.com/)** | **[Technical Lead - Java Backend Developer](https://jobr.pro/job/29075010/technical-lead-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Indraprastha, India | On Site | Sep 30 |
 | **[Teravision Technologies](https://www.teravisiontech.com/)** | **[Backend Developer](https://jobr.pro/job/28999501/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Sep 29 |
 | **[Monks](https://www.monks.com/)** | **[BackEnd Developer](https://jobr.pro/job/29008745/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bogotá, Bogotá, Colombia | Remote | Sep 29 |
 | **[Unity](https://unity.com/)** | **[Staff Backend Developer, Unity Ads](https://jobr.pro/job/29007035/staff-backend-developer-unity-ads?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote, Canada | Remote | Sep 29 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Benchling](https://www.benchling.com/)** | **[Software Engineer, Backend (Developer Platform)](https://jobr.pro/job/28677901/software-engineer-backend-developer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Francisco, CA | On Site | Sep 25 |
 | **[Zoetis](https://www.zoetis.com/)** | **[Senior - Backend Developer - DX](https://jobr.pro/job/28730294/senior-backend-developer-dx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Sep 25 |
 | **[Trustmi](https://trustmi.ai/)** | **[Senior Backend Developer](https://jobr.pro/job/28696135/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Sep 25 |
-| **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Argentina Only)](https://jobr.pro/job/28670150/backend-developer-remote-argentina-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cordoba, Argentina | Remote | Sep 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 45 companies | Avg salary: 120k  
+**Current Stats:** 50 jobs | 20% remote | 45 companies | Avg salary: 120k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
