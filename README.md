@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 01, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 01, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Varicent](https://www.varicent.com/)** | **[Software Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/29089814/software-backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico City, México | Remote | Sep 30 |
+| **[Varicent](https://www.varicent.com/)** | **[Backend developer (Remote - Mexico Only)](https://jobr.pro/job/29089802/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Monterrey, Mexico | Remote | Sep 30 |
+| **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Argentina Only)](https://jobr.pro/job/29089801/backend-developer-remote-argentina-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cordoba, Argentina | Remote | Sep 30 |
+| **[Varicent](https://www.varicent.com/)** | **[Python Backend Developer (Remote - Argentina Only)](https://jobr.pro/job/29089809/python-backend-developer-remote-argentina-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | La plata , Argentina | Remote | Sep 30 |
+| **[T-Systems International](https://www.t-systems.com)** | **[Java Backend Developer](https://jobr.pro/job/29105966/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Reus, CT, Spain | On Site | Sep 30 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Senior Java backend developer](https://jobr.pro/job/29045165/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN-AP-Hyderabad | On Site | Sep 30 |
+| **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer](https://jobr.pro/job/29104290/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Sep 30 |
+| **[Orion Innovation](https://www.orioninc.com/)** | **[.net Backend Developer](https://jobr.pro/job/29104677/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Sep 30 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Software Engineer (Java Backend Developer)](https://jobr.pro/job/29012699/senior-software-engineer-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Sep 30 |
 | **[Thales](https://www.thalesgroup.com/)** | **[Technical Lead - Java Backend Developer](https://jobr.pro/job/29075010/technical-lead-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Indraprastha, India | On Site | Sep 30 |
 | **[HedgeServ](https://www.hedgeserv.com/)** | **[Senior Backend Developer (MO team)](https://jobr.pro/job/29043613/senior-backend-developer-mo-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sofia, Bulgaria | On Site | Sep 30 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capital Rx](https://capitalrx.com/)** | **[Senior Backend Developer - Integrations](https://jobr.pro/job/28762823/senior-backend-developer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Sep 25 |
 | **[Global66](https://global66.com/)** | **[Backend Developer Java Remoto](https://jobr.pro/job/28796665/backend-developer-java-remoto?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chile, Chile | Remote | Sep 25 |
 | **[Axi](https://www.axi.com/)** | **[Backend Developer](https://jobr.pro/job/28769660/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | London, United Kingdom | On Site | Sep 25 |
-| **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Senior Backend Developer (REF4632Q)](https://jobr.pro/job/28773257/senior-backend-developer-ref4632q?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest,Debrecen,Pécs,Szeged, Hungary | On Site | Sep 25 |
-| **[Impact Brands](https://www.theimpactbrands.com/)** | **[Backend Developer (REMOTE)](https://jobr.pro/job/28754994/backend-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Sep 25 |
-| **[Monks](https://www.monks.com/)** | **[Backend Developer (Remote)](https://jobr.pro/job/28757689/backend-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida | Remote | Sep 25 |
-| **[Bosch Group](https://www.bosch.com)** | **[Backend Developer (MDM focus)](https://jobr.pro/job/28689283/backend-developer-mdm-focus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Timișoara, TM, Romania | On Site | Sep 25 |
-| **[Benchling](https://www.benchling.com/)** | **[Software Engineer, Backend (Developer Platform)](https://jobr.pro/job/28677901/software-engineer-backend-developer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Francisco, CA | On Site | Sep 25 |
-| **[Zoetis](https://www.zoetis.com/)** | **[Senior - Backend Developer - DX](https://jobr.pro/job/28730294/senior-backend-developer-dx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Sep 25 |
-| **[Trustmi](https://trustmi.ai/)** | **[Senior Backend Developer](https://jobr.pro/job/28696135/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Sep 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 45 companies | Avg salary: 120k  
+**Current Stats:** 50 jobs | 24% remote | 43 companies | Avg salary: 97k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
