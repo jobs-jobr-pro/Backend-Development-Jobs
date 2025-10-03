@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 03, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -21,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Scotiabank](https://www.scotiabank.com)** | **[Jr Advanced Backend Developer](https://jobr.pro/job/29209870/jr-advanced-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico, MEX, MX, 11000 | On Site | Oct 02 |
 | **[A1 Telekom Austria Group](https://www.a1.group/)** | **[.NET Backend Developer](https://jobr.pro/job/29238454/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | София, ул. Кукуш 1, сграда 7, етаж 7, Bulgaria | On Site | Oct 02 |
 | **[Adevinta](https://adevinta.com/)** | **[Senior Backend Developer](https://jobr.pro/job/29257203/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, Germany | On Site | Oct 02 |
+| **[AIA](https://www.aia.com/)** | **[Manager, AI Backend Developer Lead](https://jobr.pro/job/29264214/manager-ai-backend-developer-lead?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Oct 02 |
 | **[Encora](https://www.encora.com/)** | **[Python Backend Developer SR](https://jobr.pro/job/29199565/python-backend-developer-sr?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Oct 01 |
 | **[Robots & Pencils](https://robotsandpencils.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/29182681/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Calgary, Canada | On Site | Oct 01 |
 | **[Optibus](https://optibus.com/)** | **[Backend Developer, Brazil](https://jobr.pro/job/29151178/backend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | São Paulo, SP, BR | On Site | Oct 01 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pango](https://www.pango.co.il/)** | **[Backend Developer (Smart Mobility)](https://jobr.pro/job/28965830/backend-developer-smart-mobility?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Petah Tikva, Center District, IL | On Site | Sep 28 |
 | **[RMA Group Company Limited](https://rmagroup.com/)** | **[Backend Developer](https://jobr.pro/job/28924979/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Phnom Penh, Phnom Penh, Cambodia | On Site | Sep 28 |
 | **[Syffer](https://syffer.com/)** | **[Java Backend Developer - Telco Industry](https://jobr.pro/job/28922582/java-backend-developer-telco-industry?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Portugal | On Site | Sep 28 |
-| **[ACCUMED](https://accumed.ae/)** | **[Backend Developer](https://jobr.pro/job/28913881/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Alexandria, Alexandria Governorate, Egypt | On Site | Sep 28 |
 
 ---
 
