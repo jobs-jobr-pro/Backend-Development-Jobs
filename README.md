@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 04, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 05, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Mid-level Integration Backend Developer](https://jobr.pro/job/29413841/mid-level-integration-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil Offsite | Remote | Oct 04 |
 | **[Accenture](https://www.accenture.com/)** | **[Backend Developer](https://jobr.pro/job/29402560/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok, The ParQ, Thailand | On Site | Oct 04 |
 | **[Akkodis](https://www.akkodis.com/)** | **[BackEnd Developer](https://jobr.pro/job/29357560/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Europe, Italy, Lombardia, Milano | On Site | Oct 03 |
 | **[Mono Software](https://mono.software)** | **[Backend Developer](https://jobr.pro/job/29368657/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Osijek, Osječko-baranjska županija, Croatia | On Site | Oct 03 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Unipol](https://www.unipol.com/)** | **[Senior Backend Developer](https://jobr.pro/job/29144458/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO, LOMBARDIA, Italy | On Site | Oct 01 |
 | **[RBC](https://www.rbc.com/)** | **[Tech Lead - Specialist Java Backend Developer](https://jobr.pro/job/29171199/tech-lead-specialist-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | RBC WATERPARK PLACE, 88 QUEENS QUAY W:TORONTO, Canada | On Site | Oct 01 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Backend Developer – Junior (Kyndryl Graduate Program)](https://jobr.pro/job/29171777/backend-developer-junior-kyndryl-graduate-program?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ARMTZ Buenos Aires (ARMTZ) - Martinez, Argentina | On Site | Oct 01 |
-| **[Zoetis](https://www.zoetis.com/)** | **[Senior - Backend Developer - DX](https://jobr.pro/job/29154645/senior-backend-developer-dx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Oct 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 40 companies | Avg salary: 231k  
+**Current Stats:** 50 jobs | 40% remote | 40 companies | Avg salary: 231k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
