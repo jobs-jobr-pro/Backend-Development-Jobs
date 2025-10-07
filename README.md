@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 07, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 07, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Pure Storage](https://www.purestorage.com/)** | **[Backend Developer - Go,K8s](https://jobr.pro/job/29483108/backend-developer-gok8s?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Oct 07 |
 | **[Gemmo](https://gemmo.ai/)** | **[Internship - Backend Developer for AI Applications](https://jobr.pro/job/29502719/internship-backend-developer-for-ai-applications?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Genoa, Metropolitan City of Genoa, Italy | On Site | Oct 07 |
+| **[Telia](https://www.teliacompany.com/)** | **[Senior Backend Developer (Java/Kotlin)](https://jobr.pro/job/29538271/senior-backend-developer-javakotlin?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Göteborg, Sweden | On Site | Oct 07 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - x402)](https://jobr.pro/job/29471738/senior-software-engineer-backend-developer-x402?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - USA | Remote | Oct 06 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://jobr.pro/job/29489097/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Oct 06 |
 | **[Bosch Group](https://www.bosch.com)** | **[Java Backend Developer (Aveiro)](https://jobr.pro/job/29488845/java-backend-developer-aveiro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Aveiro, Portugal | On Site | Oct 06 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Continental](https://www.continental.com)** | **[Backend Developer (Fleet Solutions)](https://jobr.pro/job/29284559/backend-developer-fleet-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lousado, Braga, Portugal | On Site | Oct 03 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[Technical Software Lead - Backend Developer](https://jobr.pro/job/29281347/technical-software-lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote, USA | Remote | Oct 02 |
 | **[Scorewarrior](https://scorewarrior.com/)** | **[Game Backend Developer](https://jobr.pro/job/29271546/game-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Limassol, Lemesos, Cyprus | On Site | Oct 02 |
-| **[Wintermute](https://www.wintermute.com/)** | **[Senior Backend Developer (Bebop)](https://jobr.pro/job/29275511/senior-backend-developer-bebop?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | London / Remote | Remote | Oct 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 50% remote | 40 companies | Avg salary: 219k  
+**Current Stats:** 50 jobs | 48% remote | 40 companies | Avg salary: 219k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
