@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 08, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 08, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -14,10 +14,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Citi](https://www.citigroup.com/)** | **[Officer- Java Backend Developer](https://jobr.pro/job/29560523/officer-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Oct 08 |
+| **[SAP](https://www.sap.com/)** | **[Senior Backend Developer - Java, GO, Python](https://jobr.pro/job/29586688/senior-backend-developer-java-go-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Gurgaon, IN, 122002 | On Site | Oct 08 |
+| **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - Onramp)](https://jobr.pro/job/29575810/senior-software-engineer-backend-developer-onramp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - Canada | Remote | Oct 07 |
+| **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - Stablecoin Payments)](https://jobr.pro/job/29575812/senior-software-engineer-backend-developer-stablecoin-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - Canada | Remote | Oct 07 |
+| **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - x402)](https://jobr.pro/job/29575814/senior-software-engineer-backend-developer-x402?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - Canada | Remote | Oct 07 |
+| **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - Foundations)](https://jobr.pro/job/29575807/senior-software-engineer-backend-developer-foundations?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - USA | Remote | Oct 07 |
+| **[Akkodis](https://www.akkodis.com/)** | **[Backend Developer](https://jobr.pro/job/29577257/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Europe, Italy, Lombardia, Milano | On Site | Oct 07 |
+| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Backend Developer - Python/Terraform](https://jobr.pro/job/29584341/backend-developer-pythonterraform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasil | On Site | Oct 07 |
 | **[Pure Storage](https://www.purestorage.com/)** | **[Backend Developer - Go,K8s](https://jobr.pro/job/29483108/backend-developer-gok8s?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Oct 07 |
 | **[Gemmo](https://gemmo.ai/)** | **[Internship - Backend Developer for AI Applications](https://jobr.pro/job/29502719/internship-backend-developer-for-ai-applications?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Genoa, Metropolitan City of Genoa, Italy | On Site | Oct 07 |
 | **[Telia](https://www.teliacompany.com/)** | **[Senior Backend Developer (Java/Kotlin)](https://jobr.pro/job/29538271/senior-backend-developer-javakotlin?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Göteborg, Sweden | On Site | Oct 07 |
-| **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - x402)](https://jobr.pro/job/29471738/senior-software-engineer-backend-developer-x402?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - USA | Remote | Oct 06 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://jobr.pro/job/29489097/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Oct 06 |
 | **[Bosch Group](https://www.bosch.com)** | **[Java Backend Developer (Aveiro)](https://jobr.pro/job/29488845/java-backend-developer-aveiro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Aveiro, Portugal | On Site | Oct 06 |
 | **[TechBiz Global](https://techbiz.global/)** | **[Senior Backend Developer](https://jobr.pro/job/29473155/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Oct 06 |
@@ -40,7 +46,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mono Software](https://mono.software)** | **[Backend Developer](https://jobr.pro/job/29418924/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Osijek, Osječko-baranjska županija, Croatia | On Site | Oct 04 |
 | **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Mid-level Integration Backend Developer](https://jobr.pro/job/29413841/mid-level-integration-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil Offsite | Remote | Oct 04 |
 | **[Accenture](https://www.accenture.com/)** | **[Backend Developer](https://jobr.pro/job/29402560/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok, The ParQ, Thailand | On Site | Oct 04 |
-| **[Akkodis](https://www.akkodis.com/)** | **[BackEnd Developer](https://jobr.pro/job/29357560/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Europe, Italy, Lombardia, Milano | On Site | Oct 03 |
 | **[Varicent](https://www.varicent.com/)** | **[Sr Cloud Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/29365719/sr-cloud-backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Merida, Mexico | Remote | Oct 03 |
 | **[Varicent](https://www.varicent.com/)** | **[Backend developer (Remote - Mexico Only)](https://jobr.pro/job/29365696/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Monterrey, Mexico | Remote | Oct 03 |
 | **[Varicent](https://www.varicent.com/)** | **[Python Backend Developer (Remote - Argentina Only)](https://jobr.pro/job/29365712/python-backend-developer-remote-argentina-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | La plata , Argentina | Remote | Oct 03 |
@@ -49,8 +54,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Varicent](https://www.varicent.com/)** | **[Sr Backend Developer (Remote - Argentina Only)](https://jobr.pro/job/29365717/sr-backend-developer-remote-argentina-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Argentina | Remote | Oct 03 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Senior Backend Developer](https://jobr.pro/job/29366877/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Oct 03 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Backend Developer II (Backend Java)](https://jobr.pro/job/29367461/backend-developer-ii-backend-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Quebec, Canada | On Site | Oct 03 |
-| **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - Onramp)](https://jobr.pro/job/29354667/senior-software-engineer-backend-developer-onramp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - USA | Remote | Oct 03 |
-| **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - Stablecoin Payments)](https://jobr.pro/job/29354668/senior-software-engineer-backend-developer-stablecoin-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - USA | Remote | Oct 03 |
 | **[Appsforce](https://appsforce.io/)** | **[Backend Developer](https://jobr.pro/job/29401265/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 03 |
 | **[CrewBloom](https://crewbloom.com/)** | **[Senior Backend Developer (CORE)](https://jobr.pro/job/29399210/senior-backend-developer-core?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Philippines - Remote | Remote | Oct 03 |
 | **[Unity](https://unity.com/)** | **[Développeur Backend Principal, Offerwall / Staff Backend Developer, Offerwall](https://jobr.pro/job/29360219/developpeur-backend-principal-offerwall-staff-backend-developer-offerwall?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Canada | On Site | Oct 03 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MasterBorn](https://masterborn.com/)** | **[Junior Backend Developer (Node.js)](https://jobr.pro/job/29358349/junior-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław or remotely | Remote | Oct 03 |
 | **[Docplanner](https://www.docplanner.com)** | **[Backend Developer](https://jobr.pro/job/29371235/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bologna, Emilia-Romagna, Italy | On Site | Oct 03 |
 | **[Octopus Energy](https://octopus.energy/)** | **[Backend Developer](https://jobr.pro/job/29358487/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ascoli Piceno (IT) | On Site | Oct 03 |
-| **[Frontegg](https://frontegg.com/)** | **[Senior Backend Developer](https://jobr.pro/job/29326802/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Israel, IL | On Site | Oct 03 |
-| **[Continental](https://www.continental.com)** | **[Backend Developer (Fleet Solutions)](https://jobr.pro/job/29284559/backend-developer-fleet-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lousado, Braga, Portugal | On Site | Oct 03 |
-| **[Two Six Technologies](https://twosixtech.com/)** | **[Technical Software Lead - Backend Developer](https://jobr.pro/job/29281347/technical-software-lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote, USA | Remote | Oct 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 48% remote | 40 companies | Avg salary: 219k  
+**Current Stats:** 50 jobs | 48% remote | 38 companies | Avg salary: 199k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
