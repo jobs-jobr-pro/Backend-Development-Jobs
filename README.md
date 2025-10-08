@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 07, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 08, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Citi](https://www.citigroup.com/)** | **[Officer- Java Backend Developer](https://jobr.pro/job/29560523/officer-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Oct 08 |
 | **[Pure Storage](https://www.purestorage.com/)** | **[Backend Developer - Go,K8s](https://jobr.pro/job/29483108/backend-developer-gok8s?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Oct 07 |
 | **[Gemmo](https://gemmo.ai/)** | **[Internship - Backend Developer for AI Applications](https://jobr.pro/job/29502719/internship-backend-developer-for-ai-applications?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Genoa, Metropolitan City of Genoa, Italy | On Site | Oct 07 |
 | **[Telia](https://www.teliacompany.com/)** | **[Senior Backend Developer (Java/Kotlin)](https://jobr.pro/job/29538271/senior-backend-developer-javakotlin?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Göteborg, Sweden | On Site | Oct 07 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Frontegg](https://frontegg.com/)** | **[Senior Backend Developer](https://jobr.pro/job/29326802/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Israel, IL | On Site | Oct 03 |
 | **[Continental](https://www.continental.com)** | **[Backend Developer (Fleet Solutions)](https://jobr.pro/job/29284559/backend-developer-fleet-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lousado, Braga, Portugal | On Site | Oct 03 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[Technical Software Lead - Backend Developer](https://jobr.pro/job/29281347/technical-software-lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote, USA | Remote | Oct 02 |
-| **[Scorewarrior](https://scorewarrior.com/)** | **[Game Backend Developer](https://jobr.pro/job/29271546/game-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Limassol, Lemesos, Cyprus | On Site | Oct 02 |
 
 ---
 
