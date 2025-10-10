@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 10, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 10, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Interfell](https://www.interfell.com)** | **[BACKEND DEVELOPER (NODEJS)](https://jobr.pro/job/29955403/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 10 |
+| **[PostNord Group](https://www.postnord.com/)** | **[Experienced Backend Developer - Tracking Information Team, Solna](https://jobr.pro/job/29974930/experienced-backend-developer-tracking-information-team-solna?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Solna | On Site | Oct 10 |
 | **[Viaplay Group](https://www.viaplaygroup.com/)** | **[Backend Developer](https://jobr.pro/job/29951409/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Sweden | On Site | Oct 10 |
 | **[Nexi Group](https://www.nexigroup.com/)** | **[Junior Backend Developer](https://jobr.pro/job/29943469/junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Germany | On Site | Oct 10 |
 | **[Bookaway](https://www.bookaway.com/)** | **[Senior Backend Developer](https://jobr.pro/job/29963272/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Oct 10 |
@@ -21,7 +22,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Worldline](https://www.worldline.com)** | **[Java Backend Developer](https://jobr.pro/job/29922902/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bucharest, B, RO | On Site | Oct 10 |
 | **[Zensar](https://www.zensar.com/)** | **[API Development - Java Backend Developer](https://jobr.pro/job/29961958/api-development-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Oct 10 |
 | **[Basic-Fit](https://www.basic-fit.com/)** | **[Senior Backend Developer (Node.Js)](https://jobr.pro/job/29897540/senior-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Basic-Fit HQ NL Tilburg, Netherlands | On Site | Oct 10 |
+| **[Engineering Group](https://www.eng.it/)** | **[Junior Backend Developer](https://jobr.pro/job/29978364/junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bari (La Marchesa), Italy | On Site | Oct 10 |
 | **[Telia](https://www.teliacompany.com/)** | **[Backend Developer](https://jobr.pro/job/29964836/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Lithuania | On Site | Oct 10 |
+| **[Thales](https://www.thalesgroup.com/)** | **[Technical Lead - Java Backend Developer](https://jobr.pro/job/29981145/technical-lead-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Indraprastha, India | On Site | Oct 10 |
 | **[Monks](https://www.monks.com/)** | **[Senior Backend Developer - Golang](https://jobr.pro/job/29907808/senior-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida | On Site | Oct 09 |
 | **[Earnix](https://earnix.com/)** | **[Backend Developer - Maternity Leave Replacement (9 month)](https://jobr.pro/job/29876146/backend-developer-maternity-leave-replacement-9-month?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Oct 09 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://jobr.pro/job/29909949/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Oct 09 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Weekday](https://www.weekday.works)** | **[Backend Developer (Python / FastAPI)](https://jobr.pro/job/29438484/backend-developer-python-fastapi?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, Maharashtra, India | On Site | Oct 06 |
 | **[Synechron](https://www.synechron.com/)** | **[Java backend developer](https://jobr.pro/job/29452250/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Hinjewadi (Ascendas), India | On Site | Oct 06 |
 | **[IVIX](https://www.ivix.ai/)** | **[Senior Backend Developer](https://jobr.pro/job/29445413/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 05 |
-| **[CodeValue](https://codevalue.net/)** | **[Senior Backend Developer](https://jobr.pro/job/29446868/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Israel, IL | On Site | Oct 05 |
-| **[Corporativo Lumston](https://www.lumston.com/)** | **[Backend Developer (Node.js/Nest.js)](https://jobr.pro/job/29436193/backend-developer-nodejsnestjs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico - Remote | Remote | Oct 05 |
-| **[Viva Wallet](https://www.vivawallet.com/)** | **[Backend Developer (Hybrid or Onsite)](https://jobr.pro/job/29433917/backend-developer-hybrid-or-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Marousi, Attica, Greece | On Site | Oct 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 40 companies | Avg salary: 199k  
+**Current Stats:** 50 jobs | 24% remote | 40 companies | Avg salary: 199k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
