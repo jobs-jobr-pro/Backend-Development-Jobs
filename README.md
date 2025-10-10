@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 10, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 10, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Nexi Group](https://www.nexigroup.com/)** | **[Junior Backend Developer](https://jobr.pro/job/29943469/junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Germany | On Site | Oct 10 |
 | **[Worldline](https://www.worldline.com)** | **[Java Backend Developer](https://jobr.pro/job/29922902/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bucharest, B, RO | On Site | Oct 10 |
 | **[Basic-Fit](https://www.basic-fit.com/)** | **[Senior Backend Developer (Node.Js)](https://jobr.pro/job/29897540/senior-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Basic-Fit HQ NL Tilburg, Netherlands | On Site | Oct 10 |
 | **[Monks](https://www.monks.com/)** | **[Senior Backend Developer - Golang](https://jobr.pro/job/29907808/senior-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida | On Site | Oct 09 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mono Software](https://mono.software)** | **[Backend Developer](https://jobr.pro/job/29418924/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Osijek, Osječko-baranjska županija, Croatia | On Site | Oct 04 |
 | **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Mid-level Integration Backend Developer](https://jobr.pro/job/29413841/mid-level-integration-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil Offsite | Remote | Oct 04 |
 | **[Accenture](https://www.accenture.com/)** | **[Backend Developer](https://jobr.pro/job/29402560/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok, The ParQ, Thailand | On Site | Oct 04 |
-| **[Varicent](https://www.varicent.com/)** | **[Sr Cloud Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/29365719/sr-cloud-backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Merida, Mexico | Remote | Oct 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 42 companies | Avg salary: 199k  
+**Current Stats:** 50 jobs | 28% remote | 42 companies | Avg salary: 199k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
