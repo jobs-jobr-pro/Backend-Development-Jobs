@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -25,6 +25,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Engineering Group](https://www.eng.it/)** | **[Junior Backend Developer](https://jobr.pro/job/29978364/junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bari (La Marchesa), Italy | On Site | Oct 10 |
 | **[Telia](https://www.teliacompany.com/)** | **[Backend Developer](https://jobr.pro/job/29964836/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Lithuania | On Site | Oct 10 |
 | **[Thales](https://www.thalesgroup.com/)** | **[Technical Lead - Java Backend Developer](https://jobr.pro/job/29981145/technical-lead-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Indraprastha, India | On Site | Oct 10 |
+| **[Tietoevry](https://www.tietoevry.com/)** | **[Senior .NET backend developer \| MS SQL, REST API, AI - Tietoevry Tech Services (m/f/d)](https://jobr.pro/job/29988199/senior-net-backend-developer-ms-sql-rest-api-ai-tietoevry-tech-services-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ostrava - Organica, Czechia | On Site | Oct 10 |
 | **[Monks](https://www.monks.com/)** | **[Senior Backend Developer - Golang](https://jobr.pro/job/29907808/senior-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida | On Site | Oct 09 |
 | **[Earnix](https://earnix.com/)** | **[Backend Developer - Maternity Leave Replacement (9 month)](https://jobr.pro/job/29876146/backend-developer-maternity-leave-replacement-9-month?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Oct 09 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://jobr.pro/job/29909949/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Oct 09 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Earnix](https://earnix.com/)** | **[Backend Developer](https://jobr.pro/job/29446332/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Oct 06 |
 | **[Weekday](https://www.weekday.works)** | **[Backend Developer (Python / FastAPI)](https://jobr.pro/job/29438484/backend-developer-python-fastapi?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, Maharashtra, India | On Site | Oct 06 |
 | **[Synechron](https://www.synechron.com/)** | **[Java backend developer](https://jobr.pro/job/29452250/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Hinjewadi (Ascendas), India | On Site | Oct 06 |
-| **[IVIX](https://www.ivix.ai/)** | **[Senior Backend Developer](https://jobr.pro/job/29445413/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 05 |
 
 ---
 
