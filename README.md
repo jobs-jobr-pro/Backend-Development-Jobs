@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 11, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -18,7 +18,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[team.blue](https://team.blue/)** | **[Backend Developer](https://jobr.pro/job/30035109/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Leiden, Netherlands | On Site | Oct 10 |
 | **[Bosch Group](https://www.bosch.com)** | **[Java Backend Developer (f/m/div.)](https://jobr.pro/job/30020525/java-backend-developer-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Aveiro, Portugal | On Site | Oct 10 |
 | **[Docplanner](https://www.docplanner.com)** | **[Backend Developer (Full Remote)](https://jobr.pro/job/30010590/backend-developer-full-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Turin, Piedmont, Italy | Remote | Oct 10 |
+| **[Tangany](https://tangany.com/)** | **[(Senior) Backend Developer (f/m/d)](https://jobr.pro/job/30040909/senior-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich, Germany | On Site | Oct 10 |
 | **[Interfell](https://www.interfell.com)** | **[BACKEND DEVELOPER (NODEJS)](https://jobr.pro/job/29955403/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 10 |
+| **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Senior Backend Developer](https://jobr.pro/job/30046132/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Nasr City, Al Manteqah Al Oula, Egypt | On Site | Oct 10 |
 | **[PostNord Group](https://www.postnord.com/)** | **[Experienced Backend Developer - Tracking Information Team, Solna](https://jobr.pro/job/29974930/experienced-backend-developer-tracking-information-team-solna?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Solna | On Site | Oct 10 |
 | **[Ingenious Lion](https://www.ingeniouslion.com/)** | **[BI Backend Developer](https://jobr.pro/job/30035070/bi-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Portugal | On Site | Oct 10 |
 | **[Viaplay Group](https://www.viaplaygroup.com/)** | **[Backend Developer](https://jobr.pro/job/29951409/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Sweden | On Site | Oct 10 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pure Storage](https://www.purestorage.com/)** | **[Backend Developer - Go,K8s](https://jobr.pro/job/29483108/backend-developer-gok8s?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Oct 07 |
 | **[Gemmo](https://gemmo.ai/)** | **[Internship - Backend Developer for AI Applications](https://jobr.pro/job/29502719/internship-backend-developer-for-ai-applications?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Genoa, Metropolitan City of Genoa, Italy | On Site | Oct 07 |
 | **[Telia](https://www.teliacompany.com/)** | **[Senior Backend Developer (Java/Kotlin)](https://jobr.pro/job/29538271/senior-backend-developer-javakotlin?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Göteborg, Sweden | On Site | Oct 07 |
-| **[Bosch Group](https://www.bosch.com)** | **[Java Backend Developer (Aveiro)](https://jobr.pro/job/29488845/java-backend-developer-aveiro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Aveiro, Portugal | On Site | Oct 06 |
-| **[TechBiz Global](https://techbiz.global/)** | **[Senior Backend Developer](https://jobr.pro/job/29473155/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Oct 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 42 companies | Avg salary: 198k  
+**Current Stats:** 50 jobs | 20% remote | 43 companies | Avg salary: 198k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
