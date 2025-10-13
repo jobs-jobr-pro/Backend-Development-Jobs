@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 13, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Qwello](https://qwello.eu/)** | **[Backend Developer](https://jobr.pro/job/30080873/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich, Bavaria | On Site | Oct 12 |
 | **[Esri](https://www.esri.com/)** | **[Sr. C++ Backend Developer](https://jobr.pro/job/30002137/sr-c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris, FR | On Site | Oct 10 |
 | **[Monks](https://www.monks.com/)** | **[Senior Backend Developer - Golang (Remote)](https://jobr.pro/job/30010490/senior-backend-developer-golang-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore | Remote | Oct 10 |
 | **[team.blue](https://team.blue/)** | **[Backend Developer](https://jobr.pro/job/30035109/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Leiden, Netherlands | On Site | Oct 10 |
@@ -48,12 +49,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java Backend Developer](https://jobr.pro/job/29867812/software-engineer-iii-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Palo Alto, CA, United States | On Site | Oct 08 |
 | **[Natixis in Portugal](https://www.natixis.com)** | **[Senior Backend Developer \| Payments (Porto/Lisbon)](https://jobr.pro/job/29833079/senior-backend-developer-payments-portolisbon?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal, Portugal, Portugal | On Site | Oct 08 |
 | **[Getnet](https://www.getnet.com.br/)** | **[Mid-Level Backend Developer \| Node.js](https://jobr.pro/job/29823050/mid-level-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil - São Paulo/SP | On Site | Oct 08 |
+| **[Mittwald CM Service](https://www.mittwald.de/)** | **[Backend Developer (m/w/d)](https://jobr.pro/job/29749297/backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Espelkamp, Germany | On Site | Oct 08 |
 | **[SAP](https://www.sap.com/)** | **[Senior Backend Developer - Java, GO, Python](https://jobr.pro/job/29586688/senior-backend-developer-java-go-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Gurgaon, IN, 122002 | On Site | Oct 08 |
 | **[Sky](https://jobs.sky.com/)** | **[Backend Developer](https://jobr.pro/job/29801698/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | LISBON, Portugal | On Site | Oct 08 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Software Engineer - Backend Developer](https://jobr.pro/job/29785981/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Oct 08 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Senior Sofware Engineer - Backend Developer](https://jobr.pro/job/29785977/senior-sofware-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Oct 08 |
 | **[Citi](https://www.citigroup.com/)** | **[Officer- Java Backend Developer](https://jobr.pro/job/29560523/officer-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Oct 08 |
-| **[Mittwald CM Service](https://www.mittwald.de/)** | **[Backend Developer (m/w/d)](https://jobr.pro/job/29749297/backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Espelkamp, Germany | On Site | Oct 08 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - Onramp)](https://jobr.pro/job/29575810/senior-software-engineer-backend-developer-onramp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - Canada | Remote | Oct 07 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - Stablecoin Payments)](https://jobr.pro/job/29575812/senior-software-engineer-backend-developer-stablecoin-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - Canada | Remote | Oct 07 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - x402)](https://jobr.pro/job/29575814/senior-software-engineer-backend-developer-x402?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - Canada | Remote | Oct 07 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Backend Developer - Python/Terraform](https://jobr.pro/job/29584341/backend-developer-pythonterraform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasil | On Site | Oct 07 |
 | **[Pure Storage](https://www.purestorage.com/)** | **[Backend Developer - Go,K8s](https://jobr.pro/job/29483108/backend-developer-gok8s?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Oct 07 |
 | **[Gemmo](https://gemmo.ai/)** | **[Internship - Backend Developer for AI Applications](https://jobr.pro/job/29502719/internship-backend-developer-for-ai-applications?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Genoa, Metropolitan City of Genoa, Italy | On Site | Oct 07 |
-| **[Telia](https://www.teliacompany.com/)** | **[Senior Backend Developer (Java/Kotlin)](https://jobr.pro/job/29538271/senior-backend-developer-javakotlin?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Göteborg, Sweden | On Site | Oct 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 43 companies | Avg salary: 198k  
+**Current Stats:** 50 jobs | 20% remote | 44 companies | Avg salary: 198k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
