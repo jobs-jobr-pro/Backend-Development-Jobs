@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 13, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ubiquiti Inc.](https://www.ui.com/)** | **[Backend Developer (Java)](https://jobr.pro/job/30091825/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm | On Site | Oct 13 |
+| **[moomoo](https://www.moomoo.com/)** | **[Backend Developer, Server (Web 3)](https://jobr.pro/job/30088289/backend-developer-server-web-3?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shenzhen, Guangdong Province, China | On Site | Oct 13 |
+| **[Signaturit Group](https://www.signaturit.com/)** | **[Java Backend Developer](https://jobr.pro/job/30093399/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Puteaux, France | On Site | Oct 12 |
+| **[CropX](https://cropx.com/)** | **[Backend developer](https://jobr.pro/job/30092487/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Haren, Groningen, Netherlands | On Site | Oct 12 |
 | **[Qwello](https://qwello.eu/)** | **[Backend Developer](https://jobr.pro/job/30080873/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich, Bavaria | On Site | Oct 12 |
 | **[Esri](https://www.esri.com/)** | **[Sr. C++ Backend Developer](https://jobr.pro/job/30002137/sr-c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris, FR | On Site | Oct 10 |
 | **[Monks](https://www.monks.com/)** | **[Senior Backend Developer - Golang (Remote)](https://jobr.pro/job/30010490/senior-backend-developer-golang-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore | Remote | Oct 10 |
@@ -59,10 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - Stablecoin Payments)](https://jobr.pro/job/29575812/senior-software-engineer-backend-developer-stablecoin-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - Canada | Remote | Oct 07 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - x402)](https://jobr.pro/job/29575814/senior-software-engineer-backend-developer-x402?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - Canada | Remote | Oct 07 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer - Foundations)](https://jobr.pro/job/29575807/senior-software-engineer-backend-developer-foundations?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - USA | Remote | Oct 07 |
-| **[Akkodis](https://www.akkodis.com/)** | **[Backend Developer](https://jobr.pro/job/29577257/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Europe, Italy, Lombardia, Milano | On Site | Oct 07 |
-| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Backend Developer - Python/Terraform](https://jobr.pro/job/29584341/backend-developer-pythonterraform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasil | On Site | Oct 07 |
-| **[Pure Storage](https://www.purestorage.com/)** | **[Backend Developer - Go,K8s](https://jobr.pro/job/29483108/backend-developer-gok8s?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Oct 07 |
-| **[Gemmo](https://gemmo.ai/)** | **[Internship - Backend Developer for AI Applications](https://jobr.pro/job/29502719/internship-backend-developer-for-ai-applications?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Genoa, Metropolitan City of Genoa, Italy | On Site | Oct 07 |
 
 ---
 
