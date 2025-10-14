@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 14, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 14, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Nexi Group](https://www.nexigroup.com/)** | **[Senior Backend Developer (Alternative Payment Methods)](https://jobr.pro/job/30174123/senior-backend-developer-alternative-payment-methods?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Denmark | On Site | Oct 14 |
 | **[AnyMind Group](https://anymindgroup.com/)** | **[\[AnyTag\] Senior Backend Developer (Kotlin/Java) (Visa and work permit sponsorship to Thailand)](https://jobr.pro/job/30152325/anytag-senior-backend-developer-kotlinjava-visa-and-work-permit-sponsorship-to-thailand?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok | On Site | Oct 14 |
 | **[Nutrafol](https://nutrafol.com/)** | **[Sr. Backend Developer (Magento 2)](https://jobr.pro/job/30138412/sr-backend-developer-magento-2?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 13 |
+| **[Sumsub](https://www.sumsub.com)** | **[Senior Backend Developer](https://jobr.pro/job/30176234/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Limassol, Cyprus | Remote | Oct 13 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Java Backend Developer](https://jobr.pro/job/30098638/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | US-PA-Pittsburgh | On Site | Oct 13 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://jobr.pro/job/30142372/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Oct 13 |
 | **[IDIQ](https://www.idiq.com)** | **[Senior Backend Developer](https://jobr.pro/job/30150119/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, India | On Site | Oct 13 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cofinpro AG](https://cofinpro.de/)** | **[Backend Developer Java (w/m/d)](https://jobr.pro/job/29841550/backend-developer-java-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Frankfurt am Main, München, Berlin, Karlsruhe, Hannover, Köln, Stuttgart | On Site | Oct 09 |
 | **[Winning](https://www.winning-consulting.com/)** | **[SR Backend Developer](https://jobr.pro/job/29870534/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Spain - Remote | Remote | Oct 09 |
 | **[Weekday](https://www.weekday.works)** | **[Backend Developer](https://jobr.pro/job/29851944/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kolkata, West Bengal, India | On Site | Oct 09 |
-| **[Bosch Group](https://www.bosch.com)** | **[Senior Backend Developer](https://jobr.pro/job/29809758/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Guadalajara, Jal., Mexico | On Site | Oct 08 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java Backend Developer](https://jobr.pro/job/29867812/software-engineer-iii-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Palo Alto, CA, United States | On Site | Oct 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 165k  
+**Current Stats:** 50 jobs | 18% remote | 47 companies | Avg salary: 165k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
