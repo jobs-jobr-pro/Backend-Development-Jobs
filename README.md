@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 13, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 14, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Accenture](https://www.accenture.com/)** | **[Thailand - Java Backend Developer Opportunity](https://jobr.pro/job/30104626/thailand-java-backend-developer-opportunity?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok, The ParQ, Thailand | On Site | Oct 13 |
 | **[Ubiquiti Inc.](https://www.ui.com/)** | **[Backend Developer (Java)](https://jobr.pro/job/30091825/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm | On Site | Oct 13 |
 | **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Backend Developer (Associate Cloud Engineer)](https://jobr.pro/job/30118035/backend-developer-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MY-PJA-002, Malaysia | On Site | Oct 13 |
+| **[ING](https://www.ing.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/30132207/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TESTI, Italy | On Site | Oct 13 |
 | **[Sports Entertainment Network](https://www.sportsentertainmentnetwork.com.au/)** | **[Backend Developer](https://jobr.pro/job/30107567/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Melbourne, Victoria 3000, Australia | On Site | Oct 12 |
 | **[Signaturit Group](https://www.signaturit.com/)** | **[Java Backend Developer](https://jobr.pro/job/30093399/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Puteaux, France | On Site | Oct 12 |
 | **[CropX](https://cropx.com/)** | **[Backend developer](https://jobr.pro/job/30092487/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Haren, Groningen, Netherlands | On Site | Oct 12 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Citi](https://www.citigroup.com/)** | **[Officer- Java Backend Developer](https://jobr.pro/job/29560523/officer-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Oct 08 |
 | **[SAP](https://www.sap.com/)** | **[Senior Backend Developer - Java, GO, Python](https://jobr.pro/job/29586688/senior-backend-developer-java-go-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Gurgaon, IN, 122002 | On Site | Oct 08 |
 | **[Mittwald CM Service](https://www.mittwald.de/)** | **[Backend Developer (m/w/d)](https://jobr.pro/job/29749297/backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Espelkamp, Germany | On Site | Oct 08 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Software Engineer - Backend Developer](https://jobr.pro/job/29785981/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Oct 08 |
 
 ---
 
