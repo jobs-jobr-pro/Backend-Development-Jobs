@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 15, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CLS Health](https://cls.health/)** | **[Backend Developer](https://jobr.pro/job/30250798/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Webster, TX, US | On Site | Oct 15 |
 | **[Affirm](https://www.affirm.com/)** | **[Senior Software Engineer, Backend (Developer Environments)](https://jobr.pro/job/30228211/senior-software-engineer-backend-developer-environments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote Canada | Remote | Oct 14 |
 | **[Smartpricing](https://www.smartpricing.it/)** | **[Backend Developer Integrations team - Contractor](https://jobr.pro/job/30212275/backend-developer-integrations-team-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 14 |
 | **[Inetum](https://www.inetum.com)** | **[SENIOR BACKEND DEVELOPER - Monokera](https://jobr.pro/job/30223598/senior-backend-developer-monokera?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bogotá, Bogota, Colombia | On Site | Oct 14 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Thales](https://www.thalesgroup.com/)** | **[Technical Lead - Java Backend Developer](https://jobr.pro/job/29981145/technical-lead-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Indraprastha, India | On Site | Oct 10 |
 | **[Basic-Fit](https://www.basic-fit.com/)** | **[Senior Backend Developer (Node.Js)](https://jobr.pro/job/29897540/senior-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Basic-Fit HQ NL Tilburg, Netherlands | On Site | Oct 10 |
 | **[Telia](https://www.teliacompany.com/)** | **[Backend Developer](https://jobr.pro/job/29964836/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Lithuania | On Site | Oct 10 |
-| **[Monks](https://www.monks.com/)** | **[Senior Backend Developer - Golang](https://jobr.pro/job/29907808/senior-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida | On Site | Oct 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 47 companies | Avg salary: 183k  
+**Current Stats:** 50 jobs | 20% remote | 48 companies | Avg salary: 183k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
