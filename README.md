@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 16, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 16, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Sidelines Group](https://sidelinesgroup.com/)** | **[Backend Developer](https://jobr.pro/job/30382126/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Oct 16 |
+| **[Tezza Business Solutions](https://tezzasolutions.com/)** | **[Backend Developer (Java)](https://jobr.pro/job/30393529/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lagos, Lagos | On Site | Oct 16 |
 | **[Interfell](https://www.interfell.com)** | **[BACKEND DEVELOPER](https://jobr.pro/job/30376125/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 16 |
 | **[HARMAN International](https://www.harman.com/)** | **[Java Backend developer](https://jobr.pro/job/30371241/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Oct 16 |
 | **[Bankdata](https://www.bankdata.dk/)** | **[Senior Backend Developer](https://jobr.pro/job/30370893/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Fredericia, Denmark | On Site | Oct 16 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[team.blue](https://team.blue/)** | **[Backend Developer](https://jobr.pro/job/30035109/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Leiden, Netherlands | On Site | Oct 10 |
 | **[Bosch Group](https://www.bosch.com)** | **[Java Backend Developer (f/m/div.)](https://jobr.pro/job/30020525/java-backend-developer-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Aveiro, Portugal | On Site | Oct 10 |
 | **[Docplanner](https://www.docplanner.com)** | **[Backend Developer (Full Remote)](https://jobr.pro/job/30010590/backend-developer-full-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Turin, Piedmont, Italy | Remote | Oct 10 |
-| **[Tangany](https://tangany.com/)** | **[(Senior) Backend Developer (f/m/d)](https://jobr.pro/job/30040909/senior-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich, Germany | On Site | Oct 10 |
 
 ---
 
