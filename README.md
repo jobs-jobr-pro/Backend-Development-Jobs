@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 17, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -14,8 +14,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend Developer](https://jobr.pro/job/30462409/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Ramon, United States | On Site | Oct 17 |
-| **[Telia](https://www.teliacompany.com/)** | **[Senior Backend Developer (Java)](https://jobr.pro/job/30469066/senior-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Lithuania | On Site | Oct 17 |
 | **[Driven Properties](https://www.drivenproperties.com/)** | **[Senior Backend Developer (Node.js / TypeScript)](https://jobr.pro/job/30462927/senior-backend-developer-nodejs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Oct 17 |
+| **[Telia](https://www.teliacompany.com/)** | **[Senior Backend Developer (Java)](https://jobr.pro/job/30469066/senior-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Lithuania | On Site | Oct 17 |
+| **[Sartorius](https://www.sartorius.com/)** | **[Backend Developer – Java (x\|f\|m) - Hybrid](https://jobr.pro/job/30490183/backend-developer-java-xfm-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Madrid, Spain | On Site | Oct 17 |
 | **[T-Systems International](https://www.t-systems.com)** | **[Java Backend Developer](https://jobr.pro/job/30423748/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Barcelona, CT, Spain | On Site | Oct 16 |
 | **[Talan](https://talan.com)** | **[Expert Batch Backend Developer](https://jobr.pro/job/30432101/expert-batch-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Callao Region, Peru | On Site | Oct 16 |
 | **[Oracle](https://www.oracle.com/)** | **[Remote Principal Backend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/30451322/remote-principal-backend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Oct 16 |
@@ -38,8 +39,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CodeValue](https://codevalue.net/)** | **[Senior Backend Developer](https://jobr.pro/job/30274640/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Israel, IL | On Site | Oct 15 |
 | **[ISI](https://www.imagesatintl.com/)** | **[Backend Developer](https://jobr.pro/job/30274050/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Or Yehuda, ISRAEL, IL | On Site | Oct 15 |
 | **[CLS Health](https://cls.health/)** | **[Backend Developer](https://jobr.pro/job/30250798/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Webster, TX, US | On Site | Oct 15 |
-| **[Makro PRO](https://www.siammakro.co.th/)** | **[Senior Backend Developer (MakroPRO)](https://jobr.pro/job/30258869/senior-backend-developer-makropro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok, Bangkok, Thailand - Remote | Remote | Oct 15 |
 | **[Cochlear](https://www.cochlear.com/)** | **[Backend Developer/ Devops](https://jobr.pro/job/30301916/backend-developer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AU Macquarie, Australia | On Site | Oct 15 |
+| **[Makro PRO](https://www.siammakro.co.th/)** | **[Senior Backend Developer (MakroPRO)](https://jobr.pro/job/30258869/senior-backend-developer-makropro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok, Bangkok, Thailand - Remote | Remote | Oct 15 |
 | **[Affirm](https://www.affirm.com/)** | **[Senior Software Engineer, Backend (Developer Environments)](https://jobr.pro/job/30228211/senior-software-engineer-backend-developer-environments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote Canada | Remote | Oct 14 |
 | **[Smartpricing](https://www.smartpricing.it/)** | **[Backend Developer Integrations team - Contractor](https://jobr.pro/job/30212275/backend-developer-integrations-team-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 14 |
 | **[Inetum](https://www.inetum.com)** | **[SENIOR BACKEND DEVELOPER - Monokera](https://jobr.pro/job/30223598/senior-backend-developer-monokera?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bogotá, Bogota, Colombia | On Site | Oct 14 |
@@ -55,14 +56,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[IDIQ](https://www.idiq.com)** | **[Backend Developer (.NET Core)](https://jobr.pro/job/30150120/backend-developer-net-core?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, India | On Site | Oct 13 |
 | **[Techster Solutions](https://www.techstersolutions.se)** | **[Senior Backend Developer](https://jobr.pro/job/30095396/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lund, Sweden | On Site | Oct 13 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/30139519/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Oct 13 |
-| **[BlackRock](https://www.blackrock.com/)** | **[Application Engineer (Java Backend Developer), Aladdin Engineering, Vice President](https://jobr.pro/job/30132994/application-engineer-java-backend-developer-aladdin-engineering-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MU8-South (A) Wing, 7-10 Floor, Nesco IT Park Tower 4, Western Express Highway, Mumbai, India | On Site | Oct 13 |
 | **[moomoo](https://www.moomoo.com/)** | **[Backend Developer, Server (Web 3)](https://jobr.pro/job/30088289/backend-developer-server-web-3?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shenzhen, Guangdong Province, China | On Site | Oct 13 |
-| **[Accenture](https://www.accenture.com/)** | **[Thailand - Java Backend Developer Opportunity](https://jobr.pro/job/30104626/thailand-java-backend-developer-opportunity?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok, The ParQ, Thailand | On Site | Oct 13 |
 | **[Ubiquiti Inc.](https://www.ui.com/)** | **[Backend Developer (Java)](https://jobr.pro/job/30091825/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm | On Site | Oct 13 |
-| **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Backend Developer (Associate Cloud Engineer)](https://jobr.pro/job/30118035/backend-developer-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MY-PJA-002, Malaysia | On Site | Oct 13 |
 | **[ING](https://www.ing.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/30132207/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TESTI, Italy | On Site | Oct 13 |
+| **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Backend Developer (Associate Cloud Engineer)](https://jobr.pro/job/30118035/backend-developer-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MY-PJA-002, Malaysia | On Site | Oct 13 |
+| **[Accenture](https://www.accenture.com/)** | **[Thailand - Java Backend Developer Opportunity](https://jobr.pro/job/30104626/thailand-java-backend-developer-opportunity?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok, The ParQ, Thailand | On Site | Oct 13 |
+| **[BlackRock](https://www.blackrock.com/)** | **[Application Engineer (Java Backend Developer), Aladdin Engineering, Vice President](https://jobr.pro/job/30132994/application-engineer-java-backend-developer-aladdin-engineering-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MU8-South (A) Wing, 7-10 Floor, Nesco IT Park Tower 4, Western Express Highway, Mumbai, India | On Site | Oct 13 |
 | **[Sports Entertainment Network](https://www.sportsentertainmentnetwork.com.au/)** | **[Backend Developer](https://jobr.pro/job/30107567/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Melbourne, Victoria 3000, Australia | On Site | Oct 12 |
-| **[Signaturit Group](https://www.signaturit.com/)** | **[Java Backend Developer](https://jobr.pro/job/30093399/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Puteaux, France | On Site | Oct 12 |
 
 ---
 
