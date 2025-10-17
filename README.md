@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 17, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -15,6 +15,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[T-Systems International](https://www.t-systems.com)** | **[Java Backend Developer](https://jobr.pro/job/30423748/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Barcelona, CT, Spain | On Site | Oct 16 |
 | **[Talan](https://talan.com)** | **[Expert Batch Backend Developer](https://jobr.pro/job/30432101/expert-batch-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Callao Region, Peru | On Site | Oct 16 |
+| **[Oracle](https://www.oracle.com/)** | **[Remote Principal Backend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/30451322/remote-principal-backend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Oct 16 |
+| **[Oracle](https://www.oracle.com/)** | **[Remote Senior Backend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/30451320/remote-senior-backend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Oct 16 |
 | **[Sidelines Group](https://sidelinesgroup.com/)** | **[Backend Developer](https://jobr.pro/job/30382126/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Oct 16 |
 | **[Tezza Business Solutions](https://tezzasolutions.com/)** | **[Backend Developer (Java)](https://jobr.pro/job/30393529/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lagos, Lagos | On Site | Oct 16 |
 | **[Interfell](https://www.interfell.com)** | **[BACKEND DEVELOPER](https://jobr.pro/job/30376125/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 16 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CropX](https://cropx.com/)** | **[Backend developer](https://jobr.pro/job/30092487/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Haren, Groningen, Netherlands | On Site | Oct 12 |
 | **[Qwello](https://qwello.eu/)** | **[Backend Developer](https://jobr.pro/job/30080873/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich, Bavaria | On Site | Oct 12 |
 | **[12Go Asia](https://12go.asia)** | **[Senior Backend Developer (PHP)](https://jobr.pro/job/30100692/senior-backend-developer-php?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland - Remote | Remote | Oct 12 |
-| **[Esri](https://www.esri.com/)** | **[Sr. C++ Backend Developer](https://jobr.pro/job/30002137/sr-c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris, FR | On Site | Oct 10 |
-| **[Monks](https://www.monks.com/)** | **[Senior Backend Developer - Golang (Remote)](https://jobr.pro/job/30010490/senior-backend-developer-golang-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore | Remote | Oct 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 48 companies | Avg salary: 138k  
+**Current Stats:** 50 jobs | 22% remote | 47 companies | Avg salary: 163k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
