@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Schréder](https://www.schreder.com)** | **[Backend developer](https://jobr.pro/job/30638970/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Carcavelos, Lisbon, Portugal | On Site | Oct 20 |
 | **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobr.pro/job/30626324/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Isidro, Lima Province, Peru | On Site | Oct 20 |
 | **[Klick](https://www.klick.com/)** | **[Backend Developer (Platforms – AEM, Drupal, Adobe Target, GTM)](https://jobr.pro/job/30621559/backend-developer-platforms-aem-drupal-adobe-target-gtm?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Ontario | On Site | Oct 20 |
 | **[Galaxy](https://galaxy.com/)** | **[Senior Backend Developer (C#)](https://jobr.pro/job/30619729/senior-backend-developer-c?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote (Eastern or Central time zones) | Remote | Oct 20 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Affirm](https://www.affirm.com/)** | **[Senior Software Engineer, Backend (Developer Environments)](https://jobr.pro/job/30228211/senior-software-engineer-backend-developer-environments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote Canada | Remote | Oct 14 |
 | **[Smartpricing](https://www.smartpricing.it/)** | **[Backend Developer Integrations team - Contractor](https://jobr.pro/job/30212275/backend-developer-integrations-team-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 14 |
 | **[Inetum](https://www.inetum.com)** | **[SENIOR BACKEND DEVELOPER - Monokera](https://jobr.pro/job/30223598/senior-backend-developer-monokera?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bogotá, Bogota, Colombia | On Site | Oct 14 |
-| **[Nexi Group](https://www.nexigroup.com/)** | **[Senior Backend Developer (Alternative Payment Methods)](https://jobr.pro/job/30174123/senior-backend-developer-alternative-payment-methods?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Denmark | On Site | Oct 14 |
 
 ---
 
