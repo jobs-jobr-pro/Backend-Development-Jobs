@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Zesty](https://zesty.co/)** | **[Senior Backend Developer (Kubernetes)](https://jobr.pro/job/30675059/senior-backend-developer-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 21 |
+| **[Earnix](https://earnix.com/)** | **[Backend Developer - Maternity Leave Replacement (9 month)](https://jobr.pro/job/30674591/backend-developer-maternity-leave-replacement-9-month?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Oct 21 |
+| **[F-Secure](https://www.f-secure.com/)** | **[Senior Cloud & Backend Developer, TOTAL](https://jobr.pro/job/30680518/senior-cloud-backend-developer-total?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki; Oulu | On Site | Oct 21 |
+| **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30666661/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai City Corporation, India | On Site | Oct 21 |
 | **[Schréder](https://www.schreder.com)** | **[Backend developer](https://jobr.pro/job/30638970/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Carcavelos, Lisbon, Portugal | On Site | Oct 20 |
 | **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobr.pro/job/30626324/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Isidro, Lima Province, Peru | On Site | Oct 20 |
 | **[Klick](https://www.klick.com/)** | **[Backend Developer (Platforms – AEM, Drupal, Adobe Target, GTM)](https://jobr.pro/job/30621559/backend-developer-platforms-aem-drupal-adobe-target-gtm?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Ontario | On Site | Oct 20 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ISI](https://www.imagesatintl.com/)** | **[Backend Developer](https://jobr.pro/job/30274050/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Or Yehuda, ISRAEL, IL | On Site | Oct 15 |
 | **[CLS Health](https://cls.health/)** | **[Backend Developer](https://jobr.pro/job/30250798/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Webster, TX, US | On Site | Oct 15 |
 | **[Cochlear](https://www.cochlear.com/)** | **[Backend Developer/ Devops](https://jobr.pro/job/30301916/backend-developer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AU Macquarie, Australia | On Site | Oct 15 |
-| **[Makro PRO](https://www.siammakro.co.th/)** | **[Senior Backend Developer (MakroPRO)](https://jobr.pro/job/30258869/senior-backend-developer-makropro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok, Bangkok, Thailand - Remote | Remote | Oct 15 |
-| **[Affirm](https://www.affirm.com/)** | **[Senior Software Engineer, Backend (Developer Environments)](https://jobr.pro/job/30228211/senior-software-engineer-backend-developer-environments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote Canada | Remote | Oct 14 |
-| **[Smartpricing](https://www.smartpricing.it/)** | **[Backend Developer Integrations team - Contractor](https://jobr.pro/job/30212275/backend-developer-integrations-team-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 14 |
-| **[Inetum](https://www.inetum.com)** | **[SENIOR BACKEND DEVELOPER - Monokera](https://jobr.pro/job/30223598/senior-backend-developer-monokera?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bogotá, Bogota, Colombia | On Site | Oct 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 42 companies | Avg salary: 142k  
+**Current Stats:** 50 jobs | 28% remote | 42 companies | Avg salary: 128k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
