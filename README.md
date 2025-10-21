@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 20:57 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -62,11 +62,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nokia](https://www.nokia.com/)** | **[Backend Developer Trainee](https://jobr.pro/job/30189692/backend-developer-trainee?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | On Site | Oct 14 |
 | **[AnyMind Group](https://anymindgroup.com/)** | **[\[AnyTag\] Senior Backend Developer (Kotlin/Java) (Visa and work permit sponsorship to Thailand)](https://jobr.pro/job/30152325/anytag-senior-backend-developer-kotlinjava-visa-and-work-permit-sponsorship-to-thailand?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok | On Site | Oct 14 |
 | **[Worldpay](https://www.worldpay.com/)** | **[Senior Java Backend Developer (7-10 Years Core Java, Servlets, JSP)Pune](https://jobr.pro/job/30198633/senior-java-backend-developer-7-10-years-core-java-servlets-jsppune?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IND PUNE STE401 RMZ-WE, India | On Site | Oct 14 |
-| **[Nutrafol](https://nutrafol.com/)** | **[Sr. Backend Developer (Magento 2)](https://jobr.pro/job/30138412/sr-backend-developer-magento-2?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 43 companies | Avg salary: 146k  
+**Current Stats:** 49 jobs | 33% remote | 42 companies | Avg salary: 142k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
