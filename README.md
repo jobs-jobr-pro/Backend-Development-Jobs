@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NTT DATA](https://nttdata.com)** | **[Java Backend Developer](https://jobr.pro/job/30739461/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, KA, IN | On Site | Oct 22 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Backend Developer](https://jobr.pro/job/30716286/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Arlington, VA | On Site | Oct 21 |
 | **[Quadcode](https://group.quadcode.com/)** | **[Python Backend Developer (AI)](https://jobr.pro/job/30727263/python-backend-developer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belarus | Remote | Oct 21 |
+| **[Schréder](https://www.schreder.com)** | **[Backend developer](https://jobr.pro/job/30734318/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Carcavelos, Lisbon, Portugal | On Site | Oct 21 |
+| **[Wilken Software Group](https://www.wilken.de/)** | **[SENIOR BACKEND DEVELOPER JAVA FOCUS FRAMEWORK & MICROSERVICES (M/W/D)](https://jobr.pro/job/30739881/senior-backend-developer-java-focus-framework-microservices-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DE Ulm, Remote, 100 % Home-Office | Remote | Oct 21 |
 | **[Zesty](https://zesty.co/)** | **[Senior Backend Developer (Kubernetes)](https://jobr.pro/job/30675059/senior-backend-developer-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 21 |
 | **[Earnix](https://earnix.com/)** | **[Backend Developer - Maternity Leave Replacement (9 month)](https://jobr.pro/job/30674591/backend-developer-maternity-leave-replacement-9-month?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Oct 21 |
 | **[F-Secure](https://www.f-secure.com/)** | **[Senior Cloud & Backend Developer, TOTAL](https://jobr.pro/job/30680518/senior-cloud-backend-developer-total?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki; Oulu | On Site | Oct 21 |
@@ -23,7 +26,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wix](https://www.wix.com/)** | **[Backend Developer for Wix Services](https://jobr.pro/job/30722369/backend-developer-for-wix-services?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Oct 21 |
 | **[Axis Communications](https://www.axis.com/)** | **[Backend Developer, Lund](https://jobr.pro/job/30697220/backend-developer-lund?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sweden - Lund | On Site | Oct 21 |
 | **[Santander](https://www.santander.com/)** | **[Senior Backend Developer - SDS](https://jobr.pro/job/30705887/senior-backend-developer-sds?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | JUAN IGNACIO LUCA DE TENA-PLANTA PRIMERA, Spain | On Site | Oct 21 |
-| **[Schréder](https://www.schreder.com)** | **[Backend developer](https://jobr.pro/job/30638970/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Carcavelos, Lisbon, Portugal | On Site | Oct 20 |
 | **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobr.pro/job/30626324/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Isidro, Lima Province, Peru | On Site | Oct 20 |
 | **[Klick](https://www.klick.com/)** | **[Backend Developer (Platforms – AEM, Drupal, Adobe Target, GTM)](https://jobr.pro/job/30621559/backend-developer-platforms-aem-drupal-adobe-target-gtm?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Ontario | On Site | Oct 20 |
 | **[Galaxy](https://galaxy.com/)** | **[Senior Backend Developer (C#)](https://jobr.pro/job/30619729/senior-backend-developer-c?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote (Eastern or Central time zones) | Remote | Oct 20 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capco](https://www.capco.com/)** | **[Backend Developer/Full Stack Developer](https://jobr.pro/job/30318939/backend-developerfull-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Thailand - Bangkok | On Site | Oct 16 |
 | **[IRIUM Portugal](https://www.irium.pt/)** | **[Java Backend Developer](https://jobr.pro/job/30384337/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Braga, Coimbra, Lisboa, Braga, Coimbra | On Site | Oct 16 |
 | **[73 Strings](https://www.73strings.com/)** | **[Senior Backend Developer](https://jobr.pro/job/30362972/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, India | On Site | Oct 15 |
-| **[Witco](https://www.witco.io/)** | **[Senior Backend Developer](https://jobr.pro/job/30363254/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris, France | On Site | Oct 15 |
-| **[AT&T Israel R&D Center](https://www.att.com/)** | **[Senior Backend Developer](https://jobr.pro/job/30273505/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Airport, Center District, IL | On Site | Oct 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 42 companies | Avg salary: 139k  
+**Current Stats:** 50 jobs | 32% remote | 42 companies | Avg salary: 139k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
