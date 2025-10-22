@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,10 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Accenture Federal Services](https://www.accenture.com/)** | **[Backend Developer](https://jobr.pro/job/30716286/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Arlington, VA | On Site | Oct 21 |
+| **[Quadcode](https://group.quadcode.com/)** | **[Python Backend Developer (AI)](https://jobr.pro/job/30727263/python-backend-developer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belarus | Remote | Oct 21 |
 | **[Zesty](https://zesty.co/)** | **[Senior Backend Developer (Kubernetes)](https://jobr.pro/job/30675059/senior-backend-developer-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 21 |
 | **[Earnix](https://earnix.com/)** | **[Backend Developer - Maternity Leave Replacement (9 month)](https://jobr.pro/job/30674591/backend-developer-maternity-leave-replacement-9-month?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Oct 21 |
 | **[F-Secure](https://www.f-secure.com/)** | **[Senior Cloud & Backend Developer, TOTAL](https://jobr.pro/job/30680518/senior-cloud-backend-developer-total?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki; Oulu | On Site | Oct 21 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30666661/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai City Corporation, India | On Site | Oct 21 |
+| **[Varrlyn](https://varrlyn.com/)** | **[Senior Backend Developer](https://jobr.pro/job/30720805/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amsterdam, NH, Netherlands | On Site | Oct 21 |
+| **[Wix](https://www.wix.com/)** | **[Backend Developer for Wix Services](https://jobr.pro/job/30722369/backend-developer-for-wix-services?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Oct 21 |
 | **[Axis Communications](https://www.axis.com/)** | **[Backend Developer, Lund](https://jobr.pro/job/30697220/backend-developer-lund?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sweden - Lund | On Site | Oct 21 |
 | **[Santander](https://www.santander.com/)** | **[Senior Backend Developer - SDS](https://jobr.pro/job/30705887/senior-backend-developer-sds?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | JUAN IGNACIO LUCA DE TENA-PLANTA PRIMERA, Spain | On Site | Oct 21 |
 | **[Schréder](https://www.schreder.com)** | **[Backend developer](https://jobr.pro/job/30638970/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Carcavelos, Lisbon, Portugal | On Site | Oct 20 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[73 Strings](https://www.73strings.com/)** | **[Senior Backend Developer](https://jobr.pro/job/30362972/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, India | On Site | Oct 15 |
 | **[Witco](https://www.witco.io/)** | **[Senior Backend Developer](https://jobr.pro/job/30363254/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris, France | On Site | Oct 15 |
 | **[AT&T Israel R&D Center](https://www.att.com/)** | **[Senior Backend Developer](https://jobr.pro/job/30273505/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Airport, Center District, IL | On Site | Oct 15 |
-| **[Encora](https://www.encora.com/)** | **[Java Backend Developer](https://jobr.pro/job/30331917/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Oct 15 |
-| **[Nanit](https://www.nanit.com/)** | **[Backend Developer](https://jobr.pro/job/30320099/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, Israel | On Site | Oct 15 |
-| **[CodeValue](https://codevalue.net/)** | **[Senior Backend Developer](https://jobr.pro/job/30274640/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Israel, IL | On Site | Oct 15 |
-| **[ISI](https://www.imagesatintl.com/)** | **[Backend Developer](https://jobr.pro/job/30274050/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Or Yehuda, ISRAEL, IL | On Site | Oct 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 42 companies | Avg salary: 128k  
+**Current Stats:** 50 jobs | 30% remote | 42 companies | Avg salary: 139k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
