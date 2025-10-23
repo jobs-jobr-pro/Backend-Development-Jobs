@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 23, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 23, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -17,6 +17,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Companeo](https://www.companeo.com/)** | **[Lead Backend Developer (Web Hosting Platform)](https://jobr.pro/job/30858899/lead-backend-developer-web-hosting-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Portugal | On Site | Oct 23 |
 | **[Companeo](https://www.companeo.com/)** | **[Senior / Lead Backend Developer (Web Hosting Platform)](https://jobr.pro/job/30858902/senior-lead-backend-developer-web-hosting-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Portugal | On Site | Oct 23 |
 | **[Boost inc](https://www.boostinc.com/)** | **[Senior Backend Developer (Python / Django)](https://jobr.pro/job/30829995/senior-backend-developer-python-django?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | On Site | Oct 23 |
+| **[Lendo Group](https://www.lendo.group/)** | **[Backend Developer](https://jobr.pro/job/30870334/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Oslo | On Site | Oct 23 |
+| **[Telpark](https://www.telpark.com/)** | **[Backend Developer](https://jobr.pro/job/30884175/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Oficina Vigo, Spain | On Site | Oct 23 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30762179/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 22 |
 | **[Alter Solutions](https://www.alter-solutions.com/)** | **[Senior Backend Developer (ST)](https://jobr.pro/job/30823169/senior-backend-developer-st?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław, Lower Silesian Voivodeship, Poland | On Site | Oct 22 |
 | **[Oracle](https://www.oracle.com/)** | **[Remote Senior Backend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/30765859/remote-senior-backend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Oct 22 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Driven Properties](https://www.drivenproperties.com/)** | **[Senior Backend Developer (Node.js / TypeScript)](https://jobr.pro/job/30462927/senior-backend-developer-nodejs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Oct 17 |
 | **[T-Systems International](https://www.t-systems.com)** | **[Java Backend Developer](https://jobr.pro/job/30423748/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Barcelona, CT, Spain | On Site | Oct 16 |
 | **[Talan](https://talan.com)** | **[Expert Batch Backend Developer](https://jobr.pro/job/30432101/expert-batch-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Callao Region, Peru | On Site | Oct 16 |
-| **[Sidelines Group](https://sidelinesgroup.com/)** | **[Backend Developer](https://jobr.pro/job/30382126/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Oct 16 |
-| **[Tezza Business Solutions](https://tezzasolutions.com/)** | **[Backend Developer (Java)](https://jobr.pro/job/30393529/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lagos, Lagos | On Site | Oct 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 40 companies | Avg salary: 162k  
+**Current Stats:** 50 jobs | 34% remote | 40 companies | Avg salary: 136k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
