@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 23, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 23, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Boost inc](https://www.boostinc.com/)** | **[Senior Backend Developer (Python / Django)](https://jobr.pro/job/30829995/senior-backend-developer-python-django?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | On Site | Oct 23 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30762179/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 22 |
 | **[Alter Solutions](https://www.alter-solutions.com/)** | **[Senior Backend Developer (ST)](https://jobr.pro/job/30823169/senior-backend-developer-st?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław, Lower Silesian Voivodeship, Poland | On Site | Oct 22 |
 | **[Oracle](https://www.oracle.com/)** | **[Remote Senior Backend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/30765859/remote-senior-backend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Oct 22 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[HARMAN International](https://www.harman.com/)** | **[Java Backend developer](https://jobr.pro/job/30371241/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Oct 16 |
 | **[REWE International Dienstleistungsgesellschaft m.b.H](https://rewe-group.at)** | **[(Senior) Backend Developer (m/f/x)](https://jobr.pro/job/30427885/senior-backend-developer-mfx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wien, Austria | On Site | Oct 16 |
 | **[Bankdata](https://www.bankdata.dk/)** | **[Senior Backend Developer](https://jobr.pro/job/30370893/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Fredericia, Denmark | On Site | Oct 16 |
-| **[Capco](https://www.capco.com/)** | **[Backend Developer/Full Stack Developer](https://jobr.pro/job/30318939/backend-developerfull-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Thailand - Bangkok | On Site | Oct 16 |
 
 ---
 
