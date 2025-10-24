@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Lendo Group](https://www.lendo.group/)** | **[Backend Developer](https://jobr.pro/job/30870334/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Oslo | On Site | Oct 23 |
 | **[Telpark](https://www.telpark.com/)** | **[Backend Developer](https://jobr.pro/job/30884175/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Oficina Vigo, Spain | On Site | Oct 23 |
 | **[Gen](https://gendigital.com/)** | **[Backend Developer - Java](https://jobr.pro/job/30889513/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IND - Tamil Nadu, Chennai, India | On Site | Oct 23 |
+| **[Autodesk](https://www.autodesk.com/)** | **[Senior Backend Developer, Internal Developer Portal](https://jobr.pro/job/30893891/senior-backend-developer-internal-developer-portal?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AMER - Canada - British Columbia - Offsite/Home | Remote | Oct 23 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30762179/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 22 |
 | **[Alter Solutions](https://www.alter-solutions.com/)** | **[Senior Backend Developer (ST)](https://jobr.pro/job/30823169/senior-backend-developer-st?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław, Lower Silesian Voivodeship, Poland | On Site | Oct 22 |
 | **[Oracle](https://www.oracle.com/)** | **[Remote Senior Backend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/30765859/remote-senior-backend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Oct 22 |
@@ -65,7 +66,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 49 jobs | 35% remote | 39 companies | Avg salary: 136k  
+**Current Stats:** 50 jobs | 36% remote | 40 companies | Avg salary: 136k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
