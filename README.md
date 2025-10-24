@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Worldline](https://www.worldline.com)** | **[INTERNSHIP - BACKEND DEVELOPER](https://jobr.pro/job/30915323/internship-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noyelles Les Seclin, 59, FR | On Site | Oct 24 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job-25490\] Senior Backend Developer (Node/Python) Brazil](https://jobr.pro/job/30898562/job-25490-senior-backend-developer-nodepython-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Oct 23 |
+| **[Safe Software](https://www.safe.com/)** | **[Integration / Backend Developer III](https://jobr.pro/job/30915872/integration-backend-developer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Surrey, British Columbia, Canada; Surrey, British Columbia, Canada; Surrey, British Columbia, Canada; Surrey, British Columbia, Canada; Surrey, British Columbia, Canada; Surrey, British Columbia, Canada; Surrey, British Columbia, Canada | Remote | Oct 23 |
 | **[Galaxy](https://galaxy.com/)** | **[VP, Backend Developer - Finance Engineering](https://jobr.pro/job/30900999/vp-backend-developer-finance-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New York, NY | On Site | Oct 23 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Backend Developer (Java and Kotlin)](https://jobr.pro/job/30898223/senior-backend-developer-java-and-kotlin?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yerevan, Yerevan, Armenia | On Site | Oct 23 |
 | **[Wix](https://www.wix.com/)** | **[Backend Developer for Wix Services](https://jobr.pro/job/30906908/backend-developer-for-wix-services?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Oct 23 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Varicent](https://www.varicent.com/)** | **[Backend developer (Remote - Mexico Only)](https://jobr.pro/job/30500842/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Monterrey, Mexico | Remote | Oct 17 |
 | **[Varicent](https://www.varicent.com/)** | **[Python Backend Developer(Remote - Argentina Only)](https://jobr.pro/job/30500853/python-backend-developerremote-argentina-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cordoba, Argentina | Remote | Oct 17 |
 | **[Varicent](https://www.varicent.com/)** | **[Python Backend Developer (Remote - Argentina Only)](https://jobr.pro/job/30500852/python-backend-developer-remote-argentina-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | La plata , Argentina | Remote | Oct 17 |
-| **[Varicent](https://www.varicent.com/)** | **[Backend Developer with Kubernetes (Remote - Argentina Only)](https://jobr.pro/job/30500843/backend-developer-with-kubernetes-remote-argentina-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Santa Fe, Argentina | Remote | Oct 17 |
-| **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Argentina Only)](https://jobr.pro/job/30500841/backend-developer-remote-argentina-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Argentina | Remote | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 40 companies | Avg salary: 137k  
+**Current Stats:** 50 jobs | 34% remote | 42 companies | Avg salary: 134k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
