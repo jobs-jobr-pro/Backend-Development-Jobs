@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 25, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Softgic](https://softgic.co/)** | **[Backend Developer](https://jobr.pro/job/31023372/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Medellin, Colombia | On Site | Oct 25 |
 | **[Appnovation Technologies](https://www.appnovation.com/)** | **[Backend Developer](https://jobr.pro/job/30991773/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hong Kong | On Site | Oct 24 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://jobr.pro/job/30991198/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Oct 24 |
 | **[Schibsted & Vend Polska](https://schibsted-vend.pl/)** | **[Backend Developer ( Python)](https://jobr.pro/job/30960872/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kraków | On Site | Oct 24 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Varrlyn](https://varrlyn.com/)** | **[Senior Backend Developer](https://jobr.pro/job/30720805/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amsterdam, NH, Netherlands | On Site | Oct 21 |
 | **[Axis Communications](https://www.axis.com/)** | **[Backend Developer, Lund](https://jobr.pro/job/30697220/backend-developer-lund?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sweden - Lund | On Site | Oct 21 |
 | **[Santander](https://www.santander.com/)** | **[Senior Backend Developer - SDS](https://jobr.pro/job/30705887/senior-backend-developer-sds?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | JUAN IGNACIO LUCA DE TENA-PLANTA PRIMERA, Spain | On Site | Oct 21 |
-| **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobr.pro/job/30626324/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Isidro, Lima Province, Peru | On Site | Oct 20 |
 
 ---
 
