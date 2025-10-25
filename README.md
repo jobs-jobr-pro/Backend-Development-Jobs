@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 25, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Schibsted & Vend Polska](https://schibsted-vend.pl/)** | **[Backend Developer ( Python)](https://jobr.pro/job/30960872/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kraków | On Site | Oct 24 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Backend Developer](https://jobr.pro/job/30945456/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New Cairo, Egypt | On Site | Oct 24 |
 | **[Ditto Insurance](https://joinditto.in/)** | **[Backend Developer (Python & Django)](https://jobr.pro/job/30948633/backend-developer-python-django?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Karnataka, Bengaluru, India | On Site | Oct 24 |
+| **[Tangany](https://tangany.com/)** | **[(Senior) Backend Developer (f/m/d)](https://jobr.pro/job/31002265/senior-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich, Germany | On Site | Oct 24 |
 | **[Interfell](https://www.interfell.com)** | **[BACKEND DEVELOPER](https://jobr.pro/job/30940890/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 24 |
 | **[Interfell](https://www.interfell.com)** | **[SR BACKEND DEVELOPER](https://jobr.pro/job/30940874/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 24 |
 | **[AffiniPay](https://www.affinipay.com/)** | **[Backend Developer](https://jobr.pro/job/30986372/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - Mexico | Remote | Oct 24 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Axis Communications](https://www.axis.com/)** | **[Backend Developer, Lund](https://jobr.pro/job/30697220/backend-developer-lund?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sweden - Lund | On Site | Oct 21 |
 | **[Santander](https://www.santander.com/)** | **[Senior Backend Developer - SDS](https://jobr.pro/job/30705887/senior-backend-developer-sds?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | JUAN IGNACIO LUCA DE TENA-PLANTA PRIMERA, Spain | On Site | Oct 21 |
 | **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobr.pro/job/30626324/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Isidro, Lima Province, Peru | On Site | Oct 20 |
-| **[Klick](https://www.klick.com/)** | **[Backend Developer (Platforms – AEM, Drupal, Adobe Target, GTM)](https://jobr.pro/job/30621559/backend-developer-platforms-aem-drupal-adobe-target-gtm?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Ontario | On Site | Oct 20 |
 
 ---
 
