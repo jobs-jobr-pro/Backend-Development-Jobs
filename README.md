@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 28, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 28, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Axi](https://www.axi.com/)** | **[Senior Backend Developer](https://jobr.pro/job/31115373/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Oct 28 |
 | **[Decklaration](https://decklaration.com/)** | **[Backend Developer (Python + DevOps)](https://jobr.pro/job/31064492/backend-developer-python-devops?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 27 |
 | **[Rapyd](https://www.rapyd.net/)** | **[Backend Developer](https://jobr.pro/job/31071524/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Tel Aviv, IL | On Site | Oct 27 |
 | **[teamative](https://teamative.com/)** | **[Backend Developer C# (.NET Framework)](https://jobr.pro/job/31054172/backend-developer-c-net-framework?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | remote (EU) | Remote | Oct 27 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Telpark](https://www.telpark.com/)** | **[Backend Developer](https://jobr.pro/job/30884175/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Oficina Vigo, Spain | On Site | Oct 23 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30762179/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 22 |
 | **[Alter Solutions](https://www.alter-solutions.com/)** | **[Senior Backend Developer (ST)](https://jobr.pro/job/30823169/senior-backend-developer-st?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław, Lower Silesian Voivodeship, Poland | On Site | Oct 22 |
-| **[Oracle](https://www.oracle.com/)** | **[Remote Senior Backend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/30765859/remote-senior-backend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Oct 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 43 companies | Avg salary: 115k  
+**Current Stats:** 50 jobs | 26% remote | 44 companies | Avg salary: 104k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
