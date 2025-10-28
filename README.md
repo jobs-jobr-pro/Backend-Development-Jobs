@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rapyd](https://www.rapyd.net/)** | **[Backend Developer](https://jobr.pro/job/31071524/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Tel Aviv, IL | On Site | Oct 27 |
 | **[teamative](https://teamative.com/)** | **[Backend Developer C# (.NET Framework)](https://jobr.pro/job/31054172/backend-developer-c-net-framework?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | remote (EU) | Remote | Oct 27 |
 | **[Lusha](https://www.lusha.com)** | **[Senior Backend Developer](https://jobr.pro/job/31071479/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 27 |
+| **[Deutsche Bank](https://www.db.com/)** | **[JAVA Frontend & Backend Developer](https://jobr.pro/job/31094852/java-frontend-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Oct 27 |
 | **[Wix](https://www.wix.com/)** | **[Senior Backend Developer for Platform Engineering (A+ Nile)](https://jobr.pro/job/31048980/senior-backend-developer-for-platform-engineering-a-nile?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Oct 26 |
 | **[justtrack](https://justtrack.io)** | **[(Senior) Backend Developer (f/m/d)](https://jobr.pro/job/31054346/senior-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hamburg, Germany | On Site | Oct 26 |
 | **[doinstruct](https://www.doinstruct.com/)** | **[Sr. Backend Developer (f/m/x) - AWS/Node - deutschsprachig](https://jobr.pro/job/31047727/sr-backend-developer-fmx-awsnode-deutschsprachig?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote within Germany | Remote | Oct 26 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30762179/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 22 |
 | **[Alter Solutions](https://www.alter-solutions.com/)** | **[Senior Backend Developer (ST)](https://jobr.pro/job/30823169/senior-backend-developer-st?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław, Lower Silesian Voivodeship, Poland | On Site | Oct 22 |
 | **[Oracle](https://www.oracle.com/)** | **[Remote Senior Backend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/30765859/remote-senior-backend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Oct 22 |
-| **[Oracle](https://www.oracle.com/)** | **[Remote Principal Backend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/30765861/remote-principal-backend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Oct 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 42 companies | Avg salary: 128k  
+**Current Stats:** 50 jobs | 28% remote | 43 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
