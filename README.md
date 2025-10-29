@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 29, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector \| Backend Developer (Golang)](https://jobr.pro/job/31192845/telecom-sector-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Oct 28 |
 | **[Keenfolks](https://keenfolks.com/)** | **[Backend Developer](https://jobr.pro/job/31168293/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Oct 28 |
 | **[Interfell](https://www.interfell.com)** | **[BACKEND DEVELOPER](https://jobr.pro/job/31152287/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 28 |
 | **[Interfell](https://www.interfell.com)** | **[SR BACKEND DEVELOPER](https://jobr.pro/job/31152239/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 28 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[abra](https://www.abra-it.com/)** | **[C# Backend Developer](https://jobr.pro/job/30865556/c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Center, Center District, IL | On Site | Oct 23 |
 | **[LITIT](https://www.litit.tech/)** | **[BACKEND DEVELOPER (CLOUD AND JAVA)](https://jobr.pro/job/30897093/backend-developer-cloud-and-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Oct 23 |
 | **[Companeo](https://www.companeo.com/)** | **[Lead Backend Developer (Web Hosting Platform)](https://jobr.pro/job/30858899/lead-backend-developer-web-hosting-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Portugal | On Site | Oct 23 |
-| **[Companeo](https://www.companeo.com/)** | **[Senior / Lead Backend Developer (Web Hosting Platform)](https://jobr.pro/job/30858902/senior-lead-backend-developer-web-hosting-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Portugal | On Site | Oct 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 44 companies | Avg salary: 118k  
+**Current Stats:** 50 jobs | 24% remote | 45 companies | Avg salary: 118k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
