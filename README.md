@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 29, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -19,8 +19,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pango](https://www.pango.co.il/)** | **[Senior Backend Developer - Billing Platform](https://jobr.pro/job/31253965/senior-backend-developer-billing-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Petah Tikva, Center District, IL | On Site | Oct 29 |
 | **[adjoe](https://adjoe.io/)** | **[Senior Go Backend Developer (Core Team) (f/m/d)](https://jobr.pro/job/31233854/senior-go-backend-developer-core-team-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hamburg, Germany | On Site | Oct 29 |
 | **[Worldline](https://www.worldline.com)** | **[Stage - Backend Developer (F/H)](https://jobr.pro/job/31211270/stage-backend-developer-fh?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noyelles Les Seclin, 59, FR | On Site | Oct 29 |
-| **[SAPSOL Technologies Inc.](https://www.sapsol.com)** | **[Java Backend Developer](https://jobr.pro/job/31249449/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Alpharetta, Georgia, United States | On Site | Oct 29 |
 | **[Barclays](https://home.barclays/)** | **[Junior Java Backend Developer](https://jobr.pro/job/31256660/junior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | 115 South Jefferson Rd Campus, Whippany, United States | On Site | Oct 29 |
+| **[SAPSOL Technologies Inc.](https://www.sapsol.com)** | **[Java Backend Developer](https://jobr.pro/job/31249449/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Alpharetta, Georgia, United States | On Site | Oct 29 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector \| Backend Developer (Golang)](https://jobr.pro/job/31192845/telecom-sector-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Oct 28 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - Java Backend Developer](https://jobr.pro/job/31245381/software-engineer-ii-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Jersey City, NJ, United States | On Site | Oct 28 |
 | **[Mobileye](https://www.mobileye.com/)** | **[Senior Backend Developer-Temporary Position](https://jobr.pro/job/31210916/senior-backend-developer-temporary-position?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Jerusalem, Israel | On Site | Oct 28 |
