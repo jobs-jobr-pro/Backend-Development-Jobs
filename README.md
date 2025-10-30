@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 30, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 30, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ford Motor Company](https://corporate.ford.com/)** | **[SE - Backend Developer](https://jobr.pro/job/31326662/se-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, Tamil Nadu, India | On Site | Oct 30 |
 | **[Flywire](https://www.flywire.com)** | **[Senior Software Engineer II, Backend Developer](https://jobr.pro/job/31304267/senior-software-engineer-ii-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Oct 30 |
+| **[moomoo](https://www.moomoo.com/)** | **[Fresh Grad Hire - Backend Developer (OTC Trading Platform)](https://jobr.pro/job/31321265/fresh-grad-hire-backend-developer-otc-trading-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shenzhen, Guangdong Province, China | On Site | Oct 30 |
+| **[moomoo](https://www.moomoo.com/)** | **[Fresh Grad Hire - Backend Developer (Market Data)](https://jobr.pro/job/31321263/fresh-grad-hire-backend-developer-market-data?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shenzhen, Guangdong Province, China | On Site | Oct 30 |
 | **[Encora](https://www.encora.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/31289502/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico | On Site | Oct 29 |
 | **[2Brains](https://2brains.lat/)** | **[Software Engineer - Backend Developer](https://jobr.pro/job/31291981/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Latinoamérica | On Site | Oct 29 |
 | **[SatoshiLabs](https://satoshilabs.com)** | **[Backend Developer for Blockchain Services](https://jobr.pro/job/31297380/backend-developer-for-blockchain-services?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Prague | On Site | Oct 29 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Metyis](https://metyis.com/)** | **[SFCC Backend Developer](https://jobr.pro/job/31044564/sfcc-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Porto, Porto, Portugal | On Site | Oct 26 |
 | **[Softgic](https://softgic.co/)** | **[Backend Developer](https://jobr.pro/job/31023372/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Medellin, Colombia | On Site | Oct 25 |
 | **[Appnovation Technologies](https://www.appnovation.com/)** | **[Backend Developer](https://jobr.pro/job/30991773/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hong Kong | On Site | Oct 24 |
-| **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://jobr.pro/job/30991198/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Oct 24 |
-| **[Schibsted & Vend Polska](https://schibsted-vend.pl/)** | **[Backend Developer ( Python)](https://jobr.pro/job/30960872/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kraków | On Site | Oct 24 |
-| **[Ditto Insurance](https://joinditto.in/)** | **[Backend Developer (Python & Django)](https://jobr.pro/job/30948633/backend-developer-python-django?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Karnataka, Bengaluru, India | On Site | Oct 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 47 companies | Avg salary: 112k  
+**Current Stats:** 50 jobs | 20% remote | 46 companies | Avg salary: 112k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
