@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,9 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Oowlish Technology](https://www.oowlish.com/)** | **[Backend Developer – PHP & Laravel (Telemedicine Platform)](https://jobr.pro/job/31375688/backend-developer-php-laravel-telemedicine-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires Province | Remote | Oct 30 |
 | **[Cognyte](https://www.cognyte.com/)** | **[Mid Java Backend Developer - Pune](https://jobr.pro/job/31346603/mid-java-backend-developer-pune?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, IN | On Site | Oct 30 |
 | **[Renmoney](https://renmoney.com/)** | **[Senior Backend Developer](https://jobr.pro/job/31334961/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ikoyi, Nigeria | On Site | Oct 30 |
 | **[Schibsted & Vend Polska](https://schibsted-vend.pl/)** | **[Senior Backend Developer](https://jobr.pro/job/31350487/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kraków | On Site | Oct 30 |
+| **[Devoteam](https://www.devoteam.com/)** | **[.Net Backend Developer](https://jobr.pro/job/31390106/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Oct 30 |
+| **[JustWatch](https://www.justwatch.com/)** | **[StreamingGuide - Junior Backend Developer](https://jobr.pro/job/31377335/streamingguide-junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin | On Site | Oct 30 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[SE - Backend Developer](https://jobr.pro/job/31326662/se-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, Tamil Nadu, India | On Site | Oct 30 |
 | **[Flywire](https://www.flywire.com)** | **[Senior Software Engineer II, Backend Developer](https://jobr.pro/job/31304267/senior-software-engineer-ii-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Oct 30 |
 | **[moomoo](https://www.moomoo.com/)** | **[Fresh Grad Hire - Backend Developer (OTC Trading Platform)](https://jobr.pro/job/31321265/fresh-grad-hire-backend-developer-otc-trading-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shenzhen, Guangdong Province, China | On Site | Oct 30 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deutsche Bank](https://www.db.com/)** | **[JAVA Frontend & Backend Developer](https://jobr.pro/job/31094852/java-frontend-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Oct 27 |
 | **[Wix](https://www.wix.com/)** | **[Senior Backend Developer for Platform Engineering (A+ Nile)](https://jobr.pro/job/31048980/senior-backend-developer-for-platform-engineering-a-nile?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Oct 26 |
 | **[justtrack](https://justtrack.io)** | **[(Senior) Backend Developer (f/m/d)](https://jobr.pro/job/31054346/senior-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hamburg, Germany | On Site | Oct 26 |
-| **[doinstruct](https://www.doinstruct.com/)** | **[Sr. Backend Developer (f/m/x) - AWS/Node - deutschsprachig](https://jobr.pro/job/31047727/sr-backend-developer-fmx-awsnode-deutschsprachig?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote within Germany | Remote | Oct 26 |
-| **[doinstruct](https://www.doinstruct.com/)** | **[Sr. Backend Developer (f/m/x) - AWS/Node](https://jobr.pro/job/31047726/sr-backend-developer-fmx-awsnode?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote within Germany | Remote | Oct 26 |
-| **[applike group](https://applike-group.com/)** | **[(Senior) Backend Developer (f/m/d)](https://jobr.pro/job/31045994/senior-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hamburg | On Site | Oct 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 46 companies | Avg salary: 112k  
+**Current Stats:** 50 jobs | 18% remote | 47 companies | Avg salary: 135k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
