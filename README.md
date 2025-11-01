@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 01, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sphere](https://www.sphereinc.com)** | **[Senior Backend Developer (Node.js)](https://jobr.pro/job/31434357/senior-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remotely, Anywhere | Remote | Oct 31 |
 | **[Loihde](https://www.loihde.com/)** | **[Senior Backend Developer (C#/.NET, Azure)](https://jobr.pro/job/31441072/senior-backend-developer-cnet-azure?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Oct 31 |
 | **[IRIUM Portugal](https://www.irium.pt/)** | **[Mid Backend Developer](https://jobr.pro/job/31423225/mid-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Braga, Coimbra, Lisboa, Braga, Coimbra | On Site | Oct 31 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Software Engineer - Backend Developer](https://jobr.pro/job/31453483/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Oct 31 |
 | **[Adfinis](https://adfinis.com)** | **[Senior Java Backend Developer (m/w/d)](https://jobr.pro/job/31414073/senior-java-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt - Remote | Remote | Oct 30 |
 | **[Oowlish Technology](https://www.oowlish.com/)** | **[Backend Developer – PHP & Laravel (Telemedicine Platform)](https://jobr.pro/job/31375688/backend-developer-php-laravel-telemedicine-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires Province | Remote | Oct 30 |
 | **[Cognyte](https://www.cognyte.com/)** | **[Mid Java Backend Developer - Pune](https://jobr.pro/job/31346603/mid-java-backend-developer-pune?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, IN | On Site | Oct 30 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[XTIVIA](https://www.xtivia.com/)** | **[Backend Developer - Go & Generative AI](https://jobr.pro/job/31136420/backend-developer-go-generative-ai?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Latin American Countries | On Site | Oct 27 |
 | **[Decklaration](https://decklaration.com/)** | **[Backend Developer (Python + DevOps)](https://jobr.pro/job/31064492/backend-developer-python-devops?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Oct 27 |
 | **[Rapyd](https://www.rapyd.net/)** | **[Backend Developer](https://jobr.pro/job/31071524/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Tel Aviv, IL | On Site | Oct 27 |
-| **[teamative](https://teamative.com/)** | **[Backend Developer C# (.NET Framework)](https://jobr.pro/job/31054172/backend-developer-c-net-framework?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | remote (EU) | Remote | Oct 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 47 companies | Avg salary: 135k  
+**Current Stats:** 50 jobs | 20% remote | 47 companies | Avg salary: 135k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
