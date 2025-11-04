@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 04, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 04, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://jobr.pro/job/31615369/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Nov 04 |
+| **[Unity](https://unity.com/)** | **[Développeur backend senior, Gestion des commandes, Groupe Commerce / Senior Backend Developer, Fulfillment, Commerce Group](https://jobr.pro/job/31608858/developpeur-backend-senior-gestion-des-commandes-groupe-commerce-senior-backend-developer-fulfillment-commerce-group?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Canada | On Site | Nov 03 |
+| **[Natixis in Portugal](https://www.natixis.com)** | **[Senior Backend Developer \| Payments](https://jobr.pro/job/31621855/senior-backend-developer-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal, Portugal | On Site | Nov 03 |
 | **[Earnix](https://earnix.com/)** | **[Backend developer - Infrastructure](https://jobr.pro/job/31563488/backend-developer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Nov 03 |
 | **[QuickSell](https://quicksell.co/)** | **[Lead Backend Developer](https://jobr.pro/job/31562234/lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Maharashtra, Mumbai, India | On Site | Nov 03 |
 | **[Renmoney](https://renmoney.com/)** | **[Senior Backend Developer](https://jobr.pro/job/31558704/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ikoyi, Nigeria | On Site | Nov 03 |
@@ -36,7 +39,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tet.lv](https://www.tet.lv/)** | **[Backend developer (Golang)](https://jobr.pro/job/31489348/backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rīga, Latvia | On Site | Oct 31 |
 | **[Citrus Solutions](https://www.citrus.lv/)** | **[Backend developer (Golang)](https://jobr.pro/job/31490426/backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rīga, Latvia | On Site | Oct 31 |
 | **[TOTEME](https://toteme.com/)** | **[Backend Developer](https://jobr.pro/job/31489584/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Sweden | On Site | Oct 31 |
-| **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://jobr.pro/job/31466245/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Oct 31 |
 | **[Sphere](https://www.sphereinc.com)** | **[Senior Backend Developer (Node.js)](https://jobr.pro/job/31434357/senior-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remotely, Anywhere | Remote | Oct 31 |
 | **[Loihde](https://www.loihde.com/)** | **[Senior Backend Developer (C#/.NET, Azure)](https://jobr.pro/job/31441072/senior-backend-developer-cnet-azure?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Oct 31 |
 | **[Orion Innovation](https://www.orioninc.com/)** | **[Java Backend Developer](https://jobr.pro/job/31461933/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ambattur, Chennai | On Site | Oct 31 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Personetics](https://www.personetics.com)** | **[Java Backend Developer- Logic Team](https://jobr.pro/job/31253864/java-backend-developer-logic-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Giv'atayim, Tel Aviv District, IL | On Site | Oct 29 |
 | **[Ruby Labs](https://rubylabs.com/)** | **[Senior Backend Developer – Node.js & TypeScript](https://jobr.pro/job/31297234/senior-backend-developer-nodejs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ukraine | Remote | Oct 29 |
 | **[EdgeTier](https://www.edgetier.com/)** | **[Backend Developer (mid-level)](https://jobr.pro/job/31294436/backend-developer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dublin | Remote | Oct 29 |
-| **[e.construct](https://econstruct.co/)** | **[.Net Backend Developer](https://jobr.pro/job/31288551/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cairo | On Site | Oct 29 |
-| **[Avigna AB](https://www.avigna.se/)** | **[Backend Developer – Cloud & Microservices](https://jobr.pro/job/31237905/backend-developer-cloud-microservices?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Sweden | On Site | Oct 29 |
 
 ---
 
