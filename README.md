@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Consultant Graduate Backend Developer – Affirmative Hiring for Women & Gender Diversity](https://jobr.pro/job/31699944/consultant-graduate-backend-developer-affirmative-hiring-for-women-gender-diversity?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Quito | On Site | Nov 04 |
+| **[Flying Bisons](https://flyingbisons.com/)** | **[Freelance Backend Developer](https://jobr.pro/job/31700162/freelance-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 04 |
 | **[Companeo](https://www.companeo.com/)** | **[Senior Backend Developer - PT (Internet Marketplace Platform)](https://jobr.pro/job/31658861/senior-backend-developer-pt-internet-marketplace-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Portugal | On Site | Nov 04 |
+| **[Roland Berger](https://www.rolandberger.com)** | **[Backend Developer (all genders)](https://jobr.pro/job/31706830/backend-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Lisbon, Portugal | On Site | Nov 04 |
 | **[eClear AG](https://eclear.com/)** | **[Senior Java Backend Developer (w/m/d) - hybrid](https://jobr.pro/job/31624268/senior-java-backend-developer-wmd-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, hybrid | On Site | Nov 04 |
 | **[ClearOps GmbH](https://www.clearops.com/)** | **[Backend Developer - Lisbon (remote) (m/f/d)](https://jobr.pro/job/31623392/backend-developer-lisbon-remote-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lissabon | Remote | Nov 04 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://jobr.pro/job/31615369/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Nov 04 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Devoteam](https://www.devoteam.com/)** | **[.Net Backend Developer](https://jobr.pro/job/31390106/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Oct 30 |
 | **[JustWatch](https://www.justwatch.com/)** | **[StreamingGuide - Junior Backend Developer](https://jobr.pro/job/31377335/streamingguide-junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin | On Site | Oct 30 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[SE - Backend Developer](https://jobr.pro/job/31326662/se-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, Tamil Nadu, India | On Site | Oct 30 |
-| **[Flywire](https://www.flywire.com)** | **[Senior Software Engineer II, Backend Developer](https://jobr.pro/job/31304267/senior-software-engineer-ii-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Oct 30 |
-| **[moomoo](https://www.moomoo.com/)** | **[Fresh Grad Hire - Backend Developer (OTC Trading Platform)](https://jobr.pro/job/31321265/fresh-grad-hire-backend-developer-otc-trading-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shenzhen, Guangdong Province, China | On Site | Oct 30 |
-| **[moomoo](https://www.moomoo.com/)** | **[Fresh Grad Hire - Backend Developer (Market Data)](https://jobr.pro/job/31321263/fresh-grad-hire-backend-developer-market-data?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shenzhen, Guangdong Province, China | On Site | Oct 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 26k  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 26k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
