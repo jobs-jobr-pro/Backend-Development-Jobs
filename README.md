@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -19,10 +19,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://jobr.pro/job/31615369/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Nov 04 |
 | **[Sensia Global](https://www.sensiaglobal.com/)** | **[Senior Backend Developer](https://jobr.pro/job/31643060/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India Pune Axis Centra (Baner, Sensia) | On Site | Nov 04 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://jobr.pro/job/31639642/junior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO VIALE A. DORIA, Italy | On Site | Nov 04 |
-| **[Telia](https://www.teliacompany.com/)** | **[Backend Developer (Mid/Senior)](https://jobr.pro/job/31668179/backend-developer-midsenior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Lithuania | On Site | Nov 04 |
 | **[Globaldev Group](https://globaldev.tech/)** | **[Senior Backend Developer](https://jobr.pro/job/31655612/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yerevan, Yerevan, Armenia | On Site | Nov 04 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / Java Developer, AVP](https://jobr.pro/job/31691702/backend-developer-java-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Business Bay, India | On Site | Nov 04 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Backend Developer – GenAI Projects](https://jobr.pro/job/31689437/backend-developer-genai-projects?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ARMTZ Buenos Aires (ARMTZ) - Martinez, Argentina | On Site | Nov 04 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / Java Developer, AVP](https://jobr.pro/job/31691706/backend-developer-java-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Velankani Tech Park, India | On Site | Nov 04 |
+| **[Telia](https://www.teliacompany.com/)** | **[Backend Developer (Mid/Senior)](https://jobr.pro/job/31668179/backend-developer-midsenior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Lithuania | On Site | Nov 04 |
 | **[Unity](https://unity.com/)** | **[Développeur backend senior, Gestion des commandes, Groupe Commerce / Senior Backend Developer, Fulfillment, Commerce Group](https://jobr.pro/job/31608858/developpeur-backend-senior-gestion-des-commandes-groupe-commerce-senior-backend-developer-fulfillment-commerce-group?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Canada | On Site | Nov 03 |
 | **[Natixis in Portugal](https://www.natixis.com)** | **[Senior Backend Developer \| Payments](https://jobr.pro/job/31621855/senior-backend-developer-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal, Portugal | On Site | Nov 03 |
 | **[Earnix](https://earnix.com/)** | **[Backend developer - Infrastructure](https://jobr.pro/job/31563488/backend-developer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Nov 03 |
