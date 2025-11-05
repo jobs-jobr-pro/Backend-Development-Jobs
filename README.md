@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 04, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -21,6 +21,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://jobr.pro/job/31639642/junior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO VIALE A. DORIA, Italy | On Site | Nov 04 |
 | **[Telia](https://www.teliacompany.com/)** | **[Backend Developer (Mid/Senior)](https://jobr.pro/job/31668179/backend-developer-midsenior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Lithuania | On Site | Nov 04 |
 | **[Globaldev Group](https://globaldev.tech/)** | **[Senior Backend Developer](https://jobr.pro/job/31655612/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yerevan, Yerevan, Armenia | On Site | Nov 04 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / Java Developer, AVP](https://jobr.pro/job/31691702/backend-developer-java-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Business Bay, India | On Site | Nov 04 |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Backend Developer – GenAI Projects](https://jobr.pro/job/31689437/backend-developer-genai-projects?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ARMTZ Buenos Aires (ARMTZ) - Martinez, Argentina | On Site | Nov 04 |
 | **[Unity](https://unity.com/)** | **[Développeur backend senior, Gestion des commandes, Groupe Commerce / Senior Backend Developer, Fulfillment, Commerce Group](https://jobr.pro/job/31608858/developpeur-backend-senior-gestion-des-commandes-groupe-commerce-senior-backend-developer-fulfillment-commerce-group?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Canada | On Site | Nov 03 |
 | **[Natixis in Portugal](https://www.natixis.com)** | **[Senior Backend Developer \| Payments](https://jobr.pro/job/31621855/senior-backend-developer-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal, Portugal | On Site | Nov 03 |
 | **[Earnix](https://earnix.com/)** | **[Backend developer - Infrastructure](https://jobr.pro/job/31563488/backend-developer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Nov 03 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Flywire](https://www.flywire.com)** | **[Senior Software Engineer II, Backend Developer](https://jobr.pro/job/31304267/senior-software-engineer-ii-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Oct 30 |
 | **[moomoo](https://www.moomoo.com/)** | **[Fresh Grad Hire - Backend Developer (OTC Trading Platform)](https://jobr.pro/job/31321265/fresh-grad-hire-backend-developer-otc-trading-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shenzhen, Guangdong Province, China | On Site | Oct 30 |
 | **[moomoo](https://www.moomoo.com/)** | **[Fresh Grad Hire - Backend Developer (Market Data)](https://jobr.pro/job/31321263/fresh-grad-hire-backend-developer-market-data?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shenzhen, Guangdong Province, China | On Site | Oct 30 |
-| **[Encora](https://www.encora.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/31289502/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico | On Site | Oct 29 |
-| **[2Brains](https://2brains.lat/)** | **[Software Engineer - Backend Developer](https://jobr.pro/job/31291981/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Latinoamérica | On Site | Oct 29 |
 
 ---
 
