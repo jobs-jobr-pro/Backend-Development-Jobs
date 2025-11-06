@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 06, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ubiquiti Inc.](https://www.ui.com/)** | **[Backend Developer (Identity)](https://jobr.pro/job/31751464/backend-developer-identity?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Taipei | On Site | Nov 05 |
 | **[Ubiquiti Inc.](https://www.ui.com/)** | **[Backend Developer (Go)](https://jobr.pro/job/31751454/backend-developer-go?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Prague | On Site | Nov 05 |
 | **[Chevron](https://www.chevron.com/)** | **[Backend Developer- Benchmarking, Target Setting & Performance](https://jobr.pro/job/31743348/backend-developer-benchmarking-target-setting-performance?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 05 |
+| **[DXC Technology](https://dxc.com/)** | **[Backend Developer - Mining](https://jobr.pro/job/31784581/backend-developer-mining?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AU330 - DXC Perth QV (AU330), Australia | On Site | Nov 05 |
 | **[Sequoia Connect](https://www.sequoia-connect.com)** | **[Remote Python Backend Developer](https://jobr.pro/job/31760397/remote-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ciudad de México, CDMX, MX | Remote | Nov 04 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Consultant Graduate Backend Developer – Affirmative Hiring for Women & Gender Diversity](https://jobr.pro/job/31699944/consultant-graduate-backend-developer-affirmative-hiring-for-women-gender-diversity?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Quito | On Site | Nov 04 |
 | **[Flying Bisons](https://flyingbisons.com/)** | **[Freelance Backend Developer](https://jobr.pro/job/31700162/freelance-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 04 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Orion Innovation](https://www.orioninc.com/)** | **[Java Backend Developer](https://jobr.pro/job/31461933/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ambattur, Chennai | On Site | Oct 31 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Software Engineer - Backend Developer](https://jobr.pro/job/31453483/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Oct 31 |
 | **[IRIUM Portugal](https://www.irium.pt/)** | **[Mid Backend Developer](https://jobr.pro/job/31423225/mid-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Braga, Coimbra, Lisboa, Braga, Coimbra | On Site | Oct 31 |
-| **[Adfinis](https://adfinis.com)** | **[Senior Java Backend Developer (m/w/d)](https://jobr.pro/job/31414073/senior-java-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt - Remote | Remote | Oct 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 44 companies | Avg salary: 26k  
+**Current Stats:** 50 jobs | 16% remote | 44 companies | Avg salary: 26k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
