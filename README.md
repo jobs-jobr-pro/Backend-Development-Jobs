@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 06, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 06, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -18,11 +18,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Earnix](https://earnix.com/)** | **[Principal Backend Developer](https://jobr.pro/job/31760267/principal-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Nov 05 |
 | **[Docplanner](https://www.docplanner.com)** | **[Backend Developer (Full Remote)](https://jobr.pro/job/31803211/backend-developer-full-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Palermo, Sicily, Italy | Remote | Nov 05 |
 | **[Penbrothers](https://penbrothers.com/)** | **[Backend Developer](https://jobr.pro/job/31794178/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 05 |
+| **[DXC Technology](https://dxc.com/)** | **[Backend Developer - Mining](https://jobr.pro/job/31784581/backend-developer-mining?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AU330 - DXC Perth QV (AU330), Australia | On Site | Nov 05 |
 | **[Verisure](https://www.verisure.com/)** | **[Java Backend Developer](https://jobr.pro/job/31750711/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | SE - Malmö office, Sweden | On Site | Nov 05 |
 | **[Ubiquiti Inc.](https://www.ui.com/)** | **[Backend Developer (Identity)](https://jobr.pro/job/31751464/backend-developer-identity?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Taipei | On Site | Nov 05 |
 | **[Ubiquiti Inc.](https://www.ui.com/)** | **[Backend Developer (Go)](https://jobr.pro/job/31751454/backend-developer-go?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Prague | On Site | Nov 05 |
 | **[Chevron](https://www.chevron.com/)** | **[Backend Developer- Benchmarking, Target Setting & Performance](https://jobr.pro/job/31743348/backend-developer-benchmarking-target-setting-performance?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | RMZ Ecoworld 32, India | On Site | Nov 05 |
-| **[DXC Technology](https://dxc.com/)** | **[Backend Developer - Mining](https://jobr.pro/job/31784581/backend-developer-mining?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AU330 - DXC Perth QV (AU330), Australia | On Site | Nov 05 |
 | **[Sequoia Connect](https://www.sequoia-connect.com)** | **[Remote Python Backend Developer](https://jobr.pro/job/31760397/remote-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ciudad de México, CDMX, MX | Remote | Nov 04 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Consultant Graduate Backend Developer – Affirmative Hiring for Women & Gender Diversity](https://jobr.pro/job/31699944/consultant-graduate-backend-developer-affirmative-hiring-for-women-gender-diversity?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Quito | On Site | Nov 04 |
 | **[Flying Bisons](https://flyingbisons.com/)** | **[Freelance Backend Developer](https://jobr.pro/job/31700162/freelance-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 04 |
@@ -31,9 +31,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[eClear AG](https://eclear.com/)** | **[Senior Java Backend Developer (w/m/d) - hybrid](https://jobr.pro/job/31624268/senior-java-backend-developer-wmd-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, hybrid | On Site | Nov 04 |
 | **[ClearOps GmbH](https://www.clearops.com/)** | **[Backend Developer - Lisbon (remote) (m/f/d)](https://jobr.pro/job/31623392/backend-developer-lisbon-remote-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lissabon | Remote | Nov 04 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Backend Developer](https://jobr.pro/job/31615369/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greater Delhi Area | Remote | Nov 04 |
-| **[Sensia Global](https://www.sensiaglobal.com/)** | **[Senior Backend Developer](https://jobr.pro/job/31643060/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India Pune Axis Centra (Baner, Sensia) | On Site | Nov 04 |
 | **[Telia](https://www.teliacompany.com/)** | **[Backend Developer (Mid/Senior)](https://jobr.pro/job/31668179/backend-developer-midsenior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Lithuania | On Site | Nov 04 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / Java Developer, AVP](https://jobr.pro/job/31691702/backend-developer-java-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Business Bay, India | On Site | Nov 04 |
+| **[Sensia Global](https://www.sensiaglobal.com/)** | **[Senior Backend Developer](https://jobr.pro/job/31643060/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India Pune Axis Centra (Baner, Sensia) | On Site | Nov 04 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://jobr.pro/job/31639642/junior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO VIALE A. DORIA, Italy | On Site | Nov 04 |
 | **[Globaldev Group](https://globaldev.tech/)** | **[Senior Backend Developer](https://jobr.pro/job/31655612/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yerevan, Yerevan, Armenia | On Site | Nov 04 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Backend Developer – GenAI Projects](https://jobr.pro/job/31689437/backend-developer-genai-projects?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ARMTZ Buenos Aires (ARMTZ) - Martinez, Argentina | On Site | Nov 04 |
