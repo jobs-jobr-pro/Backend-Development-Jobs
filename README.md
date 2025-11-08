@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 08, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 08, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[The Motley Fool](https://www.fool.com/)** | **[Senior Python Backend Developer](https://jobr.pro/job/31982162/senior-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States - Remote | Remote | Nov 07 |
+| **[Plusgrade](https://www.plusgrade.com/)** | **[Backend Developer, Machine Learning](https://jobr.pro/job/31980180/backend-developer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Ontario | On Site | Nov 07 |
+| **[Bitfinex](https://www.bitfinex.com/)** | **[Senior Backend Developer - Node.js (Fully Remote, Worldwide)](https://jobr.pro/job/31977502/senior-backend-developer-nodejs-fully-remote-worldwide?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 07 |
 | **[Oracle](https://www.oracle.com/)** | **[Remote Senior Backend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/31925666/remote-senior-backend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Nov 07 |
 | **[Oracle](https://www.oracle.com/)** | **[Remote Principal Backend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/31925669/remote-principal-backend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Nov 07 |
 | **[GE Vernova](https://www.gevernova.com/)** | **[Backend Developer](https://jobr.pro/job/31925310/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad TS IN 26, India | On Site | Nov 07 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobr.pro/job/31541702/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Callao Region, Peru | On Site | Nov 03 |
 | **[Telia](https://www.teliacompany.com/)** | **[Senior Backend Developer (Java)](https://jobr.pro/job/31560399/senior-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Lithuania | On Site | Nov 03 |
 | **[Bringg](https://www.bringg.com/)** | **[Senior Backend Developer](https://jobr.pro/job/31541141/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel aviv | On Site | Nov 02 |
-| **[BeInMedia](https://www.beinmedia.com/)** | **[Backend Developer](https://jobr.pro/job/31562559/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Damascus Governorate, Damascus, Syrian Arab Republic | On Site | Nov 02 |
-| **[ZenTrades](https://zentrades.pro/)** | **[Backend Developer](https://jobr.pro/job/31561474/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Maharashtra, Pune, India | On Site | Nov 02 |
-| **[InfyStrat Software Services](https://infystrat.com)** | **[Backend Developer](https://jobr.pro/job/31551496/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Gurugram, Haryana, India | On Site | Nov 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 44 companies | Avg salary: 179k  
+**Current Stats:** 50 jobs | 24% remote | 44 companies | Avg salary: 184k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
