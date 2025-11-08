@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 07, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 08, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Oracle](https://www.oracle.com/)** | **[Remote Principal Backend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/31925669/remote-principal-backend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Nov 07 |
 | **[Barclays](https://home.barclays/)** | **[Junior Java Backend Developer](https://jobr.pro/job/31944988/junior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | 115 South Jefferson Rd Campus, Whippany, United States | On Site | Nov 07 |
 | **[GE Vernova](https://www.gevernova.com/)** | **[Backend Developer](https://jobr.pro/job/31925310/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad TS IN 26, India | On Site | Nov 07 |
+| **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer (Java 17/21)](https://jobr.pro/job/31964190/java-backend-developer-java-1721?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Nov 07 |
 | **[Varicent](https://www.varicent.com/)** | **[Sr Cloud Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/31900480/sr-cloud-backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Merida, Mexico | Remote | Nov 06 |
 | **[Varicent](https://www.varicent.com/)** | **[Backend developer (Remote - Mexico Only)](https://jobr.pro/job/31900472/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Monterrey, Mexico | Remote | Nov 06 |
 | **[WalkMe](https://www.walkme.com/)** | **[Senior Backend Developer](https://jobr.pro/job/31889278/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv | On Site | Nov 06 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BeInMedia](https://www.beinmedia.com/)** | **[Backend Developer](https://jobr.pro/job/31562559/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Damascus Governorate, Damascus, Syrian Arab Republic | On Site | Nov 02 |
 | **[ZenTrades](https://zentrades.pro/)** | **[Backend Developer](https://jobr.pro/job/31561474/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Maharashtra, Pune, India | On Site | Nov 02 |
 | **[InfyStrat Software Services](https://infystrat.com)** | **[Backend Developer](https://jobr.pro/job/31551496/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Gurugram, Haryana, India | On Site | Nov 02 |
-| **[Creative Force](https://www.creativeforce.io/)** | **[Backend Developer (.NET)](https://jobr.pro/job/31542343/backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hanoi, Vietnam | On Site | Nov 02 |
 
 ---
 
