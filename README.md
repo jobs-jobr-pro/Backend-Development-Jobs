@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 08, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 08, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Upwind Security](https://www.upwind.io)** | **[Backend Developer (US - Remote)](https://jobr.pro/job/32021568/backend-developer-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Francisco, CA, US | Remote | Nov 08 |
 | **[The Motley Fool](https://www.fool.com/)** | **[Senior Python Backend Developer](https://jobr.pro/job/31982162/senior-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States - Remote | Remote | Nov 07 |
 | **[Plusgrade](https://www.plusgrade.com/)** | **[Backend Developer, Machine Learning](https://jobr.pro/job/31980180/backend-developer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Ontario | On Site | Nov 07 |
 | **[Bitfinex](https://www.bitfinex.com/)** | **[Senior Backend Developer - Node.js (Fully Remote, Worldwide)](https://jobr.pro/job/31977502/senior-backend-developer-nodejs-fully-remote-worldwide?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 07 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ECS](https://techecs.com/)** | **[Node.js Backend Developer - AWS](https://jobr.pro/job/31561779/nodejs-backend-developer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Telangana, Hyderabad, India | On Site | Nov 03 |
 | **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobr.pro/job/31541702/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Callao Region, Peru | On Site | Nov 03 |
 | **[Telia](https://www.teliacompany.com/)** | **[Senior Backend Developer (Java)](https://jobr.pro/job/31560399/senior-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Lithuania | On Site | Nov 03 |
-| **[Bringg](https://www.bringg.com/)** | **[Senior Backend Developer](https://jobr.pro/job/31541141/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel aviv | On Site | Nov 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 44 companies | Avg salary: 184k  
+**Current Stats:** 50 jobs | 26% remote | 44 companies | Avg salary: 184k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
