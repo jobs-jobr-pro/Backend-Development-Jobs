@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Consultant Graduate Backend Developer – Affirmative Hiring for Women & Gender Diversity](https://jobr.pro/job/32145011/consultant-graduate-backend-developer-affirmative-hiring-for-women-gender-diversity?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasil | On Site | Nov 11 |
 | **[LiveRamp](https://liveramp.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32151295/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Nov 11 |
+| **[Aequilibrium](https://www.aequilibrium.ca)** | **[Senior .Net Backend Developer (digital banking)](https://jobr.pro/job/32174183/senior-net-backend-developer-digital-banking?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada - Remote | Remote | Nov 11 |
 | **[Encora](https://www.encora.com/)** | **[Python Backend Developer](https://jobr.pro/job/32140697/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Nov 10 |
 | **[Valtech](https://www.valtech.com/)** | **[Senior Backend Developer Java](https://jobr.pro/job/32154552/senior-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal | On Site | Nov 10 |
 | **[Varicent](https://www.varicent.com/)** | **[Python Backend Developer(Remote - Mexico Only)](https://jobr.pro/job/32160348/python-backend-developerremote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Queretaro, Mexico | Remote | Nov 10 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sequoia Connect](https://www.sequoia-connect.com)** | **[Remote Python Backend Developer](https://jobr.pro/job/31760397/remote-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ciudad de México, CDMX, MX | Remote | Nov 04 |
 | **[Flying Bisons](https://flyingbisons.com/)** | **[Freelance Backend Developer](https://jobr.pro/job/31700162/freelance-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 04 |
 | **[Companeo](https://www.companeo.com/)** | **[Senior Backend Developer - PT (Internet Marketplace Platform)](https://jobr.pro/job/31658861/senior-backend-developer-pt-internet-marketplace-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Portugal | On Site | Nov 04 |
-| **[Roland Berger](https://www.rolandberger.com)** | **[Backend Developer (all genders)](https://jobr.pro/job/31706830/backend-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Lisbon, Portugal | On Site | Nov 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 32% remote | 41 companies | Avg salary: 184k  
+**Current Stats:** 50 jobs | 34% remote | 41 companies | Avg salary: 171k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
