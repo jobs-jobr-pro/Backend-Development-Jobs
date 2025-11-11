@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Personetics](https://www.personetics.com)** | **[Java Backend Developer](https://jobr.pro/job/32078412/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Giv'atayim, Tel Aviv District, IL | On Site | Nov 10 |
 | **[Flywire](https://www.flywire.com)** | **[Senior Software Engineer II, Backend Developer](https://jobr.pro/job/32053895/senior-software-engineer-ii-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Nov 10 |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Backend Developer- Python](https://jobr.pro/job/32110619/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN152015 NOIDA (IN152015) ARTHA INFRATE, India | On Site | Nov 10 |
 | **[LiveRamp](https://liveramp.com/)** | **[Senior Software Backend Developer](https://jobr.pro/job/32052378/senior-software-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Nov 10 |
 | **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer](https://jobr.pro/job/32107356/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Nov 10 |
 | **[Deploy](https://thisisdeploy.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32081881/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm; Stockholm | On Site | Nov 09 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sensia Global](https://www.sensiaglobal.com/)** | **[Senior Backend Developer](https://jobr.pro/job/31643060/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India Pune Axis Centra (Baner, Sensia) | On Site | Nov 04 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://jobr.pro/job/31639642/junior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO VIALE A. DORIA, Italy | On Site | Nov 04 |
 | **[Globaldev Group](https://globaldev.tech/)** | **[Senior Backend Developer](https://jobr.pro/job/31655612/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yerevan, Yerevan, Armenia | On Site | Nov 04 |
-| **[Kyndryl](https://www.kyndryl.com/)** | **[Backend Developer – GenAI Projects](https://jobr.pro/job/31689437/backend-developer-genai-projects?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ARMTZ Buenos Aires (ARMTZ) - Martinez, Argentina | On Site | Nov 04 |
 
 ---
 
