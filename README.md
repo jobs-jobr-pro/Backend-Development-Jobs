@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 12, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector \| Backend Developer (Golang)](https://jobr.pro/job/32235457/telecom-sector-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 11 |
 | **[SysAid](https://www.sysaid.com/)** | **[Backend Developer (AT)](https://jobr.pro/job/32202254/backend-developer-at?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Jaffa, IL | On Site | Nov 11 |
 | **[HARMAN International](https://www.harman.com/)** | **[Java Backend developer](https://jobr.pro/job/32188744/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Nov 11 |
 | **[dokSAFE GmbH](https://www.actaport.de/)** | **[Senior Backend Developer (m/w/d)](https://jobr.pro/job/32187013/senior-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Leipzig, Germany | On Site | Nov 11 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Penbrothers](https://penbrothers.com/)** | **[Backend Developer](https://jobr.pro/job/31794178/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 05 |
 | **[Verisure](https://www.verisure.com/)** | **[Java Backend Developer](https://jobr.pro/job/31750711/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | SE - Malmö office, Sweden | On Site | Nov 05 |
 | **[Ubiquiti Inc.](https://www.ui.com/)** | **[Backend Developer (Identity)](https://jobr.pro/job/31751464/backend-developer-identity?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Taipei | On Site | Nov 05 |
-| **[Ubiquiti Inc.](https://www.ui.com/)** | **[Backend Developer (Go)](https://jobr.pro/job/31751454/backend-developer-go?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Prague | On Site | Nov 05 |
 
 ---
 
