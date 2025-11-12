@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 12, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector \| Backend Developer (Golang)](https://jobr.pro/job/32235457/telecom-sector-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 11 |
 | **[SysAid](https://www.sysaid.com/)** | **[Backend Developer (AT)](https://jobr.pro/job/32202254/backend-developer-at?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Jaffa, IL | On Site | Nov 11 |
+| **[CowManager](https://www.cowmanager.nl/)** | **[.NET Backend Developer](https://jobr.pro/job/32241399/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Harmelen, Utrecht, Nederland | On Site | Nov 11 |
 | **[HARMAN International](https://www.harman.com/)** | **[Java Backend developer](https://jobr.pro/job/32188744/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Nov 11 |
 | **[dokSAFE GmbH](https://www.actaport.de/)** | **[Senior Backend Developer (m/w/d)](https://jobr.pro/job/32187013/senior-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Leipzig, Germany | On Site | Nov 11 |
 | **[Sedin Technologies](https://sedintechnologies.com/)** | **[Backend Developer](https://jobr.pro/job/32195839/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tamil Nadu, Chennai, India | On Site | Nov 11 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Docplanner](https://www.docplanner.com)** | **[Backend Developer (Full Remote)](https://jobr.pro/job/31803211/backend-developer-full-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Palermo, Sicily, Italy | Remote | Nov 05 |
 | **[Penbrothers](https://penbrothers.com/)** | **[Backend Developer](https://jobr.pro/job/31794178/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 05 |
 | **[Verisure](https://www.verisure.com/)** | **[Java Backend Developer](https://jobr.pro/job/31750711/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | SE - Malmö office, Sweden | On Site | Nov 05 |
-| **[Ubiquiti Inc.](https://www.ui.com/)** | **[Backend Developer (Identity)](https://jobr.pro/job/31751464/backend-developer-identity?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Taipei | On Site | Nov 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 41 companies | Avg salary: 171k  
+**Current Stats:** 50 jobs | 30% remote | 41 companies | Avg salary: 155k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
