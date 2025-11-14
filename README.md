@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Valsoft Corporation](https://www.valsoftcorp.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32459736/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Treviso, Province of Treviso, Italy | On Site | Nov 14 |
+| **[Itron, Inc.](https://na.itron.com/)** | **[Software Engineer (Backend developer)](https://jobr.pro/job/32455201/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India (Diamond District Local Office) | On Site | Nov 14 |
+| **[Itron, Inc.](https://na.itron.com/)** | **[Staff Software Engineer (Backend developer)](https://jobr.pro/job/32455211/staff-software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India (Diamond District Local Office) | On Site | Nov 14 |
 | **[Encora](https://www.encora.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32433941/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Costa Rica | On Site | Nov 13 |
 | **[KPN](https://www.kpn.com)** | **[Interim Full stack backend developer](https://jobr.pro/job/32434031/interim-full-stack-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, ZH, Netherlands | On Site | Nov 13 |
 | **[Genpact](https://www.genpact.com/)** | **[Lead Consultant -Backend Developer, Java](https://jobr.pro/job/32381996/lead-consultant-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India-Noida | On Site | Nov 13 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Backend Developer with Databricks & Snowflake Expertise](https://jobr.pro/job/32152702/senior-backend-developer-with-databricks-snowflake-expertise?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Göteborg, Västra Götalands län, Sweden | On Site | Nov 10 |
 | **[Personetics](https://www.personetics.com)** | **[Java Backend Developer](https://jobr.pro/job/32078412/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Giv'atayim, Tel Aviv District, IL | On Site | Nov 10 |
 | **[Flywire](https://www.flywire.com)** | **[Senior Software Engineer II, Backend Developer](https://jobr.pro/job/32053895/senior-software-engineer-ii-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Nov 10 |
-| **[LiveRamp](https://liveramp.com/)** | **[Senior Software Backend Developer](https://jobr.pro/job/32052378/senior-software-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Nov 10 |
-| **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer](https://jobr.pro/job/32107356/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Nov 10 |
-| **[Kyndryl](https://www.kyndryl.com/)** | **[Backend Developer- Python](https://jobr.pro/job/32110619/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN152015 NOIDA (IN152015) ARTHA INFRATE, India | On Site | Nov 10 |
 
 ---
 
