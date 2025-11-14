@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Qvik](https://qvik.com/)** | **[Senior Backend developer](https://jobr.pro/job/32491315/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Nov 14 |
 | **[Zensar](https://www.zensar.com/)** | **[SENIOR BACKEND DEVELOPER](https://jobr.pro/job/32471932/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Nov 14 |
 | **[Valsoft Corporation](https://www.valsoftcorp.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32459736/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Treviso, Province of Treviso, Italy | On Site | Nov 14 |
 | **[Itron, Inc.](https://na.itron.com/)** | **[Software Engineer (Backend developer)](https://jobr.pro/job/32455201/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India (Diamond District Local Office) | On Site | Nov 14 |
@@ -25,12 +26,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[The Flex](https://theflex.global/)** | **[Backend Developer](https://jobr.pro/job/32431173/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris | Remote | Nov 13 |
 | **[Clinch](https://clinch.co/)** | **[Senior Backend Developer](https://jobr.pro/job/32390507/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Caesarea, Israel, IL | On Site | Nov 13 |
 | **[Kistler Group](https://www.kistler.com)** | **[Backend Developer](https://jobr.pro/job/32344534/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bratislava, SK | On Site | Nov 13 |
-| **[BlackRock](https://www.blackrock.com/)** | **[Application Engineer (Java Backend Developer), Aladdin Engineering, Vice President](https://jobr.pro/job/32419100/application-engineer-java-backend-developer-aladdin-engineering-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MU8-South (A) Wing, 7-10 Floor, Nesco IT Park Tower 4, Western Express Highway, Mumbai, India | On Site | Nov 13 |
-| **[Mastercard](https://www.mastercard.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/32422390/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Nov 13 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Senior Backend Developer Platform (m/f/d)](https://jobr.pro/job/32416089/senior-backend-developer-platform-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DEU - Trier, Germany | Remote | Nov 13 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Senior Backend Developer DevOps (m/w/d)](https://jobr.pro/job/32416086/senior-backend-developer-devops-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DEU - Trier, Germany | Remote | Nov 13 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / Automation / FSD, AS](https://jobr.pro/job/32416301/backend-developer-automation-fsd-as?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Nov 13 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Backend Developer (m/w/d)](https://jobr.pro/job/32416093/backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DEU - Trier, Germany | On Site | Nov 13 |
+| **[BlackRock](https://www.blackrock.com/)** | **[Application Engineer (Java Backend Developer), Aladdin Engineering, Vice President](https://jobr.pro/job/32419100/application-engineer-java-backend-developer-aladdin-engineering-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MU8-South (A) Wing, 7-10 Floor, Nesco IT Park Tower 4, Western Express Highway, Mumbai, India | On Site | Nov 13 |
+| **[Mastercard](https://www.mastercard.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/32422390/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Nov 13 |
 | **[Wizeline](https://www.wizeline.com/)** | **[Backend Developer (Node.js)](https://jobr.pro/job/32345129/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | El Salvador | On Site | Nov 12 |
 | **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/32332307/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Puebla, Mexico | Remote | Nov 12 |
 | **[Varicent](https://www.varicent.com/)** | **[Senior Cloud Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/32332318/senior-cloud-backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Durango, Mexico | Remote | Nov 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Varicent](https://www.varicent.com/)** | **[Backend Developer with Kubernetes (Remote - Mexico Only)](https://jobr.pro/job/32160343/backend-developer-with-kubernetes-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Monterrey, Mexico | Remote | Nov 10 |
 | **[constellr](https://constellr.com/)** | **[Backend Developer - Mission Operations Software](https://jobr.pro/job/32141128/backend-developer-mission-operations-software?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 10 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Backend Developer with Databricks & Snowflake Expertise](https://jobr.pro/job/32152702/senior-backend-developer-with-databricks-snowflake-expertise?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Göteborg, Västra Götalands län, Sweden | On Site | Nov 10 |
-| **[Personetics](https://www.personetics.com)** | **[Java Backend Developer](https://jobr.pro/job/32078412/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Giv'atayim, Tel Aviv District, IL | On Site | Nov 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 38 companies | Avg salary: 76k  
+**Current Stats:** 50 jobs | 22% remote | 38 companies | Avg salary: 77k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
