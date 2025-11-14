@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -22,6 +22,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Dedalus](https://www.dedalus.com/)** | **[Senior Backend Developer DevOps (m/w/d)](https://jobr.pro/job/32416086/senior-backend-developer-devops-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DEU - Trier, Germany | Remote | Nov 13 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / Automation / FSD, AS](https://jobr.pro/job/32416301/backend-developer-automation-fsd-as?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Nov 13 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Backend Developer (m/w/d)](https://jobr.pro/job/32416093/backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DEU - Trier, Germany | On Site | Nov 13 |
+| **[BlackRock](https://www.blackrock.com/)** | **[Application Engineer (Java Backend Developer), Aladdin Engineering, Vice President](https://jobr.pro/job/32419100/application-engineer-java-backend-developer-aladdin-engineering-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MU8-South (A) Wing, 7-10 Floor, Nesco IT Park Tower 4, Western Express Highway, Mumbai, India | On Site | Nov 13 |
+| **[Mastercard](https://www.mastercard.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/32422390/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Nov 13 |
 | **[Wizeline](https://www.wizeline.com/)** | **[Backend Developer (Node.js)](https://jobr.pro/job/32345129/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | El Salvador | On Site | Nov 12 |
 | **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/32332307/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Puebla, Mexico | Remote | Nov 12 |
 | **[Varicent](https://www.varicent.com/)** | **[Senior Cloud Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/32332318/senior-cloud-backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Durango, Mexico | Remote | Nov 12 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deploy](https://thisisdeploy.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32081881/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm; Stockholm | On Site | Nov 09 |
 | **[Caiz](https://www.caizcoin.com/)** | **[AI/ML Backend Developer (Blockchain-Focused)](https://jobr.pro/job/32069782/aiml-backend-developer-blockchain-focused?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Nigeria - Remote | Remote | Nov 09 |
 | **[Unwired Networks GmbH](https://unwirednetworks.com/)** | **[Senior Backend Developer (f/m/d)](https://jobr.pro/job/32065154/senior-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wien, Austria | On Site | Nov 09 |
-| **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/32050741/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Nov 09 |
-| **[Upwind Security](https://www.upwind.io)** | **[Backend Developer (US - Remote)](https://jobr.pro/job/32021568/backend-developer-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Francisco, CA, US | Remote | Nov 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 39 companies | Avg salary: 76k  
+**Current Stats:** 50 jobs | 22% remote | 40 companies | Avg salary: 76k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
