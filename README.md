@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Zensar](https://www.zensar.com/)** | **[SENIOR BACKEND DEVELOPER](https://jobr.pro/job/32471932/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Nov 14 |
 | **[Valsoft Corporation](https://www.valsoftcorp.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32459736/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Treviso, Province of Treviso, Italy | On Site | Nov 14 |
 | **[Itron, Inc.](https://na.itron.com/)** | **[Software Engineer (Backend developer)](https://jobr.pro/job/32455201/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India (Diamond District Local Office) | On Site | Nov 14 |
 | **[Itron, Inc.](https://na.itron.com/)** | **[Staff Software Engineer (Backend developer)](https://jobr.pro/job/32455211/staff-software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India (Diamond District Local Office) | On Site | Nov 14 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[constellr](https://constellr.com/)** | **[Backend Developer - Mission Operations Software](https://jobr.pro/job/32141128/backend-developer-mission-operations-software?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 10 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Backend Developer with Databricks & Snowflake Expertise](https://jobr.pro/job/32152702/senior-backend-developer-with-databricks-snowflake-expertise?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Göteborg, Västra Götalands län, Sweden | On Site | Nov 10 |
 | **[Personetics](https://www.personetics.com)** | **[Java Backend Developer](https://jobr.pro/job/32078412/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Giv'atayim, Tel Aviv District, IL | On Site | Nov 10 |
-| **[Flywire](https://www.flywire.com)** | **[Senior Software Engineer II, Backend Developer](https://jobr.pro/job/32053895/senior-software-engineer-ii-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Nov 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 39 companies | Avg salary: 76k  
+**Current Stats:** 50 jobs | 22% remote | 38 companies | Avg salary: 76k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
