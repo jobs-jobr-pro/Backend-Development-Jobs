@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -18,6 +18,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Valsoft Corporation](https://www.valsoftcorp.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32459736/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Treviso, Province of Treviso, Italy | On Site | Nov 14 |
 | **[Itron, Inc.](https://na.itron.com/)** | **[Software Engineer (Backend developer)](https://jobr.pro/job/32455201/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India (Diamond District Local Office) | On Site | Nov 14 |
 | **[Itron, Inc.](https://na.itron.com/)** | **[Staff Software Engineer (Backend developer)](https://jobr.pro/job/32455211/staff-software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India (Diamond District Local Office) | On Site | Nov 14 |
+| **[DXC Technology](https://dxc.com/)** | **[Senior Backend Developer - Mining](https://jobr.pro/job/32504167/senior-backend-developer-mining?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AUS WA DXC Perth QV (CSC Location), Australia | On Site | Nov 14 |
+| **[Citi](https://www.citigroup.com/)** | **[Senior Backend Developer - Java/Spring - Vice President](https://jobr.pro/job/32503831/senior-backend-developer-javaspring-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | 6400 LAS COLINAS BLVD IRVING, United States | On Site | Nov 14 |
 | **[Encora](https://www.encora.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32433941/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Costa Rica | On Site | Nov 13 |
 | **[KPN](https://www.kpn.com)** | **[Interim Full stack backend developer](https://jobr.pro/job/32434031/interim-full-stack-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, ZH, Netherlands | On Site | Nov 13 |
 | **[Genpact](https://www.genpact.com/)** | **[Lead Consultant -Backend Developer, Java](https://jobr.pro/job/32381996/lead-consultant-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India-Noida | On Site | Nov 13 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Varicent](https://www.varicent.com/)** | **[Python Backend Developer(Remote - Mexico Only)](https://jobr.pro/job/32160348/python-backend-developerremote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Queretaro, Mexico | Remote | Nov 10 |
 | **[Varicent](https://www.varicent.com/)** | **[Python Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/32160347/python-backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Guanajuato, Mexico | Remote | Nov 10 |
 | **[Varicent](https://www.varicent.com/)** | **[Backend Developer with Kubernetes (Remote - Mexico Only)](https://jobr.pro/job/32160343/backend-developer-with-kubernetes-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Monterrey, Mexico | Remote | Nov 10 |
-| **[constellr](https://constellr.com/)** | **[Backend Developer - Mission Operations Software](https://jobr.pro/job/32141128/backend-developer-mission-operations-software?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 10 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Senior Backend Developer with Databricks & Snowflake Expertise](https://jobr.pro/job/32152702/senior-backend-developer-with-databricks-snowflake-expertise?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Göteborg, Västra Götalands län, Sweden | On Site | Nov 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 38 companies | Avg salary: 77k  
+**Current Stats:** 50 jobs | 20% remote | 39 companies | Avg salary: 77k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
