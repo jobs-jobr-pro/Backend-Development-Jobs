@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 15, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Senior Sofware Engineer - Backend Developer](https://jobr.pro/job/32586791/senior-sofware-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Nov 15 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Software Engineer - Backend Developer](https://jobr.pro/job/32586728/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Nov 15 |
 | **[Unity](https://unity.com/)** | **[Développeur Backend Logiciel Senior \| Senior Software Backend Developer](https://jobr.pro/job/32516424/developpeur-backend-logiciel-senior-senior-software-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Canada | On Site | Nov 14 |
 | **[DEPT®](https://www.deptagency.com/)** | **[Backend Developer intern](https://jobr.pro/job/32517386/backend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amsterdam, Rotterdam | On Site | Nov 14 |
 | **[Lovepop](https://www.lovepop.com/)** | **[Backend Developer](https://jobr.pro/job/32521678/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ho Chi Minh City, Vietnam | On Site | Nov 14 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zensar](https://www.zensar.com/)** | **[IVR Java Backend Developer](https://jobr.pro/job/32198674/ivr-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, Maharashtra, India | On Site | Nov 11 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Consultant Graduate Backend Developer – Affirmative Hiring for Women & Gender Diversity](https://jobr.pro/job/32145011/consultant-graduate-backend-developer-affirmative-hiring-for-women-gender-diversity?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasil | On Site | Nov 11 |
 | **[LiveRamp](https://liveramp.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32151295/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Nov 11 |
-| **[Aequilibrium](https://www.aequilibrium.ca)** | **[Senior .Net Backend Developer (digital banking)](https://jobr.pro/job/32174183/senior-net-backend-developer-digital-banking?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada - Remote | Remote | Nov 11 |
-| **[Encora](https://www.encora.com/)** | **[Python Backend Developer](https://jobr.pro/job/32140697/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Nov 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 41 companies | Avg salary: 77k  
+**Current Stats:** 50 jobs | 12% remote | 41 companies | Avg salary: 63k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
