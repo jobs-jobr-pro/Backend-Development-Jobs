@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 16, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 16, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,8 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Senior Sofware Engineer - Backend Developer](https://jobr.pro/job/32586791/senior-sofware-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Nov 15 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Software Engineer - Backend Developer](https://jobr.pro/job/32586728/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Nov 15 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Senior Sofware Engineer - Backend Developer](https://jobr.pro/job/32590792/senior-sofware-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Nov 15 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Software Engineer - Backend Developer](https://jobr.pro/job/32590789/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Nov 15 |
 | **[Unity](https://unity.com/)** | **[Développeur Backend Logiciel Senior \| Senior Software Backend Developer](https://jobr.pro/job/32516424/developpeur-backend-logiciel-senior-senior-software-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Canada | On Site | Nov 14 |
 | **[DEPT®](https://www.deptagency.com/)** | **[Backend Developer intern](https://jobr.pro/job/32517386/backend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amsterdam, Rotterdam | On Site | Nov 14 |
 | **[Lovepop](https://www.lovepop.com/)** | **[Backend Developer](https://jobr.pro/job/32521678/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ho Chi Minh City, Vietnam | On Site | Nov 14 |
