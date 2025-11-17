@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 17, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -21,11 +21,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Backend Developer - Python](https://jobr.pro/job/32523342/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Santiago | On Site | Nov 14 |
 | **[Qvik](https://qvik.com/)** | **[Senior Backend developer](https://jobr.pro/job/32491315/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Nov 14 |
 | **[Zensar](https://www.zensar.com/)** | **[SENIOR BACKEND DEVELOPER](https://jobr.pro/job/32471932/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Nov 14 |
+| **[DXC Technology](https://dxc.com/)** | **[Senior Backend Developer - Mining](https://jobr.pro/job/32504167/senior-backend-developer-mining?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AUS WA DXC Perth QV (CSC Location), Australia | On Site | Nov 14 |
+| **[Citi](https://www.citigroup.com/)** | **[Senior Backend Developer - Java/Spring - Vice President](https://jobr.pro/job/32503831/senior-backend-developer-javaspring-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | 6400 LAS COLINAS BLVD IRVING, United States | On Site | Nov 14 |
 | **[Valsoft Corporation](https://www.valsoftcorp.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32459736/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Treviso, Province of Treviso, Italy | On Site | Nov 14 |
 | **[Itron, Inc.](https://na.itron.com/)** | **[Software Engineer (Backend developer)](https://jobr.pro/job/32455201/software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India (Diamond District Local Office) | On Site | Nov 14 |
 | **[Itron, Inc.](https://na.itron.com/)** | **[Staff Software Engineer (Backend developer)](https://jobr.pro/job/32455211/staff-software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India (Diamond District Local Office) | On Site | Nov 14 |
-| **[DXC Technology](https://dxc.com/)** | **[Senior Backend Developer - Mining](https://jobr.pro/job/32504167/senior-backend-developer-mining?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AUS WA DXC Perth QV (CSC Location), Australia | On Site | Nov 14 |
-| **[Citi](https://www.citigroup.com/)** | **[Senior Backend Developer - Java/Spring - Vice President](https://jobr.pro/job/32503831/senior-backend-developer-javaspring-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | 6400 LAS COLINAS BLVD IRVING, United States | On Site | Nov 14 |
 | **[Encora](https://www.encora.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32433941/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Costa Rica | On Site | Nov 13 |
 | **[KPN](https://www.kpn.com)** | **[Interim Full stack backend developer](https://jobr.pro/job/32434031/interim-full-stack-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, ZH, Netherlands | On Site | Nov 13 |
 | **[Genpact](https://www.genpact.com/)** | **[Lead Consultant -Backend Developer, Java](https://jobr.pro/job/32381996/lead-consultant-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India-Noida | On Site | Nov 13 |
