@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -18,6 +18,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Itron, Inc.](https://na.itron.com/)** | **[Sr Software Engineer (Backend Developer)](https://jobr.pro/job/32608070/sr-software-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India (Diamond District Local Office) | On Site | Nov 17 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Backend Developer - Categorie Protette](https://jobr.pro/job/32609717/backend-developer-categorie-protette?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | PESARO, Italy | On Site | Nov 17 |
 | **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Backend Developer (Associate Cloud Engineer)](https://jobr.pro/job/32636793/backend-developer-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MY-PJA-002, Malaysia | On Site | Nov 17 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / Automation / FSD, AS](https://jobr.pro/job/32646016/backend-developer-automation-fsd-as?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Nov 17 |
+| **[HARMAN International](https://www.harman.com/)** | **[Java Backend Developer](https://jobr.pro/job/32645779/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN Pune Embassy Tech Zone Rajiv Gandhi Infotec Park HCS, India | On Site | Nov 17 |
 | **[Fortinet](https://www.fortinet.com/)** | **[Backend Developer](https://jobr.pro/job/32618503/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Israel | On Site | Nov 16 |
 | **[DEUNA](https://www.deuna.com)** | **[Senior Golang Backend Developer](https://jobr.pro/job/32596871/senior-golang-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina | On Site | Nov 16 |
 | **[Strix](https://strix.net/)** | **[Shopware Backend Developer (m/w/d)](https://jobr.pro/job/32595560/shopware-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Praca zdalna | Remote | Nov 16 |
@@ -45,7 +47,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Clinch](https://clinch.co/)** | **[Senior Backend Developer](https://jobr.pro/job/32390507/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Caesarea, Israel, IL | On Site | Nov 13 |
 | **[Kistler Group](https://www.kistler.com)** | **[Backend Developer](https://jobr.pro/job/32344534/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bratislava, SK | On Site | Nov 13 |
 | **[Mastercard](https://www.mastercard.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/32422390/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Nov 13 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / Automation / FSD, AS](https://jobr.pro/job/32416301/backend-developer-automation-fsd-as?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Nov 13 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Backend Developer (m/w/d)](https://jobr.pro/job/32416093/backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DEU - Trier, Germany | On Site | Nov 13 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Senior Backend Developer Platform (m/f/d)](https://jobr.pro/job/32416089/senior-backend-developer-platform-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DEU - Trier, Germany | Remote | Nov 13 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Senior Backend Developer DevOps (m/w/d)](https://jobr.pro/job/32416086/senior-backend-developer-devops-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DEU - Trier, Germany | Remote | Nov 13 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UVeye](https://www.uveye.com/)** | **[Backend Developer](https://jobr.pro/job/32295091/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Tel Aviv District, IL | On Site | Nov 12 |
 | **[Cochlear](https://www.cochlear.com/)** | **[Backend Developer/ Devops](https://jobr.pro/job/32319187/backend-developer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AU Macquarie, Australia | On Site | Nov 12 |
 | **[CompuGroup Medical](https://www.cgm.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32321962/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Iasi \| Bdul. Chimiei, 2bis,Excel Buil, Rumänien | On Site | Nov 12 |
-| **[Worldpay](https://www.worldpay.com/)** | **[Software Engineer Senior - Java Backend Developer(7-10 Year)](https://jobr.pro/job/32298509/software-engineer-senior-java-backend-developer7-10-year?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IND PUNE STE401 RMZ-WE, India | On Site | Nov 12 |
 
 ---
 
