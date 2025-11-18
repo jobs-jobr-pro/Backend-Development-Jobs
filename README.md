@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 18, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[F-Secure](https://www.f-secure.com/)** | **[Senior Cloud & Backend Developer, TOTAL](https://jobr.pro/job/32718005/senior-cloud-backend-developer-total?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Nov 18 |
 | **[abra](https://www.abra-it.com/)** | **[Backend Developer](https://jobr.pro/job/32710992/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Center, Center District, IL | On Site | Nov 18 |
 | **[Zensar](https://www.zensar.com/)** | **[C# Backend Developer](https://jobr.pro/job/32693402/c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cape Town, Western Cape, South Africa | On Site | Nov 18 |
 | **[Encora](https://www.encora.com/)** | **[Sr Backend Developer (Golang/Python)](https://jobr.pro/job/32663768/sr-backend-developer-golangpython?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico | On Site | Nov 18 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Endava](https://www.endava.com)** | **[Senior Backend Developer (Java, NodeJS)](https://jobr.pro/job/32376193/senior-backend-developer-java-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, TS, India | On Site | Nov 13 |
 | **[The Flex](https://theflex.global/)** | **[Backend Developer](https://jobr.pro/job/32431173/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris | Remote | Nov 13 |
 | **[Clinch](https://clinch.co/)** | **[Senior Backend Developer](https://jobr.pro/job/32390507/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Caesarea, Israel, IL | On Site | Nov 13 |
-| **[Kistler Group](https://www.kistler.com)** | **[Backend Developer](https://jobr.pro/job/32344534/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bratislava, SK | On Site | Nov 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 56k  
+**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 80k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
