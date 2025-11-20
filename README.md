@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector \| Backend Developer (Golang)](https://jobr.pro/job/32882213/telecom-sector-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 20 |
+| **[askblue](https://askblue.com)** | **[Backend Developer - PHP \| Laravel](https://jobr.pro/job/32899571/backend-developer-php-laravel?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa | On Site | Nov 20 |
+| **[Kustannusosakeyhtiö Otava](https://otava.fi/)** | **[Backend Developer for Otava Learning](https://jobr.pro/job/32898283/backend-developer-for-otava-learning?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Nov 20 |
 | **[NTT DATA](https://nttdata.com)** | **[Sr. Java Backend Developer](https://jobr.pro/job/32863435/sr-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, KA, IN | On Site | Nov 20 |
 | **[Volkswagen Group Digital Solutions \[Portugal\]](https://vwg-digitalsolutions.pt/)** | **[Senior AWS Backend Developer](https://jobr.pro/job/32853282/senior-aws-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon/Porto | On Site | Nov 19 |
 | **[HARMAN International](https://www.harman.com/)** | **[Cloud Backend Developer](https://jobr.pro/job/32789359/cloud-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Nov 19 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DEPT®](https://www.deptagency.com/)** | **[Backend Developer intern](https://jobr.pro/job/32517386/backend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amsterdam, Rotterdam | On Site | Nov 14 |
 | **[Lovepop](https://www.lovepop.com/)** | **[Backend Developer](https://jobr.pro/job/32521678/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ho Chi Minh City, Vietnam | On Site | Nov 14 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Backend Developer - Python](https://jobr.pro/job/32523342/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Santiago | On Site | Nov 14 |
-| **[Qvik](https://qvik.com/)** | **[Senior Backend developer](https://jobr.pro/job/32491315/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Nov 14 |
-| **[Zensar](https://www.zensar.com/)** | **[SENIOR BACKEND DEVELOPER](https://jobr.pro/job/32471932/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Nov 14 |
-| **[DXC Technology](https://dxc.com/)** | **[Senior Backend Developer - Mining](https://jobr.pro/job/32504167/senior-backend-developer-mining?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AUS WA DXC Perth QV (CSC Location), Australia | On Site | Nov 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 41 companies | Avg salary: 80k  
+**Current Stats:** 50 jobs | 12% remote | 42 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java, api, database, microservices  
