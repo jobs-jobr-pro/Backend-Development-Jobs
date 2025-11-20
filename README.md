@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NTT DATA](https://nttdata.com)** | **[Sr. Java Backend Developer](https://jobr.pro/job/32863435/sr-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, KA, IN | On Site | Nov 20 |
 | **[Volkswagen Group Digital Solutions \[Portugal\]](https://vwg-digitalsolutions.pt/)** | **[Senior AWS Backend Developer](https://jobr.pro/job/32853282/senior-aws-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon/Porto | On Site | Nov 19 |
 | **[HARMAN International](https://www.harman.com/)** | **[Cloud Backend Developer](https://jobr.pro/job/32789359/cloud-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Nov 19 |
 | **[HARMAN International](https://www.harman.com/)** | **[Backend Developer](https://jobr.pro/job/32789352/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Nov 19 |
@@ -31,7 +32,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zensar](https://www.zensar.com/)** | **[C# Backend Developer](https://jobr.pro/job/32693402/c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cape Town, Western Cape, South Africa | On Site | Nov 18 |
 | **[Encora](https://www.encora.com/)** | **[Sr Backend Developer (Golang/Python)](https://jobr.pro/job/32663768/sr-backend-developer-golangpython?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico | On Site | Nov 18 |
 | **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Software Engineer(Java backend Developer)](https://jobr.pro/job/32657216/software-engineerjava-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Nov 18 |
-| **[NTT DATA](https://nttdata.com)** | **[Sr. Java Backend Developer](https://jobr.pro/job/32679218/sr-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, KA, IN | On Site | Nov 18 |
 | **[Oracle](https://www.oracle.com/)** | **[Sr. Java Backend Developer - 3 (OCI Team)](https://jobr.pro/job/32689932/sr-java-backend-developer-3-oci-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | BENGALURU, KARNATAKA, India | On Site | Nov 17 |
 | **[Bitfinex](https://www.bitfinex.com/)** | **[Senior Backend Developer - Node.js (Fully Remote, Worldwide) (3)](https://jobr.pro/job/32654639/senior-backend-developer-nodejs-fully-remote-worldwide-3?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 17 |
 | **[Bitfinex](https://www.bitfinex.com/)** | **[Senior Backend Developer - Node.js (Fully Remote, Worldwide) (2)](https://jobr.pro/job/32654640/senior-backend-developer-nodejs-fully-remote-worldwide-2?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 17 |
