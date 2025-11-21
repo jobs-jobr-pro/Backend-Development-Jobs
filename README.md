@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 21, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Virtusa](https://www.virtusa.com/)** | **[Java Backend Developer](https://jobr.pro/job/32966079/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN-MH-Pune | On Site | Nov 21 |
 | **[Moon Active](https://www.moonactive.com/)** | **[Backend Developer](https://jobr.pro/job/32976086/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, IL | On Site | Nov 21 |
 | **[IRIUM Portugal](https://www.irium.pt/)** | **[Backend Developer for an International Company](https://jobr.pro/job/32979421/backend-developer-for-an-international-company?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Braga, Coimbra, Lisboa, Braga, Coimbra | On Site | Nov 21 |
+| **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Java Backend Developer (IoT platform)](https://jobr.pro/job/32992796/java-backend-developer-iot-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MY-PJA-002, Malaysia | On Site | Nov 21 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Backend (Developer Experience)](https://jobr.pro/job/32929370/senior-software-engineer-backend-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - USA | Remote | Nov 20 |
 | **[Oowlish Technology](https://www.oowlish.com/)** | **[Backend Developer – PHP & Laravel](https://jobr.pro/job/32929073/backend-developer-php-laravel?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasília, Federal District, Brazil | Remote | Nov 20 |
 | **[Oowlish Technology](https://www.oowlish.com/)** | **[Backend Developer (.NET Core)](https://jobr.pro/job/32929076/backend-developer-net-core?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasília, Federal District, Brazil | Remote | Nov 20 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KOSTAL Group](https://www.kostal.com)** | **[Senior BI Backend Developer](https://jobr.pro/job/32669740/senior-bi-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest, Hungary | On Site | Nov 17 |
 | **[Capco](https://www.capco.com/)** | **[Sr. Java Backend Developer](https://jobr.pro/job/32665071/sr-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Pune | On Site | Nov 17 |
 | **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Backend Developer (Associate Cloud Engineer)](https://jobr.pro/job/32636793/backend-developer-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MY-PJA-002, Malaysia | On Site | Nov 17 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / Automation / FSD, AS](https://jobr.pro/job/32646016/backend-developer-automation-fsd-as?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Nov 17 |
 
 ---
 
