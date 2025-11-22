@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 22, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Deloitte](https://www.deloitte.com/)** | **[Backend Developer @Thessaloniki](https://jobr.pro/job/33038594/backend-developer-thessaloniki?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Thessaloniki | On Site | Nov 22 |
 | **[Capco](https://www.capco.com/)** | **[Lead Java Backend Developer](https://jobr.pro/job/33009301/lead-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Bengaluru; India - Pune | On Site | Nov 21 |
 | **[Bitfinex](https://www.bitfinex.com/)** | **[Senior Backend Developer - Node.js (Fully Remote, Worldwide) (5)](https://jobr.pro/job/33008117/senior-backend-developer-nodejs-fully-remote-worldwide-5?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 21 |
 | **[Bitfinex](https://www.bitfinex.com/)** | **[Senior Backend Developer - Node.js (Fully Remote, Worldwide) (4)](https://jobr.pro/job/33008118/senior-backend-developer-nodejs-fully-remote-worldwide-4?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 21 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bitfinex](https://www.bitfinex.com/)** | **[Senior Backend Developer - Node.js (Fully Remote, Worldwide) (2)](https://jobr.pro/job/32654640/senior-backend-developer-nodejs-fully-remote-worldwide-2?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 17 |
 | **[Teleste](https://www.teleste.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32690201/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław, Poland | Remote | Nov 17 |
 | **[RoofStacks](https://roofstacks.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32659631/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | İstanbul | On Site | Nov 17 |
-| **[Xsolla](https://xsolla.com)** | **[Senior Backend Developer — Xsolla Backpack](https://jobr.pro/job/32653989/senior-backend-developer-xsolla-backpack?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Baku | On Site | Nov 17 |
 
 ---
 
