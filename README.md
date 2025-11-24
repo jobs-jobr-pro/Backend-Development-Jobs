@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Wix](https://www.wix.com/)** | **[Backend Developer for Online Stores](https://jobr.pro/job/33067261/backend-developer-for-online-stores?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Nov 23 |
+| **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/33061860/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Nov 23 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Backend Developer @Thessaloniki](https://jobr.pro/job/33038594/backend-developer-thessaloniki?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Thessaloniki | On Site | Nov 22 |
 | **[Capco](https://www.capco.com/)** | **[Lead Java Backend Developer](https://jobr.pro/job/33009301/lead-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Bengaluru; India - Pune | On Site | Nov 21 |
 | **[Bitfinex](https://www.bitfinex.com/)** | **[Senior Backend Developer - Node.js (Fully Remote, Worldwide) (5)](https://jobr.pro/job/33008117/senior-backend-developer-nodejs-fully-remote-worldwide-5?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 21 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Oracle](https://www.oracle.com/)** | **[Sr. Java Backend Developer - 3 (OCI Team)](https://jobr.pro/job/32689932/sr-java-backend-developer-3-oci-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | BENGALURU, KARNATAKA, India | On Site | Nov 17 |
 | **[Bitfinex](https://www.bitfinex.com/)** | **[Senior Backend Developer - Node.js (Fully Remote, Worldwide) (3)](https://jobr.pro/job/32654639/senior-backend-developer-nodejs-fully-remote-worldwide-3?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 17 |
 | **[Bitfinex](https://www.bitfinex.com/)** | **[Senior Backend Developer - Node.js (Fully Remote, Worldwide) (2)](https://jobr.pro/job/32654640/senior-backend-developer-nodejs-fully-remote-worldwide-2?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 17 |
-| **[Teleste](https://www.teleste.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32690201/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław, Poland | Remote | Nov 17 |
-| **[RoofStacks](https://roofstacks.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32659631/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | İstanbul | On Site | Nov 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 42 companies | Avg salary: 148k  
+**Current Stats:** 50 jobs | 20% remote | 42 companies | Avg salary: 148k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java, api, database, microservices  
