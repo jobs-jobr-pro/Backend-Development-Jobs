@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -14,6 +14,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Wix](https://www.wix.com/)** | **[Backend Developer for Online Stores](https://jobr.pro/job/33067261/backend-developer-for-online-stores?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Nov 23 |
+| **[DBT Capital](https://www.dbt.se)** | **[Backend Developer](https://jobr.pro/job/33076732/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Sweden | On Site | Nov 23 |
+| **[INNOCV Solutions](https://www.innocv.com)** | **[Backend Developer (.NET C#)](https://jobr.pro/job/33076041/backend-developer-net-c?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Roma, Italy | On Site | Nov 23 |
+| **[Timestamp](https://www.timestampgroup.com/)** | **[Backend Developer (NodeJS)](https://jobr.pro/job/33072495/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Porto, PT | On Site | Nov 23 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/33061860/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Nov 23 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Backend Developer @Thessaloniki](https://jobr.pro/job/33038594/backend-developer-thessaloniki?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Thessaloniki | On Site | Nov 22 |
 | **[Capco](https://www.capco.com/)** | **[Lead Java Backend Developer](https://jobr.pro/job/33009301/lead-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Bengaluru; India - Pune | On Site | Nov 21 |
@@ -60,16 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zensar](https://www.zensar.com/)** | **[C# Backend Developer](https://jobr.pro/job/32693402/c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cape Town, Western Cape, South Africa | On Site | Nov 18 |
 | **[Encora](https://www.encora.com/)** | **[Sr Backend Developer (Golang/Python)](https://jobr.pro/job/32663768/sr-backend-developer-golangpython?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico | On Site | Nov 18 |
 | **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Software Engineer(Java backend Developer)](https://jobr.pro/job/32657216/software-engineerjava-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Nov 18 |
-| **[Oracle](https://www.oracle.com/)** | **[Sr. Java Backend Developer - 3 (OCI Team)](https://jobr.pro/job/32689932/sr-java-backend-developer-3-oci-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | BENGALURU, KARNATAKA, India | On Site | Nov 17 |
-| **[Bitfinex](https://www.bitfinex.com/)** | **[Senior Backend Developer - Node.js (Fully Remote, Worldwide) (3)](https://jobr.pro/job/32654639/senior-backend-developer-nodejs-fully-remote-worldwide-3?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 17 |
-| **[Bitfinex](https://www.bitfinex.com/)** | **[Senior Backend Developer - Node.js (Fully Remote, Worldwide) (2)](https://jobr.pro/job/32654640/senior-backend-developer-nodejs-fully-remote-worldwide-2?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 42 companies | Avg salary: 148k  
+**Current Stats:** 50 jobs | 16% remote | 44 companies | Avg salary: 148k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, java, api, database, microservices  
+**Trending Skills:** python, nodejs, java, api, database  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
