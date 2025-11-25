@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 25, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Keenfolks](https://keenfolks.com/)** | **[Sr Backend Developer](https://jobr.pro/job/33179197/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Nov 25 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector\| Backend Developer (Python)](https://jobr.pro/job/33163663/telecom-sector-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 25 |
 | **[New Era Technology](https://www.neweratech.com/)** | **[Senior Optimizely (headless/SaaS) Backend Developer](https://jobr.pro/job/33130576/senior-optimizely-headlesssaas-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | Nov 25 |
+| **[Sequoia Connect](https://www.sequoia-connect.com)** | **[Backend Developer](https://jobr.pro/job/33175813/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mazatlán, Sin., MX | On Site | Nov 24 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Backend Developer Engineer (Java/Kotlin)](https://jobr.pro/job/33126809/backend-developer-engineer-javakotlin?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ciudad de México, DIF, Mexico | On Site | Nov 24 |
 | **[Varicent](https://www.varicent.com/)** | **[Sr Cloud Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/33127242/sr-cloud-backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Queretaro, Mexico | Remote | Nov 24 |
 | **[Certn](https://certn.co/)** | **[Senior Backend Developer](https://jobr.pro/job/33127067/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada - Remote | Remote | Nov 24 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[HARMAN International](https://www.harman.com/)** | **[Backend Developer](https://jobr.pro/job/32789352/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Nov 19 |
 | **[Buildots](https://buildots.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32805115/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | London, England, GB | On Site | Nov 19 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Security Engineer - Python Backend Developer](https://jobr.pro/job/32798285/lead-security-engineer-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, Telangana, India | On Site | Nov 19 |
-| **[Coppel](https://www.coppel.com/)** | **[Sr. Backend Developer (API & Microservices )](https://jobr.pro/job/32787650/sr-backend-developer-api-microservices-?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Miguel Hidalgo, Ciudad de México, Mexico | On Site | Nov 19 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer, AS](https://jobr.pro/job/32831890/backend-developer-as?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Nov 19 |
-| **[NTT DATA](https://nttdata.com)** | **[Java Backend Developer](https://jobr.pro/job/32764225/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, IN | On Site | Nov 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 43 companies | Avg salary: 339k  
+**Current Stats:** 50 jobs | 20% remote | 44 companies | Avg salary: 339k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
