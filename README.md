@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 25, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,11 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[New Era Technology](https://www.neweratech.com/)** | **[Senior Optimizely (headless/SaaS) Backend Developer](https://jobr.pro/job/33130576/senior-optimizely-headlesssaas-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | Nov 25 |
+| **[NielsenIQ](https://nielseniq.com)** | **[Backend Developer Engineer (Java/Kotlin)](https://jobr.pro/job/33126809/backend-developer-engineer-javakotlin?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ciudad de México, DIF, Mexico | On Site | Nov 24 |
+| **[Varicent](https://www.varicent.com/)** | **[Sr Cloud Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/33127242/sr-cloud-backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Queretaro, Mexico | Remote | Nov 24 |
+| **[Certn](https://certn.co/)** | **[Senior Backend Developer](https://jobr.pro/job/33127067/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada - Remote | Remote | Nov 24 |
 | **[Appdome](https://www.appdome.com)** | **[Backend Developer](https://jobr.pro/job/33090515/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 24 |
+| **[Wix](https://www.wix.com/)** | **[Backend Developer for Online Stores](https://jobr.pro/job/33133899/backend-developer-for-online-stores?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Nov 24 |
+| **[Pure Storage](https://www.purestorage.com/)** | **[Senior Backend Developer -Go, K8S](https://jobr.pro/job/33135270/senior-backend-developer-go-k8s?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Nov 24 |
 | **[druck.at](https://www.druck.at/)** | **[IT Backend Developer (w/m/d)](https://jobr.pro/job/33087299/it-backend-developer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Leobersdorf, Austria | On Site | Nov 24 |
 | **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer](https://jobr.pro/job/33110078/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Nov 24 |
 | **[Applied Materials](https://www.appliedmaterials.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33110900/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rehovot,ISR, Israel | On Site | Nov 24 |
-| **[Wix](https://www.wix.com/)** | **[Backend Developer for Online Stores](https://jobr.pro/job/33067261/backend-developer-for-online-stores?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Nov 23 |
 | **[Master-Works](https://master-works.sa)** | **[Senior Backend Developer](https://jobr.pro/job/33085169/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Nov 23 |
 | **[DBT Capital](https://www.dbt.se)** | **[Backend Developer](https://jobr.pro/job/33076732/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Sweden | On Site | Nov 23 |
 | **[INNOCV Solutions](https://www.innocv.com)** | **[Backend Developer (.NET C#)](https://jobr.pro/job/33076041/backend-developer-net-c?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Roma, Italy | On Site | Nov 23 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coppel](https://www.coppel.com/)** | **[Sr. Backend Developer (API & Microservices )](https://jobr.pro/job/32787650/sr-backend-developer-api-microservices-?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Miguel Hidalgo, Ciudad de México, Mexico | On Site | Nov 19 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer, AS](https://jobr.pro/job/32831890/backend-developer-as?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Nov 19 |
 | **[NTT DATA](https://nttdata.com)** | **[Java Backend Developer](https://jobr.pro/job/32764225/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, IN | On Site | Nov 19 |
-| **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/32741360/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ciudad de mexico, Mexico | Remote | Nov 18 |
-| **[UVeye](https://www.uveye.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32803187/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Tel Aviv District, IL | On Site | Nov 18 |
-| **[Aleph](https://www.alephholding.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32744864/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ljubljana, Slovenia | On Site | Nov 18 |
-| **[F-Secure](https://www.f-secure.com/)** | **[Senior Cloud & Backend Developer, TOTAL](https://jobr.pro/job/32718005/senior-cloud-backend-developer-total?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Nov 18 |
-| **[KOSTAL Group](https://www.kostal.com)** | **[Senior Java Backend Developer E-Mobility](https://jobr.pro/job/32736067/senior-java-backend-developer-e-mobility?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest, Hungary | On Site | Nov 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 43 companies | Avg salary: 148k  
+**Current Stats:** 50 jobs | 20% remote | 43 companies | Avg salary: 339k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
