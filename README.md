@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 26, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[AnyMind Group](https://anymindgroup.com/)** | **[Middle Backend Developer (Python) (Visa and work permit sponsorship to Thailand)](https://jobr.pro/job/33220388/middle-backend-developer-python-visa-and-work-permit-sponsorship-to-thailand?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok | On Site | Nov 26 |
+| **[InTTrust](https://inttrust.gr)** | **[Senior PHP Backend Developer](https://jobr.pro/job/33244605/senior-php-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Athens, Attica, Greece | On Site | Nov 26 |
 | **[Keenfolks](https://keenfolks.com/)** | **[Sr Backend Developer](https://jobr.pro/job/33179197/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Nov 25 |
 | **[Teravision Technologies](https://www.teravisiontech.com/)** | **[Backend Developer - Golang](https://jobr.pro/job/33212215/backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Nov 25 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector\| Backend Developer (Python)](https://jobr.pro/job/33163663/telecom-sector-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 25 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NTT DATA](https://nttdata.com)** | **[Sr. Java Backend Developer](https://jobr.pro/job/32863435/sr-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, KA, IN | On Site | Nov 20 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Java Backend Developer, AVP](https://jobr.pro/job/32916251/java-backend-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Nov 20 |
 | **[Citi](https://www.citigroup.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/32914992/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TRIL INFO PARK, LITTLEWOOD TOWER, India | On Site | Nov 20 |
-| **[Kyndryl](https://www.kyndryl.com/)** | **[JAVA- Backend Developer](https://jobr.pro/job/32915516/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Nov 20 |
 
 ---
 
