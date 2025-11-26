@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 26, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AnyMind Group](https://anymindgroup.com/)** | **[Middle Backend Developer (Python) (Visa and work permit sponsorship to Thailand)](https://jobr.pro/job/33220388/middle-backend-developer-python-visa-and-work-permit-sponsorship-to-thailand?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok | On Site | Nov 26 |
 | **[Keenfolks](https://keenfolks.com/)** | **[Sr Backend Developer](https://jobr.pro/job/33179197/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Nov 25 |
+| **[Teravision Technologies](https://www.teravisiontech.com/)** | **[Backend Developer - Golang](https://jobr.pro/job/33212215/backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Nov 25 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector\| Backend Developer (Python)](https://jobr.pro/job/33163663/telecom-sector-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 25 |
+| **[Payoneer](https://www.payoneer.com)** | **[Backend Developer (C#/ JAVA)](https://jobr.pro/job/33211465/backend-developer-c-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Petach Tiqva, Israel | On Site | Nov 25 |
 | **[New Era Technology](https://www.neweratech.com/)** | **[Senior Optimizely (headless/SaaS) Backend Developer](https://jobr.pro/job/33130576/senior-optimizely-headlesssaas-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | Nov 25 |
 | **[AmerisourceBergen](https://www.amerisourcebergen.com/)** | **[Engineer III - Java Backend Developer](https://jobr.pro/job/33195163/engineer-iii-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | APAC - India - Pune - Samrat Ashok Path | On Site | Nov 25 |
 | **[AmerisourceBergen](https://www.amerisourcebergen.com/)** | **[Engineer III - Backend Developer](https://jobr.pro/job/33195162/engineer-iii-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | APAC - India - Pune - Samrat Ashok Path | On Site | Nov 25 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deutsche Bank](https://www.db.com/)** | **[Java Backend Developer, AVP](https://jobr.pro/job/32916251/java-backend-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Nov 20 |
 | **[Citi](https://www.citigroup.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/32914992/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TRIL INFO PARK, LITTLEWOOD TOWER, India | On Site | Nov 20 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[JAVA- Backend Developer](https://jobr.pro/job/32915516/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Nov 20 |
-| **[Volkswagen Group Digital Solutions \[Portugal\]](https://vwg-digitalsolutions.pt/)** | **[Senior AWS Backend Developer](https://jobr.pro/job/32853282/senior-aws-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon/Porto | On Site | Nov 19 |
-| **[HARMAN International](https://www.harman.com/)** | **[Cloud Backend Developer](https://jobr.pro/job/32789359/cloud-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Nov 19 |
-| **[HARMAN International](https://www.harman.com/)** | **[Backend Developer](https://jobr.pro/job/32789352/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Nov 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 43 companies | Avg salary: 339k  
+**Current Stats:** 50 jobs | 22% remote | 44 companies | Avg salary: 339k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
