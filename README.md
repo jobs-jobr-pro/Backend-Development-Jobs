@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 26, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ONE ZERO Digital Bank](https://www.onezerobank.com/)** | **[Backend Developer](https://jobr.pro/job/33261034/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 26 |
+| **[Mend.io](https://www.mend.io/)** | **[Senior Backend Developer -Container Team](https://jobr.pro/job/33259659/senior-backend-developer-container-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Giv'atayim, Tel Aviv District, IL | On Site | Nov 26 |
 | **[AnyMind Group](https://anymindgroup.com/)** | **[Middle Backend Developer (Python) (Visa and work permit sponsorship to Thailand)](https://jobr.pro/job/33220388/middle-backend-developer-python-visa-and-work-permit-sponsorship-to-thailand?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok | On Site | Nov 26 |
 | **[InTTrust](https://inttrust.gr)** | **[Senior PHP Backend Developer](https://jobr.pro/job/33244605/senior-php-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Athens, Attica, Greece | On Site | Nov 26 |
+| **[Zoetis](https://www.zoetis.com/)** | **[Senior - Backend Developer - DX](https://jobr.pro/job/33262539/senior-backend-developer-dx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Nov 26 |
 | **[Keenfolks](https://keenfolks.com/)** | **[Sr Backend Developer](https://jobr.pro/job/33179197/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Nov 25 |
 | **[Teravision Technologies](https://www.teravisiontech.com/)** | **[Backend Developer - Golang](https://jobr.pro/job/33212215/backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Nov 25 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector\| Backend Developer (Python)](https://jobr.pro/job/33163663/telecom-sector-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 25 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kustannusosakeyhtiö Otava](https://otava.fi/)** | **[Backend Developer for Otava Learning](https://jobr.pro/job/32898283/backend-developer-for-otava-learning?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Nov 20 |
 | **[Lely](https://www.lely.com)** | **[Backend Developer](https://jobr.pro/job/32937125/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Maassluis, ZH, Netherlands | On Site | Nov 20 |
 | **[IG Group](https://www.iggroup.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/32913880/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Nov 20 |
-| **[NTT DATA](https://nttdata.com)** | **[Sr. Java Backend Developer](https://jobr.pro/job/32863435/sr-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, KA, IN | On Site | Nov 20 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Java Backend Developer, AVP](https://jobr.pro/job/32916251/java-backend-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Nov 20 |
-| **[Citi](https://www.citigroup.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/32914992/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TRIL INFO PARK, LITTLEWOOD TOWER, India | On Site | Nov 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 44 companies | Avg salary: 339k  
+**Current Stats:** 50 jobs | 22% remote | 45 companies | Avg salary: 339k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
