@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 27, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ília](https://ilia.digital/)** | **[SR Backend Developer (Python)](https://jobr.pro/job/33290586/sr-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasil | On Site | Nov 26 |
+| **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/33294635/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ciudad de mexico, Mexico | Remote | Nov 26 |
 | **[ONE ZERO Digital Bank](https://www.onezerobank.com/)** | **[Backend Developer](https://jobr.pro/job/33261034/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 26 |
+| **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer (Pay Team)](https://jobr.pro/job/33302470/senior-backend-developer-pay-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Nov 26 |
+| **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer (NetSuite team)](https://jobr.pro/job/33302472/senior-backend-developer-netsuite-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Nov 26 |
+| **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer (Architecture team)](https://jobr.pro/job/33302473/senior-backend-developer-architecture-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Nov 26 |
 | **[Mend.io](https://www.mend.io/)** | **[Senior Backend Developer -Container Team](https://jobr.pro/job/33259659/senior-backend-developer-container-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Giv'atayim, Tel Aviv District, IL | On Site | Nov 26 |
 | **[AnyMind Group](https://anymindgroup.com/)** | **[Middle Backend Developer (Python) (Visa and work permit sponsorship to Thailand)](https://jobr.pro/job/33220388/middle-backend-developer-python-visa-and-work-permit-sponsorship-to-thailand?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok | On Site | Nov 26 |
 | **[InTTrust](https://inttrust.gr)** | **[Senior PHP Backend Developer](https://jobr.pro/job/33244605/senior-php-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Athens, Attica, Greece | On Site | Nov 26 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ClearFocus Technologies](https://clearfocustech.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32899865/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote, Remote | Remote | Nov 20 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Mobility Sector \| Java Backend Developer](https://jobr.pro/job/32932781/mobility-sector-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 20 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector \| Backend Developer (Golang)](https://jobr.pro/job/32882213/telecom-sector-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 20 |
-| **[VML](https://www.vml.com/)** | **[Senior Backend Developer - EMEA](https://jobr.pro/job/32923827/senior-backend-developer-emea?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New Delhi, Delhi, India | On Site | Nov 20 |
-| **[askblue](https://askblue.com)** | **[Backend Developer - PHP \| Laravel](https://jobr.pro/job/32899571/backend-developer-php-laravel?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa | On Site | Nov 20 |
-| **[Kustannusosakeyhtiö Otava](https://otava.fi/)** | **[Backend Developer for Otava Learning](https://jobr.pro/job/32898283/backend-developer-for-otava-learning?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Nov 20 |
-| **[Lely](https://www.lely.com)** | **[Backend Developer](https://jobr.pro/job/32937125/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Maassluis, ZH, Netherlands | On Site | Nov 20 |
-| **[IG Group](https://www.iggroup.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/32913880/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Nov 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 45 companies | Avg salary: 339k  
+**Current Stats:** 50 jobs | 24% remote | 42 companies | Avg salary: 467k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
