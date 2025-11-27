@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 27, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Abysalto](https://abysalto.eu/)** | **[AI Backend Developer (m/f)](https://jobr.pro/job/33344407/ai-backend-developer-mf?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Zagreb, Croatia (Hybrid) | On Site | Nov 27 |
 | **[Appdome](https://www.appdome.com)** | **[Backend Developer](https://jobr.pro/job/33337746/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 27 |
 | **[ília](https://ilia.digital/)** | **[SR Backend Developer (Python)](https://jobr.pro/job/33290586/sr-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasil | On Site | Nov 26 |
 | **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/33294635/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ciudad de mexico, Mexico | Remote | Nov 26 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Oowlish Technology](https://www.oowlish.com/)** | **[Backend Developer – PHP & Laravel](https://jobr.pro/job/32929073/backend-developer-php-laravel?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasília, Federal District, Brazil | Remote | Nov 20 |
 | **[Oowlish Technology](https://www.oowlish.com/)** | **[Backend Developer (.NET Core)](https://jobr.pro/job/32929076/backend-developer-net-core?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasília, Federal District, Brazil | Remote | Nov 20 |
 | **[NEORIS](https://www.neoris.com)** | **[Senior Backend Developer Java & Microservices \[Madrid\]](https://jobr.pro/job/32928554/senior-backend-developer-java-microservices-madrid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Madrid, Spain | On Site | Nov 20 |
-| **[ClearFocus Technologies](https://clearfocustech.com/)** | **[Senior Backend Developer](https://jobr.pro/job/32899865/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote, Remote | Remote | Nov 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 44 companies | Avg salary: 467k  
+**Current Stats:** 50 jobs | 22% remote | 44 companies | Avg salary: 467k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
