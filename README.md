@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 28, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 28, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -25,8 +25,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer (Architecture team)](https://jobr.pro/job/33302473/senior-backend-developer-architecture-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Nov 26 |
 | **[Mend.io](https://www.mend.io/)** | **[Senior Backend Developer -Container Team](https://jobr.pro/job/33259659/senior-backend-developer-container-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Giv'atayim, Tel Aviv District, IL | On Site | Nov 26 |
 | **[AnyMind Group](https://anymindgroup.com/)** | **[Middle Backend Developer (Python) (Visa and work permit sponsorship to Thailand)](https://jobr.pro/job/33220388/middle-backend-developer-python-visa-and-work-permit-sponsorship-to-thailand?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok | On Site | Nov 26 |
-| **[InTTrust](https://inttrust.gr)** | **[Senior PHP Backend Developer](https://jobr.pro/job/33244605/senior-php-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Athens, Attica, Greece | On Site | Nov 26 |
 | **[Zoetis](https://www.zoetis.com/)** | **[Senior - Backend Developer - DX](https://jobr.pro/job/33262539/senior-backend-developer-dx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Nov 26 |
+| **[InTTrust](https://inttrust.gr)** | **[Senior PHP Backend Developer](https://jobr.pro/job/33244605/senior-php-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Athens, Attica, Greece | On Site | Nov 26 |
 | **[Keenfolks](https://keenfolks.com/)** | **[Sr Backend Developer](https://jobr.pro/job/33179197/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Nov 25 |
 | **[Teravision Technologies](https://www.teravisiontech.com/)** | **[Backend Developer - Golang](https://jobr.pro/job/33212215/backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Nov 25 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector\| Backend Developer (Python)](https://jobr.pro/job/33163663/telecom-sector-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 25 |
