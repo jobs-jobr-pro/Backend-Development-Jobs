@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 01, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 01, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -28,6 +28,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capco](https://www.capco.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/33448166/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Bengaluru | On Site | Dec 01 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Sr Java Backend Developer - Tietoevry Create (m/f/d)](https://jobr.pro/job/33450316/sr-java-backend-developer-tietoevry-create-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Dec 01 |
 | **[Seekho](https://seekho.in/)** | **[Backend Developer](https://jobr.pro/job/33457929/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 01 |
+| **[NN Group](https://www.nn-group.com/)** | **[Senior Java Backend Developer (B2B Contract)](https://jobr.pro/job/33488703/senior-java-backend-developer-b2b-contract?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Warszawa, Poland | On Site | Dec 01 |
 | **[Crowd Collective](https://www.crowdcollective.com)** | **[Java Backend Developer](https://jobr.pro/job/33461383/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Solna, Sweden | On Site | Nov 30 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/33444277/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Nov 30 |
 | **[Keyrus](https://keyrus.com/)** | **[Senior Backend Developer - JAVA](https://jobr.pro/job/33423300/senior-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Nov 28 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AnyMind Group](https://anymindgroup.com/)** | **[Middle Backend Developer (Python) (Visa and work permit sponsorship to Thailand)](https://jobr.pro/job/33220388/middle-backend-developer-python-visa-and-work-permit-sponsorship-to-thailand?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok | On Site | Nov 26 |
 | **[Zoetis](https://www.zoetis.com/)** | **[Senior - Backend Developer - DX](https://jobr.pro/job/33262539/senior-backend-developer-dx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Nov 26 |
 | **[InTTrust](https://inttrust.gr)** | **[Senior PHP Backend Developer](https://jobr.pro/job/33244605/senior-php-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Athens, Attica, Greece | On Site | Nov 26 |
-| **[Keenfolks](https://keenfolks.com/)** | **[Sr Backend Developer](https://jobr.pro/job/33179197/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Nov 25 |
 
 ---
 
