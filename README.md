@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Nov 30, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 01, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -60,13 +60,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pure Storage](https://www.purestorage.com/)** | **[Senior Backend Developer -Go, K8S](https://jobr.pro/job/33135270/senior-backend-developer-go-k8s?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Nov 24 |
 | **[druck.at](https://www.druck.at/)** | **[IT Backend Developer (w/m/d)](https://jobr.pro/job/33087299/it-backend-developer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Leobersdorf, Austria | On Site | Nov 24 |
 | **[Applied Materials](https://www.appliedmaterials.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33110900/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rehovot,ISR, Israel | On Site | Nov 24 |
-| **[Master-Works](https://master-works.sa)** | **[Senior Backend Developer](https://jobr.pro/job/33085169/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Nov 23 |
-| **[DBT Capital](https://www.dbt.se)** | **[Backend Developer](https://jobr.pro/job/33076732/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Sweden | On Site | Nov 23 |
-| **[INNOCV Solutions](https://www.innocv.com)** | **[Backend Developer (.NET C#)](https://jobr.pro/job/33076041/backend-developer-net-c?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Roma, Italy | On Site | Nov 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 275k  
+**Current Stats:** 47 jobs | 19% remote | 43 companies | Avg salary: 275k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
