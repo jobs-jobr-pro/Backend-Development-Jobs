@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 01, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 01, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Capco](https://www.capco.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/33448166/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Bengaluru | On Site | Dec 01 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Sr Java Backend Developer - Tietoevry Create (m/f/d)](https://jobr.pro/job/33450316/sr-java-backend-developer-tietoevry-create-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Dec 01 |
+| **[Seekho](https://seekho.in/)** | **[Backend Developer](https://jobr.pro/job/33457929/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 01 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/33444277/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Nov 30 |
 | **[Keyrus](https://keyrus.com/)** | **[Senior Backend Developer - JAVA](https://jobr.pro/job/33423300/senior-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Nov 28 |
 | **[Vilgain](https://vilgain.com/)** | **[PHP Backend Developer](https://jobr.pro/job/33408040/php-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 28 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wix](https://www.wix.com/)** | **[Backend Developer for Online Stores](https://jobr.pro/job/33133899/backend-developer-for-online-stores?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Nov 24 |
 | **[Pure Storage](https://www.purestorage.com/)** | **[Senior Backend Developer -Go, K8S](https://jobr.pro/job/33135270/senior-backend-developer-go-k8s?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Nov 24 |
 | **[druck.at](https://www.druck.at/)** | **[IT Backend Developer (w/m/d)](https://jobr.pro/job/33087299/it-backend-developer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Leobersdorf, Austria | On Site | Nov 24 |
-| **[Applied Materials](https://www.appliedmaterials.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33110900/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rehovot,ISR, Israel | On Site | Nov 24 |
 
 ---
 
