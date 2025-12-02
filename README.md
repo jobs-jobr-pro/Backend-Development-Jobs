@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 02, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 02, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Encora](https://www.encora.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/33503636/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico | On Site | Dec 01 |
+| **[Loop](https://www.bankonloop.com/)** | **[Senior Backend Developer (Payments)](https://jobr.pro/job/33531540/senior-backend-developer-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Canada | On Site | Dec 01 |
 | **[CapIntel](https://www.capintel.com/)** | **[Senior Backend Developer, Data Team](https://jobr.pro/job/33513400/senior-backend-developer-data-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, QC (Remote) | Remote | Dec 01 |
 | **[Galaxy](https://galaxy.com/)** | **[Senior Backend Developer - GalaxyOne](https://jobr.pro/job/33512426/senior-backend-developer-galaxyone?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New York, NY / Chicago, IL / Dallas, TX | On Site | Dec 01 |
 | **[Varicent](https://www.varicent.com/)** | **[Sr Cloud Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/33504546/sr-cloud-backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Queretaro, Mexico | Remote | Dec 01 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Incluso](https://www.incluso.se)** | **[Senior Backend Developer - Node.js - TypeScript](https://jobr.pro/job/33322862/senior-backend-developer-nodejs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Göteborg, Sweden | On Site | Nov 26 |
 | **[ONE ZERO Digital Bank](https://www.onezerobank.com/)** | **[Backend Developer](https://jobr.pro/job/33261034/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 26 |
 | **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer (Pay Team)](https://jobr.pro/job/33302470/senior-backend-developer-pay-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Nov 26 |
-| **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer (NetSuite team)](https://jobr.pro/job/33302472/senior-backend-developer-netsuite-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Nov 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 44 companies | Avg salary: 52k  
+**Current Stats:** 50 jobs | 26% remote | 45 companies | Avg salary: 52k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
