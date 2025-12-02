@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 02, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 02, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Earnix](https://earnix.com/)** | **[Backend Developer](https://jobr.pro/job/33562400/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Dec 02 |
+| **[Nokia](https://www.nokia.com/)** | **[Backend Developer Trainee (Java)](https://jobr.pro/job/33558744/backend-developer-trainee-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | On Site | Dec 02 |
+| **[GigaSpaces](https://www.gigaspaces.com/)** | **[Backend Developer](https://jobr.pro/job/33562827/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Tel Aviv District, IL | On Site | Dec 02 |
 | **[Encora](https://www.encora.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/33503636/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico | On Site | Dec 01 |
 | **[Loop](https://www.bankonloop.com/)** | **[Senior Backend Developer (Payments)](https://jobr.pro/job/33531540/senior-backend-developer-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Canada | On Site | Dec 01 |
 | **[CapIntel](https://www.capintel.com/)** | **[Senior Backend Developer, Data Team](https://jobr.pro/job/33513400/senior-backend-developer-data-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, QC (Remote) | Remote | Dec 01 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ília](https://ilia.digital/)** | **[SR Backend Developer (Python)](https://jobr.pro/job/33290586/sr-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasil | On Site | Nov 26 |
 | **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/33294635/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ciudad de mexico, Mexico | Remote | Nov 26 |
 | **[Reflexive Concepts](https://www.reflexiveconcepts.com)** | **[Sr. Backend Developer](https://jobr.pro/job/33341443/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hanover, MD | On Site | Nov 26 |
-| **[Incluso](https://www.incluso.se)** | **[Senior Backend Developer - Node.js - TypeScript](https://jobr.pro/job/33322862/senior-backend-developer-nodejs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Göteborg, Sweden | On Site | Nov 26 |
-| **[ONE ZERO Digital Bank](https://www.onezerobank.com/)** | **[Backend Developer](https://jobr.pro/job/33261034/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 26 |
-| **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer (Pay Team)](https://jobr.pro/job/33302470/senior-backend-developer-pay-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Nov 26 |
 
 ---
 
