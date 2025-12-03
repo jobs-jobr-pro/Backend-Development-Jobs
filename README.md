@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 12:31 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 16:31 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Euroclear](https://www.euroclear.com/)** | **[Backend Developer](https://jobr.pro/job/33640142/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland | On Site | Dec 03 |
+| **[Driven Properties](https://www.drivenproperties.com/)** | **[Senior Backend Developer (Node.js / TypeScript)](https://jobr.pro/job/33640152/senior-backend-developer-nodejs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Dec 03 |
 | **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobr.pro/job/33610980/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Callao Region, Peru | On Site | Dec 02 |
 | **[Encora](https://www.encora.com/)** | **[Python Backend Developer](https://jobr.pro/job/33610002/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Dec 02 |
 | **[TransPerfect](https://www.transperfect.com/)** | **[Backend Developer](https://jobr.pro/job/33598078/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Dec 02 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Santander](https://www.santander.com/)** | **[Senior Backend Developer - SDS](https://jobr.pro/job/33404355/senior-backend-developer-sds?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | JUAN IGNACIO LUCA DE TENA-PLANTA PRIMERA, Spain | On Site | Nov 28 |
 | **[ING](https://www.ing.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/33405057/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILAN, Italy | On Site | Nov 28 |
 | **[NEORIS](https://www.neoris.com)** | **[Java Backend Developer](https://jobr.pro/job/33363020/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil; Remote, Brazil | Remote | Nov 27 |
-| **[2Brains](https://2brains.lat/)** | **[BackEnd Developer](https://jobr.pro/job/33364654/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Santiago | On Site | Nov 27 |
-| **[Abysalto](https://abysalto.eu/)** | **[AI Backend Developer (m/f)](https://jobr.pro/job/33344407/ai-backend-developer-mf?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Zagreb, Croatia (Hybrid) | On Site | Nov 27 |
 
 ---
 
