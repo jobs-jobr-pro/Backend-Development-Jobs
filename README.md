@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 08:31 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,11 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobr.pro/job/33610980/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Callao Region, Peru | On Site | Dec 02 |
+| **[Encora](https://www.encora.com/)** | **[Python Backend Developer](https://jobr.pro/job/33610002/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Dec 02 |
+| **[TransPerfect](https://www.transperfect.com/)** | **[Backend Developer](https://jobr.pro/job/33598078/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Dec 02 |
+| **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/33598885/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ciudad de mexico, Mexico | Remote | Dec 02 |
 | **[Earnix](https://earnix.com/)** | **[Backend Developer](https://jobr.pro/job/33562400/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Dec 02 |
+| **[Netcompany](https://www.netcompany.com)** | **[Senior Backend Developer](https://jobr.pro/job/33613111/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brussels, Brussels, Belgium | On Site | Dec 02 |
 | **[Nokia](https://www.nokia.com/)** | **[Backend Developer Trainee (Java)](https://jobr.pro/job/33558744/backend-developer-trainee-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | On Site | Dec 02 |
 | **[GigaSpaces](https://www.gigaspaces.com/)** | **[Backend Developer](https://jobr.pro/job/33562827/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Tel Aviv District, IL | On Site | Dec 02 |
-| **[Aristocrat](https://www.aristocrat.com/)** | **[Backend Developer](https://jobr.pro/job/33574314/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland - Krakow | On Site | Dec 02 |
+| **[Devexperts](https://devexperts.com)** | **[Backend Developer](https://jobr.pro/job/33610482/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Porto, Porto District, Portugal | On Site | Dec 02 |
 | **[Alfa Laval](https://www.alfalaval.com/)** | **[IoT Backend Developer – Python/Linux](https://jobr.pro/job/33588638/iot-backend-developer-pythonlinux?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lund, Sweden | On Site | Dec 02 |
+| **[Aristocrat](https://www.aristocrat.com/)** | **[Backend Developer](https://jobr.pro/job/33574314/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland - Krakow | On Site | Dec 02 |
 | **[Encora](https://www.encora.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/33503636/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico | On Site | Dec 01 |
 | **[Loop](https://www.bankonloop.com/)** | **[Senior Backend Developer (Payments)](https://jobr.pro/job/33531540/senior-backend-developer-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Canada | On Site | Dec 01 |
 | **[CapIntel](https://www.capintel.com/)** | **[Senior Backend Developer, Data Team](https://jobr.pro/job/33513400/senior-backend-developer-data-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, QC (Remote) | Remote | Dec 01 |
@@ -44,7 +50,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/33444277/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Nov 30 |
 | **[Keyrus](https://keyrus.com/)** | **[Senior Backend Developer - JAVA](https://jobr.pro/job/33423300/senior-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Nov 28 |
 | **[Vilgain](https://vilgain.com/)** | **[PHP Backend Developer](https://jobr.pro/job/33408040/php-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 28 |
-| **[Devexperts](https://devexperts.com)** | **[Backend Developer](https://jobr.pro/job/33413770/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Vilnius County, Lithuania | On Site | Nov 28 |
 | **[Freelancerprox](https://www.freelancerprox.com/)** | **[Backend Developer - intern](https://jobr.pro/job/33422121/backend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paese, Province of Treviso, Italy | On Site | Nov 28 |
 | **[Property Finder](https://www.propertyfinder.ae/)** | **[Senior Backend Developer](https://jobr.pro/job/33411780/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, United Arab Emirates | On Site | Nov 28 |
 | **[Zensar](https://www.zensar.com/)** | **[.NET Backend Developer](https://jobr.pro/job/33380448/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Maharashtra, India | On Site | Nov 28 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[2Brains](https://2brains.lat/)** | **[BackEnd Developer](https://jobr.pro/job/33364654/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Santiago | On Site | Nov 27 |
 | **[Abysalto](https://abysalto.eu/)** | **[AI Backend Developer (m/f)](https://jobr.pro/job/33344407/ai-backend-developer-mf?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Zagreb, Croatia (Hybrid) | On Site | Nov 27 |
 | **[Ripio](https://www.ripio.com/)** | **[Backend Developer - Regulatory Reports](https://jobr.pro/job/33379163/backend-developer-regulatory-reports?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Fully Remote | Remote | Nov 27 |
-| **[Appdome](https://www.appdome.com)** | **[Backend Developer](https://jobr.pro/job/33337746/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 27 |
-| **[CrowdFarming](https://www.crowdfarming.com/)** | **[Backend Developer](https://jobr.pro/job/33378882/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Madrid, Spain | On Site | Nov 27 |
-| **[Darwoft](https://www.darwoft.com/)** | **[917 - Backend Developer (Node.js / GraphQL / SQL) · Senior · Remote · LATAM](https://jobr.pro/job/33377425/917-backend-developer-nodejs-graphql-sql-senior-remote-latam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Córdoba, Córdoba Province, Argentina | Remote | Nov 27 |
-| **[Xsolla](https://xsolla.com)** | **[Backend developer (nodejs)](https://jobr.pro/job/33361763/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Beijing, China | On Site | Nov 27 |
-| **[ília](https://ilia.digital/)** | **[SR Backend Developer (Python)](https://jobr.pro/job/33290586/sr-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasil | On Site | Nov 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 46 companies | Avg salary: 52k  
+**Current Stats:** 50 jobs | 24% remote | 44 companies | Avg salary: 35k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
