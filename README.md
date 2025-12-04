@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 04, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 04, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Nexite](https://nexite.io/)** | **[Senior Backend Developer](https://jobr.pro/job/33684468/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 04 |
+| **[Ditto Insurance](https://joinditto.in/)** | **[Backend Developer (Python & Django)](https://jobr.pro/job/33680521/backend-developer-python-django?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Karnataka, Bengaluru, India | On Site | Dec 04 |
+| **[Reach plc](https://www.reachplc.com)** | **[Software Engineer (Backend Developer - NodeJS)](https://jobr.pro/job/33672332/software-engineer-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | London, England, United Kingdom | Remote | Dec 04 |
 | **[Euroclear](https://www.euroclear.com/)** | **[Backend Developer](https://jobr.pro/job/33640142/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland | On Site | Dec 03 |
+| **[abra](https://www.abra-it.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33685429/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Haifa, Haifa District, IL | On Site | Dec 03 |
 | **[Driven Properties](https://www.drivenproperties.com/)** | **[Senior Backend Developer (Node.js / TypeScript)](https://jobr.pro/job/33640152/senior-backend-developer-nodejs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Dec 03 |
 | **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobr.pro/job/33610980/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Callao Region, Peru | On Site | Dec 02 |
 | **[Encora](https://www.encora.com/)** | **[Python Backend Developer](https://jobr.pro/job/33610002/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Dec 02 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Morgan Stanley](https://www.morganstanley.com/)** | **[Backend Developer- Director-Software Engineer](https://jobr.pro/job/33375725/backend-developer-director-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | RMZ Ecoworld - Campus 6A, India | On Site | Nov 28 |
 | **[Hong Leong Bank Berhad](https://www.hlb.com.my/)** | **[Backend Developer](https://jobr.pro/job/33390250/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | HLT-Hong Leong Tower, Malaysia | On Site | Nov 28 |
 | **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer](https://jobr.pro/job/33401049/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Nov 28 |
-| **[Telpark](https://www.telpark.com/)** | **[Backend Developer](https://jobr.pro/job/33394111/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Oficina Vigo, Spain | On Site | Nov 28 |
-| **[Santander](https://www.santander.com/)** | **[Senior Backend Developer - SDS](https://jobr.pro/job/33404355/senior-backend-developer-sds?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | JUAN IGNACIO LUCA DE TENA-PLANTA PRIMERA, Spain | On Site | Nov 28 |
-| **[ING](https://www.ing.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/33405057/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILAN, Italy | On Site | Nov 28 |
-| **[NEORIS](https://www.neoris.com)** | **[Java Backend Developer](https://jobr.pro/job/33363020/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil; Remote, Brazil | Remote | Nov 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 44 companies | Avg salary: 35k  
+**Current Stats:** 50 jobs | 22% remote | 44 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
