@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 05, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 05, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,8 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Varicent](https://www.varicent.com/)** | **[Senior Backend Developer – C#/ .Net (Remote - Mexico Only)](https://jobr.pro/job/33729704/senior-backend-developer-c-net-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico, Remote | Remote | Dec 05 |
+| **[Getnet](https://www.getnet.com.br/)** | **[Mid Level Backend Developer \| Node.js](https://jobr.pro/job/33724370/mid-level-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil- São Paulo | On Site | Dec 04 |
+| **[Paymenttools](https://paymenttools.com/)** | **[Senior Backend Developer (d/f/m)](https://jobr.pro/job/33745889/senior-backend-developer-dfm?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin | On Site | Dec 04 |
+| **[BeyondTrust](https://www.beyondtrust.com/)** | **[Sr Backend Developer](https://jobr.pro/job/33730938/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote Canada | Remote | Dec 04 |
 | **[Nexite](https://nexite.io/)** | **[Senior Backend Developer](https://jobr.pro/job/33684468/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 04 |
 | **[Ditto Insurance](https://joinditto.in/)** | **[Backend Developer (Python & Django)](https://jobr.pro/job/33680521/backend-developer-python-django?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Karnataka, Bengaluru, India | On Site | Dec 04 |
+| **[sqanit GmbH](https://sqanit.com/)** | **[Backend Developer (f/m/d)](https://jobr.pro/job/33759061/backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich, Germany | On Site | Dec 04 |
+| **[applike group](https://applike-group.com/)** | **[Senior Go Backend Developer (f/m/d)](https://jobr.pro/job/33736101/senior-go-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hamburg | On Site | Dec 04 |
 | **[Reach plc](https://www.reachplc.com)** | **[Software Engineer (Backend Developer - NodeJS)](https://jobr.pro/job/33672332/software-engineer-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | London, England, United Kingdom | Remote | Dec 04 |
 | **[Euroclear](https://www.euroclear.com/)** | **[Backend Developer](https://jobr.pro/job/33640142/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland | On Site | Dec 03 |
 | **[abra](https://www.abra-it.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33685429/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Haifa, Haifa District, IL | On Site | Dec 03 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/33444277/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Nov 30 |
 | **[Keyrus](https://keyrus.com/)** | **[Senior Backend Developer - JAVA](https://jobr.pro/job/33423300/senior-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Nov 28 |
 | **[Vilgain](https://vilgain.com/)** | **[PHP Backend Developer](https://jobr.pro/job/33408040/php-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Nov 28 |
-| **[Freelancerprox](https://www.freelancerprox.com/)** | **[Backend Developer - intern](https://jobr.pro/job/33422121/backend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paese, Province of Treviso, Italy | On Site | Nov 28 |
-| **[Property Finder](https://www.propertyfinder.ae/)** | **[Senior Backend Developer](https://jobr.pro/job/33411780/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, United Arab Emirates | On Site | Nov 28 |
-| **[Zensar](https://www.zensar.com/)** | **[.NET Backend Developer](https://jobr.pro/job/33380448/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Maharashtra, India | On Site | Nov 28 |
-| **[Morgan Stanley](https://www.morganstanley.com/)** | **[Backend Developer- Director-Software Engineer](https://jobr.pro/job/33375725/backend-developer-director-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | RMZ Ecoworld - Campus 6A, India | On Site | Nov 28 |
-| **[Hong Leong Bank Berhad](https://www.hlb.com.my/)** | **[Backend Developer](https://jobr.pro/job/33390250/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | HLT-Hong Leong Tower, Malaysia | On Site | Nov 28 |
-| **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer](https://jobr.pro/job/33401049/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Nov 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 44 companies | Avg salary: Not specified  
+**Current Stats:** 50 jobs | 26% remote | 43 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
