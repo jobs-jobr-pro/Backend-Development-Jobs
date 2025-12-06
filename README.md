@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 06, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 06, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -14,6 +14,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Varicent](https://www.varicent.com/)** | **[Senior Backend Developer – C#/ .Net (Remote - Mexico Only)](https://jobr.pro/job/33838307/senior-backend-developer-c-net-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico, Remote | Remote | Dec 06 |
+| **[UniUni](https://www.uniuni.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33862414/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hybrid (Vancouver, British Columbia, CA) | On Site | Dec 05 |
+| **[GeoGuessr](https://www.geoguessr.com/)** | **[Backend Developer](https://jobr.pro/job/33866558/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Sweden | On Site | Dec 05 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Java backend developer](https://jobr.pro/job/33797921/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN-AP-Hyderabad | On Site | Dec 05 |
 | **[Solflare](https://www.solflare.com/)** | **[Backend Developer](https://jobr.pro/job/33843788/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Novi Sad, Vojvodina, Serbia | On Site | Dec 05 |
 | **[beyonnex](https://beyonnex.io/)** | **[Backend Developer - CDC (m/f/d)](https://jobr.pro/job/33775645/backend-developer-cdc-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 05 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deloitte](https://www2.deloitte.com/)** | **[Senior Backend Developer- R&D and Innovation Center](https://jobr.pro/job/33472244/senior-backend-developer-rd-and-innovation-center?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Tel Aviv District, IL | On Site | Dec 01 |
 | **[adjoe](https://adjoe.io/)** | **[Senior Go Backend Developer (Programmatic Supply Services Team) (f/m/d)](https://jobr.pro/job/33461812/senior-go-backend-developer-programmatic-supply-services-team-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hamburg, Germany | On Site | Dec 01 |
 | **[Capco](https://www.capco.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/33448166/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Bengaluru | On Site | Dec 01 |
-| **[Tietoevry](https://www.tietoevry.com/)** | **[Sr Java Backend Developer - Tietoevry Create (m/f/d)](https://jobr.pro/job/33450316/sr-java-backend-developer-tietoevry-create-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Dec 01 |
-| **[NN Group](https://www.nn-group.com/)** | **[Senior Java Backend Developer (B2B Contract)](https://jobr.pro/job/33488703/senior-java-backend-developer-b2b-contract?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Warszawa, Poland | On Site | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 43 companies | Avg salary: 142k  
+**Current Stats:** 50 jobs | 26% remote | 43 companies | Avg salary: 123k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
