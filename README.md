@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 08, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Lil Horse](https://www.lilhorselab.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33908578/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Cdad. Autónoma de Buenos Aires, Argentina | On Site | Dec 07 |
+| **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/33903973/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Dec 07 |
+| **[Yuno](https://www.y.uno/)** | **[Backend Developer - Dashboard](https://jobr.pro/job/33903698/backend-developer-dashboard?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bogota | Remote | Dec 07 |
 | **[Varicent](https://www.varicent.com/)** | **[Senior Backend Developer – C#/ .Net (Remote - Mexico Only)](https://jobr.pro/job/33838307/senior-backend-developer-c-net-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico, Remote | Remote | Dec 06 |
 | **[UniUni](https://www.uniuni.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33862414/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hybrid (Vancouver, British Columbia, CA) | On Site | Dec 05 |
 | **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/33882293/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 05 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Interfell](https://www.interfell.com)** | **[BACKEND DEVELOPER (PHP)](https://jobr.pro/job/33468409/backend-developer-php?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 01 |
 | **[Blue Ocean Corporation](https://www.blueoceancorporation.com/)** | **[Junior Backend Developer](https://jobr.pro/job/33466507/junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, India | On Site | Dec 01 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Backend Developer](https://jobr.pro/job/33465453/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New Cairo, Egypt | On Site | Dec 01 |
-| **[Orchid Security](https://www.orchid.security/)** | **[Backend developer](https://jobr.pro/job/33472334/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel- Aviv, IL | On Site | Dec 01 |
-| **[Deloitte](https://www2.deloitte.com/)** | **[Senior Backend Developer- R&D and Innovation Center](https://jobr.pro/job/33472244/senior-backend-developer-rd-and-innovation-center?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Tel Aviv District, IL | On Site | Dec 01 |
-| **[adjoe](https://adjoe.io/)** | **[Senior Go Backend Developer (Programmatic Supply Services Team) (f/m/d)](https://jobr.pro/job/33461812/senior-go-backend-developer-programmatic-supply-services-team-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hamburg, Germany | On Site | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 43 companies | Avg salary: 123k  
+**Current Stats:** 50 jobs | 28% remote | 43 companies | Avg salary: 96k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
