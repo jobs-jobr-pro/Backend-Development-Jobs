@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 08, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[INNIO](https://www.innio.com/)** | **[Backend Developer](https://jobr.pro/job/33912029/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hungary | On Site | Dec 07 |
+| **[Celfocus](https://www.celfocus.com)** | **[Backend Developer (Java)](https://jobr.pro/job/33919101/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cairo, Egypt | On Site | Dec 07 |
 | **[Lil Horse](https://www.lilhorselab.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33908578/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Cdad. Autónoma de Buenos Aires, Argentina | On Site | Dec 07 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/33903973/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Dec 07 |
 | **[Yuno](https://www.y.uno/)** | **[Backend Developer - Dashboard](https://jobr.pro/job/33903698/backend-developer-dashboard?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bogota | Remote | Dec 07 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Interfell](https://www.interfell.com)** | **[SR BACKEND DEVELOPER C#](https://jobr.pro/job/33468430/sr-backend-developer-c?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 01 |
 | **[Interfell](https://www.interfell.com)** | **[SSR BACKEND DEVELOPER JAVA](https://jobr.pro/job/33468426/ssr-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 01 |
 | **[Interfell](https://www.interfell.com)** | **[BACKEND DEVELOPER (PHP)](https://jobr.pro/job/33468409/backend-developer-php?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 01 |
-| **[Blue Ocean Corporation](https://www.blueoceancorporation.com/)** | **[Junior Backend Developer](https://jobr.pro/job/33466507/junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, India | On Site | Dec 01 |
-| **[MigrationIT](https://www.migrationit.com/)** | **[Backend Developer](https://jobr.pro/job/33465453/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New Cairo, Egypt | On Site | Dec 01 |
 
 ---
 
