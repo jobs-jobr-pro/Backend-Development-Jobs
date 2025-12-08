@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 08, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ibtikar BaseCamp](https://ibtikar-bc.com/)** | **[Backend Developer](https://jobr.pro/job/33932770/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 08 |
+| **[Arpeely](https://www.arpeely.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33933071/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Dec 08 |
+| **[UBS](https://www.ubs.com/)** | **[Python Backend Developer](https://jobr.pro/job/33925790/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, Pune, India | On Site | Dec 08 |
+| **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/33932593/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 07 |
+| **[abra](https://www.abra-it.com/)** | **[Backend Developer Tech Lead](https://jobr.pro/job/33931871/backend-developer-tech-lead?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Center, Center District, IL | On Site | Dec 07 |
 | **[INNIO](https://www.innio.com/)** | **[Backend Developer](https://jobr.pro/job/33912029/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hungary | On Site | Dec 07 |
 | **[Celfocus](https://www.celfocus.com)** | **[Backend Developer (Java)](https://jobr.pro/job/33919101/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cairo, Egypt | On Site | Dec 07 |
 | **[Lil Horse](https://www.lilhorselab.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33908578/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Cdad. Autónoma de Buenos Aires, Argentina | On Site | Dec 07 |
@@ -20,7 +25,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Yuno](https://www.y.uno/)** | **[Backend Developer - Dashboard](https://jobr.pro/job/33903698/backend-developer-dashboard?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bogota | Remote | Dec 07 |
 | **[Varicent](https://www.varicent.com/)** | **[Senior Backend Developer – C#/ .Net (Remote - Mexico Only)](https://jobr.pro/job/33838307/senior-backend-developer-c-net-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico, Remote | Remote | Dec 06 |
 | **[UniUni](https://www.uniuni.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33862414/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hybrid (Vancouver, British Columbia, CA) | On Site | Dec 05 |
-| **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/33882293/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 05 |
 | **[GeoGuessr](https://www.geoguessr.com/)** | **[Backend Developer](https://jobr.pro/job/33866558/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Sweden | On Site | Dec 05 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Java backend developer](https://jobr.pro/job/33797921/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN-AP-Hyderabad | On Site | Dec 05 |
 | **[Solflare](https://www.solflare.com/)** | **[Backend Developer](https://jobr.pro/job/33843788/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Novi Sad, Vojvodina, Serbia | On Site | Dec 05 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GM2](https://www.gm2dev.com/)** | **[BackEnd Developer .Net](https://jobr.pro/job/33472756/backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Argentina | On Site | Dec 01 |
 | **[Softgic](https://softgic.co/)** | **[Lead Backend Developer (Python/Django)](https://jobr.pro/job/33468784/lead-backend-developer-pythondjango?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 01 |
 | **[Interfell](https://www.interfell.com)** | **[BACKEND DEVELOPER](https://jobr.pro/job/33468464/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 01 |
-| **[Interfell](https://www.interfell.com)** | **[SR BACKEND DEVELOPER](https://jobr.pro/job/33468445/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 01 |
-| **[Interfell](https://www.interfell.com)** | **[SR BACKEND DEVELOPER C#](https://jobr.pro/job/33468430/sr-backend-developer-c?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 01 |
-| **[Interfell](https://www.interfell.com)** | **[SSR BACKEND DEVELOPER JAVA](https://jobr.pro/job/33468426/ssr-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 01 |
-| **[Interfell](https://www.interfell.com)** | **[BACKEND DEVELOPER (PHP)](https://jobr.pro/job/33468409/backend-developer-php?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 43 companies | Avg salary: 96k  
+**Current Stats:** 50 jobs | 20% remote | 46 companies | Avg salary: 96k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
