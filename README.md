@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 09, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Zensar](https://www.zensar.com/)** | **[SENIOR BACKEND DEVELOPER](https://jobr.pro/job/34009758/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Dec 09 |
 | **[Photon](https://www.photon.com/)** | **[Backend Developer - Database - USA(Remote)](https://jobr.pro/job/33993079/backend-developer-database-usaremote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | Dec 08 |
 | **[Oracle](https://www.oracle.com/)** | **[Principal Backend Developer (DDOS)](https://jobr.pro/job/33995887/principal-backend-developer-ddos?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | On Site | Dec 08 |
 | **[Ibtikar BaseCamp](https://ibtikar-bc.com/)** | **[Backend Developer](https://jobr.pro/job/33932770/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 08 |
@@ -62,7 +63,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 46 jobs | 15% remote | 44 companies | Avg salary: 133k  
+**Current Stats:** 47 jobs | 15% remote | 45 companies | Avg salary: 133k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
