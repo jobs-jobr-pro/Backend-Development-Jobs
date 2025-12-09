@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 09, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -15,6 +15,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Ibtikar BaseCamp](https://ibtikar-bc.com/)** | **[Backend Developer](https://jobr.pro/job/33932770/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 08 |
 | **[Arpeely](https://www.arpeely.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33933071/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Dec 08 |
+| **[Netskope](https://www.netskope.com/)** | **[Staff Engineer, Backend Developer](https://jobr.pro/job/33956673/staff-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 08 |
+| **[Octopus Energy](https://octopus.energy/)** | **[Backend Developer Python](https://jobr.pro/job/33956808/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris (FR) | On Site | Dec 08 |
 | **[UBS](https://www.ubs.com/)** | **[Python Backend Developer](https://jobr.pro/job/33925790/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, Pune, India | On Site | Dec 08 |
 | **[CompuGroup Medical](https://www.cgm.com/)** | **[Middle Backend Developer](https://jobr.pro/job/33948167/middle-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Iasi \| Bdul. Chimiei, 2bis,Excel Buil, Rumänien | On Site | Dec 08 |
 | **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/33932593/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 07 |
@@ -58,7 +60,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 42 jobs | 14% remote | 40 companies | Avg salary: 96k  
+**Current Stats:** 44 jobs | 14% remote | 42 companies | Avg salary: 96k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
