@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer](https://jobr.pro/job/34066826/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Dec 09 |
+| **[Klick](https://www.klick.com/)** | **[Lead Backend Developer (Platforms – AEM, Drupal, Adobe Target, GTM)](https://jobr.pro/job/34065220/lead-backend-developer-platforms-aem-drupal-adobe-target-gtm?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Ontario, Canada | On Site | Dec 09 |
+| **[Talan](https://talan.com)** | **[Medium Backend Developer](https://jobr.pro/job/34060244/medium-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Istanbul, İstanbul, Turkey | On Site | Dec 09 |
+| **[CLO Virtual Fashion](https://www.clovirtualfashion.com/)** | **[Backend Developer (C#)](https://jobr.pro/job/34052395/backend-developer-c?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Seoul | On Site | Dec 09 |
 | **[Zensar](https://www.zensar.com/)** | **[SENIOR BACKEND DEVELOPER](https://jobr.pro/job/34009758/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Dec 09 |
 | **[IRIUM](https://www.irium.es/)** | **[BACKEND DEVELOPER REMOTE](https://jobr.pro/job/34020176/backend-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Spain - Remote | Remote | Dec 09 |
 | **[BlackRock](https://www.blackrock.com/)** | **[Application Engineer (Java Backend Developer), Aladdin Engineering, Vice President](https://jobr.pro/job/34040558/application-engineer-java-backend-developer-aladdin-engineering-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MU8-South (A) Wing, 7-10 Floor, Nesco IT Park Tower 4, Western Express Highway, Mumbai, India | On Site | Dec 09 |
@@ -53,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 37 jobs | 19% remote | 36 companies | Avg salary: 119k  
+**Current Stats:** 41 jobs | 17% remote | 40 companies | Avg salary: 119k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
