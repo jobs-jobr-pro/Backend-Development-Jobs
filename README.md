@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Appdome](https://www.appdome.com)** | **[Backend Developer (Node.js)](https://jobr.pro/job/34104554/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 10 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Backend Developer Specialist – Java & Quarkus](https://jobr.pro/job/34082879/backend-developer-specialist-java-quarkus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO P.ZZA LUIGI EINAUDI, Italy | On Site | Dec 10 |
 | **[rocket code](https://therocketcode.com/)** | **[Backend Developer Support (AI / Tech Consulting Company)](https://jobr.pro/job/34090931/backend-developer-support-ai-tech-consulting-company?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Spain - Remote | Remote | Dec 10 |
+| **[ICF](https://www.icf.com/)** | **[Backend Developer (Top Secret clearance)](https://jobr.pro/job/34125548/backend-developer-top-secret-clearance?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Nationwide Remote Office (US99), United States | Remote | Dec 10 |
 | **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer](https://jobr.pro/job/34066826/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Dec 09 |
 | **[Newsquest Media Group](https://www.newsquest.co.uk/)** | **[Backend Developer](https://jobr.pro/job/34070226/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote/UK | Remote | Dec 09 |
 | **[Sumsub](https://www.sumsub.com)** | **[Senior Backend Developer](https://jobr.pro/job/34084707/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rīga, Latvia | On Site | Dec 09 |
@@ -63,7 +64,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 47 jobs | 19% remote | 46 companies | Avg salary: 108k  
+**Current Stats:** 48 jobs | 21% remote | 47 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
