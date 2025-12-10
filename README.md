@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -49,22 +49,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Euroclear](https://www.euroclear.com/)** | **[Backend Developer](https://jobr.pro/job/33640142/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland | On Site | Dec 03 |
 | **[abra](https://www.abra-it.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33685429/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Haifa, Haifa District, IL | On Site | Dec 03 |
 | **[Driven Properties](https://www.drivenproperties.com/)** | **[Senior Backend Developer (Node.js / TypeScript)](https://jobr.pro/job/33640152/senior-backend-developer-nodejs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Dec 03 |
-| **[Inetum](https://www.inetum.com)** | **[Backend Developer](https://jobr.pro/job/33610980/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Callao Region, Peru | On Site | Dec 02 |
-| **[Encora](https://www.encora.com/)** | **[Python Backend Developer](https://jobr.pro/job/33610002/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Dec 02 |
-| **[TransPerfect](https://www.transperfect.com/)** | **[Backend Developer](https://jobr.pro/job/33598078/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Dec 02 |
-| **[ONCARE](https://www.myoncare.com/)** | **[Data Backend Developer (f/m/d)](https://jobr.pro/job/33629428/data-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich, Germany | On Site | Dec 02 |
-| **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/33598885/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ciudad de mexico, Mexico | Remote | Dec 02 |
-| **[Earnix](https://earnix.com/)** | **[Backend Developer](https://jobr.pro/job/33562400/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Dec 02 |
-| **[Netcompany](https://www.netcompany.com)** | **[Senior Backend Developer](https://jobr.pro/job/33613111/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brussels, Brussels, Belgium | On Site | Dec 02 |
-| **[Nokia](https://www.nokia.com/)** | **[Backend Developer Trainee (Java)](https://jobr.pro/job/33558744/backend-developer-trainee-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | On Site | Dec 02 |
-| **[GigaSpaces](https://www.gigaspaces.com/)** | **[Backend Developer](https://jobr.pro/job/33562827/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Tel Aviv District, IL | On Site | Dec 02 |
-| **[Devexperts](https://devexperts.com)** | **[Backend Developer](https://jobr.pro/job/33610482/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Porto, Porto District, Portugal | On Site | Dec 02 |
-| **[Alfa Laval](https://www.alfalaval.com/)** | **[IoT Backend Developer – Python/Linux](https://jobr.pro/job/33588638/iot-backend-developer-pythonlinux?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lund, Sweden | On Site | Dec 02 |
-| **[Aristocrat](https://www.aristocrat.com/)** | **[Backend Developer](https://jobr.pro/job/33574314/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland - Krakow | On Site | Dec 02 |
 
 ---
 
-**Current Stats:** 48 jobs | 17% remote | 46 companies | Avg salary: 119k  
+**Current Stats:** 36 jobs | 19% remote | 35 companies | Avg salary: 119k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
