@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bosch Group](https://www.bosch.com)** | **[Backend Developer (MDM focus)](https://jobr.pro/job/34158093/backend-developer-mdm-focus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Timișoara, TM, Romania | On Site | Dec 10 |
+| **[Kambi](https://www.kambi.com/)** | **[Backend Developer – Shape Games , Copenhagen](https://jobr.pro/job/34139517/backend-developer-shape-games-copenhagen?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Copenhagen | On Site | Dec 10 |
+| **[Wix](https://www.wix.com/)** | **[Backend Developer for Online Stores](https://jobr.pro/job/34148489/backend-developer-for-online-stores?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Dec 10 |
 | **[Sweatcoin](https://sweatcoin.com/)** | **[Senior Backend Developer (Ruby on Rails)](https://jobr.pro/job/34081713/senior-backend-developer-ruby-on-rails?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Portugal | On Site | Dec 10 |
 | **[Appdome](https://www.appdome.com)** | **[Backend Developer (Node.js)](https://jobr.pro/job/34104554/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 10 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Backend Developer Specialist – Java & Quarkus](https://jobr.pro/job/34082879/backend-developer-specialist-java-quarkus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO P.ZZA LUIGI EINAUDI, Italy | On Site | Dec 10 |
@@ -61,7 +64,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 45 jobs | 22% remote | 45 companies | Avg salary: 115k  
+**Current Stats:** 48 jobs | 21% remote | 48 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
