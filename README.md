@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[HiQ](https://www.hiq.se/)** | **[Backend Developer till Helsingborg](https://jobr.pro/job/34173344/backend-developer-till-helsingborg?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsingborg, Sweden | On Site | Dec 11 |
+| **[HiQ](https://www.hiq.se/)** | **[Backend Developer till Malmö](https://jobr.pro/job/34173345/backend-developer-till-malmo?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Malmö, Sweden | On Site | Dec 11 |
+| **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://jobr.pro/job/34173824/junior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO VIALE A. DORIA, Italy | On Site | Dec 11 |
+| **[Seekho](https://seekho.in/)** | **[Backend Developer (SDE -I)](https://jobr.pro/job/34162800/backend-developer-sde-i?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 11 |
+| **[EY](https://www.ey.com)** | **[DE-Senior-Kotlin Backend Developer-GDSNF02](https://jobr.pro/job/34164236/de-senior-kotlin-backend-developer-gdsnf02?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, UP, IN, 201301 | On Site | Dec 11 |
 | **[Bosch Group](https://www.bosch.com)** | **[Backend Developer (MDM focus)](https://jobr.pro/job/34158093/backend-developer-mdm-focus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Timișoara, TM, Romania | On Site | Dec 10 |
 | **[Kambi](https://www.kambi.com/)** | **[Backend Developer – Shape Games , Copenhagen](https://jobr.pro/job/34139517/backend-developer-shape-games-copenhagen?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Copenhagen | On Site | Dec 10 |
 | **[Wix](https://www.wix.com/)** | **[Backend Developer for Online Stores](https://jobr.pro/job/34148489/backend-developer-for-online-stores?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Dec 10 |
@@ -58,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BeyondTrust](https://www.beyondtrust.com/)** | **[Sr Backend Developer](https://jobr.pro/job/33730938/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote Canada | Remote | Dec 04 |
 | **[Nexite](https://nexite.io/)** | **[Senior Backend Developer](https://jobr.pro/job/33684468/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 04 |
 | **[Ditto Insurance](https://joinditto.in/)** | **[Backend Developer (Python & Django)](https://jobr.pro/job/33680521/backend-developer-python-django?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Karnataka, Bengaluru, India | On Site | Dec 04 |
-| **[sqanit GmbH](https://sqanit.com/)** | **[Backend Developer (f/m/d)](https://jobr.pro/job/33759061/backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich, Germany | On Site | Dec 04 |
-| **[applike group](https://applike-group.com/)** | **[Senior Go Backend Developer (f/m/d)](https://jobr.pro/job/33736101/senior-go-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hamburg | On Site | Dec 04 |
-| **[Reach plc](https://www.reachplc.com)** | **[Software Engineer (Backend Developer - NodeJS)](https://jobr.pro/job/33672332/software-engineer-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | London, England, United Kingdom | Remote | Dec 04 |
 
 ---
 
-**Current Stats:** 48 jobs | 21% remote | 48 companies | Avg salary: 115k  
+**Current Stats:** 50 jobs | 18% remote | 48 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
