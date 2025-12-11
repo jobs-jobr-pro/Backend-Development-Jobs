@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -58,13 +58,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[sqanit GmbH](https://sqanit.com/)** | **[Backend Developer (f/m/d)](https://jobr.pro/job/33759061/backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich, Germany | On Site | Dec 04 |
 | **[applike group](https://applike-group.com/)** | **[Senior Go Backend Developer (f/m/d)](https://jobr.pro/job/33736101/senior-go-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hamburg | On Site | Dec 04 |
 | **[Reach plc](https://www.reachplc.com)** | **[Software Engineer (Backend Developer - NodeJS)](https://jobr.pro/job/33672332/software-engineer-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | London, England, United Kingdom | Remote | Dec 04 |
-| **[Euroclear](https://www.euroclear.com/)** | **[Backend Developer](https://jobr.pro/job/33640142/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland | On Site | Dec 03 |
-| **[abra](https://www.abra-it.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33685429/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Haifa, Haifa District, IL | On Site | Dec 03 |
-| **[Driven Properties](https://www.drivenproperties.com/)** | **[Senior Backend Developer (Node.js / TypeScript)](https://jobr.pro/job/33640152/senior-backend-developer-nodejs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Dec 03 |
 
 ---
 
-**Current Stats:** 48 jobs | 21% remote | 47 companies | Avg salary: 115k  
+**Current Stats:** 45 jobs | 22% remote | 45 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
