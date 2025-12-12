@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Seekho](https://seekho.in/)** | **[Backend Developer (SDE -I)](https://jobr.pro/job/34162800/backend-developer-sde-i?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 11 |
 | **[EY](https://www.ey.com)** | **[DE-Senior-Kotlin Backend Developer-GDSNF02](https://jobr.pro/job/34164236/de-senior-kotlin-backend-developer-gdsnf02?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, UP, IN, 201301 | On Site | Dec 11 |
 | **[Side](https://www.side.inc)** | **[Sr Backend Developer (Node & Python)](https://jobr.pro/job/34187508/sr-backend-developer-node-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India - Remote | Remote | Dec 11 |
+| **[Brown & Brown](https://www.bbinsurance.com/)** | **[Backend Developer](https://jobr.pro/job/34213480/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | 52 Lime Street, The Scalpel - 18th Floor, London, England, EC3M 7AF, United Kingdom | On Site | Dec 11 |
 | **[Summit Technologies, Inc.](https://summtech.com/)** | **[Sr. Backend Developer](https://jobr.pro/job/34193945/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Washington, DC, United States | On Site | Dec 10 |
 | **[IRONSCALES](https://ironscales.com/)** | **[Backend Developer- Deepfake Team](https://jobr.pro/job/34193467/backend-developer-deepfake-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Dec 10 |
 | **[Bosch Group](https://www.bosch.com)** | **[Backend Developer (MDM focus)](https://jobr.pro/job/34158093/backend-developer-mdm-focus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Timișoara, TM, Romania | On Site | Dec 10 |
@@ -64,7 +65,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 48 jobs | 19% remote | 46 companies | Avg salary: 115k  
+**Current Stats:** 49 jobs | 18% remote | 47 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
