@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 13, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 13, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Danfoss](https://www.danfoss.com)** | **[Senior Backend Developer](https://jobr.pro/job/34301037/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | City-State-Country, City-State-Country, City-State-Country | Remote | Dec 13 |
+| **[Flagship Pioneering, Inc.](https://www.flagshippioneering.com)** | **[Principal Backend Developer](https://jobr.pro/job/34309897/principal-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cambridge, MA USA | On Site | Dec 12 |
+| **[Scorewarrior](https://scorewarrior.com/)** | **[Tech Lead Game Backend Developer](https://jobr.pro/job/34297406/tech-lead-game-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Limassol, Lemesos, Cyprus | On Site | Dec 12 |
 | **[Abhyaz](https://www.abhyaz.com/)** | **[Backend Developer](https://jobr.pro/job/34257971/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 12 |
 | **[PostNord Group](https://www.postnord.com/)** | **[Backend Developer with focus on Java, Solna](https://jobr.pro/job/34269283/backend-developer-with-focus-on-java-solna?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Solna | On Site | Dec 12 |
 | **[Flexi Software](https://www.flexi.com/)** | **[Enterprise Backend Developer](https://jobr.pro/job/34245193/enterprise-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 12 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UBS](https://www.ubs.com/)** | **[Python Backend Developer](https://jobr.pro/job/33925790/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, Pune, India | On Site | Dec 08 |
 | **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/33932593/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 07 |
 | **[abra](https://www.abra-it.com/)** | **[Backend Developer Tech Lead](https://jobr.pro/job/33931871/backend-developer-tech-lead?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Center, Center District, IL | On Site | Dec 07 |
-| **[INNIO](https://www.innio.com/)** | **[Backend Developer](https://jobr.pro/job/33912029/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hungary | On Site | Dec 07 |
-| **[Celfocus](https://www.celfocus.com)** | **[Backend Developer (Java)](https://jobr.pro/job/33919101/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cairo, Egypt | On Site | Dec 07 |
-| **[Lil Horse](https://www.lilhorselab.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33908578/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Cdad. Autónoma de Buenos Aires, Argentina | On Site | Dec 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 45 companies | Avg salary: 112k  
+**Current Stats:** 50 jobs | 22% remote | 45 companies | Avg salary: 140k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
