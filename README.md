@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 14, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 15, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -61,12 +61,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Octopus Energy](https://octopus.energy/)** | **[Backend Developer Python](https://jobr.pro/job/33956808/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris (FR) | On Site | Dec 08 |
 | **[CompuGroup Medical](https://www.cgm.com/)** | **[Middle Backend Developer](https://jobr.pro/job/33948167/middle-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Iasi \| Bdul. Chimiei, 2bis,Excel Buil, Rumänien | On Site | Dec 08 |
 | **[UBS](https://www.ubs.com/)** | **[Python Backend Developer](https://jobr.pro/job/33925790/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, Pune, India | On Site | Dec 08 |
-| **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/33932593/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 07 |
-| **[abra](https://www.abra-it.com/)** | **[Backend Developer Tech Lead](https://jobr.pro/job/33931871/backend-developer-tech-lead?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Center, Center District, IL | On Site | Dec 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 45 companies | Avg salary: 140k  
+**Current Stats:** 48 jobs | 23% remote | 43 companies | Avg salary: 140k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
