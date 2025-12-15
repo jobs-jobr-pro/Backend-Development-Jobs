@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 15, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 15, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/34352758/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Dec 14 |
+| **[Tether Operations Limited](https://tether.to/en/)** | **[Senior Backend Developer - Node.js (100% Remote)](https://jobr.pro/job/34353425/senior-backend-developer-nodejs-100-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Dec 13 |
 | **[Danfoss](https://www.danfoss.com)** | **[Senior Backend Developer](https://jobr.pro/job/34301037/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | City-State-Country, City-State-Country, City-State-Country | Remote | Dec 13 |
+| **[Workstate](https://www.workstate.com)** | **[Senior Backend Developer - US Remote](https://jobr.pro/job/34357835/senior-backend-developer-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States - Remote | Remote | Dec 13 |
+| **[Workstate](https://www.workstate.com)** | **[Mid-level Backend Developer - CO Remote](https://jobr.pro/job/34357832/mid-level-backend-developer-co-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Colombia - Remote | Remote | Dec 13 |
 | **[Flagship Pioneering, Inc.](https://www.flagshippioneering.com)** | **[Principal Backend Developer](https://jobr.pro/job/34309897/principal-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cambridge, MA USA | On Site | Dec 12 |
 | **[Scorewarrior](https://scorewarrior.com/)** | **[Tech Lead Game Backend Developer](https://jobr.pro/job/34297406/tech-lead-game-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Limassol, Lemesos, Cyprus | On Site | Dec 12 |
 | **[Abhyaz](https://www.abhyaz.com/)** | **[Backend Developer](https://jobr.pro/job/34257971/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 12 |
@@ -59,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Arpeely](https://www.arpeely.com/)** | **[Senior Backend Developer](https://jobr.pro/job/33933071/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Dec 08 |
 | **[Netskope](https://www.netskope.com/)** | **[Staff Engineer, Backend Developer](https://jobr.pro/job/33956673/staff-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 08 |
 | **[Octopus Energy](https://octopus.energy/)** | **[Backend Developer Python](https://jobr.pro/job/33956808/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris (FR) | On Site | Dec 08 |
-| **[CompuGroup Medical](https://www.cgm.com/)** | **[Middle Backend Developer](https://jobr.pro/job/33948167/middle-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Iasi \| Bdul. Chimiei, 2bis,Excel Buil, Rumänien | On Site | Dec 08 |
-| **[UBS](https://www.ubs.com/)** | **[Python Backend Developer](https://jobr.pro/job/33925790/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, Pune, India | On Site | Dec 08 |
 
 ---
 
-**Current Stats:** 48 jobs | 23% remote | 43 companies | Avg salary: 140k  
+**Current Stats:** 50 jobs | 28% remote | 44 companies | Avg salary: 140k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
