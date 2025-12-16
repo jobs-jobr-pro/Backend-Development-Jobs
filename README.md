@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 16, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 16, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,11 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Zensar](https://www.zensar.com/)** | **[Sr C# Backend Developer](https://jobr.pro/job/34451015/sr-c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Serbia | On Site | Dec 16 |
 | **[Elia Group](https://www.eliagroup.eu)** | **[Lead Java Backend Developer (f/m/d)](https://jobr.pro/job/34413539/lead-java-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, BE, DE, 10557 | On Site | Dec 16 |
 | **[Elia Group](https://www.eliagroup.eu)** | **[Lead Java Backend Developer (w/m/d)](https://jobr.pro/job/34413538/lead-java-backend-developer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, BE, DE, 10557 | On Site | Dec 16 |
 | **[Axi](https://www.axi.com/)** | **[Senior Backend Developer](https://jobr.pro/job/34406738/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 16 |
 | **[Labelbox](https://labelbox.com/)** | **[Backend Developer - AI Data Services](https://jobr.pro/job/34406549/backend-developer-ai-data-services?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Denver | On Site | Dec 16 |
 | **[Labelbox](https://labelbox.com/)** | **[Backend Developer - Data Annotation Systems](https://jobr.pro/job/34406553/backend-developer-data-annotation-systems?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Francisco | On Site | Dec 16 |
+| **[Photon](https://www.photon.com/)** | **[Senior Backend Developer/Lead – Notification Hub (Onsite) \| US](https://jobr.pro/job/34454378/senior-backend-developerlead-notification-hub-onsite-us?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | On Site | Dec 15 |
 | **[Infinidat](https://www.infinidat.com/)** | **[Python Backend Developer - Big Data and AIOps](https://jobr.pro/job/34379607/python-backend-developer-big-data-and-aiops?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Tel Aviv District, IL | On Site | Dec 15 |
 | **[Earnix](https://earnix.com/)** | **[Backend Developer](https://jobr.pro/job/34378873/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris, France, FR | On Site | Dec 15 |
 | **[Capco](https://www.capco.com/)** | **[Sr. Java Backend Developer](https://jobr.pro/job/34409054/sr-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Pune | On Site | Dec 15 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Summit Technologies, Inc.](https://summtech.com/)** | **[Sr. Backend Developer](https://jobr.pro/job/34193945/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Washington, DC, United States | On Site | Dec 10 |
 | **[IRONSCALES](https://ironscales.com/)** | **[Backend Developer- Deepfake Team](https://jobr.pro/job/34193467/backend-developer-deepfake-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Dec 10 |
 | **[Bosch Group](https://www.bosch.com)** | **[Backend Developer (MDM focus)](https://jobr.pro/job/34158093/backend-developer-mdm-focus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Timișoara, TM, Romania | On Site | Dec 10 |
-| **[Kambi](https://www.kambi.com/)** | **[Backend Developer – Shape Games , Copenhagen](https://jobr.pro/job/34139517/backend-developer-shape-games-copenhagen?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Copenhagen | On Site | Dec 10 |
-| **[Wix](https://www.wix.com/)** | **[Backend Developer for Online Stores](https://jobr.pro/job/34148489/backend-developer-for-online-stores?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Dec 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 42 companies | Avg salary: 209k  
+**Current Stats:** 50 jobs | 26% remote | 42 companies | Avg salary: 189k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
