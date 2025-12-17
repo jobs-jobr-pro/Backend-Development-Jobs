@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 17, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Virtusa](https://www.virtusa.com/)** | **[Java backend developer](https://jobr.pro/job/34536237/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN-AP-Hyderabad | On Site | Dec 17 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector\| Backend Developer (Python)](https://jobr.pro/job/34534745/telecom-sector-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Dec 17 |
 | **[Festo](https://www.festo.com)** | **[Smartenence: Backend Developer](https://jobr.pro/job/34514891/smartenence-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, IN | On Site | Dec 17 |
+| **[Deutsche Bank](https://www.db.com/)** | **[JAVA Frontend & Backend Developer](https://jobr.pro/job/34552641/java-frontend-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Dec 17 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[(Senior) Backend Developer Java & .NET (m/f/d) – Tietoevry Create](https://jobr.pro/job/34502361/senior-backend-developer-java-net-mfd-tietoevry-create?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, BE, Germany | On Site | Dec 16 |
 | **[Encora](https://www.encora.com/)** | **[Java Backend Developer](https://jobr.pro/job/34499784/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Dec 16 |
 | **[Bosch Group](https://www.bosch.com)** | **[Backend Developer (C# / .NET MAUI – Multi-Platform Apps)](https://jobr.pro/job/34508825/backend-developer-c-net-maui-multi-platform-apps?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Aveiro, Portugal | On Site | Dec 16 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Umdasch Group](https://www.doka.com)** | **[C# .NET Backend Developer (m/w/d)](https://jobr.pro/job/34228115/c-net-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amstetten, Niederösterreich, Austria | On Site | Dec 11 |
 | **[Breakwater Technology](https://www.breakwater.ee/)** | **[Backend Developer](https://jobr.pro/job/34218534/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tallinn | On Site | Dec 11 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://jobr.pro/job/34173824/junior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO VIALE A. DORIA, Italy | On Site | Dec 11 |
-| **[Seekho](https://seekho.in/)** | **[Backend Developer (SDE -I)](https://jobr.pro/job/34162800/backend-developer-sde-i?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 11 |
 
 ---
 
