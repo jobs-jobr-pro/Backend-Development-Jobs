@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 17, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Festo](https://www.festo.com)** | **[Smartenence: Backend Developer](https://jobr.pro/job/34514891/smartenence-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, IN | On Site | Dec 17 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[(Senior) Backend Developer Java & .NET (m/f/d) – Tietoevry Create](https://jobr.pro/job/34502361/senior-backend-developer-java-net-mfd-tietoevry-create?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, BE, Germany | On Site | Dec 16 |
 | **[Encora](https://www.encora.com/)** | **[Java Backend Developer](https://jobr.pro/job/34499784/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Dec 16 |
 | **[Bosch Group](https://www.bosch.com)** | **[Backend Developer (C# / .NET MAUI – Multi-Platform Apps)](https://jobr.pro/job/34508825/backend-developer-c-net-maui-multi-platform-apps?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Aveiro, Portugal | On Site | Dec 16 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Seekho](https://seekho.in/)** | **[Backend Developer (SDE -I)](https://jobr.pro/job/34162800/backend-developer-sde-i?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 11 |
 | **[EY](https://www.ey.com)** | **[DE-Senior-Kotlin Backend Developer-GDSNF02](https://jobr.pro/job/34164236/de-senior-kotlin-backend-developer-gdsnf02?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, UP, IN, 201301 | On Site | Dec 11 |
 | **[Brown & Brown](https://www.bbinsurance.com/)** | **[Backend Developer](https://jobr.pro/job/34213480/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | 52 Lime Street, The Scalpel - 18th Floor, London, England, EC3M 7AF, United Kingdom | On Site | Dec 11 |
-| **[Side](https://www.side.inc)** | **[Sr Backend Developer (Node & Python)](https://jobr.pro/job/34187508/sr-backend-developer-node-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India - Remote | Remote | Dec 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 42 companies | Avg salary: 189k  
+**Current Stats:** 50 jobs | 22% remote | 42 companies | Avg salary: 189k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
