@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 18, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 19, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -15,9 +15,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Keenfolks](https://keenfolks.com/)** | **[Senior Backend Developer](https://jobr.pro/job/34626952/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Dec 18 |
 | **[P3](https://www.p3-group.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/34604621/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrad (SRB), Subotica (SRB), Digital Services | On Site | Dec 18 |
+| **[Axis Communications](https://www.axis.com/)** | **[Experienced Backend Developer - Operations Tools, Lund](https://jobr.pro/job/34644366/experienced-backend-developer-operations-tools-lund?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sweden - Lund | On Site | Dec 18 |
 | **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Backend Developer (Associate Cloud Engineer)](https://jobr.pro/job/34613949/backend-developer-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MY-PJA-002, Malaysia | On Site | Dec 18 |
 | **[AIA](https://www.aia.com/)** | **[Manager, AI Backend Developer Lead](https://jobr.pro/job/34624046/manager-ai-backend-developer-lead?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Dec 18 |
-| **[Axis Communications](https://www.axis.com/)** | **[Experienced Backend Developer - Operations Tools, Lund](https://jobr.pro/job/34644366/experienced-backend-developer-operations-tools-lund?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sweden - Lund | On Site | Dec 18 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Java backend developer](https://jobr.pro/job/34536237/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN-AP-Hyderabad | On Site | Dec 17 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector\| Backend Developer (Python)](https://jobr.pro/job/34534745/telecom-sector-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Dec 17 |
 | **[EvoPoint Solutions](https://www.evopoint.io/)** | **[.NET Backend Developer](https://jobr.pro/job/34596993/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Santo Domingo, DN, Dominican Republic (Hybrid) | Remote | Dec 17 |
@@ -62,11 +62,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SAP](https://www.sap.com/)** | **[Senior Backend Developer - Business Network Global Track and Trace](https://jobr.pro/job/34226540/senior-backend-developer-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
 | **[SAP](https://www.sap.com/)** | **[Backend Developer - Business Network - Global Track and Trace](https://jobr.pro/job/34226544/backend-developer-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
 | **[SAP](https://www.sap.com/)** | **[Backend Developer Associate - Business Network - Global Track and Trace](https://jobr.pro/job/34226542/backend-developer-associate-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
-| **[Yuno](https://www.y.uno/)** | **[Backend Developer - Core Payments](https://jobr.pro/job/34220632/backend-developer-core-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad | On Site | Dec 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 44 companies | Avg salary: 189k  
+**Current Stats:** 49 jobs | 22% remote | 43 companies | Avg salary: 189k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
