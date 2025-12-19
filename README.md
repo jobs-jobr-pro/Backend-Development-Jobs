@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 19, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 19, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Shiji Group](https://www.shijigroup.com/)** | **[Backend Developer (.NET) I Daylight](https://jobr.pro/job/34676490/backend-developer-net-i-daylight?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Dec 19 |
+| **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[IT Analyst Applications​ (Java Backend Developer)](https://jobr.pro/job/34693388/it-analyst-applications-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Dec 19 |
 | **[Keenfolks](https://keenfolks.com/)** | **[Senior Backend Developer](https://jobr.pro/job/34626952/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Dec 18 |
 | **[P3](https://www.p3-group.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/34604621/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrad (SRB), Subotica (SRB), Digital Services | On Site | Dec 18 |
 | **[Axis Communications](https://www.axis.com/)** | **[Experienced Backend Developer - Operations Tools, Lund](https://jobr.pro/job/34644366/experienced-backend-developer-operations-tools-lund?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sweden - Lund | On Site | Dec 18 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Flexi Software](https://www.flexi.com/)** | **[Enterprise Backend Developer](https://jobr.pro/job/34245193/enterprise-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 12 |
 | **[SAP](https://www.sap.com/)** | **[Senior Backend Developer - Business Network Global Track and Trace](https://jobr.pro/job/34226540/senior-backend-developer-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
 | **[SAP](https://www.sap.com/)** | **[Backend Developer - Business Network - Global Track and Trace](https://jobr.pro/job/34226544/backend-developer-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
-| **[SAP](https://www.sap.com/)** | **[Backend Developer Associate - Business Network - Global Track and Trace](https://jobr.pro/job/34226542/backend-developer-associate-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 44 companies | Avg salary: 189k  
+**Current Stats:** 50 jobs | 24% remote | 45 companies | Avg salary: 189k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
