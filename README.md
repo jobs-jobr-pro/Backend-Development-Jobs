@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -18,6 +18,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Esri](https://www.esri.com/)** | **[Sr. C++ Backend Developer](https://jobr.pro/job/34734945/sr-c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote Eligible, France | Remote | Dec 19 |
 | **[Eurofins](https://www.eurofins.com)** | **[.Net Backend Developer](https://jobr.pro/job/34741285/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Dec 19 |
 | **[Nagarro](https://www.nagarro.com)** | **[Senior Backend Developer (GoLang)](https://jobr.pro/job/34743250/senior-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote, Romania | Remote | Dec 19 |
+| **[Fortnox](https://www.fortnox.se/)** | **[Senior Backend Developer - Customer Identity & Access](https://jobr.pro/job/34767013/senior-backend-developer-customer-identity-access?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Linköping, Sweden | On Site | Dec 19 |
+| **[Caliberly](https://Caliberly.com)** | **[Senior Backend Developer](https://jobr.pro/job/34762063/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, United Arab Emirates | On Site | Dec 19 |
+| **[Caliberly](https://Caliberly.com)** | **[Lead Backend Developer](https://jobr.pro/job/34762054/lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, United Arab Emirates | On Site | Dec 19 |
 | **[Shiji Group](https://www.shijigroup.com/)** | **[Backend Developer (.NET) I Daylight](https://jobr.pro/job/34743422/backend-developer-net-i-daylight?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Dec 19 |
 | **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[IT Analyst Applications​ (Java Backend Developer)](https://jobr.pro/job/34693388/it-analyst-applications-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Dec 19 |
 | **[ResMed](https://www.resmed.com/)** | **[Senior C# / .NET Backend Developer (m/w/d)](https://jobr.pro/job/34729011/senior-c-net-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DE Bundesweit, Germany | Remote | Dec 19 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Booming Games](https://booming-games.com/)** | **[Senior Backend Developer (with Ruby)](https://jobr.pro/job/34363614/senior-backend-developer-with-ruby?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States - Remote | Remote | Dec 14 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/34352758/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Dec 14 |
 | **[Tether Operations Limited](https://tether.to/en/)** | **[Senior Backend Developer - Node.js (100% Remote)](https://jobr.pro/job/34353425/senior-backend-developer-nodejs-100-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Dec 13 |
-| **[Danfoss](https://www.danfoss.com)** | **[Senior Backend Developer](https://jobr.pro/job/34301037/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | City-State-Country, City-State-Country, City-State-Country | Remote | Dec 13 |
-| **[Workstate](https://www.workstate.com)** | **[Senior Backend Developer - US Remote](https://jobr.pro/job/34357835/senior-backend-developer-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States - Remote | Remote | Dec 13 |
-| **[Workstate](https://www.workstate.com)** | **[Mid-level Backend Developer - CO Remote](https://jobr.pro/job/34357832/mid-level-backend-developer-co-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Colombia - Remote | Remote | Dec 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 46 companies | Avg salary: 102k  
+**Current Stats:** 50 jobs | 20% remote | 46 companies | Avg salary: 102k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
