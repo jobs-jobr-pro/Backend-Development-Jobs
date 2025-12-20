@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 19, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -15,6 +15,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Shiji Group](https://www.shijigroup.com/)** | **[Backend Developer (.NET) I Daylight](https://jobr.pro/job/34676490/backend-developer-net-i-daylight?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Dec 19 |
 | **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[IT Analyst Applications​ (Java Backend Developer)](https://jobr.pro/job/34693388/it-analyst-applications-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Dec 19 |
+| **[ResMed](https://www.resmed.com/)** | **[Senior C# / .NET Backend Developer (m/w/d)](https://jobr.pro/job/34729011/senior-c-net-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DE Bundesweit, Germany | Remote | Dec 19 |
+| **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://jobr.pro/job/34727887/junior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO VIALE A. DORIA, Italy | On Site | Dec 19 |
 | **[Keenfolks](https://keenfolks.com/)** | **[Senior Backend Developer](https://jobr.pro/job/34626952/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Dec 18 |
 | **[P3](https://www.p3-group.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/34604621/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrad (SRB), Subotica (SRB), Digital Services | On Site | Dec 18 |
 | **[Axis Communications](https://www.axis.com/)** | **[Experienced Backend Developer - Operations Tools, Lund](https://jobr.pro/job/34644366/experienced-backend-developer-operations-tools-lund?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sweden - Lund | On Site | Dec 18 |
@@ -56,17 +58,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Danfoss](https://www.danfoss.com)** | **[Senior Backend Developer](https://jobr.pro/job/34301037/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | City-State-Country, City-State-Country, City-State-Country | Remote | Dec 13 |
 | **[Workstate](https://www.workstate.com)** | **[Senior Backend Developer - US Remote](https://jobr.pro/job/34357835/senior-backend-developer-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States - Remote | Remote | Dec 13 |
 | **[Workstate](https://www.workstate.com)** | **[Mid-level Backend Developer - CO Remote](https://jobr.pro/job/34357832/mid-level-backend-developer-co-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Colombia - Remote | Remote | Dec 13 |
-| **[Flagship Pioneering, Inc.](https://www.flagshippioneering.com)** | **[Principal Backend Developer](https://jobr.pro/job/34309897/principal-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cambridge, MA USA | On Site | Dec 12 |
-| **[Scorewarrior](https://scorewarrior.com/)** | **[Tech Lead Game Backend Developer](https://jobr.pro/job/34297406/tech-lead-game-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Limassol, Lemesos, Cyprus | On Site | Dec 12 |
-| **[Abhyaz](https://www.abhyaz.com/)** | **[Backend Developer](https://jobr.pro/job/34257971/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 12 |
-| **[PostNord Group](https://www.postnord.com/)** | **[Backend Developer with focus on Java, Solna](https://jobr.pro/job/34269283/backend-developer-with-focus-on-java-solna?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Solna | On Site | Dec 12 |
-| **[Flexi Software](https://www.flexi.com/)** | **[Enterprise Backend Developer](https://jobr.pro/job/34245193/enterprise-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 12 |
-| **[SAP](https://www.sap.com/)** | **[Senior Backend Developer - Business Network Global Track and Trace](https://jobr.pro/job/34226540/senior-backend-developer-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
-| **[SAP](https://www.sap.com/)** | **[Backend Developer - Business Network - Global Track and Trace](https://jobr.pro/job/34226544/backend-developer-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 45 companies | Avg salary: 189k  
+**Current Stats:** 45 jobs | 24% remote | 41 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
