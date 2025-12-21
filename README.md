@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 21, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -62,14 +62,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Gridlogic](https://www.gridlogic.in/)** | **[Backend Developer - Python](https://jobr.pro/job/34367223/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Dec 14 |
 | **[Booming Games](https://booming-games.com/)** | **[Senior Backend Developer (with Ruby)](https://jobr.pro/job/34363614/senior-backend-developer-with-ruby?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States - Remote | Remote | Dec 14 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/34352758/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Dec 14 |
-| **[Tether Operations Limited](https://tether.to/en/)** | **[Senior Backend Developer - Node.js (100% Remote)](https://jobr.pro/job/34353425/senior-backend-developer-nodejs-100-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Dec 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 46 companies | Avg salary: 102k  
+**Current Stats:** 49 jobs | 18% remote | 45 companies | Avg salary: 102k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, nodejs, java, api, database  
+**Trending Skills:** python, java, api, database, microservices  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
