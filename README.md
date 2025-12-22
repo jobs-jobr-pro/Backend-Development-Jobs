@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 22, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DNV Imatis](https://dnvimatis.com/)** | **[Senior Backend Developer](https://jobr.pro/job/34811964/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sandefjord, Norway | On Site | Dec 22 |
 | **[Grundfos](https://www.grundfos.com/)** | **[Lead Backend Developer](https://jobr.pro/job/34752556/lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, IN, 600097 | On Site | Dec 20 |
 | **[Eulerity](https://www.eulerity.com/)** | **[Backend Developer Winter/Spring Intern](https://jobr.pro/job/34744498/backend-developer-winterspring-intern?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New York, New York | On Site | Dec 19 |
 | **[Esri](https://www.esri.com/)** | **[Sr. C++ Backend Developer](https://jobr.pro/job/34734945/sr-c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote Eligible, France | Remote | Dec 19 |
@@ -58,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 42 jobs | 14% remote | 39 companies | Avg salary: 102k  
+**Current Stats:** 43 jobs | 14% remote | 40 companies | Avg salary: 102k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java, api, database, microservices  
