@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 21, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 22, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -55,17 +55,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[cubemos GmbH](https://www.cubemos.com/)** | **[Senior Backend Developer (gn)](https://jobr.pro/job/34362295/senior-backend-developer-gn?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich | On Site | Dec 15 |
 | **[FinanzRitter GmbH](https://finanzritter.com/)** | **[PHP Backend Developer (m/w/d) in Iserlohn, Germany](https://jobr.pro/job/34361667/php-backend-developer-mwd-in-iserlohn-germany?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Iserlohn | On Site | Dec 15 |
 | **[F-Secure](https://www.f-secure.com/)** | **[Cloud & Backend Developer](https://jobr.pro/job/34383252/cloud-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kuala Lumpur | On Site | Dec 15 |
-| **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/34379074/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 14 |
-| **[Mindera](https://mindera.com/)** | **[Staff Java Backend Developer](https://jobr.pro/job/34368095/staff-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Porto, Porto District, Portugal - Remote | Remote | Dec 14 |
-| **[Mindera](https://mindera.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/34368094/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Porto, Porto District, Portugal - Remote | Remote | Dec 14 |
-| **[White Cloak Technologies](https://www.whitecloak.com/)** | **[Senior Backend Developer (JavaScript/TypeScript)](https://jobr.pro/job/34367771/senior-backend-developer-javascripttypescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pasig, Metro Manila, Philippines | On Site | Dec 14 |
-| **[Gridlogic](https://www.gridlogic.in/)** | **[Backend Developer - Python](https://jobr.pro/job/34367223/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, India | On Site | Dec 14 |
-| **[Booming Games](https://booming-games.com/)** | **[Senior Backend Developer (with Ruby)](https://jobr.pro/job/34363614/senior-backend-developer-with-ruby?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States - Remote | Remote | Dec 14 |
-| **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/34352758/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Dec 14 |
 
 ---
 
-**Current Stats:** 49 jobs | 18% remote | 45 companies | Avg salary: 102k  
+**Current Stats:** 42 jobs | 14% remote | 39 companies | Avg salary: 102k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java, api, database, microservices  
