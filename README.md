@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Yuno](https://www.y.uno/)** | **[Backend Developer - Integrations](https://jobr.pro/job/34923598/backend-developer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shanghai | Remote | Dec 23 |
 | **[Team8](https://team8.vc/)** | **[Fijoya- Backend Developer](https://jobr.pro/job/34895952/fijoya-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 23 |
+| **[Radius Limited](https://www.radius.com/)** | **[Senior Backend Developer - Telematics](https://jobr.pro/job/34938358/senior-backend-developer-telematics?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Crewe, England, United Kingdom | On Site | Dec 23 |
 | **[sqanit GmbH](https://sqanit.com/)** | **[Backend Developer (f/m/d)](https://jobr.pro/job/34881139/backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich, Germany | On Site | Dec 23 |
 | **[CONVOTIS Iberia](https://www.convotis.com/)** | **[Senior Data Engineer / Backend Developer](https://jobr.pro/job/34881188/senior-data-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Fully Remote | Remote | Dec 23 |
 | **[Fiserv](https://www.fiserv.com/)** | **[Java Backend Developer](https://jobr.pro/job/34897619/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Omaha, Nebraska, United States | On Site | Dec 23 |
@@ -56,10 +58,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 23% remote | 36 companies | Avg salary: 39k  
+**Current Stats:** 42 jobs | 24% remote | 38 companies | Avg salary: 39k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, java, api, database, microservices  
+**Trending Skills:** python, nodejs, java, api, database  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
