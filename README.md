@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[SimCorp](https://www.simcorp.com/)** | **[Senior Backend Developer - (.Net)](https://jobr.pro/job/34975406/senior-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, India | On Site | Dec 24 |
 | **[Yuno](https://www.y.uno/)** | **[Backend Developer - Integrations](https://jobr.pro/job/34923598/backend-developer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shanghai | Remote | Dec 23 |
 | **[Team8](https://team8.vc/)** | **[Fijoya- Backend Developer](https://jobr.pro/job/34895952/fijoya-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 23 |
 | **[Radius Limited](https://www.radius.com/)** | **[Senior Backend Developer - Telematics](https://jobr.pro/job/34938358/senior-backend-developer-telematics?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Crewe, England, United Kingdom | On Site | Dec 23 |
@@ -58,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 42 jobs | 24% remote | 38 companies | Avg salary: 39k  
+**Current Stats:** 43 jobs | 23% remote | 39 companies | Avg salary: 39k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
