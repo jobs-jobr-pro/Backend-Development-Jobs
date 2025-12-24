@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -53,19 +53,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Festo](https://www.festo.com)** | **[Smartenence: Backend Developer](https://jobr.pro/job/34514891/smartenence-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, IN | On Site | Dec 17 |
 | **[Deutsche Bank](https://www.db.com/)** | **[JAVA Frontend & Backend Developer](https://jobr.pro/job/34552641/java-frontend-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Dec 17 |
 | **[Red Hat](https://www.redhat.com/)** | **[Senior Software Engineer, AI/ML Backend Developer (Python, Linux)](https://jobr.pro/job/34570890/senior-software-engineer-aiml-backend-developer-python-linux?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Tower 6, India | Remote | Dec 17 |
-| **[Tietoevry](https://www.tietoevry.com/)** | **[(Senior) Backend Developer Java & .NET (m/f/d) – Tietoevry Create](https://jobr.pro/job/34502361/senior-backend-developer-java-net-mfd-tietoevry-create?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, BE, Germany | On Site | Dec 16 |
-| **[Encora](https://www.encora.com/)** | **[Java Backend Developer](https://jobr.pro/job/34499784/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Dec 16 |
-| **[Bosch Group](https://www.bosch.com)** | **[Backend Developer (C# / .NET MAUI – Multi-Platform Apps)](https://jobr.pro/job/34508825/backend-developer-c-net-maui-multi-platform-apps?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Aveiro, Portugal | On Site | Dec 16 |
-| **[Zensar](https://www.zensar.com/)** | **[Sr C# Backend Developer](https://jobr.pro/job/34451015/sr-c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Serbia | On Site | Dec 16 |
-| **[Elia Group](https://www.eliagroup.eu)** | **[Lead Java Backend Developer (f/m/d)](https://jobr.pro/job/34413539/lead-java-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, BE, DE, 10557 | On Site | Dec 16 |
-| **[Elia Group](https://www.eliagroup.eu)** | **[Lead Java Backend Developer (w/m/d)](https://jobr.pro/job/34413538/lead-java-backend-developer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, BE, DE, 10557 | On Site | Dec 16 |
-| **[Axi](https://www.axi.com/)** | **[Senior Backend Developer](https://jobr.pro/job/34406738/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 16 |
-| **[Labelbox](https://labelbox.com/)** | **[Backend Developer - AI Data Services](https://jobr.pro/job/34406549/backend-developer-ai-data-services?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Denver | On Site | Dec 16 |
-| **[Labelbox](https://labelbox.com/)** | **[Backend Developer - Data Annotation Systems](https://jobr.pro/job/34406553/backend-developer-data-annotation-systems?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Francisco | On Site | Dec 16 |
 
 ---
 
-**Current Stats:** 49 jobs | 18% remote | 43 companies | Avg salary: 39k  
+**Current Stats:** 40 jobs | 23% remote | 36 companies | Avg salary: 39k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java, api, database, microservices  
