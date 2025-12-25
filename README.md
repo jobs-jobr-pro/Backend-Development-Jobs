@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -50,16 +50,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Axis Communications](https://www.axis.com/)** | **[Experienced Backend Developer - Operations Tools, Lund](https://jobr.pro/job/34644366/experienced-backend-developer-operations-tools-lund?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sweden - Lund | On Site | Dec 18 |
 | **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Backend Developer (Associate Cloud Engineer)](https://jobr.pro/job/34613949/backend-developer-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MY-PJA-002, Malaysia | On Site | Dec 18 |
 | **[AIA](https://www.aia.com/)** | **[Manager, AI Backend Developer Lead](https://jobr.pro/job/34624046/manager-ai-backend-developer-lead?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Dec 18 |
-| **[Virtusa](https://www.virtusa.com/)** | **[Java backend developer](https://jobr.pro/job/34536237/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN-AP-Hyderabad | On Site | Dec 17 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector\| Backend Developer (Python)](https://jobr.pro/job/34534745/telecom-sector-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Dec 17 |
-| **[EvoPoint Solutions](https://www.evopoint.io/)** | **[.NET Backend Developer](https://jobr.pro/job/34596993/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Santo Domingo, DN, Dominican Republic (Hybrid) | Remote | Dec 17 |
-| **[Festo](https://www.festo.com)** | **[Smartenence: Backend Developer](https://jobr.pro/job/34514891/smartenence-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, IN | On Site | Dec 17 |
-| **[Deutsche Bank](https://www.db.com/)** | **[JAVA Frontend & Backend Developer](https://jobr.pro/job/34552641/java-frontend-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Margarpatta, India | On Site | Dec 17 |
-| **[Red Hat](https://www.redhat.com/)** | **[Senior Software Engineer, AI/ML Backend Developer (Python, Linux)](https://jobr.pro/job/34570890/senior-software-engineer-aiml-backend-developer-python-linux?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Tower 6, India | Remote | Dec 17 |
 
 ---
 
-**Current Stats:** 43 jobs | 23% remote | 39 companies | Avg salary: 39k  
+**Current Stats:** 37 jobs | 22% remote | 33 companies | Avg salary: 39k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
