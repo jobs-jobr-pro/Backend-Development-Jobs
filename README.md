@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Backend Developer- Java](https://jobr.pro/job/35005770/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Dec 25 |
 | **[Payoneer](https://www.payoneer.com)** | **[Backend Developer (C# or Java)](https://jobr.pro/job/34985757/backend-developer-c-or-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Petach Tiqva, Israel | On Site | Dec 24 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Nearshore Sector \| .Net Backend Developer](https://jobr.pro/job/34985216/nearshore-sector-net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Dec 24 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Mobility Sector \| Java Backend Developer](https://jobr.pro/job/34992498/mobility-sector-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Dec 24 |
@@ -59,7 +60,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 43 jobs | 19% remote | 38 companies | Avg salary: 39k  
+**Current Stats:** 44 jobs | 18% remote | 39 companies | Avg salary: 39k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
