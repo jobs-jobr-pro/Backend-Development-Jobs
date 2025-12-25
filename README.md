@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Devoteam](https://www.devoteam.com/)** | **[Nearshore Sector \| .Net Backend Developer](https://jobr.pro/job/34985216/nearshore-sector-net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Dec 24 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Mobility Sector \| Java Backend Developer](https://jobr.pro/job/34992498/mobility-sector-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Dec 24 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job-00024\] Senior Backend Developer, Brazil](https://jobr.pro/job/34988745/job-00024-senior-backend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Dec 24 |
+| **[Chapa](https://chapa.co/)** | **[Backend Developer (Rust)](https://jobr.pro/job/34996102/backend-developer-rust?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Addis Ababa, Addis Ababa, Ethiopia | On Site | Dec 24 |
 | **[RoofStacks](https://roofstacks.com/)** | **[Senior Backend Developer (Card Payment Systems)](https://jobr.pro/job/34986041/senior-backend-developer-card-payment-systems?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | İstanbul | On Site | Dec 24 |
 | **[SimCorp](https://www.simcorp.com/)** | **[Senior Backend Developer - (.Net)](https://jobr.pro/job/34975406/senior-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, India | On Site | Dec 24 |
 | **[Yuno](https://www.y.uno/)** | **[Backend Developer - Integrations](https://jobr.pro/job/34923598/backend-developer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shanghai | Remote | Dec 23 |
@@ -58,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 42 jobs | 19% remote | 37 companies | Avg salary: 39k  
+**Current Stats:** 43 jobs | 19% remote | 38 companies | Avg salary: 39k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
