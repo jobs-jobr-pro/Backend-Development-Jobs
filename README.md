@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 26, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -52,15 +52,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[IT Analyst Applications​ (Java Backend Developer)](https://jobr.pro/job/34693388/it-analyst-applications-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Dec 19 |
 | **[ResMed](https://www.resmed.com/)** | **[Senior C# / .NET Backend Developer (m/w/d)](https://jobr.pro/job/34729011/senior-c-net-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DE Bundesweit, Germany | Remote | Dec 19 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://jobr.pro/job/34727887/junior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO VIALE A. DORIA, Italy | On Site | Dec 19 |
-| **[Keenfolks](https://keenfolks.com/)** | **[Senior Backend Developer](https://jobr.pro/job/34626952/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Dec 18 |
-| **[P3](https://www.p3-group.com/)** | **[Senior Java Backend Developer](https://jobr.pro/job/34604621/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrad (SRB), Subotica (SRB), Digital Services | On Site | Dec 18 |
-| **[Axis Communications](https://www.axis.com/)** | **[Experienced Backend Developer - Operations Tools, Lund](https://jobr.pro/job/34644366/experienced-backend-developer-operations-tools-lund?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sweden - Lund | On Site | Dec 18 |
-| **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Backend Developer (Associate Cloud Engineer)](https://jobr.pro/job/34613949/backend-developer-associate-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MY-PJA-002, Malaysia | On Site | Dec 18 |
-| **[AIA](https://www.aia.com/)** | **[Manager, AI Backend Developer Lead](https://jobr.pro/job/34624046/manager-ai-backend-developer-lead?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Dec 18 |
 
 ---
 
-**Current Stats:** 44 jobs | 18% remote | 39 companies | Avg salary: 39k  
+**Current Stats:** 39 jobs | 21% remote | 34 companies | Avg salary: 39k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
