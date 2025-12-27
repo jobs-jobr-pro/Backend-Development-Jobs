@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 26, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 27, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -42,21 +42,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Datarails](https://www.datarails.com/)** | **[Backend Developer – AI-Powered Features](https://jobr.pro/job/34823124/backend-developer-ai-powered-features?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 22 |
 | **[ING](https://www.ing.com/)** | **[INTERNSHIP - Java Backend Developer](https://jobr.pro/job/34842367/internship-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Luxembourg (Siège Lux House) | On Site | Dec 22 |
 | **[Grundfos](https://www.grundfos.com/)** | **[Lead Backend Developer](https://jobr.pro/job/34752556/lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, IN, 600097 | On Site | Dec 20 |
-| **[Eulerity](https://www.eulerity.com/)** | **[Backend Developer Winter/Spring Intern](https://jobr.pro/job/34744498/backend-developer-winterspring-intern?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New York, New York | On Site | Dec 19 |
-| **[Esri](https://www.esri.com/)** | **[Sr. C++ Backend Developer](https://jobr.pro/job/34734945/sr-c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote Eligible, France | Remote | Dec 19 |
-| **[Eurofins](https://www.eurofins.com)** | **[.Net Backend Developer](https://jobr.pro/job/34741285/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Dec 19 |
-| **[Nagarro](https://www.nagarro.com)** | **[Senior Backend Developer (GoLang)](https://jobr.pro/job/34743250/senior-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote, Romania | Remote | Dec 19 |
-| **[Fortnox](https://www.fortnox.se/)** | **[Senior Backend Developer - Customer Identity & Access](https://jobr.pro/job/34767013/senior-backend-developer-customer-identity-access?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Linköping, Sweden | On Site | Dec 19 |
-| **[Caliberly](https://Caliberly.com)** | **[Senior Backend Developer](https://jobr.pro/job/34762063/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, United Arab Emirates | On Site | Dec 19 |
-| **[Caliberly](https://Caliberly.com)** | **[Lead Backend Developer](https://jobr.pro/job/34762054/lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, United Arab Emirates | On Site | Dec 19 |
-| **[Shiji Group](https://www.shijigroup.com/)** | **[Backend Developer (.NET) I Daylight](https://jobr.pro/job/34743422/backend-developer-net-i-daylight?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Dec 19 |
-| **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[IT Analyst Applications​ (Java Backend Developer)](https://jobr.pro/job/34693388/it-analyst-applications-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, India | On Site | Dec 19 |
-| **[ResMed](https://www.resmed.com/)** | **[Senior C# / .NET Backend Developer (m/w/d)](https://jobr.pro/job/34729011/senior-c-net-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | DE Bundesweit, Germany | Remote | Dec 19 |
-| **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://jobr.pro/job/34727887/junior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO VIALE A. DORIA, Italy | On Site | Dec 19 |
 
 ---
 
-**Current Stats:** 40 jobs | 20% remote | 35 companies | Avg salary: 39k  
+**Current Stats:** 29 jobs | 14% remote | 25 companies | Avg salary: 42k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
