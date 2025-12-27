@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 27, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 27, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Encora](https://www.encora.com/)** | **[Java Backend Developer Tech Lead - NodeJS](https://jobr.pro/job/35034093/java-backend-developer-tech-lead-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Dec 26 |
 | **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/35022347/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 25 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/35016786/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Dec 25 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Backend Developer- Java](https://jobr.pro/job/35005770/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Dec 25 |
@@ -45,7 +46,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 29 jobs | 14% remote | 25 companies | Avg salary: 42k  
+**Current Stats:** 30 jobs | 13% remote | 26 companies | Avg salary: 42k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
