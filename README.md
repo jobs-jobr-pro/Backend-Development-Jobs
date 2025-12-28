@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -42,11 +42,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Datarails](https://www.datarails.com/)** | **[C# Backend Developer, Applications](https://jobr.pro/job/34823126/c-backend-developer-applications?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 22 |
 | **[Datarails](https://www.datarails.com/)** | **[Backend Developer – AI-Powered Features](https://jobr.pro/job/34823124/backend-developer-ai-powered-features?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 22 |
 | **[ING](https://www.ing.com/)** | **[INTERNSHIP - Java Backend Developer](https://jobr.pro/job/34842367/internship-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Luxembourg (Siège Lux House) | On Site | Dec 22 |
-| **[Grundfos](https://www.grundfos.com/)** | **[Lead Backend Developer](https://jobr.pro/job/34752556/lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, IN, 600097 | On Site | Dec 20 |
 
 ---
 
-**Current Stats:** 30 jobs | 13% remote | 26 companies | Avg salary: 42k  
+**Current Stats:** 29 jobs | 14% remote | 25 companies | Avg salary: 42k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
