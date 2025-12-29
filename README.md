@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 29, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[SolarEdge](https://www.solaredge.com/)** | **[Experienced Backend Developer](https://jobr.pro/job/35081771/experienced-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Tel Aviv District, IL | On Site | Dec 29 |
+| **[Decklaration](https://decklaration.com/)** | **[Junior Backend Developer (Python/Django)](https://jobr.pro/job/35078117/junior-backend-developer-pythondjango?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 29 |
+| **[Decklaration](https://decklaration.com/)** | **[Senior Backend Developer (Python and Django)](https://jobr.pro/job/35078116/senior-backend-developer-python-and-django?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 29 |
+| **[Tawzef](https://www.tawzef.com/)** | **[Backend Developer (Node.js)](https://jobr.pro/job/35077524/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cairo, Egypt | On Site | Dec 29 |
+| **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/35081116/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 28 |
+| **[Lemon](https://lemon.me/)** | **[Senior Backend Developer](https://jobr.pro/job/35075640/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Argentina | On Site | Dec 28 |
 | **[Caliberly](https://Caliberly.com)** | **[Backend Developer](https://jobr.pro/job/35072900/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, United Arab Emirates | On Site | Dec 28 |
 | **[safeREACH](https://safereach.com/)** | **[Senior Backend Developer (Java / Spring Boot)](https://jobr.pro/job/35071883/senior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vienna, Austria | On Site | Dec 28 |
 | **[OWT](https://www.owt.swiss/)** | **[Senior Backend Developer](https://jobr.pro/job/35067394/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bern, Canton of Bern, Switzerland | On Site | Dec 28 |
@@ -20,7 +26,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/35061398/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Dec 28 |
 | **[TAWANTECH](https://www.tawantech.sa/)** | **[BackEnd Developer- Banking](https://jobr.pro/job/35067364/backend-developer-banking?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Dec 28 |
 | **[Encora](https://www.encora.com/)** | **[Java Backend Developer Tech Lead - NodeJS](https://jobr.pro/job/35034093/java-backend-developer-tech-lead-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Dec 26 |
-| **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/35022347/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 25 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Backend Developer- Java](https://jobr.pro/job/35005770/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Dec 25 |
 | **[Payoneer](https://www.payoneer.com)** | **[Backend Developer (C# or Java)](https://jobr.pro/job/34985757/backend-developer-c-or-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Petach Tiqva, Israel | On Site | Dec 24 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Nearshore Sector \| .Net Backend Developer](https://jobr.pro/job/34985216/nearshore-sector-net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Dec 24 |
@@ -50,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 34 jobs | 12% remote | 29 companies | Avg salary: 52k  
+**Current Stats:** 39 jobs | 15% remote | 33 companies | Avg salary: 52k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
