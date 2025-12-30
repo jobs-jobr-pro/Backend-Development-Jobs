@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Tawzef](https://www.tawzef.com/)** | **[Backend Developer](https://jobr.pro/job/35138729/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cairo, Egypt | On Site | Dec 30 |
+| **[Virtusa](https://www.virtusa.com/)** | **[Java Backend Developer](https://jobr.pro/job/35134870/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | US-PA-Pittsburgh | On Site | Dec 30 |
 | **[Photon](https://www.photon.com/)** | **[Backend Developer – Webhook & Preference Sync (Offshore)](https://jobr.pro/job/35128517/backend-developer-webhook-preference-sync-offshore?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Dec 30 |
 | **[CapIntel](https://www.capintel.com/)** | **[Senior Backend Developer, Data Team](https://jobr.pro/job/35104288/senior-backend-developer-data-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, QC (Remote) | Remote | Dec 29 |
+| **[Black Rabbit](https://www.blackrabbit.com/)** | **[Backend Developer](https://jobr.pro/job/35143685/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Dec 29 |
 | **[SolarEdge](https://www.solaredge.com/)** | **[Experienced Backend Developer](https://jobr.pro/job/35081771/experienced-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Tel Aviv District, IL | On Site | Dec 29 |
 | **[Decklaration](https://decklaration.com/)** | **[Junior Backend Developer (Python/Django)](https://jobr.pro/job/35078117/junior-backend-developer-pythondjango?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 29 |
 | **[Decklaration](https://decklaration.com/)** | **[Senior Backend Developer (Python and Django)](https://jobr.pro/job/35078116/senior-backend-developer-python-and-django?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 29 |
@@ -49,7 +52,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 33 jobs | 15% remote | 30 companies | Avg salary: 63k  
+**Current Stats:** 36 jobs | 14% remote | 32 companies | Avg salary: 63k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
