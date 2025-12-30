@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -17,8 +17,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Decklaration](https://decklaration.com/)** | **[Junior Backend Developer (Python/Django)](https://jobr.pro/job/35078117/junior-backend-developer-pythondjango?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 29 |
 | **[Decklaration](https://decklaration.com/)** | **[Senior Backend Developer (Python and Django)](https://jobr.pro/job/35078116/senior-backend-developer-python-and-django?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 29 |
 | **[Tawzef](https://www.tawzef.com/)** | **[Backend Developer (Node.js)](https://jobr.pro/job/35077524/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cairo, Egypt | On Site | Dec 29 |
-| **[Concentrix](https://www.concentrix.com/)** | **[Java Backend Developer](https://jobr.pro/job/35100125/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IND Hyderabad Raidurg Village B7 South Tower, Serilingampally Mandal Divya Sree Orion, India | On Site | Dec 29 |
 | **[Havas](https://www.havas.com/)** | **[Backend Developer](https://jobr.pro/job/35100611/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mumbai - Trade Star, India | On Site | Dec 29 |
+| **[Concentrix](https://www.concentrix.com/)** | **[Java Backend Developer](https://jobr.pro/job/35100125/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IND Hyderabad Raidurg Village B7 South Tower, Serilingampally Mandal Divya Sree Orion, India | On Site | Dec 29 |
 | **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/35081116/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 28 |
 | **[Lemon](https://lemon.me/)** | **[Senior Backend Developer](https://jobr.pro/job/35075640/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Argentina | On Site | Dec 28 |
 | **[Caliberly](https://Caliberly.com)** | **[Backend Developer](https://jobr.pro/job/35072900/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, United Arab Emirates | On Site | Dec 28 |
