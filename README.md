@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -17,6 +17,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Decklaration](https://decklaration.com/)** | **[Junior Backend Developer (Python/Django)](https://jobr.pro/job/35078117/junior-backend-developer-pythondjango?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 29 |
 | **[Decklaration](https://decklaration.com/)** | **[Senior Backend Developer (Python and Django)](https://jobr.pro/job/35078116/senior-backend-developer-python-and-django?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Dec 29 |
 | **[Tawzef](https://www.tawzef.com/)** | **[Backend Developer (Node.js)](https://jobr.pro/job/35077524/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cairo, Egypt | On Site | Dec 29 |
+| **[Concentrix](https://www.concentrix.com/)** | **[Java Backend Developer](https://jobr.pro/job/35100125/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IND Hyderabad Raidurg Village B7 South Tower, Serilingampally Mandal Divya Sree Orion, India | On Site | Dec 29 |
+| **[Havas](https://www.havas.com/)** | **[Backend Developer](https://jobr.pro/job/35100611/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mumbai - Trade Star, India | On Site | Dec 29 |
 | **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/35081116/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Dec 28 |
 | **[Lemon](https://lemon.me/)** | **[Senior Backend Developer](https://jobr.pro/job/35075640/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Argentina | On Site | Dec 28 |
 | **[Caliberly](https://Caliberly.com)** | **[Backend Developer](https://jobr.pro/job/35072900/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, United Arab Emirates | On Site | Dec 28 |
@@ -41,21 +43,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CONVOTIS Iberia](https://www.convotis.com/)** | **[Senior Data Engineer / Backend Developer](https://jobr.pro/job/34881188/senior-data-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Fully Remote | Remote | Dec 23 |
 | **[NorthBay Solutions](https://northbaysolutions.com)** | **[Senior Backend Developer (Python/Node)](https://jobr.pro/job/34878697/senior-backend-developer-pythonnode?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Abu Dhabi | On Site | Dec 23 |
 | **[Fiserv](https://www.fiserv.com/)** | **[Java Backend Developer](https://jobr.pro/job/34897619/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Omaha, Nebraska, United States | On Site | Dec 23 |
-| **[Unity](https://unity.com/)** | **[Développeur(se) Backend Senior \| Senior Backend Developer](https://jobr.pro/job/34859237/developpeurse-backend-senior-senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Canada | On Site | Dec 22 |
-| **[Avvoka](https://avvoka.com/)** | **[Backend Developer Lead - AI Solutions Architect](https://jobr.pro/job/34826126/backend-developer-lead-ai-solutions-architect?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hybrid (162 00, Prague, Prague, Czechia) | Remote | Dec 22 |
-| **[Jutro Medical](https://jutromedical.com/)** | **[Senior Backend Developer](https://jobr.pro/job/34860053/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Praca hybrydowa - zdalnie / w biurze (Atrium Centrum Aleja Jana Pawła II 27, 00-867 Warszawa) | On Site | Dec 22 |
-| **[Docplanner](https://www.docplanner.com)** | **[Backend Developer (Full Remote)](https://jobr.pro/job/34855668/backend-developer-full-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Turin, Piedmont, Italy | Remote | Dec 22 |
-| **[Citrus Systems](https://citrussys.com/)** | **[Middle/Middle+ Backend Developer](https://jobr.pro/job/34871682/middlemiddle-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Belgrade, Serbia | On Site | Dec 22 |
-| **[DNV Imatis](https://dnvimatis.com/)** | **[Senior Backend Developer](https://jobr.pro/job/34811964/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sandefjord, Norway | On Site | Dec 22 |
-| **[Datarails](https://www.datarails.com/)** | **[Senior Backend Developer, Data Platform IL](https://jobr.pro/job/34823146/senior-backend-developer-data-platform-il?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 22 |
-| **[Datarails](https://www.datarails.com/)** | **[Python Backend Developer, Application](https://jobr.pro/job/34823138/python-backend-developer-application?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 22 |
-| **[Datarails](https://www.datarails.com/)** | **[C# Backend Developer, Applications](https://jobr.pro/job/34823126/c-backend-developer-applications?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 22 |
-| **[Datarails](https://www.datarails.com/)** | **[Backend Developer – AI-Powered Features](https://jobr.pro/job/34823124/backend-developer-ai-powered-features?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 22 |
-| **[ING](https://www.ing.com/)** | **[INTERNSHIP - Java Backend Developer](https://jobr.pro/job/34842367/internship-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Luxembourg (Siège Lux House) | On Site | Dec 22 |
 
 ---
 
-**Current Stats:** 39 jobs | 15% remote | 33 companies | Avg salary: 52k  
+**Current Stats:** 30 jobs | 13% remote | 27 companies | Avg salary: 63k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
