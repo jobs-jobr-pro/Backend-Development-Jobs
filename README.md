@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 31, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[abra](https://www.abra-it.com/)** | **[Backend Developer AWS](https://jobr.pro/job/35201000/backend-developer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Center, Center District, IL | On Site | Dec 31 |
 | **[moomoo](https://www.moomoo.com/)** | **[Senior Backend Developer (Web 3)](https://jobr.pro/job/35190572/senior-backend-developer-web-3?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Dec 31 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job-00025\] Senior Backend Developer, Portugal](https://jobr.pro/job/35164645/job-00025-senior-backend-developer-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | On Site | Dec 30 |
 | **[Tawzef](https://www.tawzef.com/)** | **[Backend Developer](https://jobr.pro/job/35138729/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cairo, Egypt | On Site | Dec 30 |
@@ -49,7 +50,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 33 jobs | 9% remote | 28 companies | Avg salary: 70k  
+**Current Stats:** 34 jobs | 9% remote | 29 companies | Avg salary: 70k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
