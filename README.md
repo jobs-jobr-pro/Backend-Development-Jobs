@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -42,17 +42,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Chapa](https://chapa.co/)** | **[Backend Developer (Rust)](https://jobr.pro/job/34996102/backend-developer-rust?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Addis Ababa, Addis Ababa, Ethiopia | On Site | Dec 24 |
 | **[RoofStacks](https://roofstacks.com/)** | **[Senior Backend Developer (Card Payment Systems)](https://jobr.pro/job/34986041/senior-backend-developer-card-payment-systems?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | İstanbul | On Site | Dec 24 |
 | **[SimCorp](https://www.simcorp.com/)** | **[Senior Backend Developer - (.Net)](https://jobr.pro/job/34975406/senior-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, India | On Site | Dec 24 |
-| **[Yuno](https://www.y.uno/)** | **[Backend Developer - Integrations](https://jobr.pro/job/34923598/backend-developer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shanghai | Remote | Dec 23 |
-| **[Team8](https://team8.vc/)** | **[Fijoya- Backend Developer](https://jobr.pro/job/34895952/fijoya-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 23 |
-| **[Radius Limited](https://www.radius.com/)** | **[Senior Backend Developer - Telematics](https://jobr.pro/job/34938358/senior-backend-developer-telematics?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Crewe, England, United Kingdom | On Site | Dec 23 |
-| **[sqanit GmbH](https://sqanit.com/)** | **[Backend Developer (f/m/d)](https://jobr.pro/job/34881139/backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Munich, Germany | On Site | Dec 23 |
-| **[CONVOTIS Iberia](https://www.convotis.com/)** | **[Senior Data Engineer / Backend Developer](https://jobr.pro/job/34881188/senior-data-engineer-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Fully Remote | Remote | Dec 23 |
-| **[NorthBay Solutions](https://northbaysolutions.com)** | **[Senior Backend Developer (Python/Node)](https://jobr.pro/job/34878697/senior-backend-developer-pythonnode?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Abu Dhabi | On Site | Dec 23 |
-| **[Fiserv](https://www.fiserv.com/)** | **[Java Backend Developer](https://jobr.pro/job/34897619/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Omaha, Nebraska, United States | On Site | Dec 23 |
 
 ---
 
-**Current Stats:** 36 jobs | 14% remote | 32 companies | Avg salary: 63k  
+**Current Stats:** 29 jobs | 10% remote | 25 companies | Avg salary: 63k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
