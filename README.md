@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DriveNets](https://www.drivenets.com/)** | **[Senior Backend Developer](https://jobr.pro/job/35240058/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, IL | On Site | Jan 01 |
 | **[abra](https://www.abra-it.com/)** | **[Backend Developer AWS](https://jobr.pro/job/35201000/backend-developer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Center, Center District, IL | On Site | Dec 31 |
+| **[Axiom Software Solutions Limited](https://www.axiomsoftwaresolutions.com/)** | **[Backend Developer](https://jobr.pro/job/35234432/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Málaga, Andalusia, Spain | On Site | Dec 31 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/35215159/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Dec 31 |
 | **[moomoo](https://www.moomoo.com/)** | **[Senior Backend Developer (Web 3)](https://jobr.pro/job/35190572/senior-backend-developer-web-3?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Dec 31 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job-00025\] Senior Backend Developer, Portugal](https://jobr.pro/job/35164645/job-00025-senior-backend-developer-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | On Site | Dec 30 |
@@ -43,7 +45,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 27 jobs | 11% remote | 25 companies | Avg salary: 70k  
+**Current Stats:** 29 jobs | 10% remote | 27 companies | Avg salary: 70k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
