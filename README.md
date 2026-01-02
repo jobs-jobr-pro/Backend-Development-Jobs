@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 02, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -41,11 +41,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Chapa](https://chapa.co/)** | **[Backend Developer (Go)](https://jobr.pro/job/35065970/backend-developer-go?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Addis Ababa, Ādīs Ābeba, Ethiopia | On Site | Dec 28 |
 | **[TAWANTECH](https://www.tawantech.sa/)** | **[BackEnd Developer- Banking](https://jobr.pro/job/35067364/backend-developer-banking?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Dec 28 |
 | **[Encora](https://www.encora.com/)** | **[Java Backend Developer Tech Lead - NodeJS](https://jobr.pro/job/35034093/java-backend-developer-tech-lead-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Dec 26 |
-| **[Kyndryl](https://www.kyndryl.com/)** | **[Backend Developer- Java](https://jobr.pro/job/35005770/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Dec 25 |
 
 ---
 
-**Current Stats:** 29 jobs | 10% remote | 27 companies | Avg salary: 70k  
+**Current Stats:** 28 jobs | 11% remote | 26 companies | Avg salary: 70k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
