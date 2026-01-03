@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 03, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 03, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector\| Backend Developer (Python)](https://jobr.pro/job/35269625/telecom-sector-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Jan 02 |
+| **[Remotebase](https://remotebase.com)** | **[Backend Developer (Nodejs)](https://jobr.pro/job/35297837/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lahore, Punjab, Pakistan | On Site | Jan 02 |
 | **[Concentrix](https://www.concentrix.com/)** | **[Java Backend Developer](https://jobr.pro/job/35269418/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India Hyderabad, Telangana | On Site | Jan 02 |
 | **[UBS](https://www.ubs.com/)** | **[Python Senior Backend Developer](https://jobr.pro/job/35260624/python-senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Jan 02 |
 | **[Autodesk](https://www.autodesk.com/)** | **[Principal Backend Developer](https://jobr.pro/job/35267710/principal-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AMER - Canada - Ontario - Offsite/Home | Remote | Jan 02 |
@@ -45,7 +47,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 29 jobs | 14% remote | 27 companies | Avg salary: 107k  
+**Current Stats:** 31 jobs | 13% remote | 29 companies | Avg salary: 107k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
