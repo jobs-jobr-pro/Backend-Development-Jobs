@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 05, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 05, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Wix](https://www.wix.com/)** | **[Backend Developer for Dev Center](https://jobr.pro/job/35314289/backend-developer-for-dev-center?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Jan 04 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector\| Backend Developer (Python)](https://jobr.pro/job/35269625/telecom-sector-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Jan 02 |
 | **[Remotebase](https://remotebase.com)** | **[Backend Developer (Nodejs)](https://jobr.pro/job/35297837/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lahore, Punjab, Pakistan | On Site | Jan 02 |
 | **[Concentrix](https://www.concentrix.com/)** | **[Java Backend Developer](https://jobr.pro/job/35269418/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India Hyderabad, Telangana | On Site | Jan 02 |
@@ -41,7 +42,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 25 jobs | 16% remote | 23 companies | Avg salary: 129k  
+**Current Stats:** 26 jobs | 15% remote | 24 companies | Avg salary: 129k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
