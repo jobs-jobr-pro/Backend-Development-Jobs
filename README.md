@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 04, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 05, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -38,16 +38,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tawzef](https://www.tawzef.com/)** | **[Backend Developer (Node.js)](https://jobr.pro/job/35077524/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cairo, Egypt | On Site | Dec 29 |
 | **[Bosch Group](https://www.bosch.com)** | **[Backend Developer (C# / .NET MAUI – Multi-Platform Apps) (f/m/div.)](https://jobr.pro/job/35115897/backend-developer-c-net-maui-multi-platform-apps-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Aveiro, Portugal | On Site | Dec 29 |
 | **[Havas](https://www.havas.com/)** | **[Backend Developer](https://jobr.pro/job/35100611/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mumbai - Trade Star, India | On Site | Dec 29 |
-| **[Lemon](https://lemon.me/)** | **[Senior Backend Developer](https://jobr.pro/job/35075640/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Argentina | On Site | Dec 28 |
-| **[Caliberly](https://Caliberly.com)** | **[Backend Developer](https://jobr.pro/job/35072900/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, United Arab Emirates | On Site | Dec 28 |
-| **[safeREACH](https://safereach.com/)** | **[Senior Backend Developer (Java / Spring Boot)](https://jobr.pro/job/35071883/senior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vienna, Austria | On Site | Dec 28 |
-| **[OWT](https://www.owt.swiss/)** | **[Senior Backend Developer](https://jobr.pro/job/35067394/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bern, Canton of Bern, Switzerland | On Site | Dec 28 |
-| **[Chapa](https://chapa.co/)** | **[Backend Developer (Go)](https://jobr.pro/job/35065970/backend-developer-go?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Addis Ababa, Ādīs Ābeba, Ethiopia | On Site | Dec 28 |
-| **[TAWANTECH](https://www.tawantech.sa/)** | **[BackEnd Developer- Banking](https://jobr.pro/job/35067364/backend-developer-banking?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Dec 28 |
 
 ---
 
-**Current Stats:** 31 jobs | 13% remote | 29 companies | Avg salary: 107k  
+**Current Stats:** 25 jobs | 16% remote | 23 companies | Avg salary: 129k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
