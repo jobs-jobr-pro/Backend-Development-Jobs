@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 06, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 06, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[WSC Sports](https://wsc-sports.com/)** | **[Backend Developer](https://jobr.pro/job/35345750/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat-Gan, Tel Aviv District, IL | On Site | Jan 05 |
+| **[Photon](https://www.photon.com/)** | **[Backend Developer – Router & Event Services (Offshore)](https://jobr.pro/job/35333768/backend-developer-router-event-services-offshore?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Jan 05 |
+| **[Razor Labs](https://www.razor-labs.com/)** | **[Senior Backend Developer](https://jobr.pro/job/35345843/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 05 |
+| **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Backend Developer](https://jobr.pro/job/35339080/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore, Singapore, Singapore | On Site | Jan 05 |
+| **[Synechron](https://www.synechron.com/)** | **[Senior Java Backend Developer — Microservices & Cloud Integration](https://jobr.pro/job/35360973/senior-java-backend-developer-microservices-cloud-integration?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Hinjewadi (Ascendas), India | On Site | Jan 05 |
+| **[TVH](https://www.tvh.com/)** | **[Backend Developer Search (E-Commerce)](https://jobr.pro/job/35346039/backend-developer-search-e-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tvh Hub, Belgium | On Site | Jan 05 |
 | **[Wix](https://www.wix.com/)** | **[Backend Developer for Dev Center](https://jobr.pro/job/35314289/backend-developer-for-dev-center?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Jan 04 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector\| Backend Developer (Python)](https://jobr.pro/job/35269625/telecom-sector-backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Jan 02 |
 | **[Remotebase](https://remotebase.com)** | **[Backend Developer (Nodejs)](https://jobr.pro/job/35297837/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lahore, Punjab, Pakistan | On Site | Jan 02 |
@@ -34,7 +40,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 18 jobs | 6% remote | 18 companies | Avg salary: 129k  
+**Current Stats:** 24 jobs | 4% remote | 23 companies | Avg salary: 129k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
