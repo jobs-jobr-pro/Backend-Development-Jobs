@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 07, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 08, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -34,14 +34,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Autodesk](https://www.autodesk.com/)** | **[Principal Backend Developer](https://jobr.pro/job/35267710/principal-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AMER - Canada - Ontario - Offsite/Home | Remote | Jan 02 |
 | **[DriveNets](https://www.drivenets.com/)** | **[Senior Backend Developer](https://jobr.pro/job/35262294/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Israel, Central, IL | On Site | Jan 01 |
 | **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/35262146/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Jan 01 |
-| **[abra](https://www.abra-it.com/)** | **[Backend Developer AWS](https://jobr.pro/job/35201000/backend-developer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Center, Center District, IL | On Site | Dec 31 |
-| **[Axiom Software Solutions Limited](https://www.axiomsoftwaresolutions.com/)** | **[Backend Developer](https://jobr.pro/job/35234432/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Málaga, Andalusia, Spain | On Site | Dec 31 |
-| **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/35215159/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Dec 31 |
-| **[moomoo](https://www.moomoo.com/)** | **[Senior Backend Developer (Web 3)](https://jobr.pro/job/35190572/senior-backend-developer-web-3?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hong Kong, Hong Kong, Hong Kong | On Site | Dec 31 |
 
 ---
 
-**Current Stats:** 25 jobs | 4% remote | 24 companies | Avg salary: 181k  
+**Current Stats:** 21 jobs | 5% remote | 20 companies | Avg salary: 181k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
