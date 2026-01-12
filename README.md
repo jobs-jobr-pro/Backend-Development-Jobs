@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 12, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 12, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,10 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Kolomolo](https://www.kolomolo.com)** | **[.NET Backend Developer Junior (Internship)](https://jobr.pro/job/35831410/net-backend-developer-junior-internship?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kraków, Poland | On Site | Jan 12 |
 | **[Winnow](https://www.winnowsolutions.com/)** | **[Backend developer - Mid level](https://jobr.pro/job/35824225/backend-developer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cluj-Napoca, Cluj County, Romania | On Site | Jan 12 |
 | **[NetApp](https://www.netapp.com/)** | **[Backend Developer (Go, and Kubernetes)](https://jobr.pro/job/35823531/backend-developer-go-and-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, IN | On Site | Jan 12 |
+| **[journaway GmbH](https://corporate.journaway.com/)** | **[Senior Backend Developer (m/w/d)](https://jobr.pro/job/35826684/senior-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote, Hybrid | Remote | Jan 11 |
 | **[Axiom Software Solutions Limited](https://www.axiomsoftwaresolutions.com/)** | **[Junior Backend Developer](https://jobr.pro/job/35824398/junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Jan 11 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/35817092/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Jan 11 |
+| **[Synechron](https://www.synechron.com/)** | **[Senior Java Backend Developer — Microservices & Cloud Integration](https://jobr.pro/job/35843081/senior-java-backend-developer-microservices-cloud-integration?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Hinjewadi (Ascendas), India | On Site | Jan 11 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job -26861\] Senior Backend Developer (.Net 8)](https://jobr.pro/job/35753652/job-26861-senior-backend-developer-net-8?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Jan 09 |
 | **[Qunomedical](https://www.qunomedical.com/)** | **[Senior Backend Developer (m/w/d)](https://jobr.pro/job/35699286/senior-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, Germany | On Site | Jan 09 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / Java Developer, AVP](https://jobr.pro/job/35697807/backend-developer-java-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Velankani Tech Park, India | On Site | Jan 09 |
@@ -36,12 +39,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Photon](https://www.photon.com/)** | **[Backend Developer – Router & Event Services (Offshore)](https://jobr.pro/job/35333768/backend-developer-router-event-services-offshore?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Jan 05 |
 | **[Razor Labs](https://www.razor-labs.com/)** | **[Senior Backend Developer](https://jobr.pro/job/35345843/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 05 |
 | **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Backend Developer](https://jobr.pro/job/35339080/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore, Singapore, Singapore | On Site | Jan 05 |
-| **[Synechron](https://www.synechron.com/)** | **[Senior Java Backend Developer — Microservices & Cloud Integration](https://jobr.pro/job/35360973/senior-java-backend-developer-microservices-cloud-integration?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune - Hinjewadi (Ascendas), India | On Site | Jan 05 |
 | **[TVH](https://www.tvh.com/)** | **[Backend Developer Search (E-Commerce)](https://jobr.pro/job/35346039/backend-developer-search-e-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tvh Hub, Belgium | On Site | Jan 05 |
 
 ---
 
-**Current Stats:** 25 jobs | 4% remote | 25 companies | Avg salary: 32k  
+**Current Stats:** 27 jobs | 7% remote | 27 companies | Avg salary: 32k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
