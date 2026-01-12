@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 12, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 12, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,9 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/35846553/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Jan 12 |
+| **[VAST Data](https://www.vastdata.com/)** | **[Senior Backend Developer - Cloud](https://jobr.pro/job/35847385/senior-backend-developer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 12 |
+| **[Elsight](https://www.elsight.com/)** | **[Senior Backend Developer](https://jobr.pro/job/35847715/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Jan 12 |
 | **[Kolomolo](https://www.kolomolo.com)** | **[.NET Backend Developer Junior (Internship)](https://jobr.pro/job/35831410/net-backend-developer-junior-internship?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kraków, Poland | On Site | Jan 12 |
 | **[Winnow](https://www.winnowsolutions.com/)** | **[Backend developer - Mid level](https://jobr.pro/job/35824225/backend-developer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cluj-Napoca, Cluj County, Romania | On Site | Jan 12 |
 | **[NetApp](https://www.netapp.com/)** | **[Backend Developer (Go, and Kubernetes)](https://jobr.pro/job/35823531/backend-developer-go-and-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, IN | On Site | Jan 12 |
+| **[ING](https://www.ing.com/)** | **[Senior Backend Developer (Java/Kotlin) with Frontend knowledge](https://jobr.pro/job/35848683/senior-backend-developer-javakotlin-with-frontend-knowledge?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Katowice (Zabrska 19), Poland | On Site | Jan 12 |
 | **[journaway GmbH](https://corporate.journaway.com/)** | **[Senior Backend Developer (m/w/d)](https://jobr.pro/job/35826684/senior-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote, Hybrid | Remote | Jan 11 |
 | **[Axiom Software Solutions Limited](https://www.axiomsoftwaresolutions.com/)** | **[Junior Backend Developer](https://jobr.pro/job/35824398/junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Jan 11 |
 | **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/35817092/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Jan 11 |
@@ -43,7 +47,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 27 jobs | 7% remote | 27 companies | Avg salary: 32k  
+**Current Stats:** 31 jobs | 6% remote | 31 companies | Avg salary: 160k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
