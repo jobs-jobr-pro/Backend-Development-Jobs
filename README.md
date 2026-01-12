@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 12, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 12, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Winnow](https://www.winnowsolutions.com/)** | **[Backend developer - Mid level](https://jobr.pro/job/35824225/backend-developer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cluj-Napoca, Cluj County, Romania | On Site | Jan 12 |
+| **[NetApp](https://www.netapp.com/)** | **[Backend Developer (Go, and Kubernetes)](https://jobr.pro/job/35823531/backend-developer-go-and-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, IN | On Site | Jan 12 |
+| **[Axiom Software Solutions Limited](https://www.axiomsoftwaresolutions.com/)** | **[Junior Backend Developer](https://jobr.pro/job/35824398/junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Jan 11 |
+| **[VI Company](https://www.vicompany.nl/)** | **[Senior Backend Developer C# .NET](https://jobr.pro/job/35817092/senior-backend-developer-c-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Jan 11 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job -26861\] Senior Backend Developer (.Net 8)](https://jobr.pro/job/35753652/job-26861-senior-backend-developer-net-8?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Jan 09 |
 | **[Qunomedical](https://www.qunomedical.com/)** | **[Senior Backend Developer (m/w/d)](https://jobr.pro/job/35699286/senior-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, Germany | On Site | Jan 09 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / Java Developer, AVP](https://jobr.pro/job/35697807/backend-developer-java-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Velankani Tech Park, India | On Site | Jan 09 |
@@ -37,7 +41,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 21 jobs | 5% remote | 21 companies | Avg salary: 32k  
+**Current Stats:** 25 jobs | 4% remote | 25 companies | Avg salary: 32k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
