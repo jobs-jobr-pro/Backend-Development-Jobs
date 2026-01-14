@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 14, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Jan 14, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Varicent](https://www.varicent.com/)** | **[Sr Backend Developer](https://jobr.pro/job/35975705/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Queretaro, Mexico | Remote | Jan 13 |
+| **[Keenfolks](https://keenfolks.com/)** | **[Senior Backend Developer](https://jobr.pro/job/35944186/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Jan 13 |
+| **[TripleTen](https://tripleten.com/)** | **[Backend Developer (Billing Team)](https://jobr.pro/job/35942611/backend-developer-billing-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amsterdam, NL | Remote | Jan 13 |
+| **[Plusgrade](https://www.plusgrade.com/)** | **[Développeur.se Backend, Apprentissage automatique // Backend Developer, Machine Learning](https://jobr.pro/job/35973374/developpeurse-backend-apprentissage-automatique-backend-developer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Quebec | On Site | Jan 13 |
+| **[Valtech](https://www.valtech.com/)** | **[AEM Edge Delivery Services (EDS) Backend Developer](https://jobr.pro/job/35876172/aem-edge-delivery-services-eds-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Colombia - Remote | Remote | Jan 13 |
 | **[CodeValue](https://codevalue.net/)** | **[Backend Developer - Yokne'am](https://jobr.pro/job/35846553/backend-developer-yokneam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Yokneam Ilit, Northern, IL | On Site | Jan 12 |
 | **[VAST Data](https://www.vastdata.com/)** | **[Senior Backend Developer - Cloud](https://jobr.pro/job/35847385/senior-backend-developer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 12 |
 | **[Elsight](https://www.elsight.com/)** | **[Senior Backend Developer](https://jobr.pro/job/35847715/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Jan 12 |
@@ -35,7 +40,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 19 jobs | 11% remote | 19 companies | Avg salary: 160k  
+**Current Stats:** 24 jobs | 21% remote | 24 companies | Avg salary: 160k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
