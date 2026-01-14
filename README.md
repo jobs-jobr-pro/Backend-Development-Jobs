@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 13, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 14, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -32,17 +32,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Artificial.Agency](https://artificial.agency/)** | **[Senior Backend Developer](https://jobr.pro/job/35662210/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Edmonton | Remote | Jan 08 |
 | **[BORA](https://www.bora.com/gb/gb/)** | **[Backend Developer (all genders)](https://jobr.pro/job/35683178/backend-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Niederndorf | On Site | Jan 08 |
 | **[STRATACACHE](https://www.stratacache.com/)** | **[Sr. Backend Developer- Java/Spring (44668)](https://jobr.pro/job/35633153/sr-backend-developer-javaspring-44668?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, QC, CA | On Site | Jan 08 |
-| **[Decklaration](https://decklaration.com/)** | **[Backend Developer (Python + DevOps)](https://jobr.pro/job/35430040/backend-developer-python-devops?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lahore, Pakistan | On Site | Jan 06 |
-| **[Genpact](https://www.genpact.com/)** | **[Principal Consultant- CV Backend Developer!](https://jobr.pro/job/35424244/principal-consultant-cv-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India-Pune | On Site | Jan 06 |
-| **[Web International Services Ltd](https://www.wis-ltd.net/)** | **[Senior Backend Developer](https://jobr.pro/job/35408108/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tas-Sliema, Malta | On Site | Jan 06 |
-| **[Blue Yonder](https://blueyonder.com/)** | **[Software Engineer II - (Backend Developer,Python,Microservices,Kafka,Nosql)](https://jobr.pro/job/35433762/software-engineer-ii-backend-developerpythonmicroserviceskafkanosql?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Jan 06 |
-| **[Weekday](https://www.weekday.works)** | **[Backend Developer-Java](https://jobr.pro/job/35420271/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Jan 06 |
-| **[UBS](https://www.ubs.com/)** | **[Java Backend Developer](https://jobr.pro/job/35423814/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Jan 06 |
-| **[Driven Properties](https://www.drivenproperties.com/)** | **[Senior Backend Developer - Node.js / Typescript](https://jobr.pro/job/35387962/senior-backend-developer-nodejs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Jan 06 |
 
 ---
 
-**Current Stats:** 26 jobs | 8% remote | 26 companies | Avg salary: 160k  
+**Current Stats:** 19 jobs | 11% remote | 19 companies | Avg salary: 160k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
