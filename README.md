@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 14, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 14, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Encora](https://www.encora.com/)** | **[Java Backend Developer PL - NodeJS](https://jobr.pro/job/35977173/java-backend-developer-pl-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Jan 13 |
+| **[Encora](https://www.encora.com/)** | **[Java Backend Developer PL/SR](https://jobr.pro/job/35977174/java-backend-developer-plsr?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Jan 13 |
+| **[Galaxy](https://galaxy.com/)** | **[VP, Senior Backend Developer - GalaxyOne](https://jobr.pro/job/35983156/vp-senior-backend-developer-galaxyone?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New York, NY | On Site | Jan 13 |
 | **[Varicent](https://www.varicent.com/)** | **[Sr Backend Developer](https://jobr.pro/job/35975705/sr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Queretaro, Mexico | Remote | Jan 13 |
 | **[Keenfolks](https://keenfolks.com/)** | **[Senior Backend Developer](https://jobr.pro/job/35944186/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Jan 13 |
 | **[TripleTen](https://tripleten.com/)** | **[Backend Developer (Billing Team)](https://jobr.pro/job/35942611/backend-developer-billing-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amsterdam, NL | Remote | Jan 13 |
@@ -40,7 +43,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 24 jobs | 21% remote | 24 companies | Avg salary: 160k  
+**Current Stats:** 27 jobs | 19% remote | 26 companies | Avg salary: 180k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
