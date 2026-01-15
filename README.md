@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 15, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 15, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Flowbox](https://getflowbox.com/)** | **[Backend developer](https://jobr.pro/job/36019341/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | København, Denmark | On Site | Jan 14 |
+| **[Ingenious Lion](https://www.ingeniouslion.com/)** | **[Senior Backend Developer](https://jobr.pro/job/36018746/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Portugal | On Site | Jan 14 |
+| **[Morgan Stanley](https://www.morganstanley.com/)** | **[Java Backend Developer (Hybrid)](https://jobr.pro/job/36035710/java-backend-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal 75, Canada | On Site | Jan 14 |
 | **[Encora](https://www.encora.com/)** | **[Java Backend Developer PL - NodeJS](https://jobr.pro/job/35977173/java-backend-developer-pl-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Jan 13 |
 | **[Encora](https://www.encora.com/)** | **[Java Backend Developer PL/SR](https://jobr.pro/job/35977174/java-backend-developer-plsr?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Jan 13 |
 | **[Galaxy](https://galaxy.com/)** | **[VP, Senior Backend Developer - GalaxyOne](https://jobr.pro/job/35983156/vp-senior-backend-developer-galaxyone?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New York, NY | On Site | Jan 13 |
@@ -43,7 +46,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 27 jobs | 19% remote | 26 companies | Avg salary: 180k  
+**Current Stats:** 30 jobs | 17% remote | 29 companies | Avg salary: 180k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
