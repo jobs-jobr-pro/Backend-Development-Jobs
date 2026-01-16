@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 15, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 16, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -39,14 +39,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Qunomedical](https://www.qunomedical.com/)** | **[Senior Backend Developer (m/w/d)](https://jobr.pro/job/35699286/senior-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, Germany | On Site | Jan 09 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Backend Developer / Java Developer, AVP](https://jobr.pro/job/35697807/backend-developer-java-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Velankani Tech Park, India | On Site | Jan 09 |
 | **[Harmonic Security](https://www.harmonic.security/)** | **[Backend Developer](https://jobr.pro/job/35683860/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | London, England, United Kingdom | On Site | Jan 09 |
-| **[Guidepoint](https://www.guidepoint.com/)** | **[PHP Backend Developer](https://jobr.pro/job/35653188/php-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, Maharashtra, India | On Site | Jan 08 |
-| **[Artificial.Agency](https://artificial.agency/)** | **[Senior Backend Developer](https://jobr.pro/job/35662210/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Edmonton | Remote | Jan 08 |
-| **[BORA](https://www.bora.com/gb/gb/)** | **[Backend Developer (all genders)](https://jobr.pro/job/35683178/backend-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Niederndorf | On Site | Jan 08 |
-| **[STRATACACHE](https://www.stratacache.com/)** | **[Sr. Backend Developer- Java/Spring (44668)](https://jobr.pro/job/35633153/sr-backend-developer-javaspring-44668?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, QC, CA | On Site | Jan 08 |
 
 ---
 
-**Current Stats:** 30 jobs | 17% remote | 29 companies | Avg salary: 180k  
+**Current Stats:** 26 jobs | 15% remote | 25 companies | Avg salary: 254k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
