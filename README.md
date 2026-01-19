@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 19, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 19, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -40,9 +40,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[VAST Data](https://www.vastdata.com/)** | **[Senior Backend Developer - Cloud](https://jobr.pro/job/35847385/senior-backend-developer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 12 |
 | **[Elsight](https://www.elsight.com/)** | **[Senior Backend Developer](https://jobr.pro/job/35847715/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Jan 12 |
 | **[Kolomolo](https://www.kolomolo.com)** | **[.NET Backend Developer Junior (Internship)](https://jobr.pro/job/35831410/net-backend-developer-junior-internship?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kraków, Poland | On Site | Jan 12 |
-| **[NetApp](https://www.netapp.com/)** | **[Backend Developer (Go, and Kubernetes)](https://jobr.pro/job/35823531/backend-developer-go-and-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, IN | On Site | Jan 12 |
-| **[ING](https://www.ing.com/)** | **[Senior Backend Developer (Java/Kotlin) with Frontend knowledge](https://jobr.pro/job/35848683/senior-backend-developer-javakotlin-with-frontend-knowledge?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Katowice (Zabrska 19), Poland | On Site | Jan 12 |
 | **[Winnow](https://www.winnowsolutions.com/)** | **[Backend developer - Mid level](https://jobr.pro/job/35824225/backend-developer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cluj-Napoca, Cluj County, Romania | On Site | Jan 12 |
+| **[ING](https://www.ing.com/)** | **[Senior Backend Developer (Java/Kotlin) with Frontend knowledge](https://jobr.pro/job/35848683/senior-backend-developer-javakotlin-with-frontend-knowledge?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Katowice (Zabrska 19), Poland | On Site | Jan 12 |
+| **[NetApp](https://www.netapp.com/)** | **[Backend Developer (Go, and Kubernetes)](https://jobr.pro/job/35823531/backend-developer-go-and-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Karnataka, IN | On Site | Jan 12 |
 
 ---
 
