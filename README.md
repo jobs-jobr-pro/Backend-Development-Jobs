@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 19, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 19, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[MIC Global](https://www.micglobal.com/)** | **[Python Backend Developer](https://jobr.pro/job/36306754/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, Banaglore, India (Hybrid) | Remote | Jan 19 |
+| **[Wix](https://www.wix.com/)** | **[Senior Backend Developer - Platform Engineering (A+ Nile)](https://jobr.pro/job/36301407/senior-backend-developer-platform-engineering-a-nile?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jan 18 |
+| **[Creative Force](https://www.creativeforce.io/)** | **[Backend Developer (.NET)](https://jobr.pro/job/36306163/backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hanoi, Vietnam | On Site | Jan 18 |
+| **[Creative Force](https://www.creativeforce.io/)** | **[Senior Backend Developer (.NET)](https://jobr.pro/job/36306161/senior-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hanoi, Vietnam | On Site | Jan 18 |
+| **[AutoDS](https://www.autods.com/)** | **[Backend Developer](https://jobr.pro/job/36302526/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Jan 18 |
+| **[BLP Digital AG](https://blp.digital/)** | **[Senior Backend Developer - Ireland (Remote)](https://jobr.pro/job/36300438/senior-backend-developer-ireland-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote Ireland | Remote | Jan 18 |
+| **[CM.com](https://www.cm.com/)** | **[Backend Developer Customer Data Platform](https://jobr.pro/job/36296857/backend-developer-customer-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Breda, Noord-Brabant, Netherlands | On Site | Jan 18 |
+| **[RoofStacks](https://roofstacks.com/)** | **[Senior Backend Developer (Card Payment Systems)](https://jobr.pro/job/36296203/senior-backend-developer-card-payment-systems?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | İstanbul | On Site | Jan 18 |
 | **[Xapads Media](https://www.xapads.com/)** | **[Backend Developer - NODE JS.](https://jobr.pro/job/36271460/backend-developer-node-js?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, India | On Site | Jan 17 |
 | **[RI Research Instruments GmbH](https://research-instruments.de/)** | **[Control Systems Backend Developer (m/w/d)](https://jobr.pro/job/36253371/control-systems-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bergisch Gladbach | On Site | Jan 17 |
 | **[Terra](https://www.terrahq.com/)** | **[Backend Developer](https://jobr.pro/job/36232122/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bilbao | Remote | Jan 16 |
@@ -46,7 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 30 jobs | 17% remote | 28 companies | Avg salary: 225k  
+**Current Stats:** 38 jobs | 21% remote | 35 companies | Avg salary: 186k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
