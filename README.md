@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 20, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 21, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -53,17 +53,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Flowbox](https://getflowbox.com/)** | **[Backend developer](https://jobr.pro/job/36019341/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | København, Denmark | On Site | Jan 14 |
 | **[Ingenious Lion](https://www.ingeniouslion.com/)** | **[Senior Backend Developer](https://jobr.pro/job/36018746/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Portugal | On Site | Jan 14 |
 | **[Morgan Stanley](https://www.morganstanley.com/)** | **[Java Backend Developer (Hybrid)](https://jobr.pro/job/36035710/java-backend-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal 75, Canada | On Site | Jan 14 |
-| **[Encora](https://www.encora.com/)** | **[Java Backend Developer PL - NodeJS](https://jobr.pro/job/35977173/java-backend-developer-pl-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Jan 13 |
-| **[Encora](https://www.encora.com/)** | **[Java Backend Developer PL/SR](https://jobr.pro/job/35977174/java-backend-developer-plsr?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Jan 13 |
-| **[Galaxy](https://galaxy.com/)** | **[VP, Senior Backend Developer - GalaxyOne](https://jobr.pro/job/35983156/vp-senior-backend-developer-galaxyone?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New York, NY | On Site | Jan 13 |
-| **[Keenfolks](https://keenfolks.com/)** | **[Senior Backend Developer](https://jobr.pro/job/35944186/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (11560, Mexico DF, Mexico, México) | On Site | Jan 13 |
-| **[TripleTen](https://tripleten.com/)** | **[Backend Developer (Billing Team)](https://jobr.pro/job/35942610/backend-developer-billing-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Madrid, Spain, ES | Remote | Jan 13 |
-| **[Plusgrade](https://www.plusgrade.com/)** | **[Développeur.se Backend, Apprentissage automatique // Backend Developer, Machine Learning](https://jobr.pro/job/35973374/developpeurse-backend-apprentissage-automatique-backend-developer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Quebec | On Site | Jan 13 |
-| **[Valtech](https://www.valtech.com/)** | **[AEM Edge Delivery Services (EDS) Backend Developer](https://jobr.pro/job/35876172/aem-edge-delivery-services-eds-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Colombia - Remote | Remote | Jan 13 |
 
 ---
 
-**Current Stats:** 47 jobs | 26% remote | 43 companies | Avg salary: 129k  
+**Current Stats:** 40 jobs | 25% remote | 37 companies | Avg salary: 106k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
