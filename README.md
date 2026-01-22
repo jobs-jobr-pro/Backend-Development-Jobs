@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 22, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 22, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Oracle](https://www.oracle.com/)** | **[Intern as Java Backend Developer - part time for student](https://jobr.pro/job/36552148/intern-as-java-backend-developer-part-time-for-student?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | BUDAPEST, Hungary | On Site | Jan 22 |
+| **[Kustannusosakeyhtiö Otava](https://otava.fi/)** | **[Backend Developer for Otava Learning](https://jobr.pro/job/36570177/backend-developer-for-otava-learning?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Jan 22 |
+| **[UBS](https://www.ubs.com/)** | **[Python Senior Backend Developer](https://jobr.pro/job/36559216/python-senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Jan 22 |
+| **[Thales](https://www.thalesgroup.com/)** | **[Node.JS Backend Developer](https://jobr.pro/job/36550589/nodejs-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida Berger Tower, India | On Site | Jan 22 |
+| **[CI&T](https://ciandt.com/)** | **[Job - 27046\] Senior Backend Developer Java](https://jobr.pro/job/36504726/job-27046-senior-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Jan 21 |
 | **[Sigma Software](https://career.sigma.software)** | **[Middle Backend Developer (IoT domain)](https://jobr.pro/job/36433221/middle-backend-developer-iot-domain?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tashkent, Uzbekistan | On Site | Jan 20 |
 | **[Upright](https://www.uprightproject.com/)** | **[Senior Backend Developer (Typescript)](https://jobr.pro/job/36412783/senior-backend-developer-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki, Uusimaa | On Site | Jan 20 |
 | **[CES](https://cesltd.com/)** | **[Senior AI Native Backend Developer - #2957](https://jobr.pro/job/36387185/senior-ai-native-backend-developer-2957?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, India | On Site | Jan 20 |
@@ -57,7 +62,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 41 jobs | 24% remote | 38 companies | Avg salary: 106k  
+**Current Stats:** 46 jobs | 22% remote | 43 companies | Avg salary: 106k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
