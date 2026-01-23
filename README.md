@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 23, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 23, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AgileEngine](https://agileengine.com/)** | **[Backend Developer (Go) ID48361](https://jobr.pro/job/36640943/backend-developer-go-id48361?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Richmond, United States | On Site | Jan 23 |
+| **[Incluso](https://www.incluso.se)** | **[Senior Backend Developer (Typescript & AWS)](https://jobr.pro/job/36630426/senior-backend-developer-typescript-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Jönköping, Sweden | On Site | Jan 23 |
+| **[Creative Force](https://www.creativeforce.io/)** | **[Backend Developer (.NET & PHP)](https://jobr.pro/job/36616424/backend-developer-net-php?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hanoi, Vietnam | On Site | Jan 23 |
+| **[Varicent](https://www.varicent.com/)** | **[Senior Backend Developer – C#/ .Net (Remote - Mexico Only)](https://jobr.pro/job/36606382/senior-backend-developer-c-net-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico, Remote | Remote | Jan 23 |
+| **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/36606379/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Torreon, Coahuila | Remote | Jan 22 |
 | **[Oracle](https://www.oracle.com/)** | **[Intern as Java Backend Developer - part time for student](https://jobr.pro/job/36552148/intern-as-java-backend-developer-part-time-for-student?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | BUDAPEST, Hungary | On Site | Jan 22 |
 | **[Kustannusosakeyhtiö Otava](https://otava.fi/)** | **[Backend Developer for Otava Learning](https://jobr.pro/job/36570177/backend-developer-for-otava-learning?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Jan 22 |
 | **[UBS](https://www.ubs.com/)** | **[Python Senior Backend Developer](https://jobr.pro/job/36559216/python-senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Jan 22 |
@@ -58,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ONE ZERO Digital Bank](https://www.onezerobank.com/)** | **[Backend Developer](https://jobr.pro/job/36202704/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 16 |
 | **[Abhyaz](https://www.abhyaz.com/)** | **[Backend Developer](https://jobr.pro/job/36193118/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Jan 16 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[(Senior) Backend Developer Java & .NET (m/f/d) – Tieto Tech Consulting](https://jobr.pro/job/36246001/senior-backend-developer-java-net-mfd-tieto-tech-consulting?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, BE, Germany | On Site | Jan 16 |
-| **[Zertificon Solutions GmbH](https://www.zertificon.com/)** | **[Backend Developer PHP (w/m/d) - IT Security Business](https://jobr.pro/job/36173689/backend-developer-php-wmd-it-security-business?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin | On Site | Jan 16 |
 
 ---
 
-**Current Stats:** 46 jobs | 22% remote | 43 companies | Avg salary: 106k  
+**Current Stats:** 50 jobs | 24% remote | 43 companies | Avg salary: 106k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
