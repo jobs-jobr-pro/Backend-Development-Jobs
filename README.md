@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 23, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 24, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -55,18 +55,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[RoofStacks](https://roofstacks.com/)** | **[Senior Backend Developer (Card Payment Systems)](https://jobr.pro/job/36296203/senior-backend-developer-card-payment-systems?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | İstanbul | On Site | Jan 18 |
 | **[Xapads Media](https://www.xapads.com/)** | **[Backend Developer - NODE JS.](https://jobr.pro/job/36271460/backend-developer-node-js?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, India | On Site | Jan 17 |
 | **[RI Research Instruments GmbH](https://research-instruments.de/)** | **[Control Systems Backend Developer (m/w/d)](https://jobr.pro/job/36253371/control-systems-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bergisch Gladbach | On Site | Jan 17 |
-| **[Terra](https://www.terrahq.com/)** | **[Backend Developer](https://jobr.pro/job/36232122/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bilbao | Remote | Jan 16 |
-| **[Coveo](https://www.coveo.com/)** | **[Backend Developer Intern (ML Platform Serving team), Summer 2026](https://jobr.pro/job/36240789/backend-developer-intern-ml-platform-serving-team-summer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal (Province of Quebec, Canada) | On Site | Jan 16 |
-| **[Coveo](https://www.coveo.com/)** | **[Backend Developer Intern, Summer 2026](https://jobr.pro/job/36240791/backend-developer-intern-summer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Quebec City (Province of Quebec, Canada) | On Site | Jan 16 |
-| **[Photon](https://www.photon.com/)** | **[Backend Developer \|Fiserv\| Berkely Height \| FTE Only](https://jobr.pro/job/36273204/backend-developer-fiserv-berkely-height-fte-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | On Site | Jan 16 |
-| **[Radius Limited](https://www.radius.com/)** | **[Senior Backend Developer - Telematics](https://jobr.pro/job/36249864/senior-backend-developer-telematics?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Crewe, England, United Kingdom | On Site | Jan 16 |
-| **[ONE ZERO Digital Bank](https://www.onezerobank.com/)** | **[Backend Developer](https://jobr.pro/job/36202704/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 16 |
-| **[Abhyaz](https://www.abhyaz.com/)** | **[Backend Developer](https://jobr.pro/job/36193118/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Jan 16 |
-| **[Tietoevry](https://www.tietoevry.com/)** | **[(Senior) Backend Developer Java & .NET (m/f/d) – Tieto Tech Consulting](https://jobr.pro/job/36246001/senior-backend-developer-java-net-mfd-tieto-tech-consulting?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, BE, Germany | On Site | Jan 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 43 companies | Avg salary: 106k  
+**Current Stats:** 42 jobs | 24% remote | 36 companies | Avg salary: 86k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
