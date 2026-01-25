@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 24, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 25, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -53,12 +53,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BLP Digital AG](https://blp.digital/)** | **[Senior Backend Developer - Ireland (Remote)](https://jobr.pro/job/36300438/senior-backend-developer-ireland-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote Ireland | Remote | Jan 18 |
 | **[CM.com](https://www.cm.com/)** | **[Backend Developer Customer Data Platform](https://jobr.pro/job/36296857/backend-developer-customer-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Breda, Noord-Brabant, Netherlands | On Site | Jan 18 |
 | **[RoofStacks](https://roofstacks.com/)** | **[Senior Backend Developer (Card Payment Systems)](https://jobr.pro/job/36296203/senior-backend-developer-card-payment-systems?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | İstanbul | On Site | Jan 18 |
-| **[Xapads Media](https://www.xapads.com/)** | **[Backend Developer - NODE JS.](https://jobr.pro/job/36271460/backend-developer-node-js?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, India | On Site | Jan 17 |
-| **[RI Research Instruments GmbH](https://research-instruments.de/)** | **[Control Systems Backend Developer (m/w/d)](https://jobr.pro/job/36253371/control-systems-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bergisch Gladbach | On Site | Jan 17 |
 
 ---
 
-**Current Stats:** 42 jobs | 24% remote | 36 companies | Avg salary: 86k  
+**Current Stats:** 40 jobs | 25% remote | 34 companies | Avg salary: 86k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
