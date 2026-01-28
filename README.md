@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 28, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Jan 28, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AlmavivA de Belgique](https://www.almaviva.it/)** | **[Backend Developer L10 - Deadline 04/02/26](https://jobr.pro/job/36874398/backend-developer-l10-deadline-040226?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brussels, Brussels, Belgium | On Site | Jan 27 |
 | **[AgileEngine](https://agileengine.com/)** | **[Backend Developer (Go) ID48361](https://jobr.pro/job/36836359/backend-developer-go-id48361?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Jose, United States | On Site | Jan 27 |
 | **[CrowdFarming](https://www.crowdfarming.com/)** | **[Backend Developer](https://jobr.pro/job/36828778/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Madrid, Spain | On Site | Jan 27 |
 | **[Getinz](https://www.getinz.com/)** | **[Backend Developer (Node.js) - GGS - BLR](https://jobr.pro/job/36837562/backend-developer-nodejs-ggs-blr?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Karnataka, Bengaluru, India | On Site | Jan 27 |
@@ -48,7 +49,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 32 jobs | 22% remote | 30 companies | Avg salary: Not specified  
+**Current Stats:** 33 jobs | 21% remote | 31 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
