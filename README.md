@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 28, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 28, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,11 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AgileEngine](https://agileengine.com/)** | **[Backend Developer (Go) ID48361](https://jobr.pro/job/36836359/backend-developer-go-id48361?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Jose, United States | On Site | Jan 27 |
 | **[CrowdFarming](https://www.crowdfarming.com/)** | **[Backend Developer](https://jobr.pro/job/36828778/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Madrid, Spain | On Site | Jan 27 |
 | **[Getinz](https://www.getinz.com/)** | **[Backend Developer (Node.js) - GGS - BLR](https://jobr.pro/job/36837562/backend-developer-nodejs-ggs-blr?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Karnataka, Bengaluru, India | On Site | Jan 27 |
 | **[Sumsub](https://www.sumsub.com)** | **[Senior Backend Developer - Case Management](https://jobr.pro/job/36823252/senior-backend-developer-case-management?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Limassol, Cyprus | On Site | Jan 27 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – C# & VB.NET](https://jobr.pro/job/36811586/junior-backend-developer-c-vbnet?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | APRILIA, Italy | On Site | Jan 27 |
 | **[Maersk](https://www.maersk.com/)** | **[Backend Developer](https://jobr.pro/job/36817603/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | INBLR02 - Bangalore - Milesstone Buildcon, India | On Site | Jan 27 |
+| **[EbizON](https://www.ebizondigital.com/)** | **[EbizON \|\| Magento Backend Developer](https://jobr.pro/job/36856547/ebizon-magento-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Remote | Remote | Jan 27 |
 | **[Mozaiq](https://www.mozaiq.com/)** | **[Senior Backend Developer](https://jobr.pro/job/36756185/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Fully Remote | Remote | Jan 26 |
 | **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer - .Net & C#](https://jobr.pro/job/36752143/junior-backend-developer-net-c?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | NAPOLI VIA BENEDETTO BRIN, Italy | On Site | Jan 26 |
 | **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Senior Backend Developer (.NET / Azure)](https://jobr.pro/job/36770637/senior-backend-developer-net-azure?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | PRT - Porto, Portugal | On Site | Jan 26 |
@@ -36,7 +38,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Varicent](https://www.varicent.com/)** | **[Senior Backend Developer – C#/ .Net (Remote - Mexico Only)](https://jobr.pro/job/36678847/senior-backend-developer-c-net-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chihuahua, Mexico | Remote | Jan 23 |
 | **[Varicent](https://www.varicent.com/)** | **[Backend Developer (Remote - Mexico Only)](https://jobr.pro/job/36678845/backend-developer-remote-mexico-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Torreon, Coahuila | Remote | Jan 23 |
 | **[Mesa Associates, Inc](https://www.mesainc.com/)** | **[Senior Backend Developer](https://jobr.pro/job/36692987/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Knoxville, Tennessee, United States | On Site | Jan 23 |
-| **[AgileEngine](https://agileengine.com/)** | **[Backend Developer (Go) ID48361](https://jobr.pro/job/36640943/backend-developer-go-id48361?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Richmond, United States | On Site | Jan 23 |
 | **[Incluso](https://www.incluso.se)** | **[Senior Backend Developer (Typescript & AWS)](https://jobr.pro/job/36630426/senior-backend-developer-typescript-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Jönköping, Sweden | On Site | Jan 23 |
 | **[Creative Force](https://www.creativeforce.io/)** | **[Backend Developer (.NET & PHP)](https://jobr.pro/job/36616424/backend-developer-net-php?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hanoi, Vietnam | On Site | Jan 23 |
 | **[Oracle](https://www.oracle.com/)** | **[Intern as Java Backend Developer - part time for student](https://jobr.pro/job/36552148/intern-as-java-backend-developer-part-time-for-student?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | BUDAPEST, Hungary | On Site | Jan 22 |
@@ -47,7 +48,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 31 jobs | 19% remote | 29 companies | Avg salary: Not specified  
+**Current Stats:** 32 jobs | 22% remote | 30 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
