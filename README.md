@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 29, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 29, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,8 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Krank](https://krank.com/)** | **[Lead Backend Developer](https://jobr.pro/job/37017944/lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | 75350, Karachi, Sindh, Pakistan | On Site | Jan 29 |
+| **[Numentica](https://www.numentica.com/)** | **[Senior C# Backend Developer](https://jobr.pro/job/37011452/senior-c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Jan 29 |
+| **[Madiff](https://madiff.eu/)** | **[Java Backend Developer](https://jobr.pro/job/37008470/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Warsaw, Poland | On Site | Jan 29 |
+| **[Virtusa](https://www.virtusa.com/)** | **[Java Backend Developer](https://jobr.pro/job/37004890/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN-AP-Hyderabad | On Site | Jan 29 |
+| **[VAST Data](https://www.vastdata.com/)** | **[Backend Developer – Go Expert](https://jobr.pro/job/37015201/backend-developer-go-expert?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Reykjavík, Reykjavíkurborg, IS | On Site | Jan 29 |
+| **[Nexi Group](https://www.nexigroup.com/)** | **[Senior Backend Developer](https://jobr.pro/job/37002630/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Finland | On Site | Jan 29 |
+| **[Evolution](https://www.evolution.com)** | **[Backend Developer (Scala)](https://jobr.pro/job/37002965/backend-developer-scala?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stockholm, Stockholm County, Sweden | On Site | Jan 29 |
+| **[Zensar](https://www.zensar.com/)** | **[Sr C# Backend Developer](https://jobr.pro/job/37010249/sr-c-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Serbia | On Site | Jan 29 |
 | **[Bertelsmann](https://www.bertelsmann.com/)** | **[Senior Backend Developer (w/m/d)](https://jobr.pro/job/36968832/senior-backend-developer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hamburg, HH, DE, 20459 | On Site | Jan 29 |
 | **[Capco](https://www.capco.com/)** | **[Senior Backend Developer/Full Stack Developer](https://jobr.pro/job/36958268/senior-backend-developerfull-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Thailand - Bangkok | On Site | Jan 29 |
+| **[Oracle](https://www.oracle.com/)** | **[Sr Backend Developer (DevOps)](https://jobr.pro/job/37012578/sr-backend-developer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | On Site | Jan 28 |
 | **[Viderity Inc.](https://viderity.com/)** | **[Backend Developer](https://jobr.pro/job/36957105/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Jan 28 |
 | **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer (Architecture team)](https://jobr.pro/job/36964360/senior-backend-developer-architecture-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Jan 28 |
 | **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer](https://jobr.pro/job/36964362/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Jan 28 |
@@ -54,17 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mesa Associates, Inc](https://www.mesainc.com/)** | **[Senior Backend Developer](https://jobr.pro/job/36692987/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Knoxville, Tennessee, United States | On Site | Jan 23 |
 | **[Incluso](https://www.incluso.se)** | **[Senior Backend Developer (Typescript & AWS)](https://jobr.pro/job/36630426/senior-backend-developer-typescript-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Jönköping, Sweden | On Site | Jan 23 |
 | **[Creative Force](https://www.creativeforce.io/)** | **[Backend Developer (.NET & PHP)](https://jobr.pro/job/36616424/backend-developer-net-php?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hanoi, Vietnam | On Site | Jan 23 |
-| **[Oracle](https://www.oracle.com/)** | **[Intern as Java Backend Developer - part time for student](https://jobr.pro/job/36552148/intern-as-java-backend-developer-part-time-for-student?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | BUDAPEST, Hungary | On Site | Jan 22 |
-| **[Kustannusosakeyhtiö Otava](https://otava.fi/)** | **[Backend Developer for Otava Learning](https://jobr.pro/job/36570177/backend-developer-for-otava-learning?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Helsinki | On Site | Jan 22 |
-| **[Thales](https://www.thalesgroup.com/)** | **[Node.JS Backend Developer](https://jobr.pro/job/36550589/nodejs-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida Berger Tower, India | On Site | Jan 22 |
-| **[UBS](https://www.ubs.com/)** | **[Python Senior Backend Developer](https://jobr.pro/job/36559216/python-senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, India | On Site | Jan 22 |
 
 ---
 
-**Current Stats:** 45 jobs | 18% remote | 41 companies | Avg salary: Not specified  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, nodejs, java, api, database  
+**Trending Skills:** python, java, api, database, microservices  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
