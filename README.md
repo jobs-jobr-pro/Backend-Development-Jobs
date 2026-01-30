@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -30,8 +30,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bertelsmann](https://www.bertelsmann.com/)** | **[Senior Backend Developer (w/m/d)](https://jobr.pro/job/36968832/senior-backend-developer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hamburg, HH, DE, 20459 | On Site | Jan 29 |
 | **[Capco](https://www.capco.com/)** | **[Senior Backend Developer/Full Stack Developer](https://jobr.pro/job/36958268/senior-backend-developerfull-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Thailand - Bangkok | On Site | Jan 29 |
 | **[Rakuten](https://corp.rakuten.co.jp/)** | **[Backend Developer, Rakuten Ichiba - Mall Section No.1, EC Marketplace Development Department(ECMPD)](https://jobr.pro/job/37032361/backend-developer-rakuten-ichiba-mall-section-no1-ec-marketplace-development-departmentecmpd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Rakuten Crimson House, Japan | On Site | Jan 29 |
-| **[Trend Micro](https://www.trendmicro.com/)** | **[Staff Backend Developer - Austin, TX](https://jobr.pro/job/37024011/staff-backend-developer-austin-tx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Austin, United States | On Site | Jan 29 |
 | **[CAE](https://www.cae.com/)** | **[C-GE-925 - C++ Backend Developer Intern](https://jobr.pro/job/37030277/c-ge-925-c-backend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal - 8585 Cote-De-Liesse, QC, Canada | On Site | Jan 29 |
+| **[Trend Micro](https://www.trendmicro.com/)** | **[Staff Backend Developer - Austin, TX](https://jobr.pro/job/37024011/staff-backend-developer-austin-tx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Austin, United States | On Site | Jan 29 |
 | **[Oracle](https://www.oracle.com/)** | **[Sr Backend Developer (DevOps)](https://jobr.pro/job/37012578/sr-backend-developer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | On Site | Jan 28 |
 | **[Viderity Inc.](https://viderity.com/)** | **[Backend Developer](https://jobr.pro/job/36957105/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote job | Remote | Jan 28 |
 | **[ApprovalMax Limited](https://approvalmax.com)** | **[Senior Backend Developer (Architecture team)](https://jobr.pro/job/36964360/senior-backend-developer-architecture-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | On Site | Jan 28 |
