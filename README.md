@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Feb 02, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[blau direkt GmbH](https://www.blaudirekt.de/)** | **[Senior Backend Developer (m/w/d) - zeitsprung GmbH](https://jobr.pro/job/37202804/senior-backend-developer-mwd-zeitsprung-gmbh?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote / Deutschlandweit, Pforzheim | Remote | Feb 01 |
+| **[RoofStacks](https://roofstacks.com/)** | **[Senior Backend Developer (Card Payment Systems)](https://jobr.pro/job/37191284/senior-backend-developer-card-payment-systems?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | İstanbul | On Site | Feb 01 |
 | **[CI&T](https://ciandt.com/)** | **[\[JOB - 27292\] C#/.NET Senior Backend Developer](https://jobr.pro/job/37124651/job-27292-cnet-senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Jan 30 |
 | **[SBT Global](https://www.sbtglobal.com)** | **[Java BackEnd Developer](https://jobr.pro/job/37135797/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ridgefield Park, NJ, United States | On Site | Jan 30 |
 | **[Inetum](https://www.inetum.com)** | **[Senior Backend Developer 5](https://jobr.pro/job/37138921/senior-backend-developer-5?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bogotá, Bogota, Colombia | On Site | Jan 30 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Maersk](https://www.maersk.com/)** | **[Backend Developer](https://jobr.pro/job/36817603/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | INBLR02 - Bangalore - Milesstone Buildcon, India | On Site | Jan 27 |
 | **[Mozaiq](https://www.mozaiq.com/)** | **[Senior Backend Developer](https://jobr.pro/job/36756185/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Fully Remote | Remote | Jan 26 |
 | **[AIA](https://www.aia.com/)** | **[Assistant Manager / Manager, Backend Developer](https://jobr.pro/job/36767557/assistant-manager-manager-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Jan 26 |
-| **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer - .Net & C#](https://jobr.pro/job/36752143/junior-backend-developer-net-c?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | NAPOLI VIA BENEDETTO BRIN, Italy | On Site | Jan 26 |
-| **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Senior Backend Developer (.NET / Azure)](https://jobr.pro/job/36770637/senior-backend-developer-net-azure?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | PRT - Porto, Portugal | On Site | Jan 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 149k  
+**Current Stats:** 50 jobs | 14% remote | 48 companies | Avg salary: 149k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java, api, database, microservices  
