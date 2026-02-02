@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Feb 02, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Indivd](https://www.indivd.com/)** | **[Senior Python Backend Developer](https://jobr.pro/job/37211485/senior-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Turkey, Türkiye | Remote | Feb 02 |
+| **[PwC](https://www.pwc.com/)** | **[IN_Senior Associate_Java Backend Developer with AWS_GCC_Advisory_Hyderabad](https://jobr.pro/job/37207241/insenior-associatejava-backend-developer-with-awsgccadvisoryhyderabad?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad - Salarpuria, India | On Site | Feb 02 |
+| **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer](https://jobr.pro/job/37204834/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IT BUILDING, RAMANUJAN IT SEZ,, India | On Site | Feb 02 |
+| **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer- Assistant Vice President](https://jobr.pro/job/37204809/java-backend-developer-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Feb 02 |
+| **[PradeepIT](https://pradeepit.com/)** | **[Java Backend Developer](https://jobr.pro/job/37207877/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, Telangana, India | On Site | Feb 01 |
 | **[blau direkt GmbH](https://www.blaudirekt.de/)** | **[Senior Backend Developer (m/w/d) - zeitsprung GmbH](https://jobr.pro/job/37202804/senior-backend-developer-mwd-zeitsprung-gmbh?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote / Deutschlandweit, Pforzheim | Remote | Feb 01 |
 | **[RoofStacks](https://roofstacks.com/)** | **[Senior Backend Developer (Card Payment Systems)](https://jobr.pro/job/37191284/senior-backend-developer-card-payment-systems?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | İstanbul | On Site | Feb 01 |
 | **[CI&T](https://ciandt.com/)** | **[\[JOB - 27292\] C#/.NET Senior Backend Developer](https://jobr.pro/job/37124651/job-27292-cnet-senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Jan 30 |
@@ -58,18 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CrowdFarming](https://www.crowdfarming.com/)** | **[Backend Developer](https://jobr.pro/job/36828778/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Madrid, Spain | On Site | Jan 27 |
 | **[Getinz](https://www.getinz.com/)** | **[Backend Developer (Node.js) - GGS - BLR](https://jobr.pro/job/36837562/backend-developer-nodejs-ggs-blr?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Karnataka, Bengaluru, India | On Site | Jan 27 |
 | **[Sumsub](https://www.sumsub.com)** | **[Senior Backend Developer - Case Management](https://jobr.pro/job/36823252/senior-backend-developer-case-management?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Limassol, Cyprus | On Site | Jan 27 |
-| **[EbizON](https://www.ebizondigital.com/)** | **[EbizON \|\| Magento Backend Developer](https://jobr.pro/job/36856547/ebizon-magento-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Remote | Remote | Jan 27 |
-| **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – C# & VB.NET](https://jobr.pro/job/36811586/junior-backend-developer-c-vbnet?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | APRILIA, Italy | On Site | Jan 27 |
-| **[Maersk](https://www.maersk.com/)** | **[Backend Developer](https://jobr.pro/job/36817603/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | INBLR02 - Bangalore - Milesstone Buildcon, India | On Site | Jan 27 |
-| **[Mozaiq](https://www.mozaiq.com/)** | **[Senior Backend Developer](https://jobr.pro/job/36756185/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Fully Remote | Remote | Jan 26 |
-| **[AIA](https://www.aia.com/)** | **[Assistant Manager / Manager, Backend Developer](https://jobr.pro/job/36767557/assistant-manager-manager-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Jan 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 48 companies | Avg salary: 149k  
+**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 149k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, java, api, database, microservices  
+**Trending Skills:** python, nodejs, java, api, database  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
