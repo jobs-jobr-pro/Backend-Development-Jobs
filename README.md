@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 03, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -20,8 +20,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Indivd](https://www.indivd.com/)** | **[Senior Python Backend Developer](https://jobr.pro/job/37211485/senior-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Turkey, Türkiye | Remote | Feb 02 |
 | **[Lendha](https://lendha.com)** | **[Backend Developer (Laravel/PHP)](https://jobr.pro/job/37215403/backend-developer-laravelphp?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lagos, LA, Nigeria | On Site | Feb 02 |
 | **[Telia](https://www.teliacompany.com/)** | **[Backend Developer](https://jobr.pro/job/37213914/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Lithuania | On Site | Feb 02 |
-| **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://jobr.pro/job/37226046/junior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO VIALE A. DORIA, Italy | On Site | Feb 02 |
 | **[PwC](https://www.pwc.com/)** | **[IN_Senior Associate_Java Backend Developer with AWS_GCC_Advisory_Hyderabad](https://jobr.pro/job/37207241/insenior-associatejava-backend-developer-with-awsgccadvisoryhyderabad?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad - Salarpuria, India | On Site | Feb 02 |
+| **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Backend Developer – Java & Spring Boot](https://jobr.pro/job/37226046/junior-backend-developer-java-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | MILANO VIALE A. DORIA, Italy | On Site | Feb 02 |
 | **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer](https://jobr.pro/job/37204834/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IT BUILDING, RAMANUJAN IT SEZ,, India | On Site | Feb 02 |
 | **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer- Assistant Vice President](https://jobr.pro/job/37204809/java-backend-developer-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Feb 02 |
 | **[PradeepIT](https://pradeepit.com/)** | **[Java Backend Developer](https://jobr.pro/job/37207877/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, Telangana, India | On Site | Feb 01 |
