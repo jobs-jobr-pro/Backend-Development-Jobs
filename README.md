@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Feb 04, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Feb 04, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -19,9 +19,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[World Wide Technology](https://www.wwt.com/)** | **[Sr Automation Developer](https://jobr.pro/job/37318717/sr-automation-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mumbai, ind-, India | On Site | Feb 03 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[Developer](https://jobr.pro/job/37318691/developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | St. Louis, MO, United States | On Site | Feb 03 |
 | **[ECS](https://ecstech.com/)** | **[Identity & Access Management (IAM) Developer](https://jobr.pro/job/37316319/identity-access-management-iam-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | WASHINGTON, DC, United States | On Site | Feb 03 |
+| **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Cloud Contact Center Developer (REF5053C)](https://jobr.pro/job/37337140/cloud-contact-center-developer-ref5053c?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest,Debrecen,Pécs,Szeged, Hungary | On Site | Feb 03 |
 | **[Central Bank](https://www.centralbank.net/)** | **[CRM Admin Developer](https://jobr.pro/job/37311440/crm-admin-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Jefferson City, MO, United States | On Site | Feb 03 |
 | **[CodeValue](https://codevalue.net/)** | **[C++ Developer](https://jobr.pro/job/37307636/c-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Israel, IL | On Site | Feb 03 |
 | **[RCT Systems](https://www.rct-systems.com/)** | **[Software Developer Expert- $206K – $223K](https://jobr.pro/job/37310630/software-developer-expert-206k-223k?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Reston, VA | On Site | Feb 03 |
+| **[ALTEN](https://www.alten.com/)** | **[Backend Engineer](https://jobr.pro/job/37337105/backend-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Valbonne, Provence-Alpes-Côte d'Azur, France | On Site | Feb 03 |
 | **[XM Cyber](https://xmcyber.com/)** | **[Full Stack Developer](https://jobr.pro/job/37307160/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Feb 03 |
 | **[Simera](https://simera.io/)** | **[IOS Developer CR (Remote)](https://jobr.pro/job/37302967/ios-developer-cr-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Francisco, United States of America | Remote | Feb 03 |
 | **[Everest Technologies](https://everesttech.com/)** | **[Informatica MDM Developer](https://jobr.pro/job/37302502/informatica-mdm-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Feb 03 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer Intern (Global LIVE Data Platform) - 2026 Start (BS/MS)](https://jobr.pro/job/37291690/backend-software-engineer-intern-global-live-data-platform-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore, Singapore | On Site | Feb 03 |
 | **[Sia](https://www.sia-partners.com)** | **[Senior Full Stack Engineer (Backend)](https://jobr.pro/job/37294263/senior-full-stack-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mumbai, MH, India | On Site | Feb 03 |
 | **[Sia](https://www.sia-partners.com)** | **[Senior Backend Engineer (Python)](https://jobr.pro/job/37294268/senior-backend-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mumbai, Maharashtra, India | On Site | Feb 03 |
-| **[Veikkaus Oy](https://www.veikkaus.fi/)** | **[Junior Software Developer, Summer Job](https://jobr.pro/job/37301597/junior-software-developer-summer-job?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Finland | On Site | Feb 03 |
-| **[Visser & Visser](https://www.visser-visser.nl/)** | **[Senior .NET Developer](https://jobr.pro/job/37310068/senior-net-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Dordrecht | On Site | Feb 03 |
 
 ---
 
