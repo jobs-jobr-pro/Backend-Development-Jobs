@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Feb 05, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Feb 05, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -17,9 +17,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ECS](https://ecstech.com/)** | **[AI Solution Developer](https://jobr.pro/job/37409469/ai-solution-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | North Charleston, SC, United States | On Site | Feb 04 |
 | **[TPG Telecom](https://www.tpgtelecom.com.au/)** | **[Salesforce Developer](https://jobr.pro/job/37406883/salesforce-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Barangaroo, NSW, AU | On Site | Feb 04 |
 | **[ENCAMINA](https://www.encamina.com/)** | **[Full Stack Developer](https://jobr.pro/job/37404597/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (28009, Madrid, MD, España) | On Site | Feb 04 |
+| **[Sandisk](https://www.sandisk.com/)** | **[Professional 4, Information Technology ( Senior AI Developer, LangChain/LangGraph Preferred)](https://jobr.pro/job/37426606/professional-4-information-technology-senior-ai-developer-langchainlanggraph-preferred?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | On Site | Feb 04 |
 | **[Factorial](https://factorialhr.com/)** | **[Strategic Partner Business Developer - Madrid](https://jobr.pro/job/37404407/strategic-partner-business-developer-madrid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | 08005, Barcelona, Barcelona, España | On Site | Feb 04 |
+| **[Talan](https://talan.com)** | **[Senior Python Developer +Power Apps/Automation - Academy](https://jobr.pro/job/37426998/senior-python-developer-power-appsautomation-academy?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bucharest, Bucharest, Romania | On Site | Feb 04 |
 | **[abra](https://www.abra-it.com/)** | **[Fullstack Developer](https://jobr.pro/job/37400999/fullstack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Center, Center District, IL | On Site | Feb 04 |
+| **[PSI CRO](https://www.psi-cro.com)** | **[Full stack .NET developer (AI Solutions)](https://jobr.pro/job/37426610/full-stack-net-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Almaty, Almaty Region, Kazakhstan | On Site | Feb 04 |
 | **[abra](https://www.abra-it.com/)** | **[Junior SW Developer](https://jobr.pro/job/37401000/junior-sw-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Center, Center District, IL | On Site | Feb 04 |
+| **[PSI CRO](https://www.psi-cro.com)** | **[Full stack developer (AI Solutions)](https://jobr.pro/job/37426611/full-stack-developer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Riga, Latvia | On Site | Feb 04 |
 | **[Earnix](https://earnix.com/)** | **[Front-End Developer](https://jobr.pro/job/37400984/front-end-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Feb 04 |
 | **[Icelandair](https://www.icelandair.com/)** | **[Full Stack Developer — Live Ops](https://jobr.pro/job/37397813/full-stack-developer-live-ops?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hafnarfjörður | On Site | Feb 04 |
 | **[Numentica](https://www.numentica.com/)** | **[IDMC Developer offshore](https://jobr.pro/job/37396441/idmc-developer-offshore?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Feb 04 |
@@ -59,10 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Oracle](https://www.oracle.com/)** | **[Oracle Application Senior Developer/Implementor (Oracle PLSQL, Forms, Java)](https://jobr.pro/job/37390013/oracle-application-senior-developerimplementor-oracle-plsql-forms-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Feb 04 |
 | **[askblue](https://askblue.com)** | **[.NET Developer](https://jobr.pro/job/37407424/net-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remoto, Remoto | Remote | Feb 04 |
 | **[Tele2 Sweden AB](https://www.tele2.com/)** | **[Java Developer Product & Loyalty](https://jobr.pro/job/37403731/java-developer-product-loyalty?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kista | On Site | Feb 04 |
-| **[Ascom](https://www.ascom.com)** | **[Full Stack Developer](https://jobr.pro/job/37380745/full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Scandicci, Italy | On Site | Feb 04 |
-| **[Ford Motor Company](https://corporate.ford.com/)** | **[Cloud Network Developer](https://jobr.pro/job/37381933/cloud-network-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | On Site | Feb 04 |
-| **[Ascom](https://www.ascom.com)** | **[Frontend Developer](https://jobr.pro/job/37380746/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Scandicci, Italy | On Site | Feb 04 |
-| **[Sedin Technologies](https://sedintechnologies.com/)** | **[PL/SQL Developer](https://jobr.pro/job/37397717/plsql-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tamil Nadu, Chennai, India | On Site | Feb 04 |
 
 ---
 
