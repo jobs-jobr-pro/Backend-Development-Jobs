@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Feb 05, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Feb 05, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TechMagic](https://www.techmagic.co)** | **[Senior Full-stack (Next.js) developer](https://jobr.pro/job/37500664/senior-full-stack-nextjs-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | remote, Ukraine (Remote) | Remote | Feb 05 |
+| **[BasharSoft](https://basharsoft.com/)** | **[Senior GIS Developer \| Saudi Arabia](https://jobr.pro/job/37500465/senior-gis-developer-saudi-arabia?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Riyadh, Saudi Arabia | On Site | Feb 05 |
+| **[World Wide Technology](https://www.wwt.com/)** | **[Sr. Full Stack Developer](https://jobr.pro/job/37500139/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - Nationwide, United States | Remote | Feb 05 |
 | **[ENCAMINA](https://www.encamina.com/)** | **[Cloud Solutions Developer](https://jobr.pro/job/37493190/cloud-solutions-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (28009, Madrid, MD, España) | On Site | Feb 05 |
 | **[Overwolf](https://www.overwolf.com/)** | **[Developer Relations Manager](https://jobr.pro/job/37490832/developer-relations-manager?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Israel, IL | On Site | Feb 05 |
 | **[proteanTecs](https://www.proteantecs.com/)** | **[Fronetend Developer](https://jobr.pro/job/37490267/fronetend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Haifa, Haifa District, IL | On Site | Feb 05 |
@@ -52,6 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zensar](https://www.zensar.com/)** | **[AES - DE- Python Backend Engineer](https://jobr.pro/job/37474718/aes-de-python-backend-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Gurgaon, Haryana, India | On Site | Feb 05 |
 | **[Devexperts](https://devexperts.com)** | **[Backend Developer](https://jobr.pro/job/37478803/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tbilisi, Tbilisi, Georgia | On Site | Feb 05 |
 | **[AllCloud](https://allcloud.io/)** | **[Backend Developer Generative AI](https://jobr.pro/job/37490994/backend-developer-generative-ai?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | București, Municipiul București, RO | On Site | Feb 05 |
+| **[Waterschap De Dommel](https://www.dommel.nl/)** | **[Developer](https://jobr.pro/job/37499043/developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Boxtel | On Site | Feb 05 |
 | **[maxon](https://www.maxongroup.com/)** | **[Firmware Developer – Motion Control for Robotic Joints](https://jobr.pro/job/37466110/firmware-developer-motion-control-for-robotic-joints?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Barcelona | On Site | Feb 05 |
 | **[Nokia](https://www.nokia.com/)** | **[Fiber Growth: Intent developer](https://jobr.pro/job/37475332/fiber-growth-intent-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgium | On Site | Feb 05 |
 | **[Nokia](https://www.nokia.com/)** | **[Fiber Growth: Host developer](https://jobr.pro/job/37475333/fiber-growth-host-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgium | On Site | Feb 05 |
@@ -59,17 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Finanztip Verbraucherinformation GmbH](https://www.finanztip.de/)** | **[PHP/Symfony Developer (all genders)](https://jobr.pro/job/37465044/phpsymfony-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | München | On Site | Feb 05 |
 | **[CrowdFarming](https://www.crowdfarming.com/)** | **[PHP Developer](https://jobr.pro/job/37472055/php-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Madrid, Spain | On Site | Feb 05 |
 | **[Interactivated Solutions](https://interactivated.me)** | **[Senior Full-Stack Developer (AngularJS / Angular / Node.js)](https://jobr.pro/job/37464050/senior-full-stack-developer-angularjs-angular-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Netherlands - Remote | Remote | Feb 05 |
-| **[Stantec](https://www.stantec.com/)** | **[Application Developer (Oracle EBS)](https://jobr.pro/job/37487329/application-developer-oracle-ebs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, Maharashtra, India | On Site | Feb 05 |
-| **[Fadata](https://fadata.eu/)** | **[Senior Software Developer](https://jobr.pro/job/37464941/senior-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hybrid Madrid | Remote | Feb 05 |
-| **[Fadata](https://fadata.eu/)** | **[Junior Software Developer](https://jobr.pro/job/37464940/junior-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hybrid Madrid | Remote | Feb 05 |
-| **[Emerson](https://www.emerson.com/)** | **[AI Developer](https://jobr.pro/job/37472745/ai-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | NOIDA, UTTAR PRADESH, India | On Site | Feb 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 37 companies | Avg salary: 170k  
+**Current Stats:** 50 jobs | 14% remote | 38 companies | Avg salary: 146k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, java, api, database, microservices  
+**Trending Skills:** python, nodejs, java, api, database  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
