@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend developer Jobs 2026
 
-<sub><small>Last updated: Feb 06, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Feb 06, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Backend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,9 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Boost inc](https://www.boostinc.com/)** | **[Senior Backend Developer (Python / Django)](https://jobr.pro/job/37514829/senior-backend-developer-python-django?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote, Portugal (Remote) | Remote | Feb 06 |
+| **[Applaudo Studios](https://applaudostudios.com)** | **[Rust Developer](https://jobr.pro/job/37514604/rust-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brasília, DF, Brazil | On Site | Feb 05 |
+| **[Applaudo Studios](https://applaudostudios.com)** | **[Fullstack Developer (Node.js + React + AWS)](https://jobr.pro/job/37514135/fullstack-developer-nodejs-react-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Callao Region, Peru | Remote | Feb 05 |
+| **[Bosch Group](https://www.bosch.com)** | **[Azure Power BI Developer](https://jobr.pro/job/37514142/azure-power-bi-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | telengana, India | On Site | Feb 05 |
+| **[Bosch Group](https://www.bosch.com)** | **[AI Backend Automation Lead](https://jobr.pro/job/37514123/ai-backend-automation-lead?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | telengana, India | On Site | Feb 05 |
 | **[TechMagic](https://www.techmagic.co)** | **[Senior Full-stack (Next.js) developer](https://jobr.pro/job/37500664/senior-full-stack-nextjs-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | remote, Ukraine (Remote) | Remote | Feb 05 |
 | **[BasharSoft](https://basharsoft.com/)** | **[Senior GIS Developer \| Saudi Arabia](https://jobr.pro/job/37500465/senior-gis-developer-saudi-arabia?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Riyadh, Saudi Arabia | On Site | Feb 05 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[Sr. Full Stack Developer](https://jobr.pro/job/37500139/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote - Nationwide, United States | Remote | Feb 05 |
+| **[Scalable GmbH](https://de.scalable.capital)** | **[Python Engineer - Backend and Cloud DevOps (m/f/x)](https://jobr.pro/job/37514210/python-engineer-backend-and-cloud-devops-mfx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | München, BY, Germany | On Site | Feb 05 |
 | **[ENCAMINA](https://www.encamina.com/)** | **[Cloud Solutions Developer](https://jobr.pro/job/37493190/cloud-solutions-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Híbrido (28009, Madrid, MD, España) | On Site | Feb 05 |
 | **[Overwolf](https://www.overwolf.com/)** | **[Developer Relations Manager](https://jobr.pro/job/37490832/developer-relations-manager?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ramat Gan, Israel, IL | On Site | Feb 05 |
 | **[proteanTecs](https://www.proteantecs.com/)** | **[Fronetend Developer](https://jobr.pro/job/37490267/fronetend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Haifa, Haifa District, IL | On Site | Feb 05 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AllCloud](https://allcloud.io/)** | **[Backend Developer Generative AI](https://jobr.pro/job/37490994/backend-developer-generative-ai?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | București, Municipiul București, RO | On Site | Feb 05 |
 | **[Waterschap De Dommel](https://www.dommel.nl/)** | **[Developer](https://jobr.pro/job/37499043/developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Boxtel | On Site | Feb 05 |
 | **[maxon](https://www.maxongroup.com/)** | **[Firmware Developer – Motion Control for Robotic Joints](https://jobr.pro/job/37466110/firmware-developer-motion-control-for-robotic-joints?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Barcelona | On Site | Feb 05 |
-| **[Nokia](https://www.nokia.com/)** | **[Fiber Growth: Intent developer](https://jobr.pro/job/37475332/fiber-growth-intent-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgium | On Site | Feb 05 |
-| **[Nokia](https://www.nokia.com/)** | **[Fiber Growth: Host developer](https://jobr.pro/job/37475333/fiber-growth-host-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgium | On Site | Feb 05 |
-| **[Resideo](https://www.resideo.com/)** | **[Senior Flutter Mobile Application Developer](https://jobr.pro/job/37488535/senior-flutter-mobile-application-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | BANGALORE METROPOLITAN AREA, KARNATAKA, India | On Site | Feb 05 |
-| **[Finanztip Verbraucherinformation GmbH](https://www.finanztip.de/)** | **[PHP/Symfony Developer (all genders)](https://jobr.pro/job/37465044/phpsymfony-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | München | On Site | Feb 05 |
-| **[CrowdFarming](https://www.crowdfarming.com/)** | **[PHP Developer](https://jobr.pro/job/37472055/php-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Madrid, Spain | On Site | Feb 05 |
-| **[Interactivated Solutions](https://interactivated.me)** | **[Senior Full-Stack Developer (AngularJS / Angular / Node.js)](https://jobr.pro/job/37464050/senior-full-stack-developer-angularjs-angular-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Netherlands - Remote | Remote | Feb 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 38 companies | Avg salary: 146k  
+**Current Stats:** 50 jobs | 16% remote | 37 companies | Avg salary: 146k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, nodejs, java, api, database  
