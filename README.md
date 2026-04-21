@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Apr 20, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 21, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/40440720/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai City Corporation, India | On Site | Apr 20 |
+| **[ATG](https://omatg.se/)** | **[Senior Backend Developer – Token Services](https://jobr.pro/job/40442430/senior-backend-developer-token-services?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bromma | On Site | Apr 20 |
+| **[Morgan Stanley](https://www.morganstanley.com/)** | **[Backend Developer - Director - Software Engineer](https://jobr.pro/job/40446777/backend-developer-director-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | RMZ Ecoworld - Campus 6A, India | On Site | Apr 20 |
+| **[Brevan Howard Asset Management](https://www.brevanhoward.com/)** | **[Senior Backend Developer](https://jobr.pro/job/40442446/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore, India | On Site | Apr 20 |
+| **[AIA](https://www.aia.com/)** | **[Senior Analyst, Backend Developer](https://jobr.pro/job/40443267/senior-analyst-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Apr 20 |
+| **[CBC/Radio-Canada](https://cbc.radio-canada.ca/)** | **[Senior Backend Developer, Analytics Pipeline](https://jobr.pro/job/40447996/senior-backend-developer-analytics-pipeline?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto (36.25), Canada | On Site | Apr 20 |
+| **[AIA](https://www.aia.com/)** | **[Assistant Manager / Manager, Backend Developer](https://jobr.pro/job/40443266/assistant-manager-manager-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Apr 20 |
+| **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer (Hybrid)](https://jobr.pro/job/40442461/java-backend-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TOWER B, EON FREE ZONE II, India | Remote | Apr 20 |
+| **[Citi](https://www.citigroup.com/)** | **[Senior Java backend developer - Assistant Vice President](https://jobr.pro/job/40443264/senior-java-backend-developer-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Apr 20 |
+| **[Citi](https://www.citigroup.com/)** | **[Python GenAI Backend Developer](https://jobr.pro/job/40443265/python-genai-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Apr 20 |
 | **[Praktis](https://www.praktis.co/)** | **[Backend Developer](https://jobr.pro/job/40439098/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Jakarta Selatan, Jakarta, Indonesia | On Site | Apr 19 |
 | **[CheckWatt](https://www.checkwatt.se/)** | **[Senior Backend Developer to CheckWatt 🔋](https://jobr.pro/job/40438504/senior-backend-developer-to-checkwatt-?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Göteborg, Sweden | On Site | Apr 19 |
 | **[Simera](https://simera.io/)** | **[Backend Developer - Interfell (Remote)](https://jobr.pro/job/40426889/backend-developer-interfell-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | San Francisco, United States of America | Remote | Apr 18 |
@@ -26,15 +36,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[IONOS](https://www.ionos.com/)** | **[Working Student (f/m/d) - Backend Developer](https://jobr.pro/job/40421138/working-student-fmd-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Johanna-Dachs-Straße 55, 93055 Regensburg | On Site | Apr 17 |
 | **[IONOS](https://www.ionos.de/)** | **[Werkstudent (w/m/d) - Backend Developer](https://jobr.pro/job/40420254/werkstudent-wmd-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Regensburg | On Site | Apr 17 |
 | **[StoneX Group](https://www.stonex.com/)** | **[Intern - Java Backend Developer](https://jobr.pro/job/40422803/intern-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kraków, Poland | On Site | Apr 17 |
-| **[NTT DATA Romania](https://nttdata.ro)** | **[Java Backend Developer with Microservices Experience](https://jobr.pro/job/40422820/java-backend-developer-with-microservices-experience?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sibiu, RO | On Site | Apr 17 |
-| **[Babel](https://babelgroup.com/)** | **[Backend Developer Semi Senior \| Java + AWS + OpenShift](https://jobr.pro/job/40423199/backend-developer-semi-senior-java-aws-openshift?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | SANTIAGO DE CHILE, Chile | Remote | Apr 17 |
-| **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer](https://jobr.pro/job/40414576/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TRIL INFO PARK, LITTLEWOOD TOWER, India | On Site | Apr 17 |
-| **[Giesecke + Devrient GmbH](https://www.gi-de.com)** | **[Junior Backend Developer](https://jobr.pro/job/40420271/junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sant Joan Despí (BCN), ES | On Site | Apr 17 |
-| **[Hitachi](https://www.hitachi.com/)** | **[Backend Developer (Node JS. ) -58420](https://jobr.pro/job/40420289/backend-developer-node-js-58420?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | (DEAI DS) TH Bangkok, Thailand | On Site | Apr 17 |
 | **[Solventum](https://www.solventum.com/)** | **[Backend Developer](https://jobr.pro/job/40414580/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | IN, Bangalore Kar, India | On Site | Apr 17 |
+| **[Babel](https://babelgroup.com/)** | **[Backend Developer Semi Senior \| Java + AWS + OpenShift](https://jobr.pro/job/40423199/backend-developer-semi-senior-java-aws-openshift?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | SANTIAGO DE CHILE, Chile | Remote | Apr 17 |
+| **[NTT DATA Romania](https://nttdata.ro)** | **[Java Backend Developer with Microservices Experience](https://jobr.pro/job/40422820/java-backend-developer-with-microservices-experience?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sibiu, RO | On Site | Apr 17 |
+| **[Hitachi](https://www.hitachi.com/)** | **[Backend Developer (Node JS. ) -58420](https://jobr.pro/job/40420289/backend-developer-node-js-58420?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | (DEAI DS) TH Bangkok, Thailand | On Site | Apr 17 |
+| **[Citi](https://www.citigroup.com/)** | **[Java Backend Developer](https://jobr.pro/job/40414576/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | TRIL INFO PARK, LITTLEWOOD TOWER, India | On Site | Apr 17 |
 | **[TransUnion](https://www.transunion.com/)** | **[Mid level backend developer - GCCA Remote](https://jobr.pro/job/40427658/mid-level-backend-developer-gcca-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Johannesburg, South Africa | Remote | Apr 17 |
-| **[Giesecke + Devrient GmbH](https://www.gi-de.com)** | **[Backend Developer](https://jobr.pro/job/40420272/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sant Joan Despí (BCN), ES | On Site | Apr 17 |
+| **[Giesecke + Devrient GmbH](https://www.gi-de.com)** | **[Junior Backend Developer](https://jobr.pro/job/40420271/junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sant Joan Despí (BCN), ES | On Site | Apr 17 |
 | **[SAP](https://www.sap.com/)** | **[Senior Backend Developer - Java/Kotlin at SAP Signavio FIT Collaborators (m/w/d)](https://jobr.pro/job/40422817/senior-backend-developer-javakotlin-at-sap-signavio-fit-collaborators-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, DE, 10557 | On Site | Apr 17 |
+| **[Giesecke + Devrient GmbH](https://www.gi-de.com)** | **[Backend Developer](https://jobr.pro/job/40420272/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Sant Joan Despí (BCN), ES | On Site | Apr 17 |
 | **[Encora](https://www.encora.com/)** | **[Backend Developer Senior](https://jobr.pro/job/40401185/backend-developer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Peru | On Site | Apr 16 |
 | **[Encora](https://www.encora.com/)** | **[Backend Developer](https://jobr.pro/job/40401186/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Peru | On Site | Apr 16 |
 | **[Photon](https://www.photon.com/)** | **[Backend Developer- Dallas, TX](https://jobr.pro/job/40406572/backend-developer-dallas-tx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | On Site | Apr 16 |
@@ -45,31 +55,21 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mitiga](https://mitiga.io/)** | **[Backend Developer](https://jobr.pro/job/40389095/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Apr 16 |
 | **[Veikkaus Oy](https://www.veikkaus.fi/)** | **[Backend Developer](https://jobr.pro/job/40386753/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Finland | Remote | Apr 16 |
 | **[Expleo](https://expleo.com/)** | **[Backend Developer](https://jobr.pro/job/40416592/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune, MH, India | On Site | Apr 16 |
-| **[Birlasoft](https://www.birlasoft.com)** | **[Java backend Developer](https://jobr.pro/job/40402667/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | INDIA - BENGALURU - AUTOMOTIVE, IN | On Site | Apr 16 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Jr Advanced Backend Developer](https://jobr.pro/job/40421192/jr-advanced-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico, CMX, MX, 11000 | On Site | Apr 16 |
-| **[Blue Acorn iCi](https://www.blueacornici.com)** | **[AEM Backend Developer](https://jobr.pro/job/40416598/aem-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Irving, TX | On Site | Apr 16 |
-| **[Citi](https://www.citigroup.com/)** | **[Lead Backend Developer](https://jobr.pro/job/40421195/lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | 5900 HURONTARIO STREET MISSISSAUGA, Canada | On Site | Apr 16 |
-| **[Uni Systems](https://www.unisystems.com)** | **[Backend Developer](https://jobr.pro/job/40386185/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brussels, Brussels, Belgium | On Site | Apr 16 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Ssr Backend Developer](https://jobr.pro/job/40421191/ssr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Miguel Hidalgo, MEX, MX, 11000 | On Site | Apr 16 |
+| **[Citi](https://www.citigroup.com/)** | **[Lead Backend Developer](https://jobr.pro/job/40421196/lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | 5900 HURONTARIO STREET MISSISSAUGA, Canada | On Site | Apr 16 |
 | **[Betway](https://www.betway.com/)** | **[Backend Developer](https://jobr.pro/job/40389132/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Johannesburg, South Africa | On Site | Apr 16 |
 | **[Clickatell](https://www.clickatell.com/)** | **[Senior Backend Developer (AI Native)](https://jobr.pro/job/40421194/senior-backend-developer-ai-native?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Cape Town, Western Cape, South Africa | On Site | Apr 16 |
+| **[Birlasoft](https://www.birlasoft.com)** | **[Java Backend developer](https://jobr.pro/job/40402668/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | INDIA - BENGALURU - AUTOMOTIVE, IN | On Site | Apr 16 |
 | **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Backend Developer (JavaScript)](https://jobr.pro/job/40392647/backend-developer-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Krakow, Poland | On Site | Apr 16 |
-| **[Capco](https://www.capco.com/)** | **[Java Backend Developer with Azure](https://jobr.pro/job/40383685/java-backend-developer-with-azure?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Pune | On Site | Apr 15 |
-| **[Buildots](https://buildots.com/)** | **[*Senior Backend Developer](https://jobr.pro/job/40370905/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel-Aviv, Israel, IL | On Site | Apr 15 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[AI Backend Developer (m/w/d)](https://jobr.pro/job/40380052/ai-backend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | bundesweit, Germany | Remote | Apr 15 |
-| **[AccorCorpo](https://careers.accor.com)** | **[Senior Java Backend Developer F/H/X](https://jobr.pro/job/40383707/senior-java-backend-developer-fhx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris, IDF, France | Remote | Apr 15 |
-| **[AccorCorpo](https://careers.accor.com)** | **[Senior Java Backend Developer F/M/X](https://jobr.pro/job/40383708/senior-java-backend-developer-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris, IDF, France | On Site | Apr 15 |
-| **[Sidelines Group](https://sidelinesgroup.com/)** | **[Backend Developer](https://jobr.pro/job/40370906/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Tel Aviv, Israel | On Site | Apr 15 |
-| **[MigrationIT](https://www.migrationit.com/)** | **[Backend Developer](https://jobr.pro/job/40367409/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New Cairo, Egypt | On Site | Apr 15 |
-| **[Monks](https://monks.com)** | **[PHP Backend Developer](https://jobr.pro/job/40374168/php-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hilversum | On Site | Apr 15 |
-| **[Nebius](https://nebius.com/)** | **[Senior Backend Developer (Token Factory)](https://jobr.pro/job/40383719/senior-backend-developer-token-factory?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Prague, Czech Republic; Remote - Europe | Remote | Apr 15 |
+| **[Blue Acorn iCi](https://www.blueacornici.com)** | **[AEM Backend Developer](https://jobr.pro/job/40416598/aem-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Irving, TX | On Site | Apr 16 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Jr Advanced Backend Developer](https://jobr.pro/job/40421192/jr-advanced-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico, CMX, MX, 11000 | On Site | Apr 16 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Ssr Backend Developer](https://jobr.pro/job/40421191/ssr-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Miguel Hidalgo, MEX, MX, 11000 | On Site | Apr 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 42 companies | Avg salary: 112k  
+**Current Stats:** 50 jobs | 18% remote | 39 companies | Avg salary: 112k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** java, microservices  
+**Trending Skills:** python, java, microservices  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
