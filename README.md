@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: May 12, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 13, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[JioStar](https://jiostar.com)** | **[Senior Software Development Engineer (Backend) - Viewer Experience](https://jobr.pro/job/40755009/senior-software-development-engineer-backend-viewer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru | On Site | May 13 |
+| **[CI&T](https://ciandt.com)** | **[\[Job - 29172\] Mid Level/ Senior Backend Developer Java , Brasil (Exclusiva p/ pessoas com Deficiencia)](https://jobr.pro/job/40745403/job-29172-mid-level-senior-backend-developer-java-brasil-exclusiva-p-pessoas-com-deficiencia?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 12 |
+| **[CI&T](https://ciandt.com)** | **[\[Job - 29172\] Mid Level/ Senior Backend Developer Java , Brasil (Exclusiva p/ Mulheres)](https://jobr.pro/job/40745402/job-29172-mid-level-senior-backend-developer-java-brasil-exclusiva-p-mulheres?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 12 |
+| **[CI&T](https://ciandt.com)** | **[\[Job - 29172\] Mid Level/ Senior Backend Developer Java , Brasil](https://jobr.pro/job/40745401/job-29172-mid-level-senior-backend-developer-java-brasil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 12 |
+| **[Gramian]()** | **[Backend Developer (.NET + AWS)](https://jobr.pro/job/40750947/backend-developer-net-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Morocco | Remote | May 12 |
+| **[CI&T](https://ciandt.com)** | **[\[Job 29283\] SR Python Backend Developer Backend Python Sr](https://jobr.pro/job/40740744/job-29283-sr-python-backend-developer-backend-python-sr?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 11 |
 | **[VML MAP](https://mapquest.com)** | **[Backend Developer](https://jobr.pro/job/40722531/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New Delhi, Delhi, India | On Site | May 11 |
 | **[VML Enterprise Solutions]()** | **[Backend Developer](https://jobr.pro/job/40733739/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New Delhi, Delhi, India | On Site | May 11 |
 | **[Intellectsoft](https://intellectsoft.io)** | **[Java Backend Developer (IR-520)](https://jobr.pro/job/40738284/java-backend-developer-ir-520?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Azerbaijan | Remote | May 11 |
@@ -23,14 +29,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CI&T - Technology Transformation Specialists](https://ciandt.com)** | **[\[Job - 29229\] Mid Level Backend Developer Golang, Brasil](https://jobr.pro/job/40665319/job-29229-mid-level-backend-developer-golang-brasil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | May 07 |
 | **[Networking Solutions: Discover Cloud Services](https://extremenetworks.com)** | **[STAFF SW SYSTEMS ENGINEER 10270 - Backend Java Developer](https://jobr.pro/job/40664128/staff-sw-systems-engineer-10270-backend-java-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore | On Site | May 07 |
 | **[Reolink](https://reolink.com)** | **[Web & Application Developer (Backend Engineer)](https://jobr.pro/job/40653151/web-application-developer-backend-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore | On Site | May 07 |
-| **[Appfire](https://appfire.com)** | **[Senior Backend Java Developer](https://jobr.pro/job/40682722/senior-backend-java-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland | On Site | May 06 |
 
 ---
 
-**Current Stats:** 11 jobs | 27% remote | 11 companies | Avg salary: 192k  
+**Current Stats:** 16 jobs | 50% remote | 13 companies | Avg salary: 192k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** java  
+**Trending Skills:** python, java  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
