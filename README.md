@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: May 17, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 18, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[redbee]()** | **[SR Android Developer + Java Backend Developer](https://jobr.pro/job/40827661/sr-android-developer-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina | Remote | May 15 |
+| **[redbee]()** | **[SR iOS Developer + Java Backend Developer](https://jobr.pro/job/40827663/sr-ios-developer-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina | Remote | May 15 |
+| **[redbee]()** | **[SR Backend Java Developer + Mobile (Android/iOS)](https://jobr.pro/job/40827662/sr-backend-java-developer-mobile-androidios?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina | Remote | May 15 |
 | **[Agile Defense]()** | **[Full Stack Developer (Backend Emphasis)](https://jobr.pro/job/40806827/full-stack-developer-backend-emphasis?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | May 15 |
 | **[Localcoin]()** | **[Java Backend Developer](https://jobr.pro/job/40814233/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada | On Site | May 15 |
 | **[JioStar]()** | **[Senior Staff Software Development Engineer - Video Insights (Backend)](https://jobr.pro/job/40800656/senior-staff-software-development-engineer-video-insights-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru | On Site | May 15 |
@@ -41,14 +44,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CI&T]()** | **[\[Job - 29172\] Mid Level/ Senior Backend Developer Java , Brasil](https://jobr.pro/job/40745401/job-29172-mid-level-senior-backend-developer-java-brasil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 12 |
 | **[Celara]()** | **[Backend Developer SR (AM - BE - 20260512)](https://jobr.pro/job/40796608/backend-developer-sr-am-be-20260512?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires | On Site | May 12 |
 | **[Gramian]()** | **[Backend Developer (.NET + AWS)](https://jobr.pro/job/40750947/backend-developer-net-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Morocco | Remote | May 12 |
-| **[CI&T]()** | **[\[Job 29283\] SR Python Backend Developer Backend Python Sr](https://jobr.pro/job/40740744/job-29283-sr-python-backend-developer-backend-python-sr?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 11 |
-| **[VML MAP]()** | **[Backend Developer](https://jobr.pro/job/40722531/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New Delhi, Delhi, India | On Site | May 11 |
-| **[VML Enterprise Solutions]()** | **[Backend Developer](https://jobr.pro/job/40733739/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New Delhi, Delhi, India | On Site | May 11 |
-| **[Intellectsoft]()** | **[Java Backend Developer (IR-520)](https://jobr.pro/job/40738284/java-backend-developer-ir-520?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Azerbaijan | Remote | May 11 |
 
 ---
 
-**Current Stats:** 32 jobs | 63% remote | 17 companies | Avg salary: 1.2500009166675834e+67k  
+**Current Stats:** 31 jobs | 68% remote | 15 companies | Avg salary: 1.2500009166675834e+67k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
