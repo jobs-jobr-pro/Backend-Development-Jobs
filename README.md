@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: May 18, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 19, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Encora]()** | **[Mid Backend Developer (.NET)](https://jobr.pro/job/40838372/mid-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Costa Rica | On Site | May 18 |
+| **[Qode]()** | **[Java Backend Developer](https://jobr.pro/job/40839766/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Karnataka, Karnataka, India | On Site | May 18 |
 | **[redbee]()** | **[SR Android Developer + Java Backend Developer](https://jobr.pro/job/40827661/sr-android-developer-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina | Remote | May 15 |
 | **[redbee]()** | **[SR iOS Developer + Java Backend Developer](https://jobr.pro/job/40827663/sr-ios-developer-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina | Remote | May 15 |
 | **[redbee]()** | **[SR Backend Java Developer + Mobile (Android/iOS)](https://jobr.pro/job/40827662/sr-backend-java-developer-mobile-androidios?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina | Remote | May 15 |
@@ -43,11 +45,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CI&T]()** | **[\[Job - 29172\] Mid Level/ Senior Backend Developer Java , Brasil (Exclusiva p/ Mulheres)](https://jobr.pro/job/40745402/job-29172-mid-level-senior-backend-developer-java-brasil-exclusiva-p-mulheres?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 12 |
 | **[CI&T]()** | **[\[Job - 29172\] Mid Level/ Senior Backend Developer Java , Brasil](https://jobr.pro/job/40745401/job-29172-mid-level-senior-backend-developer-java-brasil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 12 |
 | **[Celara]()** | **[Backend Developer SR (AM - BE - 20260512)](https://jobr.pro/job/40796608/backend-developer-sr-am-be-20260512?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires | On Site | May 12 |
-| **[Gramian]()** | **[Backend Developer (.NET + AWS)](https://jobr.pro/job/40750947/backend-developer-net-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Morocco | Remote | May 12 |
 
 ---
 
-**Current Stats:** 31 jobs | 68% remote | 15 companies | Avg salary: 1.2500009166675834e+67k  
+**Current Stats:** 32 jobs | 63% remote | 16 companies | Avg salary: 1.2500009166675834e+67k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
