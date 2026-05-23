@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: May 22, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 23, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Reolink](https://reolink.com)** | **[Java Software Engineer \| Backend Development](https://jobr.pro/job/40898267/java-software-engineer-backend-development?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore | On Site | May 22 |
+| **[Charger Logistics Inc](http://www.chargerlogistics.com)** | **[Backend Developer- .Net core](https://jobr.pro/job/40907739/backend-developer-net-core?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brampton, Ontario, Canada | On Site | May 22 |
 | **[ABBYY](https://abbyy.com)** | **[Staff Backend Developer](https://jobr.pro/job/40895849/staff-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest, Hungary (Hybrid) | On Site | May 21 |
 | **[ABBYY](https://abbyy.com)** | **[Senior Backend Developer](https://jobr.pro/job/40895846/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest, Hungary (Hybrid) | On Site | May 21 |
 | **[ABBYY](https://abbyy.com)** | **[Backend Developer](https://jobr.pro/job/40895841/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest, Hungary (Hybrid) | On Site | May 21 |
@@ -32,15 +33,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Smart Working Solutions]()** | **[Senior Backend Developer - C# and .NET 10 (Remote, Full-Time) \[AS239\]](https://jobr.pro/job/40858411/senior-backend-developer-c-and-net-10-remote-full-time-as239?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | May 19 |
 | **[Encora](https://encora.com)** | **[Mid Backend Developer (.NET)](https://jobr.pro/job/40838372/mid-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Costa Rica | On Site | May 18 |
 | **[Qode](http://qode.world)** | **[Java Backend Developer](https://jobr.pro/job/40839766/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Karnataka, Karnataka, India | On Site | May 18 |
-| **[redbee](https://redbeetinteractive.com)** | **[SR Android Developer + Java Backend Developer](https://jobr.pro/job/40827661/sr-android-developer-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina | Remote | May 15 |
-| **[redbee](https://redbeetinteractive.com)** | **[SR iOS Developer + Java Backend Developer](https://jobr.pro/job/40827663/sr-ios-developer-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina | Remote | May 15 |
-| **[redbee](https://redbeetinteractive.com)** | **[SR Backend Java Developer + Mobile (Android/iOS)](https://jobr.pro/job/40827662/sr-backend-java-developer-mobile-androidios?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina | Remote | May 15 |
-| **[Agile Defense](https://agiledefense.com)** | **[Full Stack Developer (Backend Emphasis)](https://jobr.pro/job/40806827/full-stack-developer-backend-emphasis?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | May 15 |
-| **[Localcoin](https://localcoinswap.com)** | **[Java Backend Developer](https://jobr.pro/job/40814233/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada | On Site | May 15 |
 
 ---
 
-**Current Stats:** 24 jobs | 63% remote | 16 companies | Avg salary: 2.60000260000429e+25k  
+**Current Stats:** 20 jobs | 55% remote | 14 companies | Avg salary: 32500032500053623000k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** java  
