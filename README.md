@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: May 23, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CapIntel](https://capintel.com)** | **[Senior Backend Developer, Data Team](https://jobr.pro/job/40915318/senior-backend-developer-data-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, QC (Remote); Ottawa, ON (Remote); Toronto, ON (Remote); Waterloo, ON (Remote) | Remote | May 22 |
 | **[Reolink](https://reolink.com)** | **[Java Software Engineer \| Backend Development](https://jobr.pro/job/40898267/java-software-engineer-backend-development?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore | On Site | May 22 |
 | **[Charger Logistics Inc](http://www.chargerlogistics.com)** | **[Backend Developer- .Net core](https://jobr.pro/job/40907739/backend-developer-net-core?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brampton, Ontario, Canada | On Site | May 22 |
 | **[ABBYY](https://abbyy.com)** | **[Staff Backend Developer](https://jobr.pro/job/40895849/staff-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest, Hungary (Hybrid) | On Site | May 21 |
@@ -36,7 +37,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 20 jobs | 55% remote | 14 companies | Avg salary: 32500032500053623000k  
+**Current Stats:** 21 jobs | 57% remote | 15 companies | Avg salary: 3.0000026000026e+25k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** java  
