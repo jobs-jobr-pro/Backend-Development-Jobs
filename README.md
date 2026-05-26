@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: May 25, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 26, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CI&T](https://ciandt.com)** | **[\[Job-29558\] Mid-level Java/Kotlin Backend Developer, Brazil](https://jobr.pro/job/40929554/job-29558-mid-level-javakotlin-backend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 25 |
+| **[CI&T](https://ciandt.com)** | **[\[Job - 29503\] Backend Developer (Java / Spring Boot), Brazil](https://jobr.pro/job/40927337/job-29503-backend-developer-java-spring-boot-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 25 |
+| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (France)](https://jobr.pro/job/40926617/backend-developer-ai-trainer-france?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt | Remote | May 24 |
+| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Egypt)](https://jobr.pro/job/40926631/backend-developer-ai-trainer-egypt?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt | Remote | May 24 |
+| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (India)](https://jobr.pro/job/40926624/backend-developer-ai-trainer-india?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | May 24 |
 | **[CapIntel](https://capintel.com)** | **[Senior Backend Developer, Data Team](https://jobr.pro/job/40915318/senior-backend-developer-data-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, QC (Remote); Ottawa, ON (Remote); Toronto, ON (Remote); Waterloo, ON (Remote) | Remote | May 22 |
 | **[Reolink](https://reolink.com)** | **[Java Software Engineer \| Backend Development](https://jobr.pro/job/40898267/java-software-engineer-backend-development?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore | On Site | May 22 |
 | **[Charger Logistics Inc](http://www.chargerlogistics.com)** | **[Backend Developer- .Net core](https://jobr.pro/job/40907739/backend-developer-net-core?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brampton, Ontario, Canada | On Site | May 22 |
@@ -33,13 +38,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CI&T](https://ciandt.com)** | **[\[Job - 29467\] Senior Backend Developer, Brazil](https://jobr.pro/job/40855268/job-29467-senior-backend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 19 |
 | **[NEORIS](https://www.neoris.com)** | **[Backend APX Developer Semisenior](https://jobr.pro/job/40923788/backend-apx-developer-semisenior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Peru | On Site | May 19 |
 | **[Smart Working Solutions]()** | **[Senior Backend Developer - C# and .NET 10 (Remote, Full-Time) \[AS239\]](https://jobr.pro/job/40858411/senior-backend-developer-c-and-net-10-remote-full-time-as239?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | May 19 |
-| **[NEORIS](https://www.neoris.com)** | **[Backend Developer Junior](https://jobr.pro/job/40923789/backend-developer-junior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Peru | On Site | May 18 |
-| **[NEORIS](https://www.neoris.com)** | **[Backend Developer Semisenior](https://jobr.pro/job/40923790/backend-developer-semisenior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Peru | On Site | May 18 |
-| **[Encora](https://encora.com)** | **[Mid Backend Developer (.NET)](https://jobr.pro/job/40838372/mid-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Costa Rica | On Site | May 18 |
 
 ---
 
-**Current Stats:** 23 jobs | 52% remote | 15 companies | Avg salary: 3.0000026000026e+25k  
+**Current Stats:** 25 jobs | 68% remote | 15 companies | Avg salary: 1.3000091000910002e+41k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** java  
