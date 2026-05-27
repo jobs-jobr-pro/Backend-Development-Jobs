@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: May 26, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 27, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,8 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Resilient Co](https://traumaresilientcommunities.org)** | **[Lead Backend Developer](https://jobr.pro/job/40944877/lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina | Remote | May 26 |
+| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (UK)](https://jobr.pro/job/40944608/backend-developer-ai-trainer-uk?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United Kingdom | Remote | May 26 |
+| **[V4C.ai](https://www.v4c.com)** | **[Senior Backend Developer](https://jobr.pro/job/40939341/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | May 26 |
 | **[CI&T](https://ciandt.com)** | **[\[Job-29558\] Mid-level Java/Kotlin Backend Developer, Brazil](https://jobr.pro/job/40929554/job-29558-mid-level-javakotlin-backend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 25 |
 | **[CI&T](https://ciandt.com)** | **[\[Job - 29503\] Backend Developer (Java / Spring Boot), Brazil](https://jobr.pro/job/40927337/job-29503-backend-developer-java-spring-boot-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 25 |
+| **[Spotify](https://spotify.com)** | **[Senior Backend Engineer - Platform Developer Experience](https://jobr.pro/job/40936716/senior-backend-engineer-platform-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | London | On Site | May 25 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (France)](https://jobr.pro/job/40926617/backend-developer-ai-trainer-france?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt | Remote | May 24 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Egypt)](https://jobr.pro/job/40926631/backend-developer-ai-trainer-egypt?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt | Remote | May 24 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (India)](https://jobr.pro/job/40926624/backend-developer-ai-trainer-india?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | May 24 |
@@ -32,16 +36,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Varicent](https://varicent.com)** | **[Staff Backend Developer](https://jobr.pro/job/40876005/staff-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada, Remote | Remote | May 20 |
 | **[Varicent](https://varicent.com)** | **[Lead Backend Developer](https://jobr.pro/job/40876002/lead-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada, Remote | Remote | May 20 |
 | **[Optro](https://optro.ai)** | **[Senior Software Engineer II - Backend Developer Experience (Remote USA)](https://jobr.pro/job/40878021/senior-software-engineer-ii-backend-developer-experience-remote-usa?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | May 20 |
-| **[Resource Innovations](https://www.resource-innovations.com/)** | **[Magento Backend Developer](https://jobr.pro/job/40879586/magento-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | May 20 |
-| **[Zap](https://www.thinkzap.co.uk/)** | **[Backend WordPress Developer (Remote - UK Only)](https://jobr.pro/job/40867674/backend-wordpress-developer-remote-uk-only?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United Kingdom | Remote | May 20 |
-| **[CI&T](https://ciandt.com)** | **[\[Job - 29467\] Senior Backend Developer \| Vaga Afirmativa para Mulheres, Brazil](https://jobr.pro/job/40855267/job-29467-senior-backend-developer-vaga-afirmativa-para-mulheres-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 19 |
-| **[CI&T](https://ciandt.com)** | **[\[Job - 29467\] Senior Backend Developer, Brazil](https://jobr.pro/job/40855268/job-29467-senior-backend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 19 |
-| **[NEORIS](https://www.neoris.com)** | **[Backend APX Developer Semisenior](https://jobr.pro/job/40923788/backend-apx-developer-semisenior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Peru | On Site | May 19 |
-| **[Smart Working Solutions]()** | **[Senior Backend Developer - C# and .NET 10 (Remote, Full-Time) \[AS239\]](https://jobr.pro/job/40858411/senior-backend-developer-c-and-net-10-remote-full-time-as239?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | May 19 |
 
 ---
 
-**Current Stats:** 25 jobs | 68% remote | 15 companies | Avg salary: 1.3000091000910002e+41k  
+**Current Stats:** 23 jobs | 65% remote | 15 companies | Avg salary: 9.100013000091e+40k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** java  
