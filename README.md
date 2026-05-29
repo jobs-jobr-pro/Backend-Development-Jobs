@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: May 28, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 29, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Hootsuite](https://www.hootsuite.com/)** | **[Intermediate Software Developer, Backend](https://jobr.pro/job/40966730/intermediate-software-developer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bucharest, Romania | On Site | May 28 |
+| **[Axi](https://axios.com)** | **[Senior Backend Developer](https://jobr.pro/job/40967953/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore | On Site | May 28 |
+| **[Odaseva](https://odaseva.com)** | **[Senior Backend Developer](https://jobr.pro/job/40967017/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris | On Site | May 28 |
 | **[Mindera](http://www.mindera.com)** | **[.NET Backend Developer](https://jobr.pro/job/40963166/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brașov, Brașov, Romania | On Site | May 28 |
 | **[Unity Technologies](https://unitytec.com)** | **[Développeur Sénior Backend Gestionnaire de Paquet Unity \| Senior Backend Package Manager Developer, Unity Package Manager](https://jobr.pro/job/40955377/developpeur-senior-backend-gestionnaire-de-paquet-unity-senior-backend-package-manager-developer-unity-package-manager?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Canada | On Site | May 27 |
 | **[Restaurant Supply](https://www.restaurantsupply.com/)** | **[Backend Engineer — PHP / Symfony / AI-Native Development](https://jobr.pro/job/40952222/backend-engineer-php-symfony-ai-native-development?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Europe- Remote | Remote | May 27 |
@@ -32,17 +35,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Egypt)](https://jobr.pro/job/40926631/backend-developer-ai-trainer-egypt?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt | Remote | May 24 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (India)](https://jobr.pro/job/40926624/backend-developer-ai-trainer-india?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | May 24 |
 | **[CapIntel](https://capintel.com)** | **[Senior Backend Developer, Data Team](https://jobr.pro/job/40915318/senior-backend-developer-data-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, QC (Remote); Ottawa, ON (Remote); Toronto, ON (Remote); Waterloo, ON (Remote) | Remote | May 22 |
-| **[Reolink](https://reolink.com)** | **[Java Software Engineer \| Backend Development](https://jobr.pro/job/40898267/java-software-engineer-backend-development?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore | On Site | May 22 |
-| **[Charger Logistics Inc](http://www.chargerlogistics.com)** | **[Backend Developer- .Net core](https://jobr.pro/job/40907739/backend-developer-net-core?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brampton, Ontario, Canada | On Site | May 22 |
-| **[ABBYY](https://abbyy.com)** | **[Staff Backend Developer](https://jobr.pro/job/40895849/staff-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest, Hungary (Hybrid) | On Site | May 21 |
-| **[ABBYY](https://abbyy.com)** | **[Senior Backend Developer](https://jobr.pro/job/40895846/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest, Hungary (Hybrid) | On Site | May 21 |
-| **[ABBYY](https://abbyy.com)** | **[Backend Developer](https://jobr.pro/job/40895841/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest, Hungary (Hybrid) | On Site | May 21 |
-| **[ABBYY](https://abbyy.com)** | **[Junior Backend Developer](https://jobr.pro/job/40895843/junior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest, Hungary (Hybrid) | On Site | May 21 |
-| **[Xsolla](https://xsolla.com)** | **[Senior Backend Developer (Rust / C++), 6 months Contract (open to extension)](https://jobr.pro/job/40886756/senior-backend-developer-rust-c-6-months-contract-open-to-extension?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Serbia | Remote | May 21 |
 
 ---
 
-**Current Stats:** 26 jobs | 46% remote | 17 companies | Avg salary: 1.45600208001456e+23k  
+**Current Stats:** 22 jobs | 50% remote | 16 companies | Avg salary: 1.2166788000173334e+28k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
