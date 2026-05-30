@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: May 29, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 30, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Encora](https://encora.com)** | **[Senior Backend Developer – Go / Platform](https://jobr.pro/job/40983094/senior-backend-developer-go-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bolivia | On Site | May 29 |
+| **[Charger Logistics Inc](http://www.chargerlogistics.com)** | **[Backend Developer- .Net core](https://jobr.pro/job/40985165/backend-developer-net-core?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brampton, Ontario, Canada | On Site | May 29 |
+| **[Tryzens Global](https://tryzens.com/)** | **[SFCC Backend Developer](https://jobr.pro/job/40983373/sfcc-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Thiruvananthapuram, Kerala, India | On Site | May 29 |
 | **[Hootsuite](https://www.hootsuite.com/)** | **[Intermediate Software Developer, Backend](https://jobr.pro/job/40966730/intermediate-software-developer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bucharest, Romania | On Site | May 28 |
 | **[Axi](https://axios.com)** | **[Senior Backend Developer](https://jobr.pro/job/40967953/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore | On Site | May 28 |
 | **[Odaseva](https://odaseva.com)** | **[Senior Backend Developer](https://jobr.pro/job/40967017/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris | On Site | May 28 |
@@ -34,11 +37,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (France)](https://jobr.pro/job/40926617/backend-developer-ai-trainer-france?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt | Remote | May 24 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Egypt)](https://jobr.pro/job/40926631/backend-developer-ai-trainer-egypt?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt | Remote | May 24 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (India)](https://jobr.pro/job/40926624/backend-developer-ai-trainer-india?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | May 24 |
-| **[CapIntel](https://capintel.com)** | **[Senior Backend Developer, Data Team](https://jobr.pro/job/40915318/senior-backend-developer-data-team?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, QC (Remote); Ottawa, ON (Remote); Toronto, ON (Remote); Waterloo, ON (Remote) | Remote | May 22 |
 
 ---
 
-**Current Stats:** 22 jobs | 50% remote | 16 companies | Avg salary: 1.2166788000173334e+28k  
+**Current Stats:** 24 jobs | 42% remote | 18 companies | Avg salary: 1.4600145600208e+22k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
