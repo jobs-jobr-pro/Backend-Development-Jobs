@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 01, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -33,14 +33,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[V4C.ai](https://www.v4c.com)** | **[Senior Backend Developer](https://jobr.pro/job/40939341/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United States | Remote | May 26 |
 | **[CI&T](https://ciandt.com)** | **[\[Job-29558\] Mid-level Java/Kotlin Backend Developer, Brazil](https://jobr.pro/job/40929554/job-29558-mid-level-javakotlin-backend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 25 |
 | **[CI&T](https://ciandt.com)** | **[\[Job - 29503\] Backend Developer (Java / Spring Boot), Brazil](https://jobr.pro/job/40927337/job-29503-backend-developer-java-spring-boot-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 25 |
-| **[Spotify](https://spotify.com)** | **[Senior Backend Engineer - Platform Developer Experience](https://jobr.pro/job/40936716/senior-backend-engineer-platform-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | London | On Site | May 25 |
-| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (France)](https://jobr.pro/job/40926617/backend-developer-ai-trainer-france?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt | Remote | May 24 |
-| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Egypt)](https://jobr.pro/job/40926631/backend-developer-ai-trainer-egypt?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt | Remote | May 24 |
-| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (India)](https://jobr.pro/job/40926624/backend-developer-ai-trainer-india?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | May 24 |
 
 ---
 
-**Current Stats:** 24 jobs | 42% remote | 18 companies | Avg salary: 1.4600145600208e+22k  
+**Current Stats:** 20 jobs | 35% remote | 17 companies | Avg salary: 3650036k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
