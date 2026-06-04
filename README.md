@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 03, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 04, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Coupang Internal]()** | **[Staff Backend Engineer (Developer Platform)](https://jobr.pro/job/41035806/staff-backend-engineer-developer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Seoul, South Korea | On Site | Jun 04 |
+| **[Pelmorex](https://www.pelmorex.com/en/)** | **[Software Developer (Backend) - Contract - Hybrid](https://jobr.pro/job/41036574/software-developer-backend-contract-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Oakville, Canada | On Site | Jun 03 |
+| **[CI&T](https://ciandt.com)** | **[\[Job-29616\] Senior Backend Developer (Java)](https://jobr.pro/job/41031466/job-29616-senior-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa | On Site | Jun 03 |
+| **[Robinhood](https://robinhood.com)** | **[Staff Software Developer, Backend Platform](https://jobr.pro/job/41032271/staff-software-developer-backend-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Canada | On Site | Jun 03 |
+| **[Fullscript](https://fullscript.com)** | **[Senior Developer, Backend - Developer Infrastructure](https://jobr.pro/job/41035227/senior-developer-backend-developer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ottawa, ON | Remote | Jun 03 |
+| **[Yuno](https://yunojuno.com)** | **[Senior Backend Developer](https://jobr.pro/job/41029538/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad | On Site | Jun 03 |
+| **[Varicent](https://varicent.com)** | **[Staff Backend Developer](https://jobr.pro/job/41026558/staff-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada, Remote | Remote | Jun 03 |
+| **[Weekday AI](https://www.weekday.works)** | **[Backend Developer (Python)](https://jobr.pro/job/41026263/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, Telangana, India | On Site | Jun 03 |
+| **[Weekday AI](https://www.weekday.works)** | **[Backend Developer (Java/Golang)](https://jobr.pro/job/41026262/backend-developer-javagolang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 03 |
+| **[Weekday AI](https://www.weekday.works)** | **[Backend Developer](https://jobr.pro/job/41026261/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 03 |
 | **[CI&T](https://www.citi.com/banking/bank-accounts)** | **[\[Job-29665\] Senior Java/Kotlin Backend Developer, Brazil](https://jobr.pro/job/41013639/job-29665-senior-javakotlin-backend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 02 |
 | **[CI&T](https://www.citi.com/banking/bank-accounts)** | **[\[Job 29635\] AI Developer Backend Java Sr](https://jobr.pro/job/41013635/job-29635-ai-developer-backend-java-sr?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 02 |
 | **[March Networks](https://www.marchnetworks.com/)** | **[Backend Developer (Mid/Mid+)](https://jobr.pro/job/41024050/backend-developer-midmid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Gliwice, Silesian Voivodeship, Poland | On Site | Jun 02 |
@@ -22,16 +32,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Charger Logistics Inc](http://www.chargerlogistics.com)** | **[Backend Developer- .Net core](https://jobr.pro/job/40985165/backend-developer-net-core?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brampton, Ontario, Canada | On Site | May 29 |
 | **[Tryzens Global](https://tryzens.com/)** | **[SFCC Backend Developer](https://jobr.pro/job/40983373/sfcc-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Thiruvananthapuram, Kerala, India | On Site | May 29 |
 | **[Hootsuite](https://www.hootsuite.com/)** | **[Intermediate Software Developer, Backend](https://jobr.pro/job/40966730/intermediate-software-developer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bucharest, Romania | On Site | May 28 |
-| **[Axi](https://axios.com)** | **[Senior Backend Developer](https://jobr.pro/job/40967953/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangalore | On Site | May 28 |
-| **[Odaseva](https://odaseva.com)** | **[Senior Backend Developer](https://jobr.pro/job/40967017/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Paris | On Site | May 28 |
-| **[Mindera](http://www.mindera.com)** | **[.NET Backend Developer](https://jobr.pro/job/40963166/net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brașov, Brașov, Romania | On Site | May 28 |
-| **[Unity Technologies](https://unitytec.com)** | **[Développeur Sénior Backend Gestionnaire de Paquet Unity \| Senior Backend Package Manager Developer, Unity Package Manager](https://jobr.pro/job/40955377/developpeur-senior-backend-gestionnaire-de-paquet-unity-senior-backend-package-manager-developer-unity-package-manager?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Canada | On Site | May 27 |
-| **[Restaurant Supply](https://www.restaurantsupply.com/)** | **[Backend Engineer — PHP / Symfony / AI-Native Development](https://jobr.pro/job/40952222/backend-engineer-php-symfony-ai-native-development?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Europe- Remote | Remote | May 27 |
-| **[CI&T](https://ciandt.com)** | **[\[Job-29497\] Senior Python Backend Developer (Generative AI), Brazil](https://jobr.pro/job/40950261/job-29497-senior-python-backend-developer-generative-ai-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | May 27 |
 
 ---
 
-**Current Stats:** 15 jobs | 33% remote | 12 companies | Avg salary: 73k  
+**Current Stats:** 19 jobs | 26% remote | 14 companies | Avg salary: 117500065k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
