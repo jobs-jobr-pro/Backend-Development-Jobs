@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 06, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 07, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[MasterBorn Group](https://masterborn.com)** | **[Senior Backend Developer (Node.js)](https://jobr.pro/job/41061126/senior-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław or remotely | Remote | Jun 05 |
 | **[MasterBorn Group](https://masterborn.com)** | **[Middle Backend Developer (Node.js)](https://jobr.pro/job/41061125/middle-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław or remotely | Remote | Jun 05 |
+| **[LOD Technologies Inc.](http://lod.io)** | **[Backend Developer ( Nest.js / Typescript)](https://jobr.pro/job/41064607/backend-developer-nestjs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vancouver, British Columbia, Canada | On Site | Jun 05 |
 | **[iKnowHow S.A.](https://ikh.io)** | **[Backend Java Developer](https://jobr.pro/job/41058144/backend-java-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Neo Psychiko, Attica, Greece | On Site | Jun 05 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Uruguay)](https://jobr.pro/job/41047759/backend-developer-ai-trainer-uruguay?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Uruguay | Remote | Jun 04 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (UK)](https://jobr.pro/job/41047758/backend-developer-ai-trainer-uk?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | United Kingdom | Remote | Jun 04 |
@@ -47,7 +48,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 31 jobs | 65% remote | 15 companies | Avg salary: 1.8000013500045498e+86k  
+**Current Stats:** 32 jobs | 63% remote | 16 companies | Avg salary: 1.8000013500045498e+86k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
