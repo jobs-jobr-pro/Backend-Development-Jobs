@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -44,11 +44,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Optiplay](http://vionica.io)** | **[Backend Developer (Node.js)](https://jobr.pro/job/41042567/backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland | Remote | Jun 02 |
 | **[March Networks](https://www.marchnetworks.com/)** | **[Backend Developer (Mid/Mid+)](https://jobr.pro/job/41024050/backend-developer-midmid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Gliwice, Silesian Voivodeship, Poland | On Site | Jun 02 |
 | **[Encora](https://encora.es/)** | **[Backend Java Developer Mid](https://jobr.pro/job/41006192/backend-java-developer-mid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Peru | On Site | Jun 01 |
-| **[adjoe](https://adjoe.io)** | **[Senior Go Backend Developer (f/m/d)](https://jobr.pro/job/41013742/senior-go-backend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hamburg | Remote | Jun 01 |
 
 ---
 
-**Current Stats:** 32 jobs | 63% remote | 16 companies | Avg salary: 1.8000013500045498e+86k  
+**Current Stats:** 31 jobs | 61% remote | 15 companies | Avg salary: 1.8000013500045498e+86k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
