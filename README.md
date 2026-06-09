@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 09, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 09, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CodeRoad](https://coderoad.pl)** | **[Java Backend Developer (Mid-Level)](https://jobr.pro/job/41078844/java-backend-developer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Latin America | On Site | Jun 08 |
 | **[Docebo](https://docebo.com)** | **[Senior Backend JS Developer (Explore) - Lyon - CDI](https://jobr.pro/job/41074373/senior-backend-js-developer-explore-lyon-cdi?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lyon, Auvergne-Rhône-Alpes, France | Remote | Jun 08 |
+| **[OrderMesh](http://www.gooten.com)** | **[Backend Developer - LATAM](https://jobr.pro/job/41078878/backend-developer-latam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Uruguay | Remote | Jun 08 |
 | **[MasterBorn Group](https://masterborn.com)** | **[Senior Backend Developer (Node.js)](https://jobr.pro/job/41061126/senior-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław or remotely | Remote | Jun 05 |
 | **[MasterBorn Group](https://masterborn.com)** | **[Middle Backend Developer (Node.js)](https://jobr.pro/job/41061125/middle-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław or remotely | Remote | Jun 05 |
 | **[LOD Technologies Inc.](http://lod.io)** | **[Backend Developer ( Nest.js / Typescript)](https://jobr.pro/job/41064607/backend-developer-nestjs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vancouver, British Columbia, Canada | On Site | Jun 05 |
@@ -45,7 +47,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 29 jobs | 66% remote | 13 companies | Avg salary: 1.8000013500045498e+86k  
+**Current Stats:** 31 jobs | 65% remote | 15 companies | Avg salary: 1.8000013500045498e+86k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
