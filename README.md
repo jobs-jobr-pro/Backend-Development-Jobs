@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 09, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 09, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,8 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[bet365](https://www.bet365careers.com/privacy-policy)** | **[Software Developer, Backend](https://jobr.pro/job/41097572/software-developer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stoke-on-Trent, England, United Kingdom | Remote | Jun 09 |
+| **[Bosch Group](https://www.bosch.com/)** | **[Backend Developer Intermediate](https://jobr.pro/job/41082918/backend-developer-intermediate?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Timișoara, TM, Romania | Remote | Jun 09 |
+| **[Bosch Group](https://www.bosch.com/)** | **[Backend Developer Junior](https://jobr.pro/job/41082919/backend-developer-junior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Timișoara, TM, Romania | Remote | Jun 09 |
+| **[360dialog GmbH](http://360dialog.com)** | **[Backend Developer (Python) \| Remote](https://jobr.pro/job/41101921/backend-developer-python-remote?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Romania | Remote | Jun 09 |
+| **[bwise Media AG](http://bwisemedia.com)** | **[Backend Developer (m/f/d)](https://jobr.pro/job/41101917/backend-developer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Naples, Metropolitan City of Naples, Italy | Remote | Jun 09 |
 | **[CodeRoad](https://coderoad.pl)** | **[Java Backend Developer (Mid-Level)](https://jobr.pro/job/41078844/java-backend-developer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Latin America | On Site | Jun 08 |
 | **[Docebo](https://docebo.com)** | **[Senior Backend JS Developer (Explore) - Lyon - CDI](https://jobr.pro/job/41074373/senior-backend-js-developer-explore-lyon-cdi?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lyon, Auvergne-Rhône-Alpes, France | Remote | Jun 08 |
+| **[SIXT](https://www.sixt.dk/)** | **[Software Development Engineer II (Java Backend)](https://jobr.pro/job/41090024/software-development-engineer-ii-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, , India | Remote | Jun 08 |
 | **[Voxidea-Stafi](http://getstafi.com)** | **[03. Mid-level Backend Developer \| Fully Remote \| USD Payments](https://jobr.pro/job/41082649/03-mid-level-backend-developer-fully-remote-usd-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ecuador | Remote | Jun 08 |
 | **[OrderMesh](http://www.gooten.com)** | **[Backend Developer - LATAM](https://jobr.pro/job/41078878/backend-developer-latam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Uruguay | Remote | Jun 08 |
 | **[MasterBorn Group](https://masterborn.com)** | **[Senior Backend Developer (Node.js)](https://jobr.pro/job/41061126/senior-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław or remotely | Remote | Jun 05 |
@@ -43,12 +49,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Weekday AI](https://www.weekday.works)** | **[Backend Developer (Python)](https://jobr.pro/job/41026263/backend-developer-python?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad, Telangana, India | On Site | Jun 03 |
 | **[Weekday AI](https://www.weekday.works)** | **[Backend Developer (Java/Golang)](https://jobr.pro/job/41026262/backend-developer-javagolang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 03 |
 | **[Weekday AI](https://www.weekday.works)** | **[Backend Developer](https://jobr.pro/job/41026261/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 03 |
-| **[CI&T](https://www.citi.com/banking/bank-accounts)** | **[\[Job-29665\] Senior Java/Kotlin Backend Developer, Brazil](https://jobr.pro/job/41013639/job-29665-senior-javakotlin-backend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 02 |
-| **[CI&T](https://www.citi.com/banking/bank-accounts)** | **[\[Job 29635\] AI Developer Backend Java Sr](https://jobr.pro/job/41013635/job-29635-ai-developer-backend-java-sr?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 02 |
 
 ---
 
-**Current Stats:** 32 jobs | 66% remote | 16 companies | Avg salary: 1.8000013500045498e+86k  
+**Current Stats:** 36 jobs | 69% remote | 21 companies | Avg salary: 1.8000013500045498e+86k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
