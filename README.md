@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 10, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 10, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CI&T](https://www.citi.com/banking/bank-accounts)** | **[\[Job-29731\] Senior Java/Kotlin Backend Developer, Brazil](https://jobr.pro/job/41113436/job-29731-senior-javakotlin-backend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 10 |
+| **[CI&T](https://www.citi.com/banking/bank-accounts)** | **[\[Job-29731\] Senior Java/Kotlin Backend Developer, Brazil \[VAGA AFIRMATIVA PARA PESSOA COM DEFICIÊNCIA\]](https://jobr.pro/job/41113437/job-29731-senior-javakotlin-backend-developer-brazil-vaga-afirmativa-para-pessoa-com-deficiencia?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 10 |
+| **[Galaxy](https://www.galaxy.com)** | **[Senior Backend Developer](https://jobr.pro/job/41114823/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New York, NY | On Site | Jun 09 |
 | **[PALO IT](https://paloit.com)** | **[AI First Backend Python Developer](https://jobr.pro/job/41110500/ai-first-backend-python-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ciudad de México | On Site | Jun 09 |
 | **[NEORIS](https://www.neoris.com)** | **[Java Backend Developer](https://jobr.pro/job/41106975/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico | On Site | Jun 09 |
 | **[bet365](https://www.bet365careers.com/privacy-policy)** | **[Software Developer, Backend](https://jobr.pro/job/41097572/software-developer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Stoke-on-Trent, England, United Kingdom | Remote | Jun 09 |
@@ -49,11 +52,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Robinhood](https://robinhood.com)** | **[Staff Software Developer, Backend Platform](https://jobr.pro/job/41032271/staff-software-developer-backend-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Canada | On Site | Jun 03 |
 | **[Fullscript](https://fullscript.com)** | **[Senior Developer, Backend - Developer Infrastructure](https://jobr.pro/job/41035227/senior-developer-backend-developer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ottawa, ON | Remote | Jun 03 |
 | **[Yuno](https://yunojuno.com)** | **[Senior Backend Developer](https://jobr.pro/job/41029538/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad | On Site | Jun 03 |
-| **[Varicent](https://varicent.com)** | **[Staff Backend Developer](https://jobr.pro/job/41026558/staff-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada, Remote | Remote | Jun 03 |
 
 ---
 
-**Current Stats:** 37 jobs | 73% remote | 23 companies | Avg salary: 1.8000013500045498e+86k  
+**Current Stats:** 39 jobs | 72% remote | 23 companies | Avg salary: 1.9200014400048533e+80k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
