@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 10, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 10, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sportradar](https://sportradar.com/)** | **[Backend Developer](https://jobr.pro/job/41128821/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mostar, , Bosnia and Herzegowina | On Site | Jun 10 |
+| **[Coveo](https://www.coveo.com/en)** | **[Backend Development Intern, Fall 2026](https://jobr.pro/job/41132181/backend-development-intern-fall-2026?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Quebec City (Province of Quebec, Canada) | On Site | Jun 10 |
+| **[United Tech](https://www.unitedtechpeo.com)** | **[Senior Backend Developer](https://jobr.pro/job/41132463/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kyiv | Remote | Jun 10 |
 | **[SIXT](https://www.sixt.com/)** | **[Software Development Engineer III (Java Backend)](https://jobr.pro/job/41116397/software-development-engineer-iii-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, , India | Remote | Jun 10 |
 | **[Reolink](https://reolink.com)** | **[Backend Engineer \| Java Software Development](https://jobr.pro/job/41116462/backend-engineer-java-software-development?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore | On Site | Jun 10 |
 | **[CI&T](https://www.citi.com/banking/bank-accounts)** | **[\[Job-29731\] Senior Java/Kotlin Backend Developer, Brazil](https://jobr.pro/job/41113436/job-29731-senior-javakotlin-backend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 10 |
@@ -53,11 +56,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pelmorex](https://www.pelmorex.com/en/)** | **[Software Developer (Backend) - Contract - Hybrid](https://jobr.pro/job/41036574/software-developer-backend-contract-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Oakville, Canada | On Site | Jun 03 |
 | **[CI&T](https://ciandt.com)** | **[\[Job-29616\] Senior Backend Developer (Java)](https://jobr.pro/job/41031466/job-29616-senior-backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa | On Site | Jun 03 |
 | **[Robinhood](https://robinhood.com)** | **[Staff Software Developer, Backend Platform](https://jobr.pro/job/41032271/staff-software-developer-backend-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Toronto, Canada | On Site | Jun 03 |
-| **[Fullscript](https://fullscript.com)** | **[Senior Developer, Backend - Developer Infrastructure](https://jobr.pro/job/41035227/senior-developer-backend-developer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ottawa, ON | Remote | Jun 03 |
 
 ---
 
-**Current Stats:** 41 jobs | 71% remote | 24 companies | Avg salary: 1.80000135000455e+84k  
+**Current Stats:** 43 jobs | 67% remote | 26 companies | Avg salary: 1.80000135000455e+84k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
