@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 11, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 11, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -53,11 +53,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Chile)](https://jobr.pro/job/41040487/backend-developer-ai-trainer-chile?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chile | Remote | Jun 04 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Brazil)](https://jobr.pro/job/41040486/backend-developer-ai-trainer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 04 |
 | **[Lely](https://www.lely.com/)** | **[Backend Developer](https://jobr.pro/job/41123020/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Maassluis, ZH, Netherlands | On Site | Jun 04 |
-| **[Coupang Internal]()** | **[Staff Backend Engineer (Developer Platform)](https://jobr.pro/job/41035806/staff-backend-engineer-developer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Seoul, South Korea | On Site | Jun 04 |
 
 ---
 
-**Current Stats:** 41 jobs | 71% remote | 25 companies | Avg salary: 1.9200014400048534e+78k  
+**Current Stats:** 40 jobs | 73% remote | 24 companies | Avg salary: 1.9200014400048534e+78k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
