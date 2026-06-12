@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 11, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 12, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Encora](https://encora.com.do)** | **[Backend Developer - Other](https://jobr.pro/job/41160867/backend-developer-other?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Scottsdale, AZ | On Site | Jun 11 |
+| **[CI&T](https://ciandt.com)** | **[Mid Level/ Senior Backend Developer .Net/AWS, Brasil (Exclusiva para pessoas com Deficiência)](https://jobr.pro/job/41159177/mid-level-senior-backend-developer-netaws-brasil-exclusiva-para-pessoas-com-deficiencia?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 11 |
+| **[CI&T](https://ciandt.com)** | **[Mid Level/ Senior Backend Developer .Net/AWS, Brasil (Exclusiva para Mulheres)](https://jobr.pro/job/41159176/mid-level-senior-backend-developer-netaws-brasil-exclusiva-para-mulheres?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 11 |
+| **[AssureSoft - Careers]()** | **[Senior Backend Java Developer](https://jobr.pro/job/41157865/senior-backend-java-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | LATAM | On Site | Jun 11 |
+| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Argentina)](https://jobr.pro/job/41160992/backend-developer-ai-trainer-argentina?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina - Fully Remote | Remote | Jun 11 |
+| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Peru)](https://jobr.pro/job/41160991/backend-developer-ai-trainer-peru?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Peru - Fully Remote | Remote | Jun 11 |
+| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Mexico)](https://jobr.pro/job/41160990/backend-developer-ai-trainer-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico - Fully Remote | Remote | Jun 11 |
 | **[Action1](https://www.action1.com/)** | **[Backend Developer (Node.js, JavaScript, TypeScript)](https://jobr.pro/job/41154496/backend-developer-nodejs-javascript-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland | Remote | Jun 11 |
 | **[Sportradar](https://sportradar.com/)** | **[Backend Developer](https://jobr.pro/job/41128821/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mostar, , Bosnia and Herzegowina | On Site | Jun 10 |
 | **[Coveo](https://www.coveo.com/en)** | **[Backend Development Intern, Fall 2026](https://jobr.pro/job/41132181/backend-development-intern-fall-2026?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Quebec City (Province of Quebec, Canada) | On Site | Jun 10 |
@@ -39,12 +46,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[OrderMesh](http://www.gooten.com)** | **[Backend Developer - LATAM](https://jobr.pro/job/41078878/backend-developer-latam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Uruguay | Remote | Jun 08 |
 | **[MasterBorn Group](https://masterborn.com)** | **[Senior Backend Developer (Node.js)](https://jobr.pro/job/41061126/senior-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław or remotely | Remote | Jun 05 |
 | **[MasterBorn Group](https://masterborn.com)** | **[Middle Backend Developer (Node.js)](https://jobr.pro/job/41061125/middle-backend-developer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Wrocław or remotely | Remote | Jun 05 |
-| **[LOD Technologies Inc.](http://lod.io)** | **[Backend Developer ( Nest.js / Typescript)](https://jobr.pro/job/41064607/backend-developer-nestjs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vancouver, British Columbia, Canada | On Site | Jun 05 |
-| **[iKnowHow S.A.](https://ikh.io)** | **[Backend Java Developer](https://jobr.pro/job/41058144/backend-java-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Neo Psychiko, Attica, Greece | On Site | Jun 05 |
 
 ---
 
-**Current Stats:** 28 jobs | 64% remote | 23 companies | Avg salary: 144000108k  
+**Current Stats:** 33 jobs | 70% remote | 24 companies | Avg salary: 3.3280033280033277e+25k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
