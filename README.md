@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 12, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 12, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Alohi SA](https://www.alohi.com)** | **[Senior Backend Developer](https://jobr.pro/job/41173375/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Geneva | On Site | Jun 12 |
+| **[Hootsuite](https://www.hootsuite.com)** | **[Senior Software Developer, Backend](https://jobr.pro/job/41172525/senior-software-developer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Luxembourg, Luxembourg | On Site | Jun 12 |
+| **[Continental](https://www.continental.com)** | **[(Senior) Backend Developer](https://jobr.pro/job/41170561/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lousado, Braga, Portugal | Remote | Jun 12 |
+| **[VML Enterprise Solutions]()** | **[SFCC Backend Developer](https://jobr.pro/job/41170063/sfcc-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, Uttar Pradesh, India | On Site | Jun 12 |
+| **[energytec.ai](https://etec.io)** | **[Job ID 195 - Senior Software Analyst (Python Backend Developer)](https://jobr.pro/job/41169492/job-id-195-senior-software-analyst-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ECIL, Hyderabad | On Site | Jun 12 |
+| **[Pulse Games](https://www.pulsegames.org)** | **[Backend Developer](https://jobr.pro/job/41174379/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Turkey | Remote | Jun 12 |
 | **[Encora](https://encora.com.do)** | **[Backend Developer - Other](https://jobr.pro/job/41160867/backend-developer-other?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Scottsdale, AZ | On Site | Jun 11 |
 | **[CI&T](https://ciandt.com)** | **[Mid Level/ Senior Backend Developer .Net/AWS, Brasil (Exclusiva para pessoas com Deficiência)](https://jobr.pro/job/41159177/mid-level-senior-backend-developer-netaws-brasil-exclusiva-para-pessoas-com-deficiencia?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 11 |
 | **[CI&T](https://ciandt.com)** | **[Mid Level/ Senior Backend Developer .Net/AWS, Brasil (Exclusiva para Mulheres)](https://jobr.pro/job/41159176/mid-level-senior-backend-developer-netaws-brasil-exclusiva-para-mulheres?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 11 |
@@ -47,7 +53,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 31 jobs | 68% remote | 23 companies | Avg salary: 55466722133389k  
+**Current Stats:** 37 jobs | 62% remote | 29 companies | Avg salary: 55466722133389k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
