@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Payoneer](https://www.payoneer.com)** | **[Senior AI-Native Backend Developer](https://jobr.pro/job/41189965/senior-ai-native-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Tel Aviv District, Israel | On Site | Jun 14 |
 | **[Software Mind](https://softwaremind.com)** | **[\[VCK\] Backend Developer (Python + AWS)](https://jobr.pro/job/41181405/vck-backend-developer-python-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 13 |
 | **[Encora](https://encora.com.do)** | **[Backend Developer SR - Python Engineer](https://jobr.pro/job/41179943/backend-developer-sr-python-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | On Site | Jun 12 |
 | **[CI&T](https://www.citi.com)** | **[\[Job - 29740\] Mid Level/Senior Backend Developer .Net ( Vaga exclusiva p/ mulheres)](https://jobr.pro/job/41176080/job-29740-mid-levelsenior-backend-developer-net-vaga-exclusiva-p-mulheres?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 12 |
@@ -56,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 63% remote | 30 companies | Avg salary: 55466722133389k  
+**Current Stats:** 41 jobs | 61% remote | 31 companies | Avg salary: 55466722133389k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
