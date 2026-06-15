@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -52,12 +52,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[E. Breuninger GmbH & Co.](https://www.breuninger.com/de/service/imprint/)** | **[Senior Software Developer (Backend & Infrastructure) // Remote möglich](https://jobr.pro/job/41104572/senior-software-developer-backend-infrastructure-remote-moglich?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Berlin, BE, Germany | Remote | Jun 08 |
 | **[E. Breuninger GmbH & Co.](https://www.breuninger.com/de/service/imprint/)** | **[Senior Software Developer (Backend & Infrastructure) (m/w/d) // Remote möglich](https://jobr.pro/job/41104574/senior-software-developer-backend-infrastructure-mwd-remote-moglich?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Düsseldorf, NRW, Germany | Remote | Jun 08 |
 | **[SIXT](https://www.sixt.dk/)** | **[Software Development Engineer II (Java Backend)](https://jobr.pro/job/41090024/software-development-engineer-ii-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, , India | Remote | Jun 08 |
-| **[Voxidea-Stafi](http://getstafi.com)** | **[03. Mid-level Backend Developer \| Fully Remote \| USD Payments](https://jobr.pro/job/41082649/03-mid-level-backend-developer-fully-remote-usd-payments?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Ecuador | Remote | Jun 08 |
-| **[OrderMesh](http://www.gooten.com)** | **[Backend Developer - LATAM](https://jobr.pro/job/41078878/backend-developer-latam?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Uruguay | Remote | Jun 08 |
 
 ---
 
-**Current Stats:** 41 jobs | 61% remote | 31 companies | Avg salary: 55466722133389k  
+**Current Stats:** 39 jobs | 59% remote | 29 companies | Avg salary: 55466722133389k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
