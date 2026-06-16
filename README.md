@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 16, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 16, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -15,6 +15,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[IDIQ](https://www.idiq.com)** | **[Lead Backend Developer (.NET)](https://jobr.pro/job/41212853/lead-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, India | Remote | Jun 16 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Backend Developer Java (m/w/d)](https://jobr.pro/job/41212180/backend-developer-java-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | bundesweit, , Germany | Remote | Jun 16 |
+| **[OBDeleven](https://obdeleven.com)** | **[Backend Developer (mid/senior)](https://jobr.pro/job/41219503/backend-developer-midsenior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Vilnius City Municipality, Lithuania | On Site | Jun 16 |
+| **[Unison Group](https://unisongroup.com)** | **[Fullstack Backend Developer](https://jobr.pro/job/41215754/fullstack-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 16 |
 | **[Life360](https://lifedaily.com)** | **[Senior Backend Cloud Developer II, Developer Experience (DevEx)](https://jobr.pro/job/41208047/senior-backend-cloud-developer-ii-developer-experience-devex?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote, Canada | Remote | Jun 15 |
 | **[Anaplan](https://anaplan.com)** | **[Sr. Associate Engineer Software Development (Backend Engineer)](https://jobr.pro/job/41201315/sr-associate-engineer-software-development-backend-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Gurugram, India | On Site | Jun 15 |
 | **[Jobs for Humanity](https://www.jobsforhumanity.com)** | **[Java Backend Developer (Only for Women)](https://jobr.pro/job/41198236/java-backend-developer-only-for-women?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | Remote | Jun 15 |
@@ -49,7 +51,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 33 jobs | 52% remote | 27 companies | Avg salary: 50250041600041600000k  
+**Current Stats:** 35 jobs | 49% remote | 29 companies | Avg salary: 1.8000402000332802e+24k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
