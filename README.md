@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 18, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 18, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Atabix](https://atabix.com)** | **[Stage/Internship Backend Developer](https://jobr.pro/job/41260377/stageinternship-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amsterdam Office | Remote | Jun 18 |
 | **[SIXT](https://www.sixt.com)** | **[Software Development Engineer II (Java Backend)](https://jobr.pro/job/41257740/software-development-engineer-ii-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, , India | Remote | Jun 18 |
 | **[SIXT](https://www.sixt.com)** | **[Software Development Engineer III (Java Backend)](https://jobr.pro/job/41257741/software-development-engineer-iii-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, , India | Remote | Jun 18 |
 | **[VML Enterprise Solutions](https://www.vml.com)** | **[Senior Backend SFCC Developer](https://jobr.pro/job/41231908/senior-backend-sfcc-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, Uttar Pradesh, India | On Site | Jun 17 |
@@ -23,7 +24,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NEORIS](https://www.emis.com)** | **[Backend APX Developer Junior](https://jobr.pro/job/41221395/backend-apx-developer-junior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Peru | On Site | Jun 16 |
 | **[iFood](https://ifoodreal.com)** | **[Senior Backend Specialist - AI for Developers](https://jobr.pro/job/41223616/senior-backend-specialist-ai-for-developers?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remoto | On Site | Jun 16 |
 | **[IDIQ](https://www.idiq.com)** | **[Lead Backend Developer (.NET)](https://jobr.pro/job/41212853/lead-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, India | Remote | Jun 16 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[Backend Developer Java (m/w/d)](https://jobr.pro/job/41212180/backend-developer-java-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | bundesweit, , Germany | Remote | Jun 16 |
 | **[Sécheron Hasler Group](https://www.secheron.com)** | **[Backend Developer](https://jobr.pro/job/41227951/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Vojvodina, Serbia | On Site | Jun 16 |
 | **[OBDeleven](https://obdeleven.com)** | **[Backend Developer (mid/senior)](https://jobr.pro/job/41219503/backend-developer-midsenior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Vilnius City Municipality, Lithuania | On Site | Jun 16 |
 | **[Unison Group](https://unisongroup.com)** | **[Fullstack Backend Developer](https://jobr.pro/job/41215754/fullstack-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 16 |
@@ -42,13 +42,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CI&T](https://ciandt.com)** | **[Mid Level/ Senior Backend Developer .Net/AWS, Brasil (Exclusiva para pessoas com Deficiência)](https://jobr.pro/job/41159177/mid-level-senior-backend-developer-netaws-brasil-exclusiva-para-pessoas-com-deficiencia?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 11 |
 | **[CI&T](https://ciandt.com)** | **[Mid Level/ Senior Backend Developer .Net/AWS, Brasil (Exclusiva para Mulheres)](https://jobr.pro/job/41159176/mid-level-senior-backend-developer-netaws-brasil-exclusiva-para-mulheres?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 11 |
 | **[AssureSoft - Careers]()** | **[Senior Backend Java Developer](https://jobr.pro/job/41157865/senior-backend-java-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | LATAM | On Site | Jun 11 |
-| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Argentina)](https://jobr.pro/job/41160992/backend-developer-ai-trainer-argentina?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina - Fully Remote | Remote | Jun 11 |
-| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Peru)](https://jobr.pro/job/41160991/backend-developer-ai-trainer-peru?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Peru - Fully Remote | Remote | Jun 11 |
-| **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Mexico)](https://jobr.pro/job/41160990/backend-developer-ai-trainer-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico - Fully Remote | Remote | Jun 11 |
 
 ---
 
-**Current Stats:** 32 jobs | 50% remote | 25 companies | Avg salary: 1.8000402000332802e+24k  
+**Current Stats:** 29 jobs | 45% remote | 24 companies | Avg salary: 4500101k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
