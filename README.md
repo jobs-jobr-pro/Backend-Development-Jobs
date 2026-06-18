@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 18, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -43,11 +43,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Argentina)](https://jobr.pro/job/41160992/backend-developer-ai-trainer-argentina?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Argentina - Fully Remote | Remote | Jun 11 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Peru)](https://jobr.pro/job/41160991/backend-developer-ai-trainer-peru?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Peru - Fully Remote | Remote | Jun 11 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Backend Developer - AI Trainer (Mexico)](https://jobr.pro/job/41160990/backend-developer-ai-trainer-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mexico - Fully Remote | Remote | Jun 11 |
-| **[Action1](https://www.action1.com/)** | **[Backend Developer (Node.js, JavaScript, TypeScript)](https://jobr.pro/job/41154496/backend-developer-nodejs-javascript-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Poland | Remote | Jun 11 |
 
 ---
 
-**Current Stats:** 31 jobs | 48% remote | 25 companies | Avg salary: 1.8000402000332802e+24k  
+**Current Stats:** 30 jobs | 47% remote | 24 companies | Avg salary: 1.8000402000332802e+24k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
