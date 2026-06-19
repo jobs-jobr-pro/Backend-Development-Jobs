@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 19, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 19, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Erakulis](https://erakulis.com)** | **[Golang Backend Developer](https://jobr.pro/job/41288589/golang-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | Remote | Jun 19 |
+| **[Qode](http://qode.world)** | **[Senior Java Backend Developer](https://jobr.pro/job/41287894/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pennsylvania, Pennsylvania, United States | On Site | Jun 19 |
 | **[Monks](https://www.monks.com)** | **[Java Backend Developer](https://jobr.pro/job/41266466/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hilversum | On Site | Jun 18 |
 | **[Dev Technology](https://devtechnology.com)** | **[Mid-Level Backend Developer (AWS)](https://jobr.pro/job/41268771/mid-level-backend-developer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Jun 18 |
 | **[Atabix](https://atabix.com)** | **[Stage/Internship Backend Developer](https://jobr.pro/job/41260377/stageinternship-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amsterdam Office | Remote | Jun 18 |
@@ -36,8 +38,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Jobs for Humanity](https://www.jobsforhumanity.com)** | **[Java Backend Developer (Only for Women)](https://jobr.pro/job/41198236/java-backend-developer-only-for-women?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | Remote | Jun 15 |
 | **[Varicent](https://varicent.com)** | **[Lead Backend Developer – Typescript (Node.js)](https://jobr.pro/job/41192591/lead-backend-developer-typescript-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mérida, Yucatán, Mexico | On Site | Jun 15 |
 | **[Payoneer](https://www.payoneer.com)** | **[Senior AI-Native Backend Developer](https://jobr.pro/job/41189965/senior-ai-native-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Tel Aviv District, Israel | On Site | Jun 14 |
-| **[CI&T](https://www.citi.com)** | **[\[Job - 29740\] Mid Level/Senior Backend Developer .Net ( Vaga exclusiva p/ mulheres)](https://jobr.pro/job/41176080/job-29740-mid-levelsenior-backend-developer-net-vaga-exclusiva-p-mulheres?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 12 |
-| **[Alohi SA](https://www.alohi.com)** | **[Senior Backend Developer](https://jobr.pro/job/41173375/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Geneva | On Site | Jun 12 |
 
 ---
 
