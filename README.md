@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 19, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 19, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Monks](https://www.monks.com)** | **[Java Backend Developer](https://jobr.pro/job/41266466/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hilversum | On Site | Jun 18 |
 | **[Dev Technology](https://devtechnology.com)** | **[Mid-Level Backend Developer (AWS)](https://jobr.pro/job/41268771/mid-level-backend-developer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Jun 18 |
 | **[Atabix](https://atabix.com)** | **[Stage/Internship Backend Developer](https://jobr.pro/job/41260377/stageinternship-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amsterdam Office | Remote | Jun 18 |
+| **[Integrators services a.s.](https://www.integrators.cz)** | **[JAVA Developer - Foreign Payments Backend](https://jobr.pro/job/41279074/java-developer-foreign-payments-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hybrid / Praha - Stodůlky | On Site | Jun 18 |
 | **[SIXT](https://www.sixt.com)** | **[Software Development Engineer II (Java Backend)](https://jobr.pro/job/41257740/software-development-engineer-ii-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, , India | Remote | Jun 18 |
 | **[SIXT](https://www.sixt.com)** | **[Software Development Engineer III (Java Backend)](https://jobr.pro/job/41257741/software-development-engineer-iii-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, , India | Remote | Jun 18 |
 | **[Yuno](https://y.uno)** | **[(Golang) Backend Developer - Integrations](https://jobr.pro/job/41273216/golang-backend-developer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shanghai | Remote | Jun 17 |
@@ -37,14 +38,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Payoneer](https://www.payoneer.com)** | **[Senior AI-Native Backend Developer](https://jobr.pro/job/41189965/senior-ai-native-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Tel Aviv District, Israel | On Site | Jun 14 |
 | **[CI&T](https://www.citi.com)** | **[\[Job - 29740\] Mid Level/Senior Backend Developer .Net ( Vaga exclusiva p/ mulheres)](https://jobr.pro/job/41176080/job-29740-mid-levelsenior-backend-developer-net-vaga-exclusiva-p-mulheres?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Brazil | Remote | Jun 12 |
 | **[Alohi SA](https://www.alohi.com)** | **[Senior Backend Developer](https://jobr.pro/job/41173375/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Geneva | On Site | Jun 12 |
-| **[Hootsuite](https://www.hootsuite.com)** | **[Senior Software Developer, Backend](https://jobr.pro/job/41172525/senior-software-developer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Luxembourg, Luxembourg | On Site | Jun 12 |
-| **[Continental](https://www.continental.com)** | **[(Senior) Backend Developer](https://jobr.pro/job/41170561/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lousado, Braga, Portugal | Remote | Jun 12 |
-| **[VML Enterprise Solutions]()** | **[SFCC Backend Developer](https://jobr.pro/job/41170063/sfcc-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, Uttar Pradesh, India | On Site | Jun 12 |
-| **[energytec.ai](https://etec.io)** | **[Job ID 195 - Senior Software Analyst (Python Backend Developer)](https://jobr.pro/job/41169492/job-id-195-senior-software-analyst-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ECIL, Hyderabad | On Site | Jun 12 |
 
 ---
 
-**Current Stats:** 28 jobs | 43% remote | 25 companies | Avg salary: 383336333400k  
+**Current Stats:** 25 jobs | 44% remote | 23 companies | Avg salary: 383336333400k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
