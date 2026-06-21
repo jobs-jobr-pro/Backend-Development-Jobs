@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 21, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -39,11 +39,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Anaplan](https://anaplan.com)** | **[Sr. Associate Engineer Software Development (Backend Engineer)](https://jobr.pro/job/41201315/sr-associate-engineer-software-development-backend-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Gurugram, India | On Site | Jun 15 |
 | **[Jobs for Humanity](https://www.jobsforhumanity.com)** | **[Java Backend Developer (Only for Women)](https://jobr.pro/job/41198236/java-backend-developer-only-for-women?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, KA, India | Remote | Jun 15 |
 | **[Varicent](https://varicent.com)** | **[Lead Backend Developer – Typescript (Node.js)](https://jobr.pro/job/41192591/lead-backend-developer-typescript-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Mérida, Yucatán, Mexico | On Site | Jun 15 |
-| **[Payoneer](https://www.payoneer.com)** | **[Senior AI-Native Backend Developer](https://jobr.pro/job/41189965/senior-ai-native-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Herzliya, Tel Aviv District, Israel | On Site | Jun 14 |
 
 ---
 
-**Current Stats:** 27 jobs | 41% remote | 24 companies | Avg salary: 383336333400k  
+**Current Stats:** 26 jobs | 42% remote | 23 companies | Avg salary: 383336333400k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
