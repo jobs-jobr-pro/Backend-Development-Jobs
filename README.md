@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 23, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 23, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AB InBev \| Growth Group](https://www.abinbev.com)** | **[Intermediate Backend Developer](https://jobr.pro/job/41338219/intermediate-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Campinas, Brazil | On Site | Jun 23 |
 | **[Bosch Group](https://www.bosch.com)** | **[Backend Developer (.NET) (f/m/div.)](https://jobr.pro/job/41336836/backend-developer-net-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Braga, Braga, Portugal | Remote | Jun 23 |
 | **[IDIQ](https://www.idiq.com)** | **[Lead Backend Developer (.NET)](https://jobr.pro/job/41336844/lead-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, India | Remote | Jun 23 |
 | **[United Tech](https://www.unitedtechno.com)** | **[Middle Node.js Backend Developer](https://jobr.pro/job/41335289/middle-nodejs-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kyiv | Remote | Jun 23 |
@@ -42,14 +43,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Yuno](https://y.uno)** | **[(Golang) Backend Developer - Integrations](https://jobr.pro/job/41273216/golang-backend-developer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Shanghai | Remote | Jun 17 |
 | **[VML Enterprise Solutions](https://www.vml.com)** | **[Senior Backend SFCC Developer](https://jobr.pro/job/41231908/senior-backend-sfcc-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Noida, Uttar Pradesh, India | On Site | Jun 17 |
 | **[AI2CYBER](https://ai2cyber.com)** | **[Backend Developer](https://jobr.pro/job/41238007/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Greece | Remote | Jun 17 |
-| **[Aghanim](https://aghanim.com)** | **[Senior Python Backend Developer (Platform)](https://jobr.pro/job/41225110/senior-python-backend-developer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon | On Site | Jun 16 |
-| **[NEORIS](https://www.emis.com)** | **[Backend Developer LRBA Junior](https://jobr.pro/job/41221396/backend-developer-lrba-junior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lima, Peru | On Site | Jun 16 |
-| **[NEORIS](https://www.emis.com)** | **[Backend APX Developer Junior](https://jobr.pro/job/41221395/backend-apx-developer-junior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Peru | On Site | Jun 16 |
-| **[iFood](https://ifoodreal.com)** | **[Senior Backend Specialist - AI for Developers](https://jobr.pro/job/41223616/senior-backend-specialist-ai-for-developers?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remoto | On Site | Jun 16 |
 
 ---
 
-**Current Stats:** 33 jobs | 55% remote | 25 companies | Avg salary: 115k  
+**Current Stats:** 30 jobs | 60% remote | 23 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
