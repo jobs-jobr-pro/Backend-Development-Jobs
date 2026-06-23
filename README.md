@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 23, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 23, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[IDIQ](https://www.idiq.com)** | **[Lead Backend Developer (.NET)](https://jobr.pro/job/41317274/lead-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, India | Remote | Jun 22 |
+| **[Bosch Group](https://www.bosch.com)** | **[Backend Developer (.NET) (f/m/div.)](https://jobr.pro/job/41336836/backend-developer-net-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Braga, Braga, Portugal | Remote | Jun 23 |
+| **[IDIQ](https://www.idiq.com)** | **[Lead Backend Developer (.NET)](https://jobr.pro/job/41336844/lead-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, India | Remote | Jun 23 |
+| **[United Tech](https://www.unitedtechno.com)** | **[Middle Node.js Backend Developer](https://jobr.pro/job/41335289/middle-nodejs-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kyiv | Remote | Jun 23 |
+| **[Capco](https://redcapacitacion.cl)** | **[Java Backend Developer - Bangalore](https://jobr.pro/job/41333292/java-backend-developer-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Bengaluru | On Site | Jun 23 |
+| **[2C2P](https://go.2c2p.com)** | **[Backend Developer](https://jobr.pro/job/41331903/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok, Bangkok, Thailand | On Site | Jun 23 |
 | **[Inetum](https://www.inetum.com)** | **[Senior .Net Backend Developer](https://jobr.pro/job/41315607/senior-net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 22 |
 | **[Unity Technologies](https://unity.com)** | **[Développeuse ou développeur backend sénior, Outils IA internes / Senior Backend Developer, Internal AI Tooling](https://jobr.pro/job/41315913/developpeuse-ou-developpeur-backend-senior-outils-ia-internes-senior-backend-developer-internal-ai-tooling?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Canada | On Site | Jun 22 |
 | **[payabl.](https://payabl.com)** | **[Senior Python Backend Developer](https://jobr.pro/job/41331327/senior-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | Remote | Jun 22 |
@@ -45,7 +49,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 29 jobs | 55% remote | 21 companies | Avg salary: 115k  
+**Current Stats:** 33 jobs | 55% remote | 25 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
