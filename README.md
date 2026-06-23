@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 23, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 23, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -16,11 +16,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[IDIQ](https://www.idiq.com)** | **[Lead Backend Developer (.NET)](https://jobr.pro/job/41317274/lead-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, India | Remote | Jun 22 |
 | **[Inetum](https://www.inetum.com)** | **[Senior .Net Backend Developer](https://jobr.pro/job/41315607/senior-net-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 22 |
 | **[Unity Technologies](https://unity.com)** | **[Développeuse ou développeur backend sénior, Outils IA internes / Senior Backend Developer, Internal AI Tooling](https://jobr.pro/job/41315913/developpeuse-ou-developpeur-backend-senior-outils-ia-internes-senior-backend-developer-internal-ai-tooling?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Montreal, Canada | On Site | Jun 22 |
+| **[payabl.](https://payabl.com)** | **[Senior Python Backend Developer](https://jobr.pro/job/41331327/senior-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | Remote | Jun 22 |
+| **[payabl.](https://payabl.com)** | **[Senior Backend Developer (Services) - Relocation to Cyprus](https://jobr.pro/job/41331323/senior-backend-developer-services-relocation-to-cyprus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Germany | Remote | Jun 22 |
+| **[payabl.](https://payabl.com)** | **[Senior Backend Developer (Services)](https://jobr.pro/job/41331322/senior-backend-developer-services?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Vilnius City Municipality, Lithuania | On Site | Jun 22 |
+| **[payabl.](https://payabl.com)** | **[Senior Backend Developer (File Processing) - Relocation to Cyprus](https://jobr.pro/job/41331320/senior-backend-developer-file-processing-relocation-to-cyprus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Germany | Remote | Jun 22 |
+| **[payabl.](https://payabl.com)** | **[Senior Backend Developer (File Processing)](https://jobr.pro/job/41331319/senior-backend-developer-file-processing?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 22 |
+| **[payabl.](https://payabl.com)** | **[Python Backend Developer (File Processing) - Relocation to Cyprus](https://jobr.pro/job/41331318/python-backend-developer-file-processing-relocation-to-cyprus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Germany | Remote | Jun 22 |
+| **[payabl.](https://payabl.com)** | **[Python Backend Developer (File processing)](https://jobr.pro/job/41331317/python-backend-developer-file-processing?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Vilnius City Municipality, Lithuania | Remote | Jun 22 |
+| **[Qode](http://qode.world)** | **[Java Backend Developer](https://jobr.pro/job/41327656/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pennsylvania, Pennsylvania, United States | On Site | Jun 22 |
 | **[pubGENIUS](https://pubgenius.io)** | **[Full-Stack Developer (Backend-Focused)](https://jobr.pro/job/41324518/full-stack-developer-backend-focused?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | Remote | Jun 22 |
 | **[Unison Group](https://unisongroup.com)** | **[Senior Java Backend Developer](https://jobr.pro/job/41322141/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 22 |
 | **[Weekday AI](https://www.weekday.works)** | **[Senior Backend Developer](https://jobr.pro/job/41302632/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, Tamil Nadu, India | On Site | Jun 20 |
 | **[Software Mind](https://softwaremind.com)** | **[\[VCK\] Backend Developer (Python + AWS)](https://jobr.pro/job/41292482/vck-backend-developer-python-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 19 |
-| **[Qode](http://qode.world)** | **[Java Backend Developer](https://jobr.pro/job/41291589/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pennsylvania, Pennsylvania, United States | On Site | Jun 19 |
 | **[Erakulis](https://erakulis.com)** | **[Golang Backend Developer](https://jobr.pro/job/41288589/golang-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | Remote | Jun 19 |
 | **[Qode](http://qode.world)** | **[Senior Java Backend Developer](https://jobr.pro/job/41287894/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pennsylvania, Pennsylvania, United States | On Site | Jun 19 |
 | **[Monks](https://www.monks.com)** | **[Java Backend Developer](https://jobr.pro/job/41266466/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hilversum | On Site | Jun 18 |
@@ -38,7 +45,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 22 jobs | 45% remote | 20 companies | Avg salary: 115k  
+**Current Stats:** 29 jobs | 55% remote | 21 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
