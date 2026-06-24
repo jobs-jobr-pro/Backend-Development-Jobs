@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 24, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 24, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Devoteam](https://nplatform.devoteam.com)** | **[Telecom Sector \| Java Backend Developer](https://jobr.pro/job/41367923/telecom-sector-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | Remote | Jun 24 |
+| **[Egencia](https://www.egen.co)** | **[Lead Python Backend Developer](https://jobr.pro/job/41366151/lead-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad | On Site | Jun 24 |
 | **[IFS](https://ifsm.ir)** | **[Backend Software Engineer – AI-Enabled Development](https://jobr.pro/job/41357006/backend-software-engineer-ai-enabled-development?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Colombo, Western Province, Sri Lanka | On Site | Jun 24 |
 | **[Capco](https://redcapacitacion.cl)** | **[Intermediate Backend Developer (Contract Role - 6 months)](https://jobr.pro/job/41348619/intermediate-backend-developer-contract-role-6-months?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada - Toronto | On Site | Jun 23 |
+| **[Kyivstar](https://kyivstar.ua)** | **[Backend Developer (Java)](https://jobr.pro/job/41365529/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | All, Ukraine | Remote | Jun 23 |
 | **[BEES](https://bees.com)** | **[Intermediate Backend Developer](https://jobr.pro/job/41345263/intermediate-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Campinas, São Paulo, Brazil | On Site | Jun 23 |
 | **[AB InBev \| Growth Group](https://www.abinbev.com)** | **[Intermediate Backend Developer](https://jobr.pro/job/41338219/intermediate-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Campinas, Brazil | On Site | Jun 23 |
 | **[IDIQ](https://www.idiq.com)** | **[Lead Backend Developer (.NET)](https://jobr.pro/job/41336844/lead-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, India | Remote | Jun 23 |
@@ -48,7 +51,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 32 jobs | 44% remote | 22 companies | Avg salary: 59000058k  
+**Current Stats:** 35 jobs | 46% remote | 25 companies | Avg salary: 59000058k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
