@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 25, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 25, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[SIXT](https://www.sixt.com)** | **[Software Development Engineer III (Java Backend)](https://jobr.pro/job/41389037/software-development-engineer-iii-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, , India | Remote | Jun 25 |
+| **[SIXT](https://www.sixt.com)** | **[Software Development Engineer II (Java Backend)](https://jobr.pro/job/41389038/software-development-engineer-ii-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, , India | Remote | Jun 25 |
 | **[Devoteam](https://nplatform.devoteam.com)** | **[Telecom Sector \| Java Backend Developer](https://jobr.pro/job/41367923/telecom-sector-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | Remote | Jun 24 |
 | **[Egencia](https://www.egen.co)** | **[Lead Python Backend Developer](https://jobr.pro/job/41366151/lead-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hyderabad | On Site | Jun 24 |
 | **[IFS](https://ifsm.ir)** | **[Backend Software Engineer – AI-Enabled Development](https://jobr.pro/job/41357006/backend-software-engineer-ai-enabled-development?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Colombo, Western Province, Sri Lanka | On Site | Jun 24 |
@@ -49,11 +51,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Monks](https://www.monks.com)** | **[Java Backend Developer](https://jobr.pro/job/41266466/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hilversum | On Site | Jun 18 |
 | **[Dev Technology](https://devtechnology.com)** | **[Mid-Level Backend Developer (AWS)](https://jobr.pro/job/41268771/mid-level-backend-developer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Remote | Remote | Jun 18 |
 | **[Atabix](https://atabix.com)** | **[Stage/Internship Backend Developer](https://jobr.pro/job/41260377/stageinternship-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Amsterdam Office | Remote | Jun 18 |
-| **[Integrators services a.s.](https://www.integrators.cz)** | **[JAVA Developer - Foreign Payments Backend](https://jobr.pro/job/41279074/java-developer-foreign-payments-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hybrid / Praha - Stodůlky | On Site | Jun 18 |
 
 ---
 
-**Current Stats:** 37 jobs | 43% remote | 25 companies | Avg salary: 59000058k  
+**Current Stats:** 38 jobs | 47% remote | 25 companies | Avg salary: 59000058k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
