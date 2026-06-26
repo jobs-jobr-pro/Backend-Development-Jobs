@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 26, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 26, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Bosch Group](https://www.bosch.com)** | **[SW Developer - Frontend & Backend](https://jobr.pro/job/41394428/sw-developer-frontend-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | hosur road bangalore, , India | On Site | Jun 25 |
+| **[Bosch Group](https://www.bosch.com)** | **[Backend Developer Junior](https://jobr.pro/job/41421968/backend-developer-junior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Timișoara, TM, Romania | Remote | Jun 26 |
+| **[Qualysoft](https://qualysoft.com)** | **[Senior Full Stack Mobile & Backend Developer](https://jobr.pro/job/41427486/senior-full-stack-mobile-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bucharest | On Site | Jun 26 |
 | **[energytec.ai](https://energytec.ai)** | **[Job ID 197 - Senior Software Analyst (Python Backend Developer)](https://jobr.pro/job/41393680/job-id-197-senior-software-analyst-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ECIL, Hyderabad | On Site | Jun 25 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Backend Developer Java (m/w/d)](https://jobr.pro/job/41390206/backend-developer-java-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | bundesweit, , Germany | Remote | Jun 25 |
 | **[SIXT](https://www.sixt.com)** | **[Software Development Engineer III (Java Backend)](https://jobr.pro/job/41389037/software-development-engineer-iii-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bengaluru, Karnataka, , India | Remote | Jun 25 |
@@ -47,7 +48,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[pubGENIUS](https://pubgenius.io)** | **[Full-Stack Developer (Backend-Focused)](https://jobr.pro/job/41324518/full-stack-developer-backend-focused?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Belgrade, Serbia | Remote | Jun 22 |
 | **[Unison Group](https://unisongroup.com)** | **[Senior Java Backend Developer](https://jobr.pro/job/41322141/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 22 |
 | **[Weekday AI](https://www.weekday.works)** | **[Senior Backend Developer](https://jobr.pro/job/41302632/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, Tamil Nadu, India | On Site | Jun 20 |
-| **[Software Mind](https://softwaremind.com)** | **[\[VCK\] Backend Developer (Python + AWS)](https://jobr.pro/job/41292482/vck-backend-developer-python-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 19 |
 
 ---
 
