@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 25, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 26, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -48,11 +48,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Unison Group](https://unisongroup.com)** | **[Senior Java Backend Developer](https://jobr.pro/job/41322141/senior-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 22 |
 | **[Weekday AI](https://www.weekday.works)** | **[Senior Backend Developer](https://jobr.pro/job/41302632/senior-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, Tamil Nadu, India | On Site | Jun 20 |
 | **[Software Mind](https://softwaremind.com)** | **[\[VCK\] Backend Developer (Python + AWS)](https://jobr.pro/job/41292482/vck-backend-developer-python-aws?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 19 |
-| **[Erakulis](https://erakulis.com)** | **[Golang Backend Developer](https://jobr.pro/job/41288589/golang-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Portugal | Remote | Jun 19 |
 
 ---
 
-**Current Stats:** 36 jobs | 47% remote | 24 companies | Avg salary: 118k  
+**Current Stats:** 35 jobs | 46% remote | 23 companies | Avg salary: 118k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
