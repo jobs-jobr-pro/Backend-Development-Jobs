@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Rubikal](https://rubikal.com)** | **[Backend Developer (Java)](https://jobr.pro/job/41459239/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt | Remote | Jun 28 |
 | **[Bosch Group](https://www.bosch.com)** | **[Backend Developer Junior](https://jobr.pro/job/41421968/backend-developer-junior?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Timișoara, TM, Romania | Remote | Jun 26 |
 | **[Qualysoft](https://qualysoft.com)** | **[Senior Full Stack Mobile & Backend Developer](https://jobr.pro/job/41427486/senior-full-stack-mobile-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bucharest | On Site | Jun 26 |
 | **[energytec.ai](https://energytec.ai)** | **[Job ID 197 - Senior Software Analyst (Python Backend Developer)](https://jobr.pro/job/41393680/job-id-197-senior-software-analyst-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ECIL, Hyderabad | On Site | Jun 25 |
@@ -50,7 +51,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 34 jobs | 47% remote | 22 companies | Avg salary: 118k  
+**Current Stats:** 35 jobs | 49% remote | 23 companies | Avg salary: 118k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
