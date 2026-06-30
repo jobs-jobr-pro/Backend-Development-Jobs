@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Syncreon Consulting](https://careers.syncreon.com)** | **[Java Backend Developer - PING authentication Exp- (In Person interview)](https://jobr.pro/job/41474975/java-backend-developer-ping-authentication-exp-in-person-interview?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | McLean, VA, United States | On Site | Jun 29 |
 | **[Continental](https://www.continental.com)** | **[Backend Developer - Digital Solutions](https://jobr.pro/job/41473507/backend-developer-digital-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lousado, Braga, Portugal | Remote | Jun 29 |
+| **[Agoda](https://agoda.com)** | **[Software Development Engineer - BackEnd (Staff) \| Gurugram, IND](https://jobr.pro/job/41477437/software-development-engineer-backend-staff-gurugram-ind?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Gurugram | On Site | Jun 29 |
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Senior Backend Java developer - Camunda platform (REF5637D)](https://jobr.pro/job/41473691/senior-backend-java-developer-camunda-platform-ref5637d?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest, , Hungary | Remote | Jun 29 |
 | **[Weekday AI](https://www.weekday.works)** | **[Senior .NET Backend Developer (AWS Serverless & Kafka)](https://jobr.pro/job/41471086/senior-net-backend-developer-aws-serverless-kafka?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | Jun 29 |
 | **[Rubikal](https://rubikal.com)** | **[Backend Developer (Java)](https://jobr.pro/job/41459239/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt | Remote | Jun 28 |
@@ -38,16 +39,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AppZen](https://www.appzen.com)** | **[Sr. Backend Developer ( Golang)](https://jobr.pro/job/41346976/sr-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune | On Site | Jun 23 |
 | **[United Tech](https://www.unitedtechno.com)** | **[Middle Node.js Backend Developer](https://jobr.pro/job/41335289/middle-nodejs-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kyiv | Remote | Jun 23 |
 | **[Capco](https://redcapacitacion.cl)** | **[Java Backend Developer - Bangalore](https://jobr.pro/job/41333292/java-backend-developer-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Bengaluru | On Site | Jun 23 |
-| **[Up Hellas](http://uphellas.gr)** | **[Backend Developer](https://jobr.pro/job/41361330/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Athens, Attica, Greece | On Site | Jun 23 |
-| **[payabl.](https://payabl.com)** | **[Senior Python Backend Developer](https://jobr.pro/job/41350181/senior-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Vilnius, Vilnius City Municipality, Lithuania | On Site | Jun 23 |
-| **[payabl.](https://payabl.com)** | **[Senior Backend Python Developer - Relocation to Cyprus](https://jobr.pro/job/41350178/senior-backend-python-developer-relocation-to-cyprus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hungary | Remote | Jun 23 |
-| **[payabl.](https://payabl.com)** | **[Python Backend Developer - Relocation to Cyprus](https://jobr.pro/job/41350176/python-backend-developer-relocation-to-cyprus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Romania | Remote | Jun 23 |
-| **[payabl.](https://payabl.com)** | **[Python Backend Developer (File processing)](https://jobr.pro/job/41350175/python-backend-developer-file-processing?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 23 |
-| **[2C2P](https://go.2c2p.com)** | **[Backend Developer](https://jobr.pro/job/41331903/backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bangkok, Bangkok, Thailand | On Site | Jun 23 |
 
 ---
 
-**Current Stats:** 31 jobs | 45% remote | 21 companies | Avg salary: 118k  
+**Current Stats:** 26 jobs | 42% remote | 20 companies | Avg salary: 118k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
