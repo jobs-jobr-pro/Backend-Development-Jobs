@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -37,12 +37,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AB InBev \| Growth Group](https://www.abinbev.com)** | **[Intermediate Backend Developer](https://jobr.pro/job/41338219/intermediate-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Campinas, Brazil | On Site | Jun 23 |
 | **[IDIQ](https://www.idiq.com)** | **[Lead Backend Developer (.NET)](https://jobr.pro/job/41336844/lead-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, India | Remote | Jun 23 |
 | **[AppZen](https://www.appzen.com)** | **[Sr. Backend Developer ( Golang)](https://jobr.pro/job/41346976/sr-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune | On Site | Jun 23 |
-| **[United Tech](https://www.unitedtechno.com)** | **[Middle Node.js Backend Developer](https://jobr.pro/job/41335289/middle-nodejs-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Kyiv | Remote | Jun 23 |
-| **[Capco](https://redcapacitacion.cl)** | **[Java Backend Developer - Bangalore](https://jobr.pro/job/41333292/java-backend-developer-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India - Bengaluru | On Site | Jun 23 |
 
 ---
 
-**Current Stats:** 26 jobs | 42% remote | 20 companies | Avg salary: 118k  
+**Current Stats:** 24 jobs | 42% remote | 19 companies | Avg salary: 118k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
