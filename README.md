@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -21,7 +21,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rubikal](https://rubikal.com)** | **[Backend Developer (Java)](https://jobr.pro/job/41459239/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Egypt | Remote | Jun 28 |
 | **[Qualysoft](https://qualysoft.com)** | **[Senior Full Stack Mobile & Backend Developer](https://jobr.pro/job/41427486/senior-full-stack-mobile-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Bucharest | On Site | Jun 26 |
 | **[energytec.ai](https://energytec.ai)** | **[Job ID 197 - Senior Software Analyst (Python Backend Developer)](https://jobr.pro/job/41393680/job-id-197-senior-software-analyst-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ECIL, Hyderabad | On Site | Jun 25 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[Backend Developer Java (m/w/d)](https://jobr.pro/job/41390206/backend-developer-java-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | bundesweit, , Germany | Remote | Jun 25 |
 | **[Qode](http://qode.world)** | **[Java Backend Developer](https://jobr.pro/job/41398346/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pennsylvania, Pennsylvania, United States | On Site | Jun 25 |
 | **[Devoteam](https://nplatform.devoteam.com)** | **[Telecom Sector \| Java Backend Developer](https://jobr.pro/job/41367923/telecom-sector-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | Remote | Jun 24 |
 | **[IFS](https://ifsm.ir)** | **[Backend Software Engineer – AI-Enabled Development](https://jobr.pro/job/41357006/backend-software-engineer-ai-enabled-development?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Colombo, Western Province, Sri Lanka | On Site | Jun 24 |
@@ -33,14 +32,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[payabl.](https://payabl.com)** | **[Python Backend Developer](https://jobr.pro/job/41370939/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Jun 24 |
 | **[Capco](https://redcapacitacion.cl)** | **[Intermediate Backend Developer (Contract Role - 6 months)](https://jobr.pro/job/41348619/intermediate-backend-developer-contract-role-6-months?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada - Toronto | On Site | Jun 23 |
 | **[Kyivstar](https://kyivstar.ua)** | **[Backend Developer (Java)](https://jobr.pro/job/41365529/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | All, Ukraine | Remote | Jun 23 |
-| **[BEES](https://bees.com)** | **[Intermediate Backend Developer](https://jobr.pro/job/41345263/intermediate-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Campinas, São Paulo, Brazil | On Site | Jun 23 |
-| **[AB InBev \| Growth Group](https://www.abinbev.com)** | **[Intermediate Backend Developer](https://jobr.pro/job/41338219/intermediate-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Campinas, Brazil | On Site | Jun 23 |
-| **[IDIQ](https://www.idiq.com)** | **[Lead Backend Developer (.NET)](https://jobr.pro/job/41336844/lead-backend-developer-net?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Chennai, TN, India | Remote | Jun 23 |
-| **[AppZen](https://www.appzen.com)** | **[Sr. Backend Developer ( Golang)](https://jobr.pro/job/41346976/sr-backend-developer-golang?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pune | On Site | Jun 23 |
 
 ---
 
-**Current Stats:** 24 jobs | 42% remote | 19 companies | Avg salary: 118k  
+**Current Stats:** 19 jobs | 42% remote | 14 companies | Avg salary: 118k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
