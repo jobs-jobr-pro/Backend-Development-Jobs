@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,7 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Syncreon Consulting](https://careers.syncreon.com)** | **[Java Backend Developer - PING authentication Exp- (In Person interview)](https://jobr.pro/job/41474975/java-backend-developer-ping-authentication-exp-in-person-interview?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | McLean, VA, United States | On Site | Jun 29 |
+| **[Monks](https://www.monks.com)** | **[Backend Developer (Typescript/Python)](https://jobr.pro/job/41504237/backend-developer-typescriptpython?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hilversum | On Site | Jun 30 |
+| **[Bosch Group](https://www.bosch.com)** | **[SW Developer - Frontend & Backend (Core Java & Angular)](https://jobr.pro/job/41499246/sw-developer-frontend-backend-core-java-angular?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | hosur road bangalore, , India | On Site | Jun 30 |
 | **[Continental](https://www.continental.com)** | **[Backend Developer - Digital Solutions](https://jobr.pro/job/41473507/backend-developer-digital-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lousado, Braga, Portugal | Remote | Jun 29 |
 | **[Agoda](https://agoda.com)** | **[Software Development Engineer - BackEnd (Staff) \| Gurugram, IND](https://jobr.pro/job/41477437/software-development-engineer-backend-staff-gurugram-ind?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Gurugram | On Site | Jun 29 |
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Senior Backend Java developer - Camunda platform (REF5637D)](https://jobr.pro/job/41473691/senior-backend-java-developer-camunda-platform-ref5637d?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Budapest, , Hungary | Remote | Jun 29 |
@@ -31,11 +32,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[payabl.](https://payabl.com)** | **[Python Backend Developer (File Processing) - Relocation to Cyprus](https://jobr.pro/job/41370940/python-backend-developer-file-processing-relocation-to-cyprus?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Netherlands | Remote | Jun 24 |
 | **[payabl.](https://payabl.com)** | **[Python Backend Developer](https://jobr.pro/job/41370939/python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Jun 24 |
 | **[Capco](https://redcapacitacion.cl)** | **[Intermediate Backend Developer (Contract Role - 6 months)](https://jobr.pro/job/41348619/intermediate-backend-developer-contract-role-6-months?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Canada - Toronto | On Site | Jun 23 |
-| **[Kyivstar](https://kyivstar.ua)** | **[Backend Developer (Java)](https://jobr.pro/job/41365529/backend-developer-java?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | All, Ukraine | Remote | Jun 23 |
 
 ---
 
-**Current Stats:** 19 jobs | 42% remote | 14 companies | Avg salary: 118k  
+**Current Stats:** 19 jobs | 37% remote | 14 companies | Avg salary: 118k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
