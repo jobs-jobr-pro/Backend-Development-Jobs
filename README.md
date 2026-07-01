@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Backend Developer Jobs — 2026
 
-<sub><small>Last updated: Jul 01, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jul 01, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Backend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Volga Partners](https://volgapartners.com)** | **[Software Development Engineer - AI / LLM Systems (Python Backend)](https://jobr.pro/job/41516680/software-development-engineer-ai-llm-systems-python-backend?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | India | Remote | Jul 01 |
 | **[Talan](https://www.talan.com)** | **[Java Backend Developer](https://jobr.pro/job/41508823/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | New York, , United States | Remote | Jun 30 |
 | **[Stripe](https://stripe.com)** | **[Backend Engineer, Developer SDKs](https://jobr.pro/job/41508062/backend-engineer-developer-sdks?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | N/A | On Site | Jun 30 |
 | **[Monks](https://www.monks.com)** | **[Backend Developer (Typescript/Python)](https://jobr.pro/job/41504237/backend-developer-typescriptpython?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Hilversum | On Site | Jun 30 |
@@ -26,11 +27,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[energytec.ai](https://energytec.ai)** | **[Job ID 197 - Senior Software Analyst (Python Backend Developer)](https://jobr.pro/job/41393680/job-id-197-senior-software-analyst-python-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | ECIL, Hyderabad | On Site | Jun 25 |
 | **[Qode](http://qode.world)** | **[Java Backend Developer](https://jobr.pro/job/41398346/java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Pennsylvania, Pennsylvania, United States | On Site | Jun 25 |
 | **[Devoteam](https://nplatform.devoteam.com)** | **[Telecom Sector \| Java Backend Developer](https://jobr.pro/job/41367923/telecom-sector-java-backend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Lisboa, Lisboa, Portugal | Remote | Jun 24 |
-| **[IFS](https://ifsm.ir)** | **[Backend Software Engineer – AI-Enabled Development](https://jobr.pro/job/41357006/backend-software-engineer-ai-enabled-development?utm_source=github&utm_medium=repo&utm_campaign=github-backend-jobs)** | Colombo, Western Province, Sri Lanka | On Site | Jun 24 |
 
 ---
 
-**Current Stats:** 14 jobs | 43% remote | 14 companies | Avg salary: Not specified  
+**Current Stats:** 14 jobs | 50% remote | 14 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, java  
